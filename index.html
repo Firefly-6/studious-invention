@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <title>WorkBuddy · 独立工作台</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+    :root{
+      --indigo:#4f46e5; --indigo-soft:#ede9fe; --ink:#1e1b2f; --muted:#6b7280;
+      --bg:#f5f3f8; --card:#ffffff; --line:#f0ebf8; --gold:#ffd966; --green:#16a34a; --red:#dc2626;
+    }
+    body{
+      font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+      background:var(--bg); display:flex; justify-content:center; align-items:center;
+      min-height:100vh; min-height:100dvh; padding:12px; color:var(--ink);
+    }
+    .workbuddy-app{
+      width:100%; max-width:480px; height:92vh; max-height:880px; background:#fff;
+      border-radius:34px; box-shadow:0 25px 50px -12px rgba(30,27,47,.28);
+      display:flex; flex-direction:row; overflow:hidden; position:relative;
+    }
+    /* 侧边导航 */
+    .sidebar{
+      width:78px; background:#1e1b2f; display:flex; flex-direction:column; align-items:center;
+      padding:20px 0 12px; gap:8px; color:#cfc9e2;
+    }
+    .nav-item{
+      display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px;
+      width:62px; height:60px; border-radius:18px; font-size:11px; font-weight:500;
+      color:#b9b0d3; background:transparent; border:none; cursor:pointer; transition:.18s;
+    }
+    .nav-item i{ font-size:20px; }
+    .nav-item.active{ background:var(--indigo); color:#fff; box-shadow:0 8px 16px rgba(79,70,229,.35); }
+    .nav-item:active{ transform:scale(.94); }
+    .main-content{ flex:1; display:flex; flex-direction:column; overflow-y:auto; padding:16px; background:#faf9fd; scrollbar-width:thin; }
+    .topbar{ display:flex; align-items:center; justify-content:space-between; margin-bottom:4px; }
+    .ticket-pill{
+      display:inline-flex; align-items:center; gap:5px; background:var(--gold); color:#3b2e1a;
+      font-size:12px; font-weight:700; padding:5px 11px; border-radius:30px;
+    }
+    .streak-pill{ font-size:12px; color:var(--muted); }
+    .page{ display:none; flex-direction:column; gap:14px; animation:fade .22s; }
+    .page.active-page{ display:flex; }
+    @keyframes fade{ from{opacity:.4; transform:translateY(6px);} to{opacity:1; transform:none;} }
+    .card{ background:var(--card); border-radius:22px; padding:14px; box-shadow:0 4px 12px rgba(30,27,47,.04); border:1px solid var(--line); }
+    .card.amber{ background:#fff9e6; border-color:#fde9b0; }
+    h2{ font-size:18px; font-weight:650; display:flex; align-items:center; gap:8px; margin-bottom:10px; }
+    h2 i{ color:var(--indigo); }
+    .reward-badge{ background:var(--gold); color:#3b2e1a; font-size:11px; padding:3px 9px; border-radius:30px; font-weight:700; display:inline-flex; gap:4px; align-items:center; }
+    button{ background:var(--indigo); border:none; color:#fff; border-radius:26px; padding:9px 15px; font-weight:600; font-size:14px; cursor:pointer; transition:.15s; }
+    button:active{ transform:scale(.96); }
+    button.secondary{ background:var(--indigo-soft); color:var(--indigo); }
+    button.ghost{ background:#fff; color:var(--indigo); border:1px solid var(--line); }
+    button.gold{ background:var(--gold); color:#3b2e1a; }
+    button:disabled{ opacity:.45; cursor:not-allowed; }
+    input,select,textarea{ border:1px solid #e5e0f0; border-radius:14px; padding:10px; width:100%; font-size:14px; margin-top:4px; font-family:inherit; background:#fff; color:var(--ink); }
+    label{ font-size:13px; color:var(--muted); font-weight:600; }
+    .row{ display:flex; gap:8px; align-items:center; }
+    .row.wrap{ flex-wrap:wrap; }
+    .todo-item{ display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--line); }
+    .todo-check{ width:22px; height:22px; accent-color:var(--indigo); flex:none; }
+    .progress{ height:10px; background:var(--indigo-soft); border-radius:20px; overflow:hidden; }
+    .progress > i{ display:block; height:100%; background:linear-gradient(90deg,#6366f1,#4f46e5); width:0; transition:.3s; }
+    .badge-no{ background:#f0ebff; color:var(--indigo); font-size:11px; padding:2px 8px; border-radius:20px; font-weight:600; }
+    .chip{ display:inline-block; background:var(--indigo-soft); color:var(--indigo); font-size:11px; padding:3px 9px; border-radius:20px; margin:2px; }
+    .mini{ font-size:12px; color:var(--muted); }
+    /* 游戏区 */
+    .game-grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:6px; }
+    .memory-card{ aspect-ratio:3/4; background:var(--indigo); border-radius:12px; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:700; font-size:clamp(10px,3.4vw,14px); text-align:center; padding:4px; cursor:pointer; transition:.15s; line-height:1.15; }
+    .memory-card.matched{ background:#eef2ff; color:#1e1b2f; border:2px solid #c7d2fe; box-shadow:0 4px 12px rgba(79,70,229,.18); }
+    .opt-btn{ display:block; width:100%; text-align:left; background:#f6f4fc; color:var(--ink); border:1px solid var(--line); border-radius:14px; padding:11px 12px; margin-top:7px; font-weight:600; }
+    .opt-btn.correct{ background:#dcfce7; border-color:#86efac; color:#166534; }
+    .opt-btn.wrong{ background:#fee2e2; border-color:#fca5a5; color:#991b1b; }
+    .wheel-wrap{ display:flex; flex-direction:column; align-items:center; gap:10px; }
+    .board{ display:grid; grid-template-columns:repeat(7,1fr); gap:3px; }
+    .cell{ aspect-ratio:1/1; background:#f1eefe; border-radius:7px; display:flex; align-items:center; justify-content:center; font-size:11px; position:relative; }
+    .cell.treasure{ background:#e0f2fe; }
+    .cell.bomb{ background:#fee2e2; }
+    .cell .tok{ position:absolute; font-size:16px; filter:drop-shadow(0 1px 1px rgba(0,0,0,.3)); }
+    .holes{ display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
+    .hole{ aspect-ratio:1/1; background:#eee9f7; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:13px; font-weight:700; color:var(--indigo); cursor:pointer; }
+    .hole.up{ background:var(--indigo); color:#fff; }
+    .scroll-y{ max-height:46vh; overflow-y:auto; }
+    .toast{ position:fixed; left:50%; bottom:24px; transform:translateX(-50%) translateY(20px); background:#1e1b2f; color:#fff; padding:10px 18px; border-radius:30px; font-size:13px; opacity:0; transition:.25s; z-index:99; box-shadow:0 10px 30px rgba(0,0,0,.3); pointer-events:none; }
+    .toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
+    .link{ color:var(--indigo); font-weight:600; text-decoration:none; }
+    .muted{ color:var(--muted); }
+    .center{ text-align:center; }
+    .spacer{ height:14px; }
+    /* 桌面端：加宽、侧栏带文字、部分板块双列 */
+    @media (min-width:760px){
+      .workbuddy-app{ max-width:1040px; height:94vh; max-height:920px; border-radius:28px; }
+      .sidebar{ width:148px; align-items:stretch; padding:22px 12px; gap:6px; }
+      .nav-item{ flex-direction:row; width:auto; height:auto; padding:13px 14px; justify-content:flex-start; gap:11px; font-size:13px; border-radius:16px; }
+      .nav-item i{ margin:0; font-size:19px; }
+      .two-col{ display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+      .game-grid{ grid-template-columns:repeat(8,1fr); }
+    }
+  </style>
+</head>
+<body>
+<div class="workbuddy-app">
+  <!-- 左侧导航 -->
+  <nav class="sidebar">
+    <button class="nav-item active" data-page="daily"><i class="fas fa-check-circle"></i><span>每日计划</span></button>
+    <button class="nav-item" data-page="selection"><i class="fas fa-lightbulb"></i><span>选品灵感</span></button>
+    <button class="nav-item" data-page="split"><i class="fas fa-clone"></i><span>爆款裂变</span></button>
+    <button class="nav-item" data-page="review"><i class="fas fa-chart-line"></i><span>内容复盘</span></button>
+    <button class="nav-item" data-page="fitness"><i class="fas fa-heart"></i><span>减脂日常</span></button>
+    <button class="nav-item" data-page="english"><i class="fas fa-gamepad"></i><span>英语游戏</span></button>
+    <button class="nav-item" data-page="russian"><i class="fas fa-globe"></i><span>俄国新闻</span></button>
+  </nav>
+
+  <main class="main-content" id="mainContent">
+    <div class="topbar">
+      <div class="streak-pill" id="streakPill">🔥 连续 0 天</div>
+      <div class="ticket-pill"><i class="fas fa-ticket-alt"></i> <span id="ticketCount">3</span> 券</div>
+    </div>
+
+    <!-- 每日计划 -->
+    <section class="page active-page" id="page-daily">
+      <h2><i class="far fa-calendar-check"></i> 每日计划 <span class="reward-badge"><i class="fas fa-gift"></i> 完成得券·全完成+5</span></h2>
+      <div class="card">
+        <div class="row" style="justify-content:space-between; margin-bottom:6px;">
+          <span class="mini">今日完成 <b id="doneCount">0</b>/<b id="totalCount">0</b></span>
+          <span class="mini" id="allDoneHint"></span>
+        </div>
+        <div class="progress"><i id="dailyBar"></i></div>
+      </div>
+      <div class="card" id="todoContainer"></div>
+      <div class="row">
+        <input type="text" id="newTodoInput" placeholder="新任务，如 18:00 散步">
+        <button id="addTodoBtn"><i class="fas fa-plus"></i> 添加</button>
+      </div>
+      <div class="card amber center">
+        <div>😴 23:30 睡觉提醒</div>
+        <div class="mini" id="notifState">未启用系统通知</div>
+        <div class="row" style="justify-content:center; margin-top:8px;">
+          <button class="ghost" id="enableNotifBtn">启用提醒</button>
+          <button class="secondary" id="testNotifBtn">测试</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 选品灵感 -->
+    <section class="page" id="page-selection">
+      <h2><i class="fas fa-rocket"></i> 选品灵感 <span class="reward-badge">OZON·WB·Yandex</span></h2>
+      <div class="card amber">
+        <b>采集规则</b>：近28天爆款 · 销量≥3 · 曝光率≥0.15 · 卖家<20。<br>
+        <span class="mini">说明：单文件 App 无法自动抓站，下方为示例+你每日手动录入的真实数据。</span>
+      </div>
+      <div class="card">
+        <label>新增一条选品（采集指标用于 AI 分析）</label>
+        <input id="selName" placeholder="商品名，如 无线迷你按摩仪">
+        <div class="row">
+          <input id="selSales" placeholder="近28天销量" type="number" style="margin-top:4px;">
+          <input id="selConv" placeholder="转化率%" type="number" style="margin-top:4px;">
+          <input id="selSellers" placeholder="卖家数" type="number" style="margin-top:4px;">
+        </div>
+        <textarea id="selReason" rows="3" placeholder="热销核心原因 / 选品思路（可点 AI 分析自动生成，也能手动修改）" style="margin-top:4px; resize:vertical;"></textarea>
+        <input id="selLink" placeholder="原商品链接（可留空）" style="margin-top:4px;">
+        <div class="row" style="margin-top:8px;">
+          <button id="aiSelBtn" class="secondary" style="flex:1;"><i class="fas fa-robot"></i> 🤖 AI分析</button>
+          <button id="addSelBtn" style="flex:1;">＋ 添加并收藏（+1券）</button>
+        </div>
+      </div>
+      <div class="card">
+        <b>📥 批量导入商品数据</b><span class="mini">（Excel/CSV，按表头自动识别 42 个字段）</span>
+        <div class="row" style="margin-top:6px;">
+          <input type="file" id="selFile" accept=".csv,.xlsx,.xls" style="flex:1; font-size:12px;">
+        </div>
+        <div class="mini" id="selImportInfo" style="margin-top:4px;"></div>
+        <div id="selFilterBox" style="margin-top:8px;"></div>
+        <div class="row" style="margin-top:8px;">
+          <button id="addRuleBtn" class="secondary" style="flex:1;">＋ 新增筛选规则</button>
+          <button id="clearImportBtn" class="secondary" style="flex:1;">清空导入数据</button>
+        </div>
+        <div class="row" style="margin-top:8px; align-items:center; gap:8px;">
+          <div id="selResultInfo" class="mini" style="flex:1; margin:0;"></div>
+          <button id="exportSelBtn" class="secondary" style="flex:none; padding:4px 10px; font-size:12px;">⬇ 导出命中清单CSV</button>
+        </div>
+        <div id="selResults" class="scroll-y" style="margin-top:6px;"></div>
+        <datalist id="selHeaders"></datalist>
+      </div>
+      <div id="selectionList" class="scroll-y"></div>
+    </section>
+
+    <!-- 爆款裂变 -->
+    <section class="page" id="page-split">
+      <h2><i class="fas fa-puzzle-piece"></i> 爆款裂变</h2>
+      <div class="card">
+        <label>基于选品灵感生成相似款（不同颜色/尺寸/材料）</label>
+        <select id="splitFrom"></select>
+        <div class="row" style="margin-top:8px;">
+          <input id="splitVariant" placeholder="差异点，如 新增粉色款">
+          <button id="genSplitBtn" title="根据上方选中的选品 + 差异点，生成一条裂变款"><i class="fas fa-magic"></i> 生成裂变款</button>
+        </div>
+        <button class="secondary" id="aiVariantBtn" style="margin-top:8px; width:100%;"><i class="fas fa-robot"></i> 🤖 AI 建议差异点</button>
+        <div id="aiVariantBox" class="scroll-y" style="margin-top:6px; display:none;"></div>
+      </div>
+      <div id="splitList" class="scroll-y"></div>
+    </section>
+
+    <!-- 内容复盘 -->
+    <section class="page" id="page-review">
+      <h2><i class="fas fa-chart-bar"></i> 内容复盘</h2>
+      <div class="card">
+        <label>新增自创商品</label>
+        <div class="two-col">
+          <input id="pName" placeholder="名称">
+          <input id="pCode" placeholder="货号">
+          <input id="pPrice" placeholder="我的价¥" type="number">
+          <input id="pMkt" placeholder="市场价¥" type="number">
+          <input id="pConv" placeholder="点击转化率%" type="number">
+          <input id="pOrders" placeholder="订单数" type="number">
+        </div>
+        <button id="addProductBtn" style="margin-top:8px; width:100%;">＋ 添加商品</button>
+      </div>
+      <div class="card">
+        <b>📈 浏览总数趋势</b>
+        <svg id="reviewChart" viewBox="0 0 320 130" width="100%" height="130" style="margin-top:6px;"></svg>
+        <div class="mini" id="reviewChartHint"></div>
+      </div>
+      <div id="productList" class="scroll-y"></div>
+    </section>
+
+    <!-- 减脂日常 -->
+    <section class="page" id="page-fitness">
+      <h2><i class="fas fa-person-running"></i> 减脂日常</h2>
+      <div class="card">
+        <div class="row" style="justify-content:space-between;">
+          <b>① 今日跟练推荐</b><span class="mini">（瑜伽垫·不伤膝·骨盆前倾矫正·减脂）</span>
+        </div>
+        <div id="followList" class="row wrap" style="margin-top:8px;"></div>
+        <button class="ghost" id="showFollowImport" style="margin-top:8px; width:100%;"><i class="fas fa-plus"></i> 导入视频</button>
+        <div id="followImportBox" style="display:none; margin-top:8px;">
+          <input id="fImpTitle" placeholder="视频标题，如 15分钟全身燃脂">
+          <input id="fImpUrl" placeholder="视频链接（B站/YouTube/抖音 等，支持嵌入播放）" style="margin-top:4px;">
+          <div class="row" style="margin-top:4px;">
+            <input id="fImpTag" placeholder="标签，如 减脂" style="flex:1; margin:0;">
+            <button id="fImpAdd" style="flex:none;">导入</button>
+          </div>
+        </div>
+      </div>
+      <div class="card two-col">
+        <div>
+          <b>② 身体记录</b>
+          <input id="fWeight" placeholder="体重 kg" type="number" style="margin-top:6px;">
+          <input id="fHeight" placeholder="身高 cm" type="number" style="margin-top:6px;">
+          <div class="row" style="margin-top:6px;">
+            <button id="saveBodyBtn" style="flex:1;">记录（+1券）</button>
+          </div>
+          <div class="mini" id="bmiOut"></div>
+        </div>
+        <div>
+          <b>体重变化</b>
+          <svg id="weightChart" viewBox="0 0 320 130" width="100%" height="130" style="margin-top:6px;"></svg>
+        </div>
+      </div>
+      <div class="card">
+        <b>③ 今日动力</b><span class="mini">（视频 + 文字，每天给你一口动力）</span>
+        <div style="margin-top:6px;"><b>🎬 动力视频</b><span class="mini">（B站/抖音 每日轮换）</span></div>
+        <div id="powerList" style="margin-top:6px;"></div>
+        <div style="margin-top:8px;"><b>✍️ 文字动力</b></div>
+        <div id="powerTextList" class="scroll-y" style="margin-top:6px;"></div>
+        <button class="ghost" id="showTextAdd" style="margin-top:6px; width:100%;"><i class="fas fa-plus"></i> 添加文字</button>
+        <div id="textAddBox" style="display:none; margin-top:6px;">
+          <textarea id="powerTextInput" rows="2" placeholder="写一句能点燃你的话，如 自律给我自由"></textarea>
+          <button id="powerTextAdd" style="margin-top:6px; width:100%;">保存文字</button>
+        </div>
+      </div>
+      <div class="card amber">
+        <div class="row" style="justify-content:space-between;">
+          <b>④ 今日减脂食谱</b>
+          <button class="ghost" id="showRecipeImport" style="padding:4px 10px; font-size:12px;"><i class="fas fa-plus"></i> 导入食谱</button>
+        </div>
+        <div id="recipeCard" style="margin-top:6px;"></div>
+        <div id="recipeList" class="scroll-y" style="margin-top:6px;"></div>
+        <div id="recipeImportBox" style="display:none; margin-top:6px;">
+          <textarea id="recipeInput" rows="3" placeholder="每行一个食谱，可用「菜名 | 内容」或「菜名：内容」"></textarea>
+          <button id="recipeAdd" style="margin-top:6px; width:100%;">导入食谱</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 英语小游戏 -->
+    <section class="page" id="page-english">
+      <h2><i class="fas fa-dice"></i> 英语小游戏 <span class="reward-badge">券：<span id="gameCredits">3</span></span></h2>
+      <div class="card">
+        <div class="row" style="justify-content:space-between;">
+          <span class="mini">词库：<b id="wordCount">0</b> 词</span>
+          <button class="ghost" id="importWordsBtn" style="padding:6px 12px; font-size:12px;">导入词书</button>
+        </div>
+        <div id="importBox" style="display:none; margin-top:8px;">
+          <textarea id="importText" rows="4" placeholder="每行一个：英文,中文  例如  abandon,放弃"></textarea>
+          <button id="doImportBtn" style="margin-top:6px; width:100%;">导入</button>
+        </div>
+        <select id="gameSelect" style="margin-top:10px;">
+          <option value="wheel">🎡 幸运单词大转盘</option>
+          <option value="board">🎲 单词大富翁 (7×7)</option>
+          <option value="bomb">💣 单词炸弹寻宝</option>
+          <option value="whack">🔨 单词打地鼠</option>
+          <option value="flight">✈️ 单词飞行棋</option>
+          <option value="memory">🃏 单词翻翻乐</option>
+        </select>
+        <button id="playGameBtn" style="margin-top:8px; width:100%;">开始游戏（消耗1券）</button>
+        <div id="gameArea" style="margin-top:12px;"></div>
+      </div>
+    </section>
+    <section class="page" id="page-russian">
+      <h2><i class="fas fa-globe"></i> 俄国新闻 <span class="reward-badge">俄供需情报</span></h2>
+      <div class="card">
+        <div class="row" style="justify-content:space-between; align-items:flex-end;">
+          <div style="flex:1;">
+            <label style="font-size:12px; color:#6b7280;">数据源 URL（GitHub/jsDelivr，免费可直读）</label>
+            <input id="russianWorkerUrl" placeholder="https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/news.json" style="margin-top:4px;">
+          </div>
+          <button id="saveWorkerUrl" style="margin-left:8px; white-space:nowrap;">保存</button>
+        </div>
+        <div class="row" style="margin-top:8px;">
+          <button class="ghost" id="refreshRussian" style="flex:1;">🔄 拉取最新</button>
+          <a class="ghost" href="https://news.yandex.ru/" target="_blank" style="flex:1; text-align:center; text-decoration:none;">🔗 在 Yandex 看实时</a>
+        </div>
+        <div class="mini" id="russianStatus" style="margin-top:6px;"></div>
+      </div>
+      <div class="card">
+        <b>➕ 手动添加新闻</b>
+        <input id="rnTitle" placeholder="标题">
+        <input id="rnSource" placeholder="来源（如 Yandex / 自定义）">
+        <input id="rnLink" placeholder="链接（可留空）">
+        <div class="row" style="margin-top:6px;">
+          <input id="rnTags" placeholder="供需标签，逗号分隔：需求↑,供给↓,价格,进口">
+          <button id="addRnBtn" style="white-space:nowrap;">添加</button>
+        </div>
+      </div>
+      <div id="russianList" class="scroll-y"></div>
+    </section>
+  </main>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+  "use strict";
+  /* ============ 存储 ============ */
+  const DB = {
+    get(k, d){ try{ const v = localStorage.getItem('wb_'+k); return v==null? d : JSON.parse(v); }catch(e){ return d; } },
+    set(k, v){ localStorage.setItem('wb_'+k, JSON.stringify(v)); }
+  };
+  const todayStr = () => new Date().toISOString().slice(0,10);
+  const yesterdayStr = () => { const d=new Date(); d.setDate(d.getDate()-1); return d.toISOString().slice(0,10); };
+
+  /* ============ 状态 ============ */
+  const state = {
+    todos: DB.get('todos', [
+      {id:1, text:'9:00 运动跟练半小时', done:false},
+      {id:2, text:'9:40 选品', done:false},
+      {id:3, text:'15:00 运动跟练半小时', done:false},
+      {id:4, text:'20:00-21:00 英语小游戏1小时', done:false},
+      {id:5, text:'23:30 睡觉', done:false},
+    ]),
+    tickets: DB.get('tickets', 3),
+    streak: DB.get('streak', {count:0, lastDate:null, bonusToday:false}),
+    selections: DB.get('selections', [
+      {id:1, name:'无线迷你按摩仪', reason:'俄罗斯办公族久坐腰背痛，冬季居家办公需求高', link:'', fav:false},
+      {id:2, name:'硅胶折叠水壶', reason:'旅行/通勤便携，俄国内需大、复购率高', link:'', fav:false},
+    ]),
+    splits: DB.get('splits', []),
+    products: DB.get('products', []),
+    fitness: DB.get('fitness', []),
+    followImports: DB.get('followImports', []),   // 跟练导入视频
+    powerTexts: DB.get('powerTexts', []),         // 文字动力
+    recipesImports: DB.get('recipesImports', []),  // 导入食谱
+    selImport: DB.get('selImport', []),            // 选品灵感：Excel/CSV 导入的原始行
+    selFilter: DB.get('selFilter', [              // 可编辑筛选规则（全部满足才算符合）
+      {field:'月销量', op:'>=', value:'3'},
+      {field:'曝光率', op:'>=', value:'0.15'},
+      {field:'卖家数量', op:'<=', value:'20'}
+    ]),
+    words: DB.get('words', null), // 首次用内置
+    russianNews: DB.get('russianNews', [
+      {id:1, title:'俄罗斯某平台冬季保暖品需求季节性上涨', source:'示例', link:'https://news.yandex.ru/', summary:'俄区冬季严寒，保暖服饰/小家电进入需求高峰，建议提前布局供应链。', pubDate:'示例', tags:['需求↑','季节']},
+      {id:2, title:'进口电子配件供给波动，卖家关注库存', source:'示例', link:'https://news.yandex.ru/', summary:'部分进口品类供给不稳定，建议多渠道备货、分散风险。', pubDate:'示例', tags:['供给↓','进口','库存']}
+    ]),
+    russianWorkerUrl: DB.get('russianWorkerUrl', 'https://fastly.jsdelivr.net/gh/Firefly-6/studious-invention@main/news.json'),  // GitHub/jsDelivr 数据源 URL（免服务器、大陆可直读）
+  };
+  // 兼容旧列名：把历史存储里的「曝光转化率」统一迁移为「曝光率」
+  state.selFilter.forEach(r=>{ if(r.field==='曝光转化率') r.field='曝光率'; });
+  DB.set('selFilter', state.selFilter);
+
+  /* ============ 内置雅思词库（高频 starter，可导入扩充） ============ */
+  const BUILTIN_WORDS = [
+  ['abandon','vt.放弃, 遗弃'],['ability','能力'],['absolute','adj.完全的，肯定的'],['academic','adj.学院的, 理论的'],['accept','接受'],['access','n.通路, 入门'],['accident','n.意外事件, 事故'],['achieve','vt.完成, 达到'],['acquire','vt. 取得，获得'],['adequate','adj.适当的, 足够的'],['advantage','n.优势, 利益'],['advertise','vt.做广告, 登广告'],['advise','vt.劝告，建议'],['affect','影响'],['afford','负担得起'],['ancient','adj.远古的, 旧的'],['approach','方法/接近'],['approve','vt. 批准，赞成'],['argue','争论'],['assess','vt.估价, 评价'],['assume','vt.假定, 采取'],['attach','vt.缚上, 隶属于'],['attitude','n.态度, 意见'],['attract','vt.吸引 vi.有吸引力, 引起注意'],['aware','意识到的'],['benefit','益处'],['brilliant','杰出的'],['budget','n. .预算'],['candidate','n.候选人'],['capable','adj.有能力的, 有可能的'],['category','n.种类,范畴'],['cause','导致/原因'],['challenge','n.挑战 vt.向...挑战'],['circumstance','n.环境, 境况'],['civil','adj.公民的,民间的, 文明的'],['claim','n.(根据权利提出)要求, 主张 vt.(根据权利)要求, 主张'],['classic','n.杰作, 名著 adj.第一流的'],['commercial','adj.商业的, 贸易的'],['commit','vt.犯(错误),提交'],['community','n.公社, 团体, 社会'],['compete','vi.比赛, 竞争'],['complex','adj.复杂的,综合的 n.联合体'],['concept','n.观念, 概念'],['conduct','n.行为, 操行 v.引导, 管理'],['conflict','n. 争斗；纠纷，冲突 v.'],['conscious','adj. 有意识的，自觉的'],['consent','同意'],['considerable','adj.相当大的, 值得考虑的 photograph n.照片'],['consistent','adj.一致的, 坚固的'],['constant','持续的'],
+  ['consume','vt.消耗'],['contact','n.接触, 联系 vt.接触, 联系'],['contain','vt.包含, 容纳'],['contribute','v.捐助, 贡献, 投稿'],['controversial','有争议的'],['convince','vt. 使确信，说服'],['corporate','adj.共同的，全体的'],['create','vt.创造, 创作'],['criticise','vt.批评'],['culture','n.文化, 文明'],['curious','adj.好奇的, 求知的'],['decline','下降'],['dedicate','致力于'],['definite','adj.明确的'],['demand','n.要求, 需求(量) v.要求, 需要'],['demonstrate','vt.示范, 证明 vi.示威'],['deny','否认'],['depend','vi.依靠, 依赖'],['describe','vt.描写, 形容'],['deserve','应得'],['device','n.装置, 设计'],['diminish','v.(使)减少, (使)变小'],['discipline','n.纪律, 学科 v.训练'],['discount','折扣'],['distinct','明显的'],['distribute','v.分发，使散开'],['diverse','adj. 不同的, 变化多的'],['document','n.文件,文献 v.证明'],['domestic','adj.家庭的, 国内的'],['dominant','主导的'],['dramatic','adj.戏剧性的, 生动的'],['economy','经济'],['educate','教育'],['efficient','高效的'],['eliminate','vt.排除, 消除'],['embrace','拥抱/接受'],['emphasise','强调'],['enable','v.使能够'],['endure','v.耐久, 忍耐'],['energy','能量'],['enhance','vt.提高, 增强 v.提高'],['enormous','adj.巨大的'],['ensure','vt.保证, 担保, 使安全'],['entire','adj. 全部的, 完整的, 整个的'],['environment','n.环境'],['equipment','n.设备'],['establish','vt.建立, 设立,；安置, 使定居'],['estimate','v. 估计,评估 n. 估计,评估'],['evaluate','vt.评价, 估计'],['evidence','n.明显, 显著，证据'],
+  ['evolve','vt. (使)进化, (使)发展'],['exactly','adv.正确地, 严密地'],['exclude','vt.把...排除在外, 排斥'],['expand','vt.详述, 扩大，展开'],['expect','vt.期待, 预料'],['expense','花费'],['explain','v.解释, 说明'],['explore','v.探险, 探测'],['export','出口'],['expose','暴露'],['express','n.快车, 快递 vt.表达,'],['extend','v.扩充, 延伸'],['external','adj.外部的, 客观的 n.外部, 外面'],['facility','n.便利, 敏捷, 设备 facilitate vt.使容易,'],['factor','n.因素'],['feature','n.特征, 容貌 vt.是...特色'],['federal','adj.联邦的, 同盟的'],['finance','n.财政, 金融 vt.供给...经费, 负担经费'],['flexible','adj.柔韧性, 灵活的'],['focus','聚焦'],['former','adj.从前的, 以前的'],['found','v.建立'],['fund','n.资金, 基金 v.资助, 投资'],['generate','vt.产生, 发生'],['global','全球的'],['goal','目标'],['grade','等级'],['guarantee','n.保证, 担保 vt.保证, 担保'],['highlight','强调'],['host','主办'],['identify','vt.识别, 把...和...看成一样'],['ignore','忽视'],['impact','n.冲击影响, 效果 vt.撞击，对...发生影响 58'],['implement','n.工具 vt.贯彻, 实现，执行'],['imply','vt.暗示, 意味'],['incredible','adj.不可信的，不可靠的'],['indicate','vt. 指示, 象征'],['inevitable','不可避免的'],['influence','n.影响, 有影响的人(或事) vt.影响, 改变'],['initiative','n.主动'],['innovate','vi.改革, 创新'],['install','vt.安装, 安置'],['institute','n.学会, 学院, 协会 vt.创立, 开始, 制定'],['instruct','指导'],['integrate','vt.使成整体, 结合'],['intense','adj.剧烈的, 激烈的'],['interact','互动'],['interpret','v.解释, 说明, 口译'],['involve','t.包括,使陷于'],['isolate','vt.使隔离, 使孤立'],
+  ['issue','n.问题；发行, vi.发行, 发布'],['justify','证明…正当'],['label','n.标签, 标志 vt.'],['launch','n.下水,发射 vt.使下水,发射，发起'],['legal','adj.法律的, 合法的'],['legislate','立法'],['leisure','n.空闲, 闲暇'],['limited','有限的'],['locate','vt.查找...的地点, 使...坐落于, 位于'],['maintain','vt. 维持,继续, 供养'],['massive','adj.大块的,结实的'],['maximum','n.大量 adj 大的'],['minimise','最小化'],['minimum','adj.小的, 低的 n.小值, 小化'],['modify','vt.更改, 修改'],['monitor','n.班长, 监视器 v.监控'],['motive','adj.发动的, 运动的 n.动机, 目的'],['navigate','导航'],['negative','n.否定, 负数 adj.否定的, 消极的, 负的 vt.否定, 拒绝(接受)'],['obtain','vt.获得, 得到'],['obvious','adj.明显的, 显而易见的'],['occupy','vt.占, 占用'],['occur','vi.发生, 存在'],['official','n.官员, 公务员 adj.职务上的, 官方的, 正式的'],['operate','操作'],['opinion','观点'],['original','adj.初的, 原始的, 独创的 n.原物, 原作'],['outcome','结果'],['overall','整体的'],['overcome','vt. 战胜, 克服 vi. 得胜'],['participate','vi.参与'],['particular','adj.特殊的,独特的 n.细节, 详细'],['passion','热情'],['passive','adj. 被动的'],['perceive','感知'],['perfect','完美的'],['perform','执行'],['permanent','adj.永久的, 持久的'],['persuade','说服'],['phenomenon','n.现象'],['policy','n.政策, 方针'],['positive','adj.肯定的, 积极的 adj.[数]正的 adj.[电]阳的'],['possess','vt.占有,支配'],['poverty','n.贫穷,缺少'],['predict','v.预知, 预言'],['prefer','vt.更喜欢, 宁愿'],['pregnant','怀孕的'],['premise','前提'],['preserve','保护'],['primary','adj. 主要的,初级的'],
+  ['priority','n.先,优先, 优先权'],['private','adj.私人的, 私有的'],['problem','问题'],['procedure','程序'],['proceed','vi.进行, 发生 procedure n.程序, 手续 process n. 方法, 程序, 进行 vt.加工, 处理 procession n.行列, 队伍'],['process','过程'],['produce','n.产物 vt.生产, 制造'],['profit','n.利润, 益处 vi.得益, 利用 vt. 有利于'],['progress','n.前进, 进步 vi.前进, 进步'],['project','n.计划，项目 v.伸出，发射'],['promote','vt.促进, 提升, 促销'],['propose','vt.计划, 建议, 求(婚)'],['protect','vt.保护'],['provide','v.提供'],['publish','vi.出版, 刊印 vt.公布, 发表'],['purpose','n.目的, 意图 vt.打算, 企图'],['pursue','vt.追赶, 继续, 从事'],['qualify','使合格'],['quality','质量'],['quantity','n.量, 数量'],['rare','稀有的'],['react','反应'],['realise','vt.认识到, 实现'],['receive','收到'],['recognise','vt.认可, 赏识'],['recommend','vt.推荐, 介绍'],['recover','恢复'],['reduce','减少'],['reference','参考'],['reflect','v.反射, 反映, 表现'],['reform','改革'],['region','n.区域, 地方'],['register','n.记录,登记, 注册 vt.记录, 注册, 提示 vi.登记,'],['regulate','vt.管制, 控制, 调节'],['reinforce','加强'],['release','n. 释放, 发布 vt.'],['relevant','adj.有关的, 相应的'],['relieve','缓解'],['reluctant','不情愿的'],['rely','v.依靠, 信赖'],['remove','移除'],['replace','取代'],['request','vt.请求, 要求 n.请求, 要求'],['require','vt.需要, 要求'],['research','研究'],['reserve','n. 储备, 储藏 vt.保存, 预约'],['resolve','解决'],['resource','资源'],['respond','vt.响应, 做出反应'],['restore','恢复'],
+  ['restrict','vt.限制, 约束'],['reveal','vt.展现, 显示, 揭示'],['reverse','相反的'],['reward','n.报酬, 奖金 vt.酬劳, 奖赏'],['routine','常规'],['scale','n. 规模，刻度, 等级 vt.测量'],['scenario','n.特定情节'],['scope','范围'],['secure','adj.安全的, 可靠的 v.保护'],['select','vt. 选择, 挑选 adj. 精选的'],['senior','adj.年长的, 高级的 n. 年长者，大四学生'],['series','n.连续, 系列, 丛书'],['settle','vt. 使定居, 安排, 解决 n.有背的长凳'],['significant','adj.有意义的, 重要的'],['similar','adj.相似的, 类似的'],['social','adj.社会的, 社交的'],['solution','n. 解决, 溶解, 溶液'],['source','来源'],['specific','adj.详细而精确的, 明确的'],['split','分裂'],['stable','adj.稳定的'],['station','n.位置, 身份, ...站 vt.驻扎, 配置'],['stress','n.压力, 重点 vt. 着重, 强调'],['structure','n.结构,建筑物 vt.建筑, 构成'],['submit','提交'],['subsequent','adj.后来的, 并发的'],['succeed','vi.(in) 成功 vt.继任, 继承'],['sufficient','足够的'],['suggest','建议'],['summary','n.摘要, 概要'],['support','支持'],['suppose','vt.推想, 假设 conj.假使...结果会怎样'],['supreme','adj.至高的, 高的'],['survey','n.调查 vt.调查'],['survive','v.幸免于,生还'],['suspect','怀疑'],['sustain','vt.支撑, 维持, 持续'],['symbol','n.符号, 记号, 象征'],['symptom','n.[医][植]症状, 征兆'],['tackle','处理'],['target','目标'],['task','任务'],['technique','n.技术, 技巧'],['tedious','乏味的'],['temporary','adj. 暂时的，短时间的'],['tend','vi.趋向, 往往是 vt.照料'],['theory','n.理论, 学说'],['therefore','因此'],['threat','n.恐吓,威胁'],['tradition','n.传统, 惯例'],
+  ['traffic','交通'],['transfer','n.传递, 转移 vt.转移,'],['transform','vt.转换, 改变'],['translate','翻译'],['transmit','vt.传输,传播 vi.发射信号'],['transparent','透明的'],['tremendous','adj.极大的, 巨大的'],['trend','n. 倾向, 趋势 vi. 倾向'],['ultimate','adj.后的,根本的 n.终'],['unable','不能的'],['unique','adj.唯一的, 独特的'],['universal','普遍的'],['unusual','不寻常的'],['upgrade','升级'],['utility','效用'],['valid','adj.有效的,正当的'],['vary','vt.改变,使多样化 various adj.不同的, 各种各样的 variety n.变化, 多样性, 种类 variation n.变更, 变化 variable n.变量 adj.可变的'],['vehicle','n.交通工具, 车辆'],['version','版本'],['victim','n.受害人,牺牲品'],['visible','adj.看得见的, 明显的'],['volume','n.音量，体积'],['voluntary','adj.自动的, 自愿的, 主动的'],['welfare','n.福利, 幸福 adj.福利的'],['state','n. 情形, 状态, 国家, 政府, 州 vt.声明, 陈述, 规定'],['statement','n.声明, 陈述'],['special','adj.特别的, 特殊的, 专门的'],['especially','adv.尤其，特别'],['specialization','n.特殊化, 专门化'],['specialise','v.专业化，专门研究'],['specialised','adj. 专门的, 专科的'],['specialist','n. 专家'],['speciality','n.特性, 特质, 专业'],['specify','vt.指定, 详细说明'],['specifically','adv.特定的, 明确的'],['species','n.种类'],['differ','vi.不同'],['difference','n.差异, 差别'],['different','adj.不同的'],['differentiate','v.区别, 区分'],['appropriate','adj.适当的'],['inappropriate','adj.不适当的'],['staff','n. 全体职员'],['contradict','vt.同...矛盾'],['contradiction','n.反驳, 矛盾'],['contrary','adj.相反的, 逆的'],['contrast','vt.使与...对比 n.对比, 对照'],['claimant','n.（根据权利）提出要求者'],['reclaim','vt.要求归还，开垦'],['reclamation','n.收回，开垦'],
+  ['similarly','adv.同样地, 类似于'],['similarity','n.类似, 类似处'],['assimilation','n.同化'],['evident','adj.明显的, 显然的'],['major','n. 主修课 adj.主修的，主要的 vi.主修'],['majority','n.多数, 大半'],['further','adj.更远的, 更多的 vt.促进, 增进, 助长'],['furthermore','adv.此外, 而且'],['involvement','n.连累, 包含'],['revolve','v.旋转'],['revolution','n.革命，旋转'],['revolutionary','adj.革命的，全新的 n.革命者'],['revolutionise','vt.使彻底改变'],['evolution','n. 进化, 发展'],['evolutionary','adj.进化的'],['complete','adj.全部的, 完全的 vt.完成, 使完善'],['completely','adv.十分, 完全地'],['completion','n.完成'],['accomplish','vt.完成，实现'],['accomplishment','n.完成，成就'],['suit','v.适合 n.一套衣服'],['suitable','adj.适当的, 相配'],['suitcase','n.手提箱'],['person','n.人；个人'],['personal','adj.个人的；私人的'],['personalize','v.使个性化'],['personality','n.个性；人格'],['personnel','n.人员；人事'],['accommodate','v.容纳；适应'],['accommodation','n.住宿；住处'],['economic','adj.经济的'],['economical','adj.节约的'],['economist','n.经济学家'],['economics','n.经济学'],['alter','v.改变'],['alternative','n.替代品；adj.另类的'],['alternate','adj.交替的；v.轮流'],['effect','n.影响；效果'],['effective','adj.有效的'],['effectiveness','n.有效性'],['effort','n.努力'],['affection','n.喜爱；感情'],['affective','adj.情感的'],['affecting','adj.动人的'],['efficiency','n.效率'],['insufficient','adj.不足的'],['experiment','n.实验'],['experimental','adj.实验的'],['experimentation','n.实验'],['experimenter','n.手提箱, 衣箱'],
+  ['approachability','n.可亲近性'],['previous','adj.以前的'],['gene','n.基因'],['genetic','adj.遗传的'],['genetics','n.遗传学'],['object','n.物体；v.反对'],['objection','n.反对'],['objective','adj.客观的；n.目标'],['amount','n.数量'],['mean','v.意思是；adj.平均的'],['meaning','n.意义'],['meaningful','adj.有意义的'],['coal','n.煤'],['coal-mining','n.煤矿开采'],['qualification','n.资格'],['qualitative','adj.定性的'],['medicine','n.药；医学'],['medical','adj.医学的'],['medication','n.药物'],['term','n.术语；学期'],['termly','adj.定期的'],['terminology','n.术语'],['performance','n.表演；表现'],['subject','n.主题；科目'],['subjective','adj.主观的'],['sense','n.感觉'],['sensation','n.感觉；知觉'],['sensitive','adj.敏感的'],['sensitivity','n.敏感, 灵敏(度)'],['sensor','n.传感器'],['sensory','adj.感觉的, 感官的'],['sensus','n. 感觉'],['present','n.赠品, 礼物, 现在 adj.现在的, 出席的 vt.赠送, 上演, 提出, 呈现'],['presence','n.出席,存在'],['present-day','n.互赠礼物的节日'],['presentation','n.陈述, 赠送, 表达'],['presently','adv.目前, 不久'],['represent','vt.表现, 描绘, 代表'],['representation','n.代表，表现, 陈述'],['representative','n.代表 adj.典型的, 有代表性的'],['particulate','n.微粒 adj.微粒的'],['union','n.联合,联盟, 协会'],['unify','vt.统一, 使成一体'],['uniform','n.制服 adj.相同的'],['uniformity','n.同样, 一致'],['unit','n.个体, (计量)单位'],['united','adj.联合的, 团结的, 一致'],['unity','n.团结, 联合, 统一'],['universe','n.宇宙, 世界'],['university','n.(综合)大学'],
+  ['company','n.公司 陪伴'],['accompany','vt.陪伴, 伴奏'],['surveyor','n.测量员, 检查员'],['count','n.计算 vt.计算，认为有价值'],['account','n.计算, 账目 vi.说明,认为'],['accountant','n.会计(员), 会计师'],['accounting','n.会计学'],['accountancy','n.会计师之职, 会计学'],['significance','n.意义, 重要性'],['signification','n.含义'],['organ','n.[机]机构, 机关, [生物]器官'],['organic','adj.器官的, 有机的, 组织的'],['organism','n.生物体, 有机体'],['organize','vt.组织, 使有机化'],['organization','n.组织, 机构'],['organizational','adj.组织的'],['organiser','n.组织者'],['position','n.位置, 职位 vt.安置, 决定...的位置'],['post','n.邮件, 邮政，岗位, 职位，柱 vt.张贴, 邮递'],['complexity','n.复杂性'],['complicated','adj.复杂的, 难解的'],['vehicular','adj.车的, 用车辆运载的'],['loan','n.（借出的）贷款, 借出 v.借, 借给'],['accessible','adj.易接近的, 可到达的'],['accessory','n.附件, 零件 adj.附属的, 补充的'],['vision','n.视力, 视觉, 想象力'],['visual','adj.看的, 视觉的'],['visional','adj.梦幻般的'],['invisible','adj.看不见的, 无形的'],['visit','n.访问, 游览, 参观 vt.访问, 参观'],['visitor','n.访问者, 游客'],['warehouse','n.仓库, 货栈 vt.贮入仓库'],['warrant','n.授权,根据,许可证 vt.保证,'],['speech','n.演说'],['situation','n.情形, 境遇, (建筑物等的)位置'],['situate','vt.使位于, 使处于'],['greenhouse','n.温室'],['progressive','adj.前进的,进步的'],['progression','n.行进'],['pop','n.流行乐曲, 流行艺术 adj.流行的, 热门的'],['popular','adj.流行的, 受欢迎的'],['popularity','n.普及, 流行'],['populace','n.平民'],['population','n.人口'],['temperature','n.温度'],['temperate','n.（气候）温和的，有节制的'],['variability','n.可变性 57'],['facilitator','n.使顺利进行的人或物 59'],['form','n.形状 形式, 表格 v.形成, 构成'],['formal','adj.正式的,形式的'],
+  ['formality','n.礼节, 仪式'],['format','n.形式, 格式 vt.安排...的格局'],['formation','n.形成, 构成'],['formative','adj.格式化的'],['formulate','vt.用公式表示, 明确地表达 v.阐明'],['formulation','n.用公式表示, 明确地表达'],['potential','adj.潜在的 n.潜能, 潜力'],['potentiality','n.潜能'],['sum','n.总数，金额'],['summarise','vt.概括，总结'],['thief','n.小偷, 贼'],['theft','n.偷, 行窃'],['delta','n.（河流的）三角洲'],['necessary','n.必需品 adj.必要的, 必需的'],['necessity','n.必要性, 需要, 必需品'],['description','n.描写, 形容'],['describable','adj.可记述的, 可描写的'],['producer','n.生产者, 制作者'],['reproduce','v.繁殖，翻印，重现'],['reproduction','n.繁殖，拷贝，复制品'],['product','n.产品, 产物'],['production','n.生产, 产品'],['productive','adj.生产性的, 多产的'],['productivity','n.生产力'],['public','n.公众, 公共场所 adj.公共的, 公立的'],['publicise','vt.宣扬'],['publicity','n.公开'],['publication','n.出版物, 出版, 公布'],['publisher','n.出版者, 发行人'],['academy','n.学会 学术团体, 学院'],['general','n.普通,；将军 adj.普通的, 概括的'],['generally','adv.一般, 通常'],['generalise','vt.归纳, 概括, 推广'],['generalisation','n.普遍化；概括'],['physical','adj.身体的, 物理的'],['physiology','n.生理学'],['physiological','adj.生理学的'],['nickel','n.[化]镍, 镍币'],['therapy','n.治疗'],['therapist','n.临床医学家'],['politics','n.政治, 政治学'],['political','adj.政治的, 行政上的'],['politician','n.政治家, 政客'],['police','n.警察机关, 公安部门 adj.有关警察的'],['requirement','n.需求, 要求,需要的东西'],['requisite','adj.需要的,必备的 n.必需品'],['success','n.成功, 成就'],['successful','adj.成功的'],['successive','adj.继承的, 连续的'],['succession','n.连续, 继承'],
+  ['stage','n.舞台, 戏剧；阶段，时期 vt.上演, 筹备, 举行'],['communist','n.共产主义者, 共产党员 adj.共产主义者的'],['communicate','v.沟通, 通信'],['communication','n.交通, 通讯'],['communicative','adj.爱说话的, 畅谈的'],['communicator','n.交流者, 发报机'],['absence','n.缺席, 缺乏'],['absent','adj.缺席的, 缺少的'],['absenteeism','n.旷课 旷工'],['origin','n.起源, 由来'],['originality','n.创意'],['originate','vt.发起, 创办 vi.起源, 发生'],['aboriginal','adj.土著的'],['aborigines','n.土著居民'],['creation','n.创造, 创作物'],['creative','adj.创造性的'],['creativity','n.创造力, 创造'],['creature','n.创造物'],['recreation','n.消遣，娱乐'],['associate','vt.使发生联系, 使联合 vi.交往, 结交'],['association','n.协会, 联合, 结交'],['lingual','adj.语言的'],['linguistic','adj.语言上的, 语言学上的'],['linguistics','n.语言学'],['linguist','n.语言学家'],['bilingual','adj.能说两种语言的 n.双语者'],['traditional','adj.传统的, 惯例的'],['divide','v.划分, 分开'],['division','n.分开, 区分, 除法'],['divisible','adj.可分的'],['emit','vt.发出, 放射, 散发'],['emission','n.(光、热等的)散发, 发射'],['regional','adj.地方地, 地域性地'],['establishment','n.确立, 制定, 设施'],['commerce','n.商业'],['commercialise','vt.使商业化'],['commercialisation','n.商业化， 商品化'],['merchant','n.商人'],['merchandise','n.商品，货物 vt.推销（商品或服务）'],['essence','n.基本, 本质'],['essential','adj.本质的, 基本的'],['tablet','n.药片, 小块'],['surface','n.表面, 外表 adj.表面的, 肤浅的'],['function','n.功能, 作用 vi.(器官等)活动, 运行, 行使职责'],['functional','adj.功能的'],['nature','n.自然, 本性'],['natural','adj.自然的，天生的'],['naturalistic','adj.自然主义的'],['naturalism','n.自然主义'],['financial','adj.财政的, 金融的'],
+  ['coach','n.长途汽车, 教练 v.训练, 指导'],['relate','vt.使联系, 发生关系'],['relation','n.关系, 联系'],['relationship','n.关系, 关联'],['relative','n.亲戚, 关系词 adj.有关系的, 相对的, 比较而言的'],['relatively','adv. 相关地'],['native','n.本地人, 土产 adj.本国的, 本地的'],['steam','n.蒸汽 vi.蒸发'],['theoretical','adj. 理论的'],['theorist','n.理论家'],['withdraw','vt.收回, 撤消 vi.缩回,'],['sediment','n.沉淀物, 沉积'],['sedimentation','n.沉积作用'],['principle','n.法则 原则, 原理'],['principal','n.负责人, 首长, 校长 adj.主要的, 首要的'],['institution','n.团体, 制度，惯例'],['institutional','adj.团体的，惯例的'],['institutionalise','v.使制度化'],['character','n.(事物的)特性, 特征, (人的)品质, 人物'],['characterise','vt.表现...的特色, 刻画的...性格'],['characteristic','adj.特有的, 表示特性的 n.特性, 特征'],['destroy','vt.破坏, 毁坏'],['destruction','n.破坏, 毁灭'],['destructive','adj.破坏(性)的'],['lead','vt.领导, 引导 n.领导, 领先; 铅'],['leadership','n.领导能力, 领导阶层'],['leading','adj.领导的, 第一位的, 主要的'],['apply','vt.申请, 应用'],['application','n.请求, 申请; 应用'],['applicant','n.申请者'],['endanger','vt.危及'],['endangered','adj.（生命等）有危险的,濒危的'],['marble','n.大理石 adj.大理石的, 冷酷无情的, 坚硬的'],['value','n.价值, 估价, 评价 vt.估价, 评价'],['valuable','adj.贵重的, 有价值的'],['evaluation','n.估价, 评价'],['invaluable','adj.无价的, 价值无法衡量的'],['serial','n.连载小说，连续剧'],['wheel','n.车轮, 轮子'],['extinct','adj.灭绝的'],['extinction','n.灭绝'],['machine','n.机器, 机械'],['machinery','n.[总称] 机器, 机械'],['mechanical','adj.机械的, 机械制的'],['mechanism','n.机械装置, 机构, 机制'],['circle','n.圆周, 圆形物, 循环 v.环绕，盘旋'],['circuit','n.电路, 一圈,巡回'],['circulation','n.循环, 流通'],['circumscribe','vt.在...周围画线, 限制'],['example','n.例子, 实例'],
+  ['exemplify','vt.例证, 例示, 作为...例子'],['erode','vt.侵蚀, 腐蚀'],['erosion','n.侵蚀, 腐蚀'],['athlete','n.运动员'],['athletic','adj.运动的'],['athletics','n.运动'],['credit','n.信用，信任；学分；存款 vt.信任；存入帐户'],['accredited','adj.官方认可的，公认的'],['discredited','adj.未被认可的，败坏名声的'],['credible','adj.可信的，可靠的'],['credibility','n.可信度'],['sake','n. for the sake of: 为了…的好处着想'],['anthropology','n.人类学'],['anthropological','adj.人类学的'],['anthropologist','n.人类学者'],['society','n.社会, 社团'],['socialise','v.使社会化'],['sociology','n.社会学'],['sociological','adj.社会学的'],['add','vt.增加,计算...总和'],['addition','n.增加, 增加物, 加法'],['additional','adj.附加的'],['carbon','n.[化]碳'],['carbolic','adj.碳的'],['concern','vt.涉及, 关系到 n.(利害)关系, 关心'],['concentrate','v.集中, 浓缩'],['concentration','n.集中, 专心, 浓缩'],['rate','n.比率, 速度, 费用 vt.评价, 值得'],['ratio','n.比率'],['reflection','n.反射, 倒影'],['reflex','adj.反射的,反作用的 n.反射, 反映'],['proportion','n.比例, 均衡 vt.使成比例, 使均衡'],['disproportionate','adj.不成比例的'],['container','n.容器'],['direct','adj.径直的, 直接的 vt.指引, 指示, 导演'],['direction','n.方向, 指导'],['director','n.主管, 导演'],['directory','n.姓名，地址录'],['erupt','vt.喷发'],['eruption','n.喷发'],['site','n.地点, 场所 vt.定...的地点'],['archaeology','n.考古学'],['archaeological','adj.考古学的'],['archaeologist','n.考古学家'],['mould','n.模具 v.铸造'],['vote','n.投票, 选票,得票数 vi.投票'],['voter','n.投票者,有投票权者'],['occurrence','n.发生, 事件'],['privacy','n.隐私'],['analyse','vt.分析, 分解'],
+  ['analysis','n.分析, 分解'],['analyst','n.分析家, 分解者'],['analytical','adj.分析的, 解析的'],['breed','v.(使)繁殖,抚养 n.品种, 种类'],['inbreed','vt.生育, 生产'],['fuel','n.燃料 vt.加燃料'],['pattern','n.模范, 式样 vt.模仿, 仿造'],['patterning','n. 图案装饰, 图案结构'],['extra','adj.额外的'],['extraordinary','adj.非常的,非凡的'],['attempt','n.尝试, 企图 vt.尝试, 企图'],['intelligent','adj.聪明的, 伶俐的'],['intelligence','n.智力, 聪明, 智能'],['intellectual','adj.智力的, 有智力的 n.知识分子'],['annual','n.年刊, 年鉴 adj.一年一次的, 每年的'],['assure','vt.断然地说, 保证, 担保'],['assurance','n.确信, 断言,担保'],['insure','vt.给...保险'],['insurance','n.保险'],['crystal','adj.结晶状的 n.水晶, 结晶, 晶体'],['disease','n.疾病, 弊病'],['motion','n.运动, 动作 v.运动'],['motivate','v.激发'],['motivation','n.动机'],['motor','n.发动机, 汽车'],['motorway','n.汽车高速公路'],['motorist','n.乘汽车者'],['press','n.压, 印刷, 压力, 新闻 vt.压, 紧抱, 逼迫'],['pressing','adj.紧迫的'],['pressure','n.压, 压力'],['suppress','v.隐瞒，克制，镇压'],['depress','v.使沮丧，减少'],['depression','n.沮丧，经济萧条'],['oppress','v.压迫，使担心'],['oppression','n.压迫，压抑'],['invent','vt.发明, 创造'],['invention','n.发明, 创造'],['inventive','adj.有创造力的'],['infrastructure','n.基础设施'],['construct','vt.建造, 构造'],['construction','n.建筑, 建筑物'],['measure','n.尺寸, 测量, 措施 vt.测量, 测度, 估量'],['measurement','n.测量法, (量得的)尺寸'],['measurable','adj.可测量的'],['demanding','adj.过分要求的, 苛求的'],['continue','v.继续, 连续'],['continuity','n.连续性, 连贯性'],['continuous','adj.连续的, 持续的'],['continual','adj.频繁的, 持续不断的'],['hemisphere','n.半球'],
+  ['recycle','v.使再循环, 反复应用 n. 再生, 重复利用'],['scheme','n.计划, 阴谋 v.计划, 图谋'],['maximal','adj.大的'],['maximize','vt.取...大值'],['avoid','vt.避免, 消除'],['avoidance','n.避免'],['unavoidable','adj.不能避免的'],['survival','n.生存,幸存者'],['survivor','n.生还者, 残存物'],['charge','n.费用, 主管, 充电 v.收费'],['discharge','vt.卸下, 放出, 解雇 n.卸货, 流出, 解雇'],['real','adj.真的, 真实的'],['really','adv 真正地，十分，是吗'],['reality','n.现实，真实'],['realistic','adj.现实(主义)的'],['realisation','n.实现'],['lack','n.缺乏, 短缺的东西 vt.缺乏, 没有'],['identity','n.身份, 一致'],['identification','n.辨认,视为同一'],['identical','adj.同样的'],['approximately','adv.近似地, 大约'],['habit','n.习惯, 习性'],['habitual','adj.习惯的, 惯常的'],['habitat','n.(动植物的)栖息地'],['inhabit','vt.居住于, 栖息'],['inhabitant','n.居民'],['mass','n.大多数, 大量 adj. 大规模的'],['mass-produced','adj.大量生产的'],['customer','n.消费者'],['custom','n.习惯，风俗；（复数）海关'],['image','n.图像, 肖像 vt.想象, 象征'],['imagine','vt.想象, 设想'],['imagination','n.想象, 想象力'],['imaginative','adj.想象的, 虚构的'],['critic','n.批评家, 评论家'],['critical','adj.评论的, 批评的, 危急的'],['criticism','n.批评'],['criteria','n.标准'],['criterion','n.(批评判断的)标准'],['courage','n.勇气'],['encourage','vt.鼓励'],['encouragement','n.鼓励'],['encouraging','adj.鼓舞人心的'],['discourage','vt.使气馁'],['discouragement','n.气馁, 挫折'],['discouraging','adj.气馁的'],['super','adj.超级的'],['superb','adj.出色的, 极好的'],['superior','n.高手, 上级 adj.较高的, 高傲的'],['superiority','n.优越'],
+  ['supersede','vt.代替'],['supervise','vt.监督, 管理'],['supervision','n.监督, 管理'],['supervisor','n.监督人, 管理人'],['supervisory','adj.管理的, 监督的'],['consumption','n.消费, 消费量'],['consumer','n.消费者'],['consumerism','n.用户至上主义'],['pane','n.长方块, 面'],['panel','n.仪表板, 座谈小组，委员会'],['reason','n.理由, 原因 vt.说服, 推理'],['reasoning','n.推理, 评理 adj.推理的'],['reasonable','adj.合理的'],['standard','n.标准, 规格 adj.标准的'],['standardise','v.使符合标准'],['crop','n.农作物, 产量 vt.收割, 种植'],['cropland','n.农田'],['diagram','n.图表'],['plastic','n.塑胶, 可塑体 adj.塑胶的, 塑造的'],['response','n.响应, 反应'],['responsible','adj.有责任的, 可靠的'],['responsibility','n.责任'],['responsive','adj.灵敏的'],['responsiveness','n.灵敏性，反应'],['respondent','adj.回答的 n.回答者'],['correspond','vi.符合, 相应'],['correspondence','n.相应, 通信, 信件'],['corresponding','adj.相应的, 通讯的'],['hypothesis','（复数 hypotheses）n.假设'],['hypothesize','v.假设'],['hypothetical','adj.假设的'],['urban','adj.城市的'],['urbanisation','n.城市化'],['advertisement','n.广告, 做广告'],['documentary','n.记录片 adj.文件的'],['documentation','n.文件'],['emphasize','vt.强调, 着重'],['emphasis','n.强调, 重点'],['dam','n.水坝 v.筑坝'],['period','n.时期'],['periodic','adj.周期的, 定期的'],['periodical','n.期刊，杂志 adj.周期的, 定期的'],['cancer','n.癌'],['cancer-causing','adj.致癌的'],['believe','vt.相信, 认为'],['belief','n.信任,信仰'],['believable','adj.可信的'],['expectation','n.期待, 预料'],['unexpectedly','adv.意料之外地'],['inspect','v.仔细检查，视察'],
+  ['inspection','n.仔细检查，视察'],['aspect','n.方面，外表'],['prospect','n.前景，展望'],['prospective','adj.预期的'],['perspective','n.远景，前途，观点'],['spectacular','adj 壮观的 n.盛大景象'],['spectator','n.观众'],['vanish','vi.消失, 突然不见'],['serious','adj.严肃的, 认真的, 严重的'],['severe','adj.严厉的，严重的'],['severity','n.严重'],['strategy','n.策略, 战略'],['strategic','adj.战略上的'],['industry','n.工业, 勤奋'],['industrial','adj.工业的,从事工业的 n.工业工人'],['industrialise','v.使工业化'],['industrialisation','n.工业化'],['deposit','n.存款, 押金, 存放物 vt.存放, 堆积 vi.沉淀'],['art','n.艺术,技术'],['artefact','n.人造物品'],['artwork','n.艺术品, 美术品'],['artist','n.艺术家, 画家'],['artistic','adj.艺术的, 有美感的'],['artificial','adj.人造的, 假的'],['artificiality','n.人工, 不自然, 人造物'],['venture','v.（冒险）去某处'],['adventure','n.奇遇，冒险经历'],['adventurous','adj.爱冒险的，惊险的'],['ambiguous','adj.含糊的'],['ambiguity','n.含糊'],['subsidy','n.补贴'],['subsidise','v. 补贴'],['subsidiary','adj.辅助的, 补充的'],['extreme','adj.尽头的, 极端的 n.极端, 极端的事物'],['draw','v.绘制, 拖曳, 抽取, 吸引 n.平局,拖曳'],['drawing','n.图画, 制图,'],['drawer','n.抽屉, 画家'],['drawback','n.缺点, 障碍'],['mental','adj.精神的, 智力的'],['generation','n.产生, 一代(人)'],['generational','adj.生育的, 世代的'],['generative','adj.生成的'],['regenerate','vt.再产生'],['whale','n.鲸 v.捕鲸'],['whaling','n. 捕鲸'],['fibre','n.纤维, 构造 [植]须根'],['mood','n.心情, 状态'],['moody','adj.喜怒无常的, 忧郁的'],['intend','vt.打算, 意谓'],['intension','n.紧张'],
+  ['attend','vt.参加, 照顾, 注意 vi.专心, 留意'],['attendance','n.出席, 照料'],['contribution','n.捐献, 贡献, 投稿'],['attribute','v.归结于 n.属性'],['attribution','n.属性'],['distribution','n.分发，分配'],['simulate','vt.冒充，模拟'],['simulation','n.冒充，模拟'],['conceive','v.想出'],['conception','n.观念, 概念'],['conceptual','adj.概念上的'],['misconception','n.误解'],['supply','n.供给, 供应品 vt.供给'],['supplier','n.供应者'],['employ','vt.雇用, 使用 n.雇用'],['employment','n.雇用, 使用'],['employee','n.雇员'],['employer','n.雇主'],['unemployment','n.失业, 失业人数'],['adapt','vt.使适应, 改编'],['adaptation','n.适应, 改编'],['adaptable','adj.能适应的, 可修改的'],['adaptability','n.适应性'],['adaptive','adj.适应的'],['projector','n.投影机'],['projectile','n.射弹 adj.发射的'],['tech','n.工学院；技术学院'],['technical','adj.技术的, 技巧方面的'],['technology','n.科技, 技术'],['technological','adj.技术的'],['define','vt.定义, 阐明'],['definition','n.定义, 解说'],['definitive','adj.确定的, 权威性的'],['definitely','adv.明确地'],['decade','n.十年, 十'],['local','adj.地方的,局部的 n.当地居民'],['localize','v.(使)局部化, (使)地方化'],['localization','n.地方化, 局限, 定位'],['locality','n.位置'],['location','n.位置, 场所'],['set','v.摆放，规定, 调整 n.一套,布景 adj.固定的,坚决的'],['setting','n.安置, (太阳)落山, 底座'],['settlement','n.解决, 殖民'],['furniture','n.家具'],['furnish','vt.配备家具，提供'],['furnishings','n.家具, 设备'],['furnace','n.炉子, 熔炉'],['treat','n.款待 vt.对待, 治疗 vi.谈判, 协商'],['treatment','n.对待, 处理, 治疗'],['treatise','n.论文, 论述'],
+  ['cope','vi. (善于)处理'],['temperate-climate','n.宜人的气候'],['temper','n.(钢等)韧度,性情, 情绪 v.调节'],['health','n.健康, 兴旺'],['healthy','adj.健康的,有益于健康的'],['heal','v.治愈, 医治'],['drama','n.(在舞台上)戏剧, 戏剧艺术'],['dramatically','adv.戏剧地, 引人注目地'],['property','n.财产，性质'],['firm','n.公司,商号 adj.坚定的, 坚固的 vt.使牢固, 使结实'],['firmly','adv.坚定地, 稳固地'],['button','n.钮扣, [计]按钮 v.扣住'],['architect','n.建筑师'],['architecture','n.建筑'],['architectural','adj.建筑上的, 建筑学的'],['common','adj. 公共的, 普通的,粗俗的 n.[复]平民,公有, 普通'],['commonwealth','n.集团，联邦'],['permit','n.许可证, 执照 v.允许'],['permission','n.允许'],['part','n.部分, 零件, 角色 vt.分开, 分配 adj.部分的'],['partial','adj.部分的,偏袒的'],['participation','n.参与'],['participant','n.参与者'],['particle','n.极小量, 微粒,'],['partner','n.合伙人, 股东, 搭档，伴侣 vt.与...合伙, 与... 搭档'],['partnership','n.合伙, (工作，游戏)一伙人'],['irrigate','vt.灌溉, 修水利'],['irrigation','n.灌溉'],['current','adj.当前的, 通用的 n.趋势, （电, 水, 气等）流'],['currency','n.流通'],['frequent','adj.时常发生的, 频繁的'],['frequency','n.频率, 周率'],['reel','n.(棉纱, 电线等)卷轴, (磁带等)一盘 vt.卷...于轴上, 使旋转 vi.蹒跚, 眩晕'],['irrelevant','adj.不相关的,不切题的'],['tool','n.工具'],['convention','n.大会, 协定, 惯例'],['conventional','adj.常规的,传统的'],['broad','adj.广泛的 adv.宽阔地 n.宽阔部分'],['broaden','v.放宽, 扩大'],['broadcaster','n.播送设备, 广播员'],['broadband','n.宽带'],['prevent','vt.防止'],['prevention','n.预防'],['preventative','adj.预防性的'],['preventable','adj.可阻止的, 可预防的'],['well-being','n.康乐, 福利'],['harm','vt.伤害, 损害 n.伤害, 损害'],['harmful','adj.有害的, 伤害的'],['hazard','n.危险，危害 vt.冒…的危险'],['volcano','n.火山'],
+  ['volcanic','adj.火山的, 爆发的'],['vulcanologist','n.火山学家(= volcanologist)'],['exist','vi.存在,生活'],['existence','n.存在, 存在物, 实在物'],['existing','adj.现有的'],['opportunity','n.机会, 时机'],['opportunist','n.机会主义者, 投机取巧者'],['orthodox','adj.正统的, 传统的'],['promotion','n.晋级，宣传，促销'],['solve','vt.解决, 解答'],['soluble','adj.可溶的'],['atmosphere','n.大气, 空气, 气氛'],['atmospheric','adj.大气的'],['hierarchy','n.层次，层级'],['hierarchical','adj.分等级的'],['lava','n.熔岩, 火山岩'],['larva','n.幼虫'],['larvae','n larva 的复数'],['fragile','adj.易碎的, 脆的'],['collect','v.收集,集中'],['collection','n.收藏, 搜集品, 捐款'],['collector','n.收藏家, 征收者'],['collective','adj.集体的 n.集体'],['tiny','adj.很少的, 微小的'],['feed','n.饲料, (动物或婴儿的)一餐 vt.喂养, 靠...为生'],['feeding','n.吃, 输送 adj.给食的, 饲用的'],['feedback','n. 反馈'],['aim','n.目标, 瞄准 v.对...瞄准, 打算'],['advance','n.前进, 提升, 预付款 v.前进, 提前 adj. 预先的，预付(款项)'],['advanced','adj.先进的'],['advantageous','adj.有利的'],['suffer','vt.遭受, 忍受 vi.受痛苦, 受损害'],['suffering','n.苦楚, 受难 adj.受苦的, 患病的'],['sufferer','n.受害者'],['deal','n.交易 vi.处理, 做生意 vt.分配, 分给(out)'],['dealing','n.行为, 交易'],['indigenous','adj.本土的'],['indication','n.指示, 暗示'],['indicator','n.指示器'],['provision','n.供应, (一批)供应品, 预备, 规定'],['provisional','adj.临时的'],['provided','conj.倘若'],['expansion','n.扩大, 开展'],['expansive','adj.易扩大的, 豪爽的'],['crucial','adj.至关紧要的'],['incentive','n.动机 adj.激励的'],['vast','adj. 辽阔的, 大量的'],['electricity','n.电, 电学'],['electrical','adj.电的, 有关电的'],['electron','n.电子'],
+  ['electronic','adj.电子的'],['inform','v.(～ of/about) 通知, 获悉'],['information','n.通知, 信息'],['informant','n.通知的人,被调查的人'],['informative','adj.提供情报的, 见闻广博的'],['exchange','vt.交换,交易 n.交换, 交易'],['figure','n. 数字, 图形, 外形 vt.描绘, 演算, 认为'],['detail','n.细节, 详情 vt.详述'],['melt','v.(使)融化, (使)熔化, 使感动'],['virtual','adj.实质的，实际上的'],['virtually','adv.事实上'],['layer','n.层, 阶层'],['spread','n.展开, 传播, 分布 v.展开, 传播'],['spreadsheet','n.电子制表软件'],['ordinary','adj.普通的'],['oxygen','n.氧'],['tuition','n.学费'],['initial','adj.初的, 词首的 n.词首大写字母'],['initially','adv.初, 开头'],['purchase','vt.购买 n.购买'],['achievement','n.成就, 功绩'],['equip','vt.装备'],['fact','n.事实, 论据'],['factual','adj.事实的, 实际的'],['shift','n.改变，轮班 vt.改变, 变速'],['foundation','n.基础, 建立, 基金'],['founder','n.建立者 vt.使沉没, 失败'],['fundamental','adj.基础的 n.基本原则, 基本原理'],['corpus','n.全集，词库'],['corpora','n.corpus 的复数'],['perpetuate','v.使永久'],['perpetual','adj.永久的，不断的'],['influential','adj.有影响的, 有势力的'],['influenza','n.流行性感冒'],['recognition','n.承认, 认出'],['spin','v.旋转,纺纱 n.旋转'],['span','n.跨度,范围 v.横越；spin 的过去式'],['spun','spin 过去分词'],['cube','n.立方体, 立方'],['cubic','adj.立方体的, 立方的'],['sign','n.符号，迹象，示意 v.签字，示意，签约'],['insect','n.昆虫'],['pest','n.有害物'],['pesticide','n.杀虫剂'],['favor','n.亲切, 宠爱'],['favorable','adj.赞成的, 顺利的 n.有利'],['favorite','n.特别喜欢的人(或物) adj.喜爱的'],['apparent','adj. 显然的, 外观上的'],['signal','n.信号，迹象 v.用信号传达'],['signify','v.意味，表示'],
+  ['atlas','n.地图集'],['entertain','vt.娱乐, 招待'],['entertainment','n.款待, 娱乐'],['contemporary','n. 同时代的人'],['maintenance','n. 维护, 保持'],['selection','n. 挑选, 选集'],['selective','adj. 选择的, 选择性的'],['phase','n. 阶段, 状态'],['core','n.中心, 核心'],['exhibit','vt. 展出, 陈列 n. 展览品, 陈列品'],['exhibition','n. 表现, 展览会'],['entirely','adv. 完全地, 全然地, 一概地'],['climate','n. 气候, 思潮'],['climatic','adj. 气候上的'],['labour','n. 劳力，劳工'],['steady','adj. 稳固的, 稳定的 v. (使)稳定'],['steadily','adv. 稳定地, 有规则地'],['intensive','adj. 强烈的, 精深的'],['intensity','n. 强烈, 强度'],['steel','n. 钢, 钢铁'],['slight','adj. 轻微的, 微小的'],['slightly','adv. 轻微地, 苗条地'],['fabulous','adj.惊人的, 难以置信的'],['bottom','n. 底部, 末端 adj. 底部的 vi.'],['reservation','n. 保留, 预约'],['reservoir','n. 水库'],['Mediterranean','n. 地中海 adj. 地中海的'],['career','n.事业, 职业生涯'],['desire','vt.期望, 希望 n. 愿望, 要求'],['desirable','adj. 理想的, 合意的'],['fit','n.适合 adj. 合适的, 恰当的, 健康的'],['fitness','n. 适当, 健康'],['fitting','adj. 适合的, 相称的 n. 试穿, 装配'],['follow','vt. 跟随, 理解,追求 n.'],['combine','v. (使)联合, (使)结合'],['combination','n. 结合, 联合,化合物'],['fertile','adj.富饶的, 能繁殖的'],['fertilise','vt. 施肥，使肥沃'],['fertilizer','n. 肥料'],['fertility','n. 肥沃,多产,生产力'],['dolphin','n. 海豚'],['diversity','n. 差异, 多样性'],['diversify','v. 使多样化'],['diversification','n. 变化, 多样化'],['stressful','adj. 产生压力的，使紧迫的'],['sound','n. 声音, 噪音 adj.可靠的,'],['assist','v. 援助, 帮助'],['assistance','n. 协助, 援助'],['assistant','n. 助手 adj. 辅助的, 助理的'],['hence','adv. 因此, 从此'],
+  ['journal','n.定期刊物, 杂志'],['journalist','n. 新闻记者'],['journalism','n. 新闻业, 报章杂志'],['tunnel','n. 隧道, 地道'],['conductor','n.领导者, 售票员'],['protection','n.保护'],['behave','vi.举动, 举止 v.行为表现'],['behavior','n.举止, 行为'],['behavioural','adj.动作的'],['behariourist','n. 行为学家'],['scan','v. 浏览,扫描 n.扫描'],['scanner','n. 扫描仪'],['oppose','vt.反对 抗争'],['opposition','n.反对, 敌对, 相反'],['opposite','adj. 对立的, 相反的'],['opponent','n.对手'],['item','n. 项目, 条款，物品'],['restriction','n.限制, 约束'],['attachment','n.附件, 附加装置'],['detach','vt.分开, 分离'],['detachment','n.分开, 拆开'],['dependence','n.依靠, 信任, 信赖'],['independence','n.独立, 自主'],['independent','adj.独立自主的, 不受约束'],['phenomena','n.现象（复数）'],['phenomenal','adj.显著的, 现象的'],['audio','adj.音频的, 声音的'],['audience','n.听众, 观众'],['auditory','adj.耳的, 听觉的'],['expression','n.表达, 脸色，符号'],['expressive','adj.表现的, 有表现力的'],['consequence','n.结果, 推理'],['consequently','adv.从而, 因此'],['consequential','adj.结果的'],['doubt','n.怀疑, 疑问 v.怀疑, 不信'],['doubtful','adj.可疑的'],['option','n.选项, 选择权'],['optional','adj.可选择的, 随意的'],['assign','vt.分配 指派'],['assignment','n.分配, 任务, (课外)作业'],['frame','n.结构, 画面,框架 vt.构成, 设计'],['framework','n.框架, 结构'],['volunteer','n.志愿者 v.自愿'],['legislation','n.立法'],['legitimacy','n.合法(性), 正确(性)'],['devote','vt.投入于, 献身'],['devotion','n.热爱, 投入'],['apparatus','n.器械, 设备'],['depart','vi.离开, 起程'],['departure','n. 出发, 离开'],
+  ['department','n. 部门, 系'],['stability','n.稳定性'],['stabilize','v.（使）稳定'],['clerk','n.职员, 办事员'],['clerical','adj.办公室的'],['class','n.班级, 阶级, 种类 vt.把...分类'],['classical','adj.古典的, 古典文学的'],['classify','vt.分类, 分等'],['classification','n.分类, 分级'],['extension','n.延长, 扩充, 电话分机'],['extensive','adj.广阔的, 广泛的'],['isolation','n.隔绝, 孤立'],['prediction','n.预言 预报'],['predictor','n.预言者, 预报器'],['predictable','adj.可预言的'],['unpredictable','adj.不可预知的'],['reside','vi.居住'],['residence','n.居住, 住处'],['resident','n.居民 adj.居住的, 常驻的'],['residential','adj.住宅的'],['sustainable','adj.可以忍受的, 足可支撑的'],['observe','vt.观察, 遵守'],['observation','n.观察, 观测'],['observer','n.观测者'],['cottage','n.村舍, 小别墅'],['fund-raising','n.筹资'],['emerge','vi.显现, 浮现,形成'],['emergent','adj.紧急的, 浮现的'],['emergency','n.紧急情况'],['mammal','n.哺乳动物'],['substance','n.物质, 实质, 主旨'],['substantial','adj.坚固的, 实质的'],['capability','n. 能力, 容量'],['capacity','n.容量, 能力'],['authority','n.权威, 权威人士'],['authorize','v.批准'],['literature','n.文学(作品), 文艺, 著作'],['literary','adj.文学(上)的, 文艺的'],['literal','adj.文字的, 字面上的'],['literacy','n.有文化，有教养'],['literate','n.学者 adj.有文化的'],['raw','n.生肉 adj.未加工的, 生疏的'],['auto','n. 汽车'],['automatic','n.自动机械 adj.自动的, 无意识的, 机械的'],['automatically','adv.自动地, 机械地 automate v.使自动化 automation n.自动控制 automobile n. 汽车'],['processor','n. 处理器'],['operative','adj.运转着的, 手术的, 实施的 operator n.操作员, 接线员'],['context','n.上下文，背景情况'],['preference','n.偏爱, 优先选择'],['preferable','adj.更可取的, 更好的, 更优越的'],
+  ['lung','n.肺, 呼吸器'],['sort','n.种类, 类别 v.分类, 拣选'],['brief','n.摘要, 大纲 adj.简短的, 短暂的 vt.摘要'],['grant','vt.同意, 准予'],['module','n. 模块'],['refer','v 提到, 涉及,咨询 be refered to … as：被称为… reference n. 涉及, 参考,介绍信'],['referral','n.提名, 推举'],['instructor','n.教师, 讲师'],['arrow','n.箭, 箭头'],['barrier','n.障碍物, 屏障 obstacle n.障碍, 妨害物'],['stereoscopic','adj. 有立体感的'],['disconnect','v.拆开, 分离'],['disconnection','n.断开'],['peak','n.山顶, 顶点 adj.高的 vt. 使达到 高点'],['despite','prep.尽管, 不论'],['strong','adj. 强壮的, 坚固的, 浓的, 强烈的 strength n.力, 力量, 实力'],['strengthen','v.加强, 巩固'],['ignorant','adj.无知的 414'],['consult','v.商量, 参考, 考虑'],['consultant','n.顾问, 咨询者'],['consultation','n.请教, 咨询, 磋商'],['sample','n.标本, 例子 vt.取样, 采样, 尝试'],['distinctive','adj.与众不同的, 有特色的'],['distinctiveness','n. 特殊性'],['distinguish','v.区别, 辨别'],['harbour','n.(=harbor) 海港'],['journey','n.旅行, 旅程 v.旅行'],['scholar','n.学者'],['considerate','adj.考虑周到的'],['eligible','adj.符合条件的, 合格的'],['eligibility','n. 适任, 合格'],['induce','vt. 促使, 导致, 感应'],['induction','n. 感应, 归纳'],['inductive','adj.诱导的, 感应的'],['scholarly','adj. 学术的，学者风度的 exploratory adj.探险的, 探测的'],['scholarship','n.奖学金, 学问 432'],['colleague','n.同事, 同僚 available adj. 可利用的, 有用的'],['consider','vt.考虑, 照顾, 认为 433'],['consideration','n.体谅, 考虑, 报酬 photo n.照片'],['challenging','adj. 有挑战性的'],['psychology','n.心理学, 心理状态'],['psychological','adj.心理(上)的'],['psychologist','n.心理学者'],['psychic','adj.精神的'],['psychiatrist','n. 精神病学家'],['rewarding','adj.报答的, 有益的'],['profitable','adj.有利可图的'],['myth','n.神话'],['mystery','n.神秘, 神秘的事物'],['mysterious','adj.神秘的'],
+  ['mystical','adj.神秘的, 奥秘的'],['perception','n. 感知,感觉'],['perceptual','adj.知觉的'],['photography','n.摄影, 摄影术 photographer  n.摄影师 photographic adj.照相的 photocopy n.影印 v.影印 photocopier n.影印机 photosynthesis n.光合作用 photosynthetic  adj. 光合的 photoperiodism  n.曝露于阳光而产生的反应'],['vital','adj. 重大的, 至关重要的'],['exploit','vt. 开发, 开采'],['exploitation','n.开发, 开采'],['exploitative','adj.开发资源的, 剥削的'],['exploration','n.探险, 探测'],['element','n. 元素, 成分'],['elementary','adj.基本的；初级的'],['cave','n.洞穴 vt.挖洞, 使凹陷'],['canal','n.运河'],['immediate','adj.直接的,立即的'],['immediately','adv.立即, 直接地'],['immediacy','n. 直接'],['act','n.幕, 法案, 动作 vi.行动, 表演,见效 vt.扮演'],['action','n.动作, 行动, 行为 vt.对...起诉'],['active','adj.积极的, 现行的，主动的'],['activity','n.活跃, 行为'],['activate','vt.激活'],['activator','n.催化剂'],['actual','adj.实际的，真实的'],['actually','adv.实际上'],['plate','n.盘子和'],['plateau','n. 高原'],['platform','n.讲台, 平台'],['federation','n.同盟, 联邦, 联合'],['chart','n. 图表 vt.制图'],['charter','vt.租, 包(船、车等) n.宪章'],['council','n 理事会, 委员会'],['counsel','n.讨论, 商议 vt.劝告, 忠告'],['counselor','n.顾问, 法律顾问'],['vulnerable','adj.易受攻击的，脆弱的'],['conference','n.会议, 讨论会'],['abandonment','n.放弃 451'],['era','n.时代,时期'],['history','n 历史, 来历 historic adj. 有历史性的 historical  adj.历史(上)的 historian  n.历史学家'],['prehistoric','adj.史前的, 陈旧的'],['scout','n.侦察, 侦察员 vt.侦察, 跟踪'],['peer','n.同等的人 vt.与...同等 455'],['hire','n.租金, 雇用 vt. 雇用, 出租'],['fire','n.火, 热情 vt.点燃, 解雇 vi.开枪,着火'],['firework','n.焰火'],['firefly','n.萤火虫'],['probable','adj.很可能的, 大概的'],['probably','adv.大概, 或许'],['probability','n.可能性, 概率'],['tongue','n.舌头, 语言 v.舔'],['random','n.随意, 任意 adj.任意的, 随便的 adv.胡乱地'],
+  ['astronomy','n.天文学'],['astronomer','n.天文学家'],['astronaut','n. 宇航员'],['metal','n.金属'],['guide','n.导游, 指南 vt.指导, 支配 vi.任向导'],['guidance','n.指导, 领导'],['guidebook','n.旅行指南'],['guideline','n.方针'],['escape','n.出口, 逃跑 vi.逃脱,溜走 vt.逃避, 避免'],['bias','n.偏见, vt.使存偏见'],['unbiased','adj.没有偏见的'],['desert','n.沙漠 adj.沙漠的,荒凉的 vt.放弃, 逃跑'],['batch','n. 一炉, 一批'],['accurate','adj.正确的, 精确的'],['accuracy','n. 精确性'],['except','vt. 把...除外, 反对 prep.除...之外, 除非'],['exception','n.除外, 例外'],['exceptional','adj.例外的, 异常的'],['validity','n.有效性, 合法性'],['sophisticated','adj.复杂的，先进的，久经世故的'],['sophistication','n. 复杂, 混合'],['tropic','n.回归线, 热带 adj.热带的'],['tropical','adj.热带的, 热情的'],['subtropical','adj.亚热带的'],['flop','n. 拍击声 v.拍动, 跳动,'],['floppy','adj.懒散的,松软的'],['punch','n. 打孔机 vt. 打孔'],['puncture','n.小孔 v.刺破'],['punchline','n. 妙语，搞笑的话'],['status','n.身份, 地位, 状况'],['attraction','n.吸引, 吸引力'],['attractive','adj.吸引人的, 有魅力的'],['fascinating','adj.迷人的'],['investigate','v.调查, 研究'],['investigation','n.调查, 研究'],['investigative','adj.研究的'],['investigator','n.调查人'],['demonstration','n.示范, 实证'],['outline','n.大纲, 轮廓，要点 vt.描画轮廓, 略述'],['arrange','v.安排, 排列, 协商'],['arrangement','n.排列, 安排'],['pasture','n.牧场'],['eventually','adv.后, 终于'],['silent','adj.寂静的, 沉默的'],['silence','n. 寂静, 沉默 vt.使沉默, 使安静'],['mark','n.痕迹，标记，分数 v.标示'],['marked','adj.显著的，明显的'],['remark','n.评论, 注意 vt.评论, 注意'],['remarkable','adj. 值得注意的, 显著的'],['launcher','n.发射者,发射台'],
+  ['tough','adj. 艰苦的, 坚强的,粗暴的 adv.强硬地,'],['toughen','v.(使)变坚韧, (使)变顽固'],['Dutch','n.荷兰人, 荷兰语 adj.荷兰的'],['confidence','n.信心'],['confident','adj.自信的, 确信的'],['confidential','adj.秘密的, 机密的'],['capture','n.捕获, 战利品 vt.捕获, 夺取'],['captive','n.俘虏 adj.被俘的, 被迷住的'],['expert','n.专家, 行家 adj.内行的, 专门的 vt. 当专家'],['expertise','n.专家意见, 专门技术'],['manufacture','vt.制造, 加工 n.制造, 制造业'],['manufacturer','n.制造业者, 厂商'],['exhaust','vt. 耗尽, 使精疲力尽 vi.排气 n.排气'],['exhaustible','adj.可耗尽的'],['human','n. 人类 adj. 人类的, 人性的'],['humanity','n.人性, 人类, 仁慈'],['humanist','n.人道主义者, 人文主义者'],['humanistic','adj.人文主义的'],['devise','vt.设计, 发明'],['narrow','n.狭窄, 隘路 adj.狭窄的,有限的'],['session','n.会议, 开庭'],['quantitative','adj.数量的, 定量的'],['endurance','n.忍耐(力), 持久(力)'],['cattle','n.牛'],['vertical','adj.垂直的,顶点的 n.垂直线, 垂直面'],['cognize','vt.认知, 认识'],['cognition','n.认识'],['cognitive','adj.认知的'],['complain','v.抱怨, 控诉'],['complaint','n. 抱怨, 委屈'],['accidental','adj.意外的'],['sight','n.视力, 眼界'],['insight','n.洞察力, 见识'],['allocate','vt.分派, 分配'],['allocation','n.分配, 安置'],['occasion','n.场合, 时机, 机会'],['occasional','adj. 偶尔的，有时的'],['occasionally','adv.有时候, 偶而'],['trigger','vt.引发,触发 n.板机，触发的因素'],['advent','n. 出现, 到来'],['pollute','vt.弄脏, 污染'],['pollution','n.污染'],['pollutant','n.污染物质'],['contaminate','v.污染'],['contamination','n. 污染, 污染物'],['contaminant','n. 污染物'],['infect','vt. 传染, 感染'],['infection','n.传染病, 感染'],['congest','vt. 使拥挤'],['congested','adj.拥挤的'],
+  ['congestion','n.拥塞, 充血'],['adopt','vt.采用, 收养'],['adoption','n.采用, 收养'],['fossil','adj.化石的'],['sharp','n. 利刃 adj.锐利的, 急剧的 adv.锐利地, 急速地'],['fate','n.命运, 运气 vt.注定, 送命'],['fatal','adj. 致命的，重大的'],['pulse','n.脉搏, 脉冲'],['impulse','n.刺激, 冲动 vt.推动'],['luggage','n.行李, 皮箱'],['executive','adj. 执行的, 行政的 n.执行者'],['encounter','v.遭遇, 遇到 n.遭遇'],['optimism','n.乐观, 乐观主义'],['optimistic','adj.乐观的'],['reliable','adj.可靠的'],['cultivate','vt.培养, 耕作'],['cultivation','n.培养, 耕作'],['cultural','adj.文化的'],['agriculture','n.农业'],['synthesis','n.综合, 合成'],['synthetic','adj.合成的, 人造的'],['assumption','n.假定, 设想'],['ultimately','adv.后,根本'],['scent','n.气味, 线索, 嗅觉 vt.闻出, 嗅, 发觉 vi.发出气味'],['equivalent','adj.相等的, 相当的 n.等价物, 相等物'],['equivalence','n.同等, 等值'],['recede','v.后退'],['recession','n.撤回,退后,不景气'],['compose','v.组成, 写作'],['composer','n.作家, 作曲家'],['composition','n.作文, 成分, 合成物'],['component','n.成分 adj.构成的'],['migrate','vi.移动, 迁徙 vt.使移居'],['migration','n.移民, 移动'],['migratory','adj.迁移的, 流浪的'],['immigration','n.外来的移民, 移居入境'],['emigration','n.移民出境'],['ecology','n.生态学'],['ecological','adj.生态学的, 社会生态学的'],['ecologist','n.生态学者'],['ecosystem','n.生态系统'],['fragment','n.碎片,片段'],['primitive','adj.原始的, 远古的,简单的'],['viable','adj.能养活的,可行的'],['viability','n.生存能力, 发育能力'],['trivial','adj.琐细的,微不足道的'],['illustrate','vt.举例说明, 图解, vi.举例'],['illustration','n.说明, 例证,插图'],['terminal','n.终点站, 终端 adj.末期, 每期的'],['terminate','v.停止, 结束'],
+  ['terminator','n.终结者'],['mini','n.迷你'],['minimal','adj.小的'],['minimize','vt.将...减到 少'],['minute','n.分钟, 片刻 adj.微小的, 详细的'],['just','adj. 正义的，公证的 adv. 正好，仅仅，刚才'],['justice','n.正义，公证'],['judge','n.法官,裁判 vt.审理, 判断,认为'],['judgement','n.审判, 判决, 评价 judicial adj.司法的, 法院的, 公正的'],['judicious','adj.明智的'],['brochure','n.小册子'],['offspring','n. 子孙, 后代'],['innovation','n.改革, 创新'],['innovative','adj.创新的'],['ancestor','n.祖先, 祖宗'],['ancestral','adj.祖先的, 祖传的'],['regular','adj.规则的, 经常的'],['irregular','adj. 无规则的, 无规律的'],['regularise','vt. 使有规则'],['regulation','n.规则,调节, 校准'],['stomach','n.胃,胃部'],['handle','n.柄, 把手, 把柄 vt. 运用,处理'],['tense','adj.紧张的, 拉紧的 v.(使)紧张, (使)拉紧'],['tension','n. 紧张度，焦虑'],['weapon','n.武器'],['commitment','n. 责任，义务'],['convert','vt.使转变'],['conversion','n. 转变'],['converter','n.转炉'],['immense','adj.极广大的, 无边的'],['estate','n.状态, 不动产, 财产'],['concrete','adj.具体的, 有形的 n.混凝土 v.浇混凝土, 凝结'],['linen','n.亚麻, 亚麻制品 adj. 亚麻的'],['defect','n.过失, 缺点'],['defective','adj.有缺陷的 n.有缺陷的人'],['security','n.安全'],['threaten','vt.恐吓, 威胁'],['threatening','adj.胁迫的, 危险的'],['landscape','n.风景,地形'],['townscape','n.城镇风景'],['diameter','n.直径'],['inspre','vt.鼓舞, 激发, 启示'],['inspiration','n.灵感'],['inspirational','adj.有灵感的'],['luxury','n.奢侈, 华贵'],['luxurious','adj.奢侈的, 豪华的'],['luxuriant','adj.丰富的, 肥沃的, 奢华的'],['utter','adj.全然的, 绝对的 vt.发出,发表, 发射'],['utterance','n.意见, 说话, 发表'],['prime','n.初, 精华 adj.主要的, 初的,根本的 v.预先准备好'],
+  ['ritual','n.仪式'],['dominate','v.支配, 占优势'],['domination','n.控制, 支配'],['dominance','n. 优势, 统治 dominant'],['transformation','n.变化,改革, 转换'],['transit','n.运输,转变 v'],['transition','n.转变, 转换'],['transmission','n. 发射, 传送'],['transference','n.移动,转让'],['transcribe','v.转录'],['transcript','n.抄本'],['transcription','n.抄写'],['dredge','n.挖泥机 v.挖掘'],['dredging','n.挖泥, 捕捞'],['dredger','n.挖泥机'],['symbolic','adj.象征的, 符号的'],['symbolism','n.象征主义'],['order','n. 顺序, 命令, 定购, 定单 vt.命令,'],['orderly','adj.有秩序的, 整齐的 adv.依次地, 顺序地'],['disorder','n.杂乱, 混乱 vt.扰乱,使紊乱'],['disorderly','adj.混乱的'],['noble','adj.高尚的, 高贵的 n.贵族'],['delight','n.快乐, 高兴 v.(使)高兴'],['delighted','adj.欣喜的, 快乐的'],['delightful','adj.令人愉快的, 可喜的'],['glossary','n.术语表'],['violence','n.强烈, 暴力'],['violent','adj.激烈的,强暴的'],['brood','n.(动物的)一窝, (同类的)一伙'],['column','n.圆柱,专栏, 纵列'],['implementation','n.执行 583'],['embark','v. 上船，开始，从事'],['embankment','n.堤防, 筑堤'],['seed','n.种子, 萌芽 vt.播种, 结果实'],['seedling','n.秧苗, 树苗'],['confuse','vt.搞乱, 使糊涂'],['confusing','n.混乱'],['confusion','n.混乱, 混淆'],['dust','n.灰尘 vt.掸掉...上的灰尘'],['dusty','adj. 积满灰尘的'],['agenda','n.议程'],['wobble','n.摇晃, 不稳定 vt.使摇摆, 使颤动'],['wobbling','adj. 摆动, 摇摆'],['chess','n.国际象棋'],['fume','n.烟, 气体 v.冒烟, 发怒'],['perfume','n.香味, 香水 vt.使发香'],['juvenile','adj.青少年的, 幼稚的 n.青少年'],['abuse','n.滥用, 虐待 v.滥用, 虐待, 辱骂'],['abnormal','adj.反常的, 变态的'],['rehabilitate','v.使(身体)康复, 使复原'],
+  ['rehabilitation','n.复原'],['minor','n.副修科目 adj.较小的, 次要的, 未成年的 vi.辅修'],['minority','n.少数, 少数民族'],['towel','n.手巾, 毛巾'],['consensus','n.一致同意, 舆论'],['neural','adj.神经系统的'],['prey','n. 牺牲者, 被捕食者 vi.捕食, 掠夺'],['predation','掠夺行为'],['predator','n.掠夺者, 食肉动物'],['predatory','adj.掠夺的, 食肉的'],['thermostat','n.自动调温器'],['thermosetting','adj.热硬化性的'],['pale','adj.苍白的, 无力的 vt.使变苍白'],['allergy','n.敏感, 过敏'],['allergic','adj.过敏的'],['comprehend','vt.理解, 包括, 由...组成'],['comprehension','n.理解, 包含'],['comprehensive','adj.全面的, 包容的'],['optics','n.光学'],['optical','adj.视力的, 光学的'],['destination','n.目的地'],['destiny','n.命运'],['logic','n.逻辑'],['logical','adj.合乎逻辑的, 合理的'],['ambition','n. 雄心，野心'],['ambitious','adj.有雄心的'],['deliver','vt.递送'],['delivery','n.递送'],['simple','adj.简单的, 率直的'],['simplicity','n.简单, 直率'],['simplify','vt.单一化, 简单化'],['simplistic','adj.过分单纯化的'],['disciplinary','adj.训练的, 规律的'],['refine','vt.精炼'],['refinery','n.精炼厂'],['equal','adj.相等的, 合适的 n.相等的事物(或数量) vt.等于, 比得上'],['equality','n.同等, 等式'],['equation','n.相等, 方程'],['equity','n.公平'],['studio','n.工作室, 摄影棚'],['crime','n.犯罪, 罪恶'],['criminal','n.罪犯, 犯罪者 adj.犯罪的, 罪恶的'],['reject','n.被拒绝之人，不合格品 vt.拒绝,'],['rejection','n.拒绝'],['refuse','vt.拒绝 n.废物, 垃圾'],['democracy','n. 民主主义'],['democratic','adj.民主的, 平民的'],['recruit','vt.招聘, 征募 n.新兵, 新会员'],['recruitment','n. 招聘，征募'],['nevertheless','adv.然而, 不过'],
+  ['nonetheless','adv.然而, 不过'],['pseudo','adj.假的, 冒充的'],['familiar','adj.熟悉的, 亲近的'],['unfamiliar','adj.新奇的, 不熟悉的'],['edit','vt.编辑, 校订, 剪辑 n.编辑工作'],['edition','n.版本'],['editor','n.编辑, 编者'],['editorial','n.社论 adj.编辑上的, 社论的'],['textile','n.纺织品 adj.纺织的'],['texture','n.质地, 纹理'],['cure','v.治愈, 治疗 n.治愈, 痊愈'],['curative','adj.医疗的 n.药品'],['curiosity','n.好奇心'],['promise','vt.允诺, 答应 n.允诺, 答应'],['promising','adj.有希望的, 有前途的'],['very','adv.非常, 完全 adj.真正的,恰好的,特'],['verify','vt.检验,核实'],['verification','n.确认,作证'],['herb','n.药草'],['herbal','adj.草药的'],['herbalism','n.草药医术学'],['herbalist','n.草药医生'],['herbivore','n.食草动物'],['engine','n.发动机, 机车'],['engineer','n.工程师'],['engineering','n.工程'],['grass','n.草'],['grassy','adj.绿色的, 像草的'],['grassland','n. 草原'],['pile','n.堆, 大堆 vt. 累积, 堆叠'],['fruit','n.水果, 成果 vi.结果实'],['fruitful','adj.果实结得多的, 多产的'],['fruitless','adj.不结果实的'],['fruition','n.结果实, 成就'],['recommendation','n.推荐, 介绍(信)'],['rational','adj.理性的, 合理的'],['rationality','n.合理性'],['rationale','n.基本原理'],['assessment','n.估价，评价'],['competition','n.竞争, 竞赛'],['competitive','adj.竞争的'],['competitor','n.竞争者'],['mathematics','n.数学'],['mathematical','adj.数学的, 精确的'],['mathematician','n.数学家'],['pure','adj.纯的, 纯净的'],['purify','vt.使纯净，净化'],['purity','n.纯净, 纯度'],['greet','vt.问候, 向...致意'],['greeting','n.祝贺, 问候'],
+  ['prove','vt.证明, 检验'],['proof','n.证据, 试验 vt.检验'],['proof-reader','n.校对者'],['interior','adj.内部的, 内的 n.内部'],['internal','adj.内在的, 国内的'],['exterior','adj.外部的, 表面的 n.外部, 表面'],['string','n.线, 细绳, 一行 v.排成一列'],['anticipate','vt.预期, 期望 v.预订, 预见'],['anticipation','n.预期, 预料'],['mine','n.矿 vt.挖掘, 开采'],['mining','n.采矿, 矿业'],['mineral','n.矿物, 矿石'],['emotion','n.情绪, 情感'],['emotional','adj.情绪的, 情感的'],['subterranean','adj.地下的'],['wealth','n.财富, 财产, 大量'],['wealthy','adj.富有的, 充分的 n.富人'],['tolerant','adj.容忍的，宽容的'],['tolerance','n,容忍，宽容;忍受能力'],['number','n.数, 数字, 号码 v.编号码, 计算'],['numerous','adj.众多的, 无数的'],['numeracy','n.计算能力'],['landmark','n.地界标, 里程碑'],['speculate','vi.推测, 投机'],['speculation','n.推测，投机'],['cell','n.单元, 细胞, 蜂房'],['idea','n.想法, 意见'],['ideal','n.理想 adj.理想的, 完美的'],['idealistic','adj.唯心论的, 空想主义的'],['immune','adj.免疫的'],['chief','n.首领, 领袖, 酋长, 主要部分 adj.主要的,'],['renaissance','n.复兴, 文艺复兴'],['junior','n.年少者, 下级,大学三年级学生 adj.年少的,'],['implicate','vt 含意, 暗示 n.包含的东西'],['implication','n.含义, 暗示'],['force','n.力量, 武力, 军队 vt.强制, 促使'],['enforce','vt.强迫, 执行, 加强'],['enforcement','n.执行, 强制'],['gratitude','n.感谢的心情'],['grateful','adj.感激的'],['iron','n.铁, 熨斗, 坚强 vt.烫平, 熨'],['irony','n.反话, 讽刺'],['ironically','adv. 讽刺地'],['sympathy','n.同情, 同情心'],['sympathetic','adj.有同情心的, 赞成的'],['invest','v. 投资'],['investment','n.投资'],['investor','n.投资者'],['office','n.办公室, 政府机关'],['officer','n.政府官员, 军官'],
+  ['comet','n.彗星'],['lobby','n.大厅, 休息室 vi.游说议员'],['chain','n.链，镣铐, 一系列 vt.用链条拴住'],['mushroom','n.蘑菇 vi.迅速生长, 采蘑菇 adj.蘑菇形的, 迅'],['shell','n.贝壳, 壳 vt.去壳, 脱落'],['shelter','n.掩蔽, 保护, 庇护所 v.掩蔽, 躲避'],['consist','vi.由...组成, 一致'],['consistency','n.连结, 一致性, 连贯性'],['persist','vi.坚持， 持续'],['persistent','adj.持久稳固的'],['persistence','n.坚持, 持续'],['insist','v.坚持, 强调'],['insistence','n.坚持'],['insistent','adj.坚持不懈的'],['absorb','vt.吸收, 吸引'],['absorption','n.吸收'],['absorbing','adj.吸引人的'],['finite','adj.有限的'],['finitude','n.界限, 限制'],['infinite','n.无限的东西, 无穷大 adj.无穷的, 无数的'],['fiction','n.虚构, 小说'],['notion','n.概念, 想法'],['respect','n.敬重, 注意, 尊重 vt.尊敬, 尊重'],['respectable','adj.可敬的, 高尚的, 值得尊敬的'],['respectful','adj.尊敬的, 有礼貌的'],['respective','adj.分别的, 各自的'],['scene','n.场面, 情景'],['scenic','adj. 风景的，景色优美的'],['scenery','n.风景, 景色'],['silly','adj.愚蠢的, 无聊的'],['contract','n.合同, 婚约 v.使缩短, 订约'],['multiple','adj.多样的 n.倍数, 若干 v.成倍增加'],['multiply','v.繁殖, 乘, 增加'],['multi-media','n.多媒体'],['multi-culture','n. 多元文化'],['compound','n.混合物, 化合物 adj.复合的 v.混合, 配合'],['during','prep.在...的期间, 在...的时候'],['duration','n.持续时间'],['durable','adj.持久的, 耐用的'],['interpretation','n.解释, 阐明, 口译'],['interpreter','n. 翻译员, 讲解员'],['vegetable','n.蔬菜, 植物 adj.蔬菜的, 植物的'],['vegetation','n.植被, 植物，生长'],['vegetative','adj.植物的,有生长力的'],['vegetarian','n.素食者, 食草动物 adj.素食的'],['calculate','v.计算, 考虑'],['calculation','n.计算, 考虑'],['calculator','n.计算机, 计算器'],['exceed','vt.超越, 胜过 vi.超过其他'],['excess','n.过度, 超过 adj.过度的, 额外的'],
+  ['excessive','adj.过多的, 额外'],['exclusive','adj.排外的, 独占的'],['include','vt.包含，包括'],['inclusive','adj.包含的，包括的'],['wild','adj.野生的, 野蛮的, 疯狂的'],['wilderness','n.荒野,大量'],['tribe','n.部落, 部族'],['tribal','adj.部落的, 种族的'],['wage','n.工资'],['convenient','adj.便利的, 方便的'],['convenience','n.便利'],['bacteria','n.细菌'],['bacterial','adj.细菌的'],['struggle','n.竞争, 努力, 奋斗 vi.努力, 奋斗, 挣扎 vt.尽力使得'],['repute','n.名誉, 名声 v.名誉, 认为'],['reputation','n.名誉, 名声'],['reputable','adj.著名的'],['shallow','adj.浅的, 浅薄的'],['angle','n.角, 角落 vi.钓鱼'],['triangle','n.三角形'],['inadequate','adj.不充分的, 不适当的'],['plain','n.平原 adj.简单的,平常的, 清晰的 adv.清楚地'],['explanation','n.解释, 说明'],['stationary','adj.固定的'],['static','adj.静态的'],['stationery','n.文具, 信纸'],['flexibility','n.弹性, 适应性'],['empirical','adj.经验主义的'],['military','adj.军事的, 军用的'],['militant','adj.好战的'],['engage','vt.使忙碌, 雇佣, 预定 vi.答应, 从事'],['engagement','n.约会, 婚约, 诺言'],['invade','vt.侵略, 拥挤'],['invader','n.侵略者'],['invasion','n.入侵'],['license','n.许可(证), 执照 v.许可'],['poor','adj.贫穷的, 可怜的, 乏味的'],['poverty-stricken','adj.为贫穷所困的, 非常贫穷的'],['neighbour','n.邻居'],['neighbourhood','n.邻居关系'],['neighbouring','adj.附近的, 毗邻的'],['comment','n.注释, 评论, 意见 vi.注释, 评论'],['commentary','n.注释'],['commentator','n.评论员,讲解员'],['long','adj.长的, 高的'],['length','n.长度, 长'],['lengthen','v.延长, (使)变长'],['exact','adj. 准确的,精密的'],['enquiry','n.询问'],['enquire','v.询问'],
+  ['inquiry','n.质询, 调查'],['inquire','v.询问, 查究'],['title','n.头衔, 标题, 资格, 权利 vt.赋予头衔,'],['entitle','vt.给...权利, 给...称号'],['entitlement','n.权利'],['fluctuate','vi.变动, 波动 vt.使动摇, 使波动'],['fluctuation','n.波动, 起伏'],['regard','n.关心, 尊重, 问候 vt.看待,重视, 尊敬'],['regarding','prep.关于'],['regardless','adj.不管, 不顾'],['address','n.地址, 致辞, 演讲 vt.向...致辞, 演说, 写姓名地址'],['obey','v.服从, 顺从'],['obedient','adj.服从的, 孝顺的'],['obedience','n.服从, 顺从'],['oblige','vt.迫使,'],['obligation','n.义务, 职责'],['obligatory','adj.义不容辞的, 必须的'],['pose','n.姿势, 姿态 v.(使...)摆好姿势,引起'],['dispose','vt.布置, 安排, 除去'],['disposal','n.处理, 安排'],['disposable','adj.可任意使用的'],['proposal','n.提议, 建议'],['sequence','n.一组事物，顺序，连续的镜头'],['sequent','adj.接续而来的'],['subsequence','n.后继, 随后'],['certain','adj.确定的,可靠的'],['certify','v.证明, 保证'],['certificate','n.证书'],['certification','n.证明'],['narrate','v.叙述, 讲述'],['narration','n.叙述'],['narrator','n.讲述者'],['narrative','adj.叙述性的 n.叙述'],['arose','vb.引发,唤起'],['arousal','n.觉醒, 激励'],['orient','n.东方'],['oriental','n.东方人'],['orientation','n.方向, 定位, 向东方'],['weigh','vt.称...重量, 称 vi.重(若干)'],['weight','n. 重量, 砝码,负担'],['weighty','adj.重的'],['subtle','adj.狡猾的, 敏感的, 微妙的'],['subtlety','n.微妙；精巧'],['confirm','v.确定,确认'],['confirmation','n.证实, 确认, 批准'],['sceptical','adj.怀疑论的, 怀疑的'],['scepticism','n.怀疑论, 怀疑主义'],['skeptics','n. 怀疑论者'],['chamber','n. 房间, 议院'],['liquid','n. 液体, 流体 adj. 液体的, 透'],
+  ['solid','n. 固体, 立体 adj.'],['solidify','v.(使)凝固, (使)团结, 巩固'],['capital','n.首都,大写字母, 资本,资产 adj.首都的,'],['capitalism','n.资本主义'],['capitalist','n.资本家, 资本主义者 adj.资本主义的'],['battery','n.电池'],['curve','n.曲线, 弯曲 v.弯, 使弯曲'],['integral','adj.完整的, 整体的'],['integration','n.综合'],['chaos','n.混乱, 混沌'],['deem','v.认为, 相信'],['trap','n.圈套, 陷阱'],['purple','adj.紫色的 n.紫色'],['hatch','n.孵化'],['deplete','vt.耗尽, 使衰竭'],['depletion','n.损耗'],['voyage','n.航程 vi.航海, 航行 vt.渡过'],['voyager','n.航行者, 航海者'],['ash','n.灰, 灰烬'],['flood','n.洪水, 水灾 vt.淹没,'],['flooding','n.泛滥, 灌溉'],['data','n.datum 的复数, 资料, 数据'],['database','n.数据库, 资料库'],['abstract','adj.抽象的,深奥的 n. 抽 象，摘要 vt. 提取，概括，'],['abstraction','n. 抽象，提取'],['abundant','adj.充分的，富裕的'],['abundance','n.充裕，富裕;'],['accelerate','vt. 加速，促进 v. 速度增加'],['accelerating','adj. 加速的'],['accumulate','v. 积累，存储'],['acquisition','n. 取得，获得'],['adjust','vt. 调整，使适应，对准'],['adjustment','n. 调整，调节'],['administer','vt. 管理，处理，实施'],['administration','n. 管理，行政机关'],['administrative','adj. 管理的，行政的'],['administrator','n. 管理人，行政官员'],['admit','v.接受，承认'],['admission','n.许可，承认'],['advice','n.劝告；建议'],['advisable','adj.劝告的，适当的，可取的'],['adviser','n. 劝告者，顾问，导师'],['advocate','n. 拥护者，提倡者; vt.'],['advocator','n. 拥护者，提倡者'],['alarm','n. 警报'],['alarming','adj.使人惊慌的，告急的'],['alert','adj.警惕的，机警的'],['allow','vt.允许，承认'],['allowance','n. 津贴，补助 vt.'],['amateur','adj. 爱好…的，业余的 n.'],
+  ['amaze','vt. 使惊奇，使吃惊'],['amazing','adj. 令人惊异的'],['announce','vt.宣布，通知'],['announcement','n. 通告，声明'],['anxious','adj. 忧虑的，使人不安的'],['anxiety','n.忧虑;渴望'],['appoint','vt. 任命，约会'],['appointment','n. 任命，约会；'],['appreciate','vt.评价，意识到，感激'],['appreciation','n.评价，欣赏，感谢'],['approval','n. 赞成，批准'],['disapprove','v. 不赞成，反对'],['assemble','vt. 收集，集合; 装配(机器等)'],['assembly','n. 集合; 集会, 议院'],['blame','vi. 责怪，过错 vt. 责'],['block','n.块，街区 vt.阻止'],['blow','v. (风)吹, 响, 吹气'],['blowhole','n. (鲸的)喷水孔；气泡'],['border','n.边沿，边界'],['boundary','n.边界'],['calm','adj.平静的，沉着的'],['campaign','n. 战役; 竞选运动；运动 v.'],['campaigner','n.竞选者'],['cease','v. 停，结束 n. 终止，停止'],['civilization','n. 文明，文化; 教育'],['client','n.委托人, 顾客'],['clue','n.线索；迹象 vt. 为…提供线索, 提示'],['cooperate','v. 合作；协作；互助'],['cooperation','n.合作，协作'],['cooperative','adj.合作的，协作的； n.合作社'],['coordinate','adj. 同等的，协调的'],['coordination','n. 同等，调整，协调'],['coordinator','n.同等物'],['collaborate','v. 合作，协调'],['collaboration','n. 合作，协调'],['collaborative','adj.合作的，协作的'],['coherent','adj.连贯的；有条理的'],['coherence','n.连贯性；条理性'],['comedy','n. 喜剧'],['comedian','n. 喜剧演员；滑稽人物'],['tragedy','n. 悲剧 ;悲惨事件'],['committee','n. 委员会；受托人'],['commission','n. 命令，委托, 佣金'],['compare','vt. 比较，相比'],['comparison','n.比较，比喻'],['comparable','adj. 可相比的，类似的'],['comparative','adj. 比较(上)的; 相当的，比较级的 n.'],['compensate','vt. 赔偿，补偿; 酬劳 v.'],['compensation','n. 赔偿,报酬'],['complementary','adj. 补充的, 互补的；'],
+  ['comprise','vt.包括；由…组成'],['afflict','vt. 使苦恼，折磨'],['underestimate','v. 低估'],['consciousness','n. 意识, 自觉'],['constitute','vt. 构成，制定'],['constitution','n. 构成，成分，制定, 宪法'],['conviction','n.定罪; 确信'],['convey','vt.搬运，传递, 表达'],['corporation','n. 团体；协会，(股份有限)公司;'],['incorporate','adj.合并的, 结社的 v.合并,'],['incorporation','n.结合, 合并'],['enterprise','n.企业，计划; 事业心'],['entrepreneur','n. 企业家, 创业人'],['entrepreneurship','n. 企业家(主办人等的)身分'],['debate','n. 讨论，辩论 v. .'],['declare','vt.发表, 声明, 申报(纳税品)'],['declaration','n.公告，声明; 口供; (纳税品在海关的)申报'],['dense','adj. 密集的，密度大的'],['density','n.稠密, 浓度,密度'],['deprive','vt.剥夺, 使丧失'],['deprivation','n.剥夺'],['detect','vt.察觉,侦查 vi.发现'],['detective','n.侦探 adj.侦探的'],['determine','v.决定, 测定'],['determination','n.决心, 果断'],['diminishing','逐渐缩小的'],['discard','vt.丢弃, 抛弃'],['discriminate','v.歧视, 区别'],['discrimination','n. 歧视, 区别'],['disrupt','v.使中断, 使分裂, 破坏'],['disruption','n.中断, 分裂, 破坏'],['disruptive','adj.使破裂的, 分裂性的'],['distort','vt.弄歪(嘴脸等), 歪曲(真理、事实等)'],['distortion','n.扭曲, 变形, 曲解'],['dividable','adj.可分的'],['elect','vt.选举, 推选'],['election','n.选举, 当选, 选择权'],['elective','adj.有选举权的, 随意选择的 n.选修'],['elimination','n.消除；淘汰'],['encyclopaedia','n.百科全书'],['enrol','vt.登记, 入学 vi.参'],['enrolment','n.登记, 入学'],['registeration','n. 登记，注册，记录'],['registrar','n.登记员, 注册主任'],['error','n.错误,误差'],['erroneous','adj.错误的'],['exaggerate','v.夸大, 夸张'],['exaggeration','n.夸张'],['exacerbate','vt.恶化,激怒, 使加剧'],['explode','v. 爆炸, 爆发,激发'],
+  ['explosion','n.爆发, 发出, 爆炸'],['explosive','adj.爆炸(性)的'],['fan','n.扇子,风扇,爱好者 vt.'],['fancy','adj.奇特的, 异样的 vt.想象,'],['fantasy','n.幻想'],['fantastic','adj.幻想的, 奇异的'],['fierce','adj.猛烈的, 热烈的'],['vacuum','n.真空, 空间, 真空吸尘器 adj.真'],['flat','adj.平坦的,单调的 adv.平直地,恰恰 n.平地, 一层, 公寓'],['flow','n.流程, 流动 vi.'],['flow-chart','n. 流程图'],['fluent','adj.流利的, 流畅的'],['fluency','n.流利, 流畅'],['fluid','n.流动性, 流度 adj.流动'],['fulfil','vt.实践, 履行,满足, 完成'],['gallery','n.走廊、戏院、画廊'],['heritage','n.遗产, 继承权, 传统'],['inherit','vt.继承'],['inheritance','n.遗传, 遗产'],['hesitate','v.犹豫,不愿'],['hesitation','n.犹豫, 踌躇'],['urge','vt.催促, 力劝'],['urgent','adj.急迫的, 紧急的'],['urgency','n.紧急, 紧急的事'],['indispensable','n.不可缺少之物 adj.不可缺少的,'],['infant','n.婴儿, 幼儿 adj.婴儿的,'],['genius','n.天才, 天赋'],['ingenuity','n.机灵, 独创性, 精巧'],['ingredient','n.成分, 因素'],['injure','vt.损害, 伤害'],['injury','n.伤害, 侮辱'],['installment','n.部分'],['instalment','n.分期付款,装设'],['instinct','n.本能'],['instinctual','adj.本能的'],['intervene','vi.干涉,插入, 介入'],['interval','n.间隔, 距离 n.时间间隔'],['interfere','vi.干涉,妨碍, 打扰'],['laser','n.激光'],['lexical','adj.词汇的'],['lexicographer','n.词典编纂者'],['lexicographical','adj.词典编纂的'],['liberty','n.自由, 特权'],['liberate','v.解放, 释放'],['liberation','n.释放, 解放'],['liberal','n.自由主义者 adj.慷慨的,'],['magnetism','n.磁, 磁力, 吸引力'],['magnetic','adj.磁的, 有磁性的, 有吸引力的'],['mature','adj.成熟的, 到期的, 充分考虑的'],['immature','adj.不成熟的'],
+  ['premature','adj.未成熟的, 太早的'],['mix','v.使混和, 混淆'],['mixture','n.混合, 混合物'],['modification','n.更改, 修正'],['moral','adj.道德(上)的, 精神的 n.道德'],['virtue','n.美德,优点, 功效'],['negotiate','v.谈判,通过'],['negotiation','n.商议, 谈判, 流通'],['note','n.笔记,注释, 票据, 纸币 vt.注意,'],['notable','adj.显著的, 著名的'],['notice','n.通知, 布告, 注意'],['noticeable','adj.显而易见的, 值得注意的'],['notify','v.通报'],['notification','n.通知, 布告'],['nutrition','n.营养, 营养学'],['nutritional','adj.营养的, 滋养的'],['nutrient','adj.有营养的'],['occupation','n.职业；占领'],['orbit','n.轨道'],['orbital','adj.轨道的'],['pack','n.包裹, 一副,包装'],['package','n.包裹'],['patent','n.专利, 执照'],['possession','n.拥有,领土,财产(常用复数)'],['precise','adj.精确的, 准确的 n.精确'],['precision','n.精确, 精密度'],['prescribe','v.指示, 规定, 处方'],['prescription','n.指示,命令, 处方'],['prior','adj.优先的, 在前的'],['pursuit','n.追击'],['question','n.问题, 疑问'],['questionable','adj.可疑的'],['questionnaire','n.调查表, 问卷'],['quote','vt.引用,提供,报(价)'],['quotation','n.引用语, 价格'],['radio','n.无线电 v.用无线电发送'],['radiation','n.发散,辐射, 放射'],['radius','n.半径, 范围,界限'],['range','n.山脉, 行列, 范围, 射程'],['resemble','vt.像, 类似'],['retail','n.零售'],['retailer','n.零售商人, 传播的人'],['revive','v.(使)苏醒, (使)再生效, 回想'],['revival','n.苏醒,再生效'],['rough','adj.粗糙的,大致的,粗暴的'],['secret','n.秘密, 奥秘 adj.秘密的,幽静'],['secrecy','n.秘密, 保密'],['secretary','n.秘书,部长, 大臣'],['secretarial','adj.秘书的, 书记的'],['seal','n. 封条,密封，海豹'],
+  ['separate','adj.分开的, 单独的 v.分开,分散'],['separation','n.分离, 分开'],['starve','vt.使饿死 vi.饿得要死'],['statistics','n.统计学, 统计表'],['statistical','adj.统计的, 统计学的'],['stimulate','vt.刺激, 激励 v.刺激,'],['stimulation','n.激励, 鼓舞, 刺激'],['stimulus','n.刺激物,刺激'],['stimulin','n.鼓励, 刺激物'],['store','vt.贮藏,存储 n.商店,贮藏'],['storage','n.贮藏(量),存储'],['substitute','n.代替者, 替代品 v.代替,'],['substitution','n.代替, 置换'],['supplement','n.补充, 附录'],['supplementary','n.增补者, 增补物 adj.附'],['surrender','vt.交出, 放弃, 使投降'],['tour','n.旅行, 游历'],['tourist','n.旅行者, 旅游者'],['tourism','n.观光事业, 游览'],['toxic','adj.有毒的, 中毒的'],['trace','n.痕迹, 踪迹 vt.描绘,'],['track','n.轨迹, 跟踪, 途径 vt.'],['zoo','n.动物园'],['zoological','adj.动物学的']
+].map(([en,cn]) => ({en, cn}));
+  if(!state.words) { state.words = BUILTIN_WORDS.slice(); DB.set('words', state.words); }
+    else {
+      const have = new Set(state.words.map(w=>w.en.toLowerCase()));
+      let added = 0;
+      BUILTIN_WORDS.forEach(w=>{ if(!have.has(w.en.toLowerCase())){ state.words.push(w); added++; } });
+      if(added) DB.set('words', state.words);
+    }
+    // 词库迁移清洗：修正/剔除无中文释义的脏词条（如早期导入的英文填充项）
+    (function(){
+      const reCn=/[一-龥]/;
+      const fix = new Map(BUILTIN_WORDS.map(w=>[w.en.toLowerCase(), w.cn]));
+      let removed=0; const cleaned=[];
+      state.words.forEach(w=>{
+        if(w.cn && reCn.test(w.cn)){ cleaned.push(w); return; }
+        const fc = fix.get((w.en||'').toLowerCase());
+        if(fc && reCn.test(fc)){ cleaned.push({en:w.en, cn:fc}); } else { removed++; }
+      });
+      if(removed || cleaned.length!==state.words.length){ state.words=cleaned; DB.set('words', state.words); }
+    })();
+
+  /* ============ 减脂内容池（按日轮换，离线“每日更新”） ============ */
+  const FOLLOW_VIDEOS = [
+    {t:'骨盆前倾矫正·10分钟跟练', tag:'骨盆前倾', url:''},
+    {t:'瑜伽垫全身燃脂（无跳跃·护膝）', tag:'减脂', url:''},
+    {t:'睡前骨盆拉伸·改善假翘臀', tag:'骨盆前倾', url:''},
+    {t:'低冲击有氧·不伤膝燃脂', tag:'减脂', url:''},
+    {t:'核心激活·瑜伽垫腹部训练', tag:'减脂', url:''},
+    {t:'办公室腰背放松·久坐救星', tag:'骨盆前倾', url:''},
+    {t:'15分钟全身舒展·循序渐进', tag:'减脂', url:''},
+  ];
+  const POWER_VIDEOS = [
+    {t:'瘦下来后人生开挂了', src:'B站', url:''},
+    {t:'坚持运动30天身材变化', src:'抖音', url:''},
+    {t:'减脂期如何不饿肚子', src:'B站', url:''},
+    {t:'瘦了20斤的我做对了什么', src:'抖音', url:''},
+    {t:'骨盆前倾改善前后对比', src:'B站', url:''},
+    {t:'自律给我自由', src:'抖音', url:''},
+  ];
+  const RECIPES = [
+    '早餐：燕麦+无糖酸奶+蓝莓；午餐：鸡胸+杂粮饭+西兰花；晚餐：清蒸鱼+生菜沙拉',
+    '早餐：全麦面包+水煮蛋+牛油果；午餐：牛肉粒+糙米+番茄；晚餐：豆腐汤+凉拌黄瓜',
+    '早餐：红薯+豆浆；午餐：虾仁+藜麦+秋葵；晚餐：鸡丝+紫甘蓝沙拉',
+    '早餐：鸡蛋羹+玉米；午餐：龙利鱼+荞麦面+菠菜；晚餐：菌菇汤+凉拌木耳',
+    '早餐：希腊酸奶+坚果；午餐：瘦猪肉+糙米+四季豆；晚餐：冬瓜汤+蒸蛋',
+    '早餐：香蕉+花生酱全麦；午餐：三文鱼+红薯+芦笋；晚餐：蔬菜鸡肉卷',
+    '早餐：紫薯+牛奶；午餐：鸡腿肉去皮+杂粮+西葫芦；晚餐：海带豆腐汤+沙拉',
+  ];
+  const dayIndex = (arr) => Math.floor((Date.now()/(1000*60*60*24)) % arr.length);
+
+  /* ============ 奖励引擎 ============ */
+  const $ = (s) => document.querySelector(s);
+  const ticketEl = $('#ticketCount'), gameCreditsEl = $('#gameCredits'), streakEl = $('#streakPill');
+  function renderTickets(){ ticketEl.textContent = state.tickets; gameCreditsEl.textContent = state.tickets; }
+  function renderStreak(){ streakEl.textContent = '🔥 连续 '+state.streak.count+' 天'; }
+  function ensureStreak(){
+    const t = todayStr();
+    if(state.streak.lastDate !== t){
+      state.streak.count = (state.streak.lastDate === yesterdayStr()) ? state.streak.count+1 : 1;
+      state.streak.lastDate = t; state.streak.bonusToday = false;
+      DB.set('streak', state.streak);
+      if(state.streak.count % 7 === 0){ state.tickets += 10; toast('🎉 连续'+state.streak.count+'天！大奖 +10 券'); }
+    }
+  }
+  function addTickets(n, reason){
+    ensureStreak();
+    state.tickets += n; DB.set('tickets', state.tickets); renderTickets();
+    if(reason) toast('+' + n + ' 券 · ' + reason);
+  }
+  function spendTicket(){
+    if(state.tickets < 1){ toast('券不足，去做正事赚券吧！'); return false; }
+    state.tickets -= 1; DB.set('tickets', state.tickets); renderTickets(); return true;
+  }
+  function toast(msg){
+    const el = $('#toast'); el.textContent = msg; el.classList.add('show');
+    clearTimeout(el._t); el._t = setTimeout(()=>el.classList.remove('show'), 1800);
+  }
+
+  /* ============ 导航 ============ */
+  document.querySelectorAll('.nav-item').forEach(item => {
+    item.addEventListener('click', () => {
+      clearGameTimers(); // 离开页面时清理英语游戏里的定时器（如打地鼠）
+      document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+      item.classList.add('active');
+      document.querySelectorAll('.page').forEach(p=>p.classList.remove('active-page'));
+      $('#page-'+item.dataset.page).classList.add('active-page');
+      if(item.dataset.page === 'english') renderGamePreview();
+      if(item.dataset.page === 'review') renderReview();
+      if(item.dataset.page === 'fitness') renderFitness();
+      if(item.dataset.page === 'russian') loadRussianNews();
+    });
+  });
+
+  /* ============ 每日计划 ============ */
+  const todoContainer = $('#todoContainer');
+  function renderTodos(){
+    todoContainer.innerHTML = state.todos.map(t => `
+      <div class="todo-item">
+        <input type="checkbox" class="todo-check" data-id="${t.id}" ${t.done?'checked':''}>
+        <span style="flex:1; text-decoration:${t.done?'line-through':'none'}; color:${t.done?'#9ca3af':'#1e1b2f'};">${escapeHtml(t.text)}</span>
+        <div class="todo-menu-wrap" style="position:relative; flex:none;">
+          <button class="secondary todo-dots" data-menu="${t.id}" style="padding:2px 11px; font-weight:700; line-height:1;" aria-label="更多操作">⋯</button>
+          <div class="todo-menu" id="menu-${t.id}" style="display:none; position:absolute; right:0; top:34px; background:#fff; border:1px solid var(--line); border-radius:10px; box-shadow:0 8px 20px rgba(0,0,0,.14); z-index:30; min-width:104px; overflow:hidden;">
+            <button data-edit="${t.id}" style="display:block; width:100%; text-align:left; padding:9px 12px; background:none; border:none; font-size:14px; cursor:pointer;">✏️ 修改</button>
+            <button data-del="${t.id}" style="display:block; width:100%; text-align:left; padding:9px 12px; background:none; border:none; border-top:1px solid var(--line); font-size:14px; color:#e23; cursor:pointer;">🗑 删除</button>
+          </div>
+        </div>
+      </div>`).join('');
+    document.querySelectorAll('.todo-check').forEach(cb => cb.addEventListener('change', function(){
+      const t = state.todos.find(x=>x.id==this.dataset.id);
+      if(!t) return;
+      if(this.checked && !t.done){ addTickets(1, '完成任务'); }
+      t.done = this.checked; DB.set('todos', state.todos); renderTodos(); updateDailyProgress();
+    }));
+    document.querySelectorAll('.todo-dots').forEach(b => b.addEventListener('click', function(e){
+      e.stopPropagation();
+      const menu = document.getElementById('menu-'+this.dataset.menu);
+      const isOpen = menu.style.display !== 'none';
+      document.querySelectorAll('.todo-menu').forEach(m=>m.style.display='none');
+      if(!isOpen) menu.style.display = 'block';
+    }));
+    document.querySelectorAll('[data-edit]').forEach(b => b.addEventListener('click', function(){
+      document.querySelectorAll('.todo-menu').forEach(m=>m.style.display='none');
+      const t = state.todos.find(x=>x.id==this.dataset.edit);
+      if(!t) return;
+      const v = prompt('修改任务：', t.text); if(v && v.trim()){ t.text = v.trim(); DB.set('todos', state.todos); renderTodos(); }
+    }));
+    document.querySelectorAll('[data-del]').forEach(b => b.addEventListener('click', function(){
+      document.querySelectorAll('.todo-menu').forEach(m=>m.style.display='none');
+      state.todos = state.todos.filter(x=>x.id!=this.dataset.del); DB.set('todos', state.todos); renderTodos(); updateDailyProgress();
+    }));
+    updateDailyProgress();
+  }
+  // 点击页面其它位置自动收起任务菜单
+  document.addEventListener('click', () => { document.querySelectorAll('.todo-menu').forEach(m=>m.style.display='none'); });
+  function updateDailyProgress(){
+    const total = state.todos.length, done = state.todos.filter(t=>t.done).length;
+    $('#doneCount').textContent = done; $('#totalCount').textContent = total;
+    $('#dailyBar').style.width = (total? done/total*100 : 0) + '%';
+    const hint = $('#allDoneHint');
+    if(total && done===total){
+      if(!state.streak.bonusToday){ state.streak.bonusToday = true; DB.set('streak', state.streak); addTickets(5, '今日全完成 +5'); }
+      hint.textContent = '🎉 全完成！'; hint.style.color = 'var(--green)';
+    } else { hint.textContent = ''; }
+  }
+  $('#addTodoBtn').addEventListener('click', () => {
+    const v = $('#newTodoInput').value.trim(); if(!v) return;
+    state.todos.push({id:Date.now(), text:v, done:false}); $('#newTodoInput').value='';
+    DB.set('todos', state.todos); renderTodos();
+  });
+
+  /* ============ 选品灵感 ============ */
+  // —— AI 选品分析：本地规则推理引擎（离线可用）——
+  // 如需接入真 LLM，把函数体替换为 fetch 你的后端/接口即可，其余逻辑不变。
+  function aiAnalyzeSelection({name, sales, conv, sellers}){
+    const n = (name||'').toLowerCase();
+    const salesN = +sales||0, convN = +conv||0, sellersN = +sellers||0;
+    const points = [];
+    // 1) 核心卖点（按商品名关键词映射到俄区消费场景）
+    const kw = [
+      [/便携|折叠|迷你|小巧|轻/, '便携/小体积，适合城市小户型、通勤与差旅，收纳友好'],
+      [/无线|充电|电池|usb/, '无线/充电款摆脱线材，居家与办公更自由'],
+      [/硅胶|软|防摔|耐用|耐寒/, '硅胶/软质耐造抗冻，适配俄漫长寒冬与有孩家庭'],
+      [/办公|电脑|键盘|腰|颈椎/, '办公族刚需，久坐人群基数大，复购与送礼属性强'],
+      [/健身|瑜伽|运动|减脂|训练|普拉提/, '健康生活趋势品类，居家锻炼常态化，短视频易带量'],
+      [/儿童|宝宝|婴儿|玩具|积木/, '母婴/儿童客单稳、复购高，家长决策偏冲动'],
+      [/宠物|猫|狗/, '宠物经济高增长，养宠家庭情感消费强'],
+      [/冬季|保暖|加绒|发热|防寒/, '冬季御寒刚需，对应俄严寒气候，应季爆发力强'],
+      [/礼物|送礼|节日|新年|圣诞/, '节日礼物属性，叠加俄新年/命名日送礼文化，短期冲量明显'],
+      [/厨房|餐具|收纳|清洁|保鲜/, '家居日用高频消耗，刚需复购，评价驱动转化'],
+      [/美容|护肤|化妆|美妆/, '颜值经济，图文/短视频种草效率高'],
+    ];
+    const hits = kw.filter(([re])=> re.test(n)).map(([_,t])=>t);
+    if(hits.length) points.push('【核心卖点】'+hits.join('；'));
+    // 2) 需求验证
+    const demand = [];
+    if(salesN>=3) demand.push('近28天已出单（销量'+salesN+'），需求被市场验证，非伪需求');
+    else demand.push('销量偏低，建议小批量测款或观望，避免压货');
+    if(convN>=0.2) demand.push('曝光转化率'+convN+'%≥0.2阈值，主图/标题/价格钩子到位');
+    else demand.push('转化率'+convN+'%低于0.2，需优化主图、标题或降价提转化');
+    points.push('【需求验证】'+demand.join('；'));
+    // 3) 竞争环境
+    let comp;
+    if(sellersN<10) comp='在售卖家仅'+sellersN+'家，属极度蓝海，先发优势明显';
+    else if(sellersN<20) comp='在售卖家'+sellersN+'家<20，低竞争窗口仍在，可抢早期排名';
+    else comp='在售卖家'+sellersN+'家，竞争偏激烈，需用差异化（颜色/套装/赠品）突围';
+    points.push('【竞争环境】'+comp);
+    // 4) 选品思路
+    const ideas = ['裂变方向：同款做「颜色/尺寸/材质」差异（如新增粉色款、加大号、硅胶版），用「爆款裂变」板块批量生成'];
+    if(salesN>=3 && sellersN<20) ideas.push('打法：借已有销量做信任背书，配合满减/赠品冲榜单，锁定早期流量');
+    if(/冬季|保暖|发热|加绒|防寒/.test(n)) ideas.push('节奏：应季品类，提前2-4周备货上架抢窗口');
+    ideas.push('定价：参考市场价留20-30%毛利，俄区物流与退货成本需计入');
+    points.push('【选品思路】'+ideas.join('；'));
+    return points.join('\n');
+  }
+  function renderSelections(){
+    const box = $('#selectionList');
+    if(!state.selections.length){ box.innerHTML = '<div class="card mini center">还没有选品，去上方添加或等待录入</div>'; return; }
+    box.innerHTML = state.selections.map(s => {
+      const metrics = [s.sales?('销量'+s.sales):'', s.conv?('转化'+s.conv+'%'):'', s.sellers?('卖家'+s.sellers):''].filter(Boolean).map(x=>'<span class="chip">'+x+'</span>').join(' ');
+      return `
+      <div class="card" style="margin-bottom:8px;">
+        <div class="row" style="justify-content:space-between;">
+          <strong>${escapeHtml(s.name)}</strong>
+          <button class="secondary" data-fav="${s.id}" style="padding:3px 9px; font-size:12px;">${s.fav?'★ 已收藏':'☆ 收藏+1券'}</button>
+        </div>
+        ${metrics? '<div class="mini" style="margin:4px 0;">'+metrics+'</div>':''}
+        <p class="mini" style="margin:4px 0; white-space:pre-wrap;">🔥 ${escapeHtml(s.reason)}</p>
+        ${s.link? '<a class="link" href="'+escapeAttr(s.link)+'" target="_blank">查看原商品 →</a>' : '<span class="mini">（未填链接）</span>'}
+      </div>`;
+    }).join('');
+    document.querySelectorAll('[data-fav]').forEach(b => b.addEventListener('click', function(){
+      const s = state.selections.find(x=>x.id==this.dataset.fav); if(!s) return;
+      s.fav = true; DB.set('selections', state.selections); renderSelections(); addTickets(1, '收藏选品'); refreshSplitFrom();
+    }));
+  }
+  $('#aiSelBtn').addEventListener('click', () => {
+    const name = $('#selName').value.trim();
+    if(!name){ toast('先填商品名'); return; }
+    $('#selReason').value = aiAnalyzeSelection({name, sales:$('#selSales').value.trim(), conv:$('#selConv').value.trim(), sellers:$('#selSellers').value.trim()});
+    toast('🤖 AI 已生成分析，可手动微调');
+  });
+  $('#addSelBtn').addEventListener('click', () => {
+    const name = $('#selName').value.trim();
+    if(!name) return;
+    const sales = $('#selSales').value.trim(), conv = $('#selConv').value.trim(), sellers = $('#selSellers').value.trim();
+    let reason = $('#selReason').value.trim();
+    if(!reason){ reason = aiAnalyzeSelection({name, sales, conv, sellers}); } // 未填则自动 AI 分析
+    state.selections.push({id:Date.now(), name, reason, link:$('#selLink').value.trim(), sales, conv, sellers, fav:true});
+    ['selName','selSales','selConv','selSellers','selReason','selLink'].forEach(i=>$('#'+i).value='');
+    DB.set('selections', state.selections); renderSelections(); addTickets(1, '添加选品'); refreshSplitFrom();
+  });
+
+  /* ---- 选品灵感：Excel/CSV 批量导入 + 可编辑筛选 ---- */
+  function toNum(v){ if(v==null) return NaN; const s=String(v).replace(/[^0-9.\-]/g,''); const n=parseFloat(s); return isNaN(n)?NaN:n; }
+  function detectDelim(line){ const c=(line.match(/,/g)||[]).length, t=(line.match(/\t/g)||[]).length, s=(line.match(/;/g)||[]).length; if(t>=c&&t>=s) return t?'\t':','; if(s>c) return ';'; return ','; }
+  function parseCSV(text){
+    text = (text && text.charCodeAt(0)===0xFEFF) ? text.slice(1) : text;
+    const delim = detectDelim((text.split(/\r?\n/)[0])||text);
+    const rows=[]; let i=0, field='', row=[], inQ=false;
+    while(i<text.length){
+      const ch=text[i];
+      if(inQ){
+        if(ch==='"'){ if(text[i+1]==='"'){ field+='"'; i+=2; continue; } inQ=false; i++; continue; }
+        field+=ch; i++; continue;
+      }
+      if(ch==='"'){ inQ=true; i++; continue; }
+      if(ch===delim){ row.push(field); field=''; i++; continue; }
+      if(ch==='\r'){ i++; continue; }
+      if(ch==='\n'){ row.push(field); rows.push(row); row=[]; field=''; i++; continue; }
+      field+=ch; i++;
+    }
+    if(field.length||row.length){ row.push(field); rows.push(row); }
+    if(!rows.length) return [];
+    const headers = rows[0].map(h=>String(h).trim());
+    return rows.slice(1).map(r=>{ const o={}; headers.forEach((h,idx)=> o[h]=(r[idx]!=null?String(r[idx]):'').trim()); return o; });
+  }
+  function loadScript(src){ return new Promise((res,rej)=>{ const s=document.createElement('script'); s.src=src; s.onload=res; s.onerror=()=>rej(new Error('load fail')); document.head.appendChild(s); }); }
+  async function ensureXLSX(){ if(window.XLSX) return true; try{ await loadScript('https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js'); return !!window.XLSX; }catch(e){ return false; } }
+  // 字段别名表：你的 Excel 表头写法不一也能识别（如「曝光率」/「曝光转化率」）
+  const FIELD_ALIASES = {
+    '月销量':   ['月销量','月销','销量'],
+    '曝光率':   ['曝光率','曝光转化率','曝光转化','曝光率%'],
+    '卖家数量': ['卖家数量','卖家数','跟卖数量','跟卖卖家数量'],
+  };
+  function resolveVal(row, field){
+    const names = (FIELD_ALIASES[field] && FIELD_ALIASES[field].length) ? [field, ...FIELD_ALIASES[field]] : [field];
+    for(const n of names){ if(row[n]!==undefined && row[n]!=='') return row[n]; }
+    return '';
+  }
+  function passRule(row, r){
+    if(r.op==='contains') return String(resolveVal(row, r.field)).includes(r.value);
+    const a=toNum(resolveVal(row, r.field)), b=toNum(r.value);
+    if(isNaN(a)||isNaN(b)) return false;
+    switch(r.op){ case '>=':return a>=b; case '<=':return a<=b; case '>':return a>b; case '<':return a<b; case '==':return a===b; case '!=':return a!==b; }
+    return false;
+  }
+  function applySelFilter(){ return state.selImport.filter(row=> state.selFilter.every(r=>passRule(row,r))); }
+  function headersOf(){ const set=[]; const add=h=>{ if(h && !set.includes(h)) set.push(h); }; (state.selImport[0]?Object.keys(state.selImport[0]):[]).forEach(add); state.selFilter.forEach(r=>add(r.field)); return set; }
+  function renderHeaderDatalist(){ $('#selHeaders').innerHTML = headersOf().map(h=>'<option value="'+escapeAttr(h)+'">').join(''); }
+  function renderFilterEditor(){
+    const ops=[['>=','≥'],['<=','≤'],['>','＞'],['<','＜'],['==','＝'],['!=','≠'],['contains','包含']];
+    $('#selFilterBox').innerHTML = '<div class="mini" style="margin-bottom:4px;">筛选规则（全部满足才算符合，可编辑/新增/删除）：</div>' + state.selFilter.map((r,idx)=>`
+      <div class="rule-row" style="display:flex; gap:4px; align-items:center; margin-bottom:4px;">
+        <input class="r-field" data-i="${idx}" list="selHeaders" value="${escapeAttr(r.field)}" placeholder="字段" style="flex:1.4; min-width:0;">
+        <select class="r-op" data-i="${idx}" style="flex:none;">${ops.map(o=>'<option value="'+o[0]+'"'+(o[0]===r.op?' selected':'')+'>'+o[1]+'</option>').join('')}</select>
+        <input class="r-val" data-i="${idx}" value="${escapeAttr(r.value)}" placeholder="值" style="flex:1; min-width:0;">
+        <button class="r-del secondary" data-i="${idx}" style="flex:none; padding:2px 7px;">×</button>
+      </div>`).join('');
+    document.querySelectorAll('#selFilterBox .r-field').forEach(el=>el.addEventListener('input', ()=>{ state.selFilter[+el.dataset.i].field=el.value; saveFilterAndApply(); }));
+    document.querySelectorAll('#selFilterBox .r-op').forEach(el=>el.addEventListener('change', ()=>{ state.selFilter[+el.dataset.i].op=el.value; saveFilterAndApply(); }));
+    document.querySelectorAll('#selFilterBox .r-val').forEach(el=>el.addEventListener('input', ()=>{ state.selFilter[+el.dataset.i].value=el.value; saveFilterAndApply(); }));
+    document.querySelectorAll('#selFilterBox .r-del').forEach(el=>el.addEventListener('click', function(){ state.selFilter.splice(+this.dataset.i,1); DB.set('selFilter', state.selFilter); renderFilterEditor(); renderHeaderDatalist(); renderSelResults(); }));
+  }
+  function saveFilterAndApply(){ DB.set('selFilter', state.selFilter); renderSelResults(); }
+  function addSelectionFromRow(row){
+    const name = row['商品名称'] || row['商品名'] || row['SKU'] || row['关键字'] || '未命名商品';
+    const reason = aiAnalyzeSelection({name, sales:resolveVal(row,'月销量'), conv:resolveVal(row,'曝光率'), sellers:resolveVal(row,'卖家数量')});
+    state.selections.push({id:Date.now(), name, reason, link:row['商品链接']||'', sales:resolveVal(row,'月销量'), conv:resolveVal(row,'曝光率'), sellers:resolveVal(row,'卖家数量'), fav:true});
+    DB.set('selections', state.selections); renderSelections(); addTickets(1, '导入收藏'); refreshSplitFrom();
+    toast('已收藏：'+name);
+  }
+  function renderSelResults(){
+    const all = applySelFilter();
+    $('#selResultInfo').textContent = state.selImport.length ? ('符合 '+all.length+' / 共 '+state.selImport.length+' 条') : '尚未导入数据';
+    if(!all.length){ $('#selResults').innerHTML = state.selImport.length? '<div class="mini center">没有符合当前规则的数据</div>' : ''; return; }
+    const top = all.slice(0,100);
+    $('#selResults').innerHTML = top.map((row)=>{
+      const name = row['商品名称']||row['商品名']||row['SKU']||'未命名';
+      const chips = [['月销量',resolveVal(row,'月销量')],['曝光率',resolveVal(row,'曝光率')],['卖家数量',resolveVal(row,'卖家数量')],['人民币价格',resolveVal(row,'人民币价格')],['卢布价格',resolveVal(row,'卢布价格')]].filter(([k,v])=>v!==''&&v!=null).map(([k,v])=>'<span class="chip">'+escapeHtml(k)+' '+escapeHtml(v)+'</span>').join(' ');
+      const idx = state.selImport.indexOf(row);
+      return `<div class="card" style="margin-bottom:6px;">
+        <div class="row" style="justify-content:space-between;">
+          <strong>${escapeHtml(name)}</strong>
+          <button class="secondary r-add" data-idx="${idx}" style="padding:3px 9px; font-size:12px;">收藏+1券</button>
+        </div>
+        ${chips? '<div class="mini" style="margin:4px 0;">'+chips+'</div>':''}
+        ${row['商品类目']? '<div class="mini">类目：'+escapeHtml(row['商品类目'])+'　评分：'+(row['评分']||'-')+'　评论：'+(row['评论数']||'-')+'</div>':''}
+        ${row['商品链接']? '<a class="link" href="'+escapeAttr(row['商品链接'])+'" target="_blank">查看原商品 →</a>' : ''}
+      </div>`;
+    }).join('') + (all.length>100? '<div class="mini center">仅显示前 100 条，共 '+all.length+' 条符合</div>':'');
+    document.querySelectorAll('#selResults .r-add').forEach(b=>b.addEventListener('click', function(){ const row=state.selImport[+this.dataset.idx]; if(row) addSelectionFromRow(row); }));
+  }
+  function exportSelCsv(){
+    if(!state.selImport.length){ toast('尚未导入数据'); return; }
+    const all = applySelFilter();
+    if(!all.length){ toast('没有符合当前规则的数据可导出'); return; }
+    const cols = Object.keys(state.selImport[0]); // 按导入首行顺序保留全部字段
+    const esc = v => { const s = String(v==null?'':v); return /[",\n\r]/.test(s) ? '"'+s.replace(/"/g,'""')+'"' : s; };
+    const lines = [cols.join(',')].concat(all.map(r=> cols.map(c=> esc(r[c])).join(',')));
+    const csv = '﻿' + lines.join('\r\n'); // 加 BOM，Excel 正确识别 UTF-8
+    const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    const date = new Date().toISOString().slice(0,10);
+    a.href = url; a.download = '选品命中清单_'+date+'.csv';
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(()=>URL.revokeObjectURL(url), 1000);
+    toast('已导出 '+all.length+' 条命中数据');
+  }
+  $('#selFile').addEventListener('change', async function(){
+    const file = this.files[0]; if(!file) return;
+    const ext = file.name.split('.').pop().toLowerCase();
+    try{
+      if(ext==='csv'){ const text = await file.text(); state.selImport = parseCSV(text); }
+      else {
+        const ok = await ensureXLSX();
+        if(!ok){ toast('xlsx 需联网首次加载，或请把 Excel 另存为 CSV 后导入'); this.value=''; return; }
+        const buf = await file.arrayBuffer();
+        const wb = XLSX.read(buf, {type:'array'});
+        const ws = wb.Sheets[wb.SheetNames[0]];
+        state.selImport = XLSX.utils.sheet_to_json(ws, {defval:''}).map(o=>{ const n={}; for(const k in o) n[String(k).trim()]=(o[k]==null?'':String(o[k]).trim()); return n; });
+      }
+      DB.set('selImport', state.selImport);
+      $('#selImportInfo').textContent = '已导入 '+state.selImport.length+' 条（字段：'+headersOf().length+' 个）';
+      renderHeaderDatalist(); renderFilterEditor(); renderSelResults();
+      toast('导入成功：'+state.selImport.length+' 条');
+    }catch(e){ toast('解析失败：'+e.message); }
+    this.value='';
+  });
+  $('#addRuleBtn').addEventListener('click', ()=>{ state.selFilter.push({field:'', op:'>=', value:''}); DB.set('selFilter', state.selFilter); renderFilterEditor(); renderHeaderDatalist(); renderSelResults(); });
+  $('#clearImportBtn').addEventListener('click', ()=>{ if(!state.selImport.length) return; state.selImport=[]; DB.set('selImport', state.selImport); $('#selImportInfo').textContent=''; renderSelResults(); toast('已清空导入数据'); });
+  $('#exportSelBtn').addEventListener('click', exportSelCsv);
+  // 启动初始化（恢复历史导入/规则）
+  if(state.selImport.length){ $('#selImportInfo').textContent = '已导入 '+state.selImport.length+' 条'; }
+  renderHeaderDatalist(); renderFilterEditor(); renderSelResults();
+
+  /* ============ 爆款裂变 ============ */
+  function refreshSplitFrom(){
+    const sel = $('#splitFrom');
+    sel.innerHTML = state.selections.map(s => `<option value="${s.id}">${escapeHtml(s.name)}</option>`).join('');
+  }
+  $('#genSplitBtn').addEventListener('click', () => {
+    const fromId = $('#splitFrom').value, variant = $('#splitVariant').value.trim();
+    const base = state.selections.find(s=>s.id==fromId); if(!base || !variant) return;
+    state.splits.unshift({id:Date.now(), name: base.name+'（'+variant+'）', base:base.name, variant, time:todayStr()});
+    $('#splitVariant').value=''; DB.set('splits', state.splits); renderSplits();
+  });
+  // —— AI 差异点建议：本地规则推理引擎（离线可用）——
+  // 如需接入真 LLM，把函数体替换为 fetch 你的后端/接口即可，其余逻辑不变。
+  function aiSuggestVariants(base){
+    const text = ((base.name||'') + ' ' + (base.reason||'')).toLowerCase();
+    const out = [];
+    out.push('新增 马卡龙色/莫兰迪色 款，覆盖更多审美偏好');
+    if(/便携|旅行|口袋|迷你|收纳|折叠/.test(text)) out.push('增加 加大号/家庭装 款，满足囤货与多人使用');
+    else out.push('增加 迷你便携款 + 加大号 双尺寸，覆盖不同场景');
+    if(/硅胶|塑料|金属|木|布|棉|皮革|陶瓷|玻璃/.test(text)) out.push('升级 同功能不同材质（如 硅胶/铝合金/木质），主打质感与差异化');
+    else out.push('换用 环保材质/亲肤材质 版本，主打健康安全卖点');
+    if(/办公|桌面|电脑|键盘/.test(text)) out.push('增加 无线充电/静音/可折叠 功能款，主打办公场景');
+    if(/冬季|保暖|热|暖|被|毯/.test(text)) out.push('增加 加厚/速热/长续航 款，强化冬季刚需');
+    if(/礼物|送礼|礼盒|仪式/.test(text)) out.push('推出 礼盒装/定制刻字 款，锁定送礼人群');
+    if(/母婴|宝宝|儿童|婴儿|娃/.test(text)) out.push('增加 大号安全款/分装便携款，覆盖母婴人群');
+    if(/宠物|猫|狗|宠/.test(text)) out.push('增加 双宠装/替换装 款，提升复购');
+    if(/健身|瑜伽|运动|减脂|跑步/.test(text)) out.push('增加 加厚防滑/便携收纳 款，绑定运动场景');
+    if(/厨房|餐具|杯|锅|碗|刀/.test(text)) out.push('增加 套装组合/防烫款，提升客单价');
+    if(/美妆|护肤|化妆|口红/.test(text)) out.push('增加 旅行装/替换芯 款，降低尝鲜门槛');
+    if(/数码|手机|耳机|充电|数据/.test(text)) out.push('增加 快充/长续航/多色 款，贴合数码人群');
+    if(/服饰|衣服|鞋|袜|帽/.test(text)) out.push('增加 多尺码/情侣款，覆盖更多体型');
+    out.push('做 套装组合（本体+配件），拉高客单价与转化');
+    out.push('做 限量联名/节日限定 款，制造稀缺促单');
+    return [...new Set(out)];
+  }
+  $('#aiVariantBtn').addEventListener('click', () => {
+    const fromId = $('#splitFrom').value;
+    const base = state.selections.find(s=>s.id==fromId);
+    if(!base){ toast('请先在「选品灵感」收藏商品'); return; }
+    const sug = aiSuggestVariants(base);
+    $('#aiVariantBox').style.display = 'block';
+    $('#aiVariantBox').innerHTML = '<div class="mini" style="margin-bottom:4px;">基于「'+escapeHtml(base.name)+'」的 AI 差异点建议（点击填入上方）：</div>' +
+      sug.map((s,i)=>'<button class="chip sel-sug" data-sug="'+i+'" style="cursor:pointer; margin:3px 4px 0 0; display:inline-block; border:1px solid var(--line); background:#fff;">'+escapeHtml(s)+'</button>').join('') +
+      '<div class="mini" style="margin-top:6px;">已为「'+escapeHtml(base.name)+'」生成 '+sug.length+' 条差异点建议</div>';
+    document.querySelectorAll('#aiVariantBox .sel-sug').forEach(b=>b.addEventListener('click', function(){
+      $('#splitVariant').value = sug[+this.dataset.sug];
+      $('#splitVariant').focus();
+      toast('已填入差异点，点「生成裂变款」应用');
+    }));
+  });
+  function renderSplits(){
+    const box = $('#splitList');
+    if(!state.splits.length){ box.innerHTML = '<div class="card mini center">基于选品灵感生成的相似款会显示在这里</div>'; return; }
+    box.innerHTML = state.splits.map(s => `
+      <div class="card" style="margin-bottom:8px;">
+        <strong>${escapeHtml(s.name)}</strong>
+        <p class="mini" style="margin:4px 0;">源自「${escapeHtml(s.base)}」· 差异：${escapeHtml(s.variant)}</p>
+        <span class="badge-no">${s.time}</span>
+      </div>`).join('');
+  }
+
+  /* ============ 内容复盘 ============ */
+  $('#addProductBtn').addEventListener('click', () => {
+    const name=$('#pName').value.trim(); if(!name) return;
+    state.products.push({
+      id:Date.now(), name, code:$('#pCode').value.trim(),
+      price:+$('#pPrice').value||0, mkt:+$('#pMkt').value||0,
+      conv:+$('#pConv').value||0, orders:+$('#pOrders').value||0,
+      views:{}, img:''
+    });
+    ['pName','pCode','pPrice','pMkt','pConv','pOrders'].forEach(i=>$('#'+i).value='');
+    DB.set('products', state.products); renderProducts(); drawReviewChart();
+  });
+  function renderProducts(){
+    const box = $('#productList');
+    if(!state.products.length){ box.innerHTML = '<div class="card mini center">还没有自创商品</div>'; return; }
+    box.innerHTML = state.products.map(p => {
+      const totalViews = Object.values(p.views).reduce((a,b)=>a+b,0);
+      return `
+      <div class="card" style="margin-bottom:8px;">
+        <strong>${escapeHtml(p.name)}</strong> <span class="badge-no">${escapeHtml(p.code||'无货号')}</span>
+        <div class="mini" style="margin:4px 0;">价¥${p.price} / 市场¥${p.mkt} · 转化${p.conv}% · 订单${p.orders} · 浏览${totalViews}</div>
+        <div class="row" style="margin-top:6px;">
+          <input id="pv_${p.id}" placeholder="今日浏览数" type="number" style="margin:0;">
+          <button class="secondary" data-rec="${p.id}" style="padding:6px 12px;">记录浏览</button>
+        </div>
+      </div>`;
+    }).join('');
+    document.querySelectorAll('[data-rec]').forEach(b => b.addEventListener('click', function(){
+      const p = state.products.find(x=>x.id==this.dataset.rec); if(!p) return;
+      const v = +($('#pv_'+p.id).value)||0; if(v<=0) return;
+      p.views[todayStr()] = (p.views[todayStr()]||0) + v;
+      DB.set('products', state.products); renderProducts(); drawReviewChart(); addTickets(1, '复盘记录');
+    }));
+  }
+  function drawReviewChart(){
+    const svg = $('#reviewChart'); if(!svg) return;
+    // 汇总所有商品按日期的浏览总数
+    const map = {};
+    state.products.forEach(p => Object.entries(p.views).forEach(([d,v])=> map[d]=(map[d]||0)+v));
+    const dates = Object.keys(map).sort();
+    const vals = dates.map(d=>map[d]);
+    $('#reviewChartHint').textContent = dates.length? ('已记录 '+dates.length+' 天，累计浏览 '+vals.reduce((a,b)=>a+b,0)) : '记录浏览量后这里会生成趋势图';
+    svgLine(svg, dates, vals, '#4f46e5');
+  }
+
+  /* ============ 减脂日常 ============ */
+  // 视频嵌入：B站/YouTube 走 iframe，其它给链接
+  function embedVideo(url){
+    if(!url) return '<span class="mini">未填链接</span>';
+    const u = String(url).trim();
+    let m = u.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)/);
+    if(m) return '<iframe src="https://www.youtube.com/embed/'+m[1]+'" style="width:100%;height:150px;border:0;border-radius:12px;margin-top:4px;" allowfullscreen></iframe>';
+    m = u.match(/bilibili\.com\/video\/(BV[\w]+)/i);
+    if(m) return '<iframe src="https://player.bilibili.com/player.html?bvid='+m[1]+'" style="width:100%;height:150px;border:0;border-radius:12px;margin-top:4px;" allowfullscreen></iframe>';
+    return '<a class="link" href="'+escapeAttr(u)+'" target="_blank">观看 →</a>';
+  }
+  function renderFitness(){
+    // ① 跟练：每日推荐 + 导入视频
+    const f = FOLLOW_VIDEOS[dayIndex(FOLLOW_VIDEOS)];
+    let followHTML = `<div class="card" style="flex:1; min-width:140px; margin:0;">
+      <span class="chip">${f.tag}</span>
+      <div style="font-weight:600; margin:4px 0;">${escapeHtml(f.t)}</div>
+      <div class="row">
+        ${f.url? '<a class="link" href="'+escapeAttr(f.url)+'" target="_blank">观看</a>' : '<span class="mini">示例视频</span>'}
+        <button class="secondary" id="followDone" style="padding:4px 10px; font-size:12px; margin-left:auto;">完成跟练+2券</button>
+      </div>
+    </div>`;
+    state.followImports.forEach(v=>{
+      followHTML += `<div class="card" style="flex:1; min-width:140px; margin:0;">
+        <div class="row" style="justify-content:space-between;">
+          <span class="chip">${escapeHtml(v.tag||'我的')}</span>
+          <button class="secondary" data-follow-del="${v.id}" style="padding:2px 7px; font-size:12px;">删除</button>
+        </div>
+        <div style="font-weight:600; margin:4px 0;">${escapeHtml(v.title)}</div>
+        <div style="margin-top:4px;">${embedVideo(v.url)}</div>
+        <div class="row" style="margin-top:6px;">
+          <button class="secondary" data-follow-done="${v.id}" style="padding:4px 10px; font-size:12px;">完成+2券</button>
+        </div>
+      </div>`;
+    });
+    $('#followList').innerHTML = followHTML;
+    $('#followDone').addEventListener('click', ()=>{ addTickets(2,'跟练完成'); $('#followDone').disabled=true; $('#followDone').textContent='已打卡✓'; });
+    document.querySelectorAll('[data-follow-del]').forEach(b=>b.addEventListener('click', function(){ state.followImports = state.followImports.filter(x=>x.id!=this.dataset.followDel); DB.set('followImports', state.followImports); renderFitness(); }));
+    document.querySelectorAll('[data-follow-done]').forEach(b=>b.addEventListener('click', function(){ addTickets(2,'跟练完成'); this.disabled=true; this.textContent='已打卡✓'; }));
+
+    // ③ 今日动力：视频 + 文字
+    const pw = POWER_VIDEOS[dayIndex(POWER_VIDEOS)];
+    $('#powerList').innerHTML = `<div class="card" style="margin:0;"><span class="chip">${pw.src}</span> <b>${escapeHtml(pw.t)}</b><div class="mini" style="margin-top:4px;">${pw.url? '<a class="link" href="'+escapeAttr(pw.url)+'" target="_blank">观看 →</a>' : '示例视频（可替换真实链接）'}</div></div>`;
+    const ti = state.powerTexts.length ? dayIndex(state.powerTexts) : -1;
+    $('#powerTextList').innerHTML = state.powerTexts.length
+      ? state.powerTexts.map((t,i)=>`<div class="todo-item" style="border:none; padding:6px 0;">
+          <span style="flex:1;">${i===ti?'🌟 ':''}${escapeHtml(t.text)}</span>
+          <button class="secondary" data-pt-del="${t.id}" style="padding:3px 8px; font-size:12px;"><i class="fas fa-trash"></i></button>
+        </div>`).join('')
+      : '<div class="mini center">还没有文字动力，点「添加文字」写一句吧</div>';
+    document.querySelectorAll('[data-pt-del]').forEach(b=>b.addEventListener('click', function(){ state.powerTexts = state.powerTexts.filter(x=>x.id!=this.dataset.ptDel); DB.set('powerTexts', state.powerTexts); renderFitness(); }));
+
+    // ④ 食谱：每日 + 导入
+    $('#recipeCard').innerHTML = escapeHtml(RECIPES[dayIndex(RECIPES)]);
+    $('#recipeList').innerHTML = state.recipesImports.length
+      ? state.recipesImports.map(r=>`<div class="card" style="margin-bottom:6px;">
+          <div class="row" style="justify-content:space-between;">
+            <strong>${escapeHtml(r.title)}</strong>
+            <button class="secondary" data-rc-del="${r.id}" style="padding:3px 8px; font-size:12px;"><i class="fas fa-trash"></i></button>
+          </div>
+          ${r.detail? '<div class="mini" style="margin-top:4px;">'+escapeHtml(r.detail)+'</div>':''}
+        </div>`).join('')
+      : '<div class="mini center">还没有导入食谱，点「导入食谱」添加专属菜单</div>';
+    document.querySelectorAll('[data-rc-del]').forEach(b=>b.addEventListener('click', function(){ state.recipesImports = state.recipesImports.filter(x=>x.id!=this.dataset.rcDel); DB.set('recipesImports', state.recipesImports); renderFitness(); }));
+
+    drawWeightChart();
+  }
+  // 跟练导入
+  $('#showFollowImport').addEventListener('click', ()=>{ const b=$('#followImportBox'); b.style.display = b.style.display==='none'?'block':'none'; });
+  $('#fImpAdd').addEventListener('click', ()=>{
+    const title=$('#fImpTitle').value.trim(), url=$('#fImpUrl').value.trim(), tag=$('#fImpTag').value.trim();
+    if(!title && !url) return;
+    state.followImports.push({id:Date.now(), title: title||'导入视频', url, tag});
+    DB.set('followImports', state.followImports);
+    $('#fImpTitle').value=''; $('#fImpUrl').value=''; $('#fImpTag').value='';
+    renderFitness(); toast('已导入跟练视频');
+  });
+  // 文字动力
+  $('#showTextAdd').addEventListener('click', ()=>{ const b=$('#textAddBox'); b.style.display = b.style.display==='none'?'block':'none'; });
+  $('#powerTextAdd').addEventListener('click', ()=>{
+    const t=$('#powerTextInput').value.trim(); if(!t) return;
+    state.powerTexts.push({id:Date.now(), text:t});
+    DB.set('powerTexts', state.powerTexts); $('#powerTextInput').value='';
+    renderFitness(); toast('已保存文字动力');
+  });
+  // 食谱导入
+  $('#showRecipeImport').addEventListener('click', ()=>{ const b=$('#recipeImportBox'); b.style.display = b.style.display==='none'?'block':'none'; });
+  $('#recipeAdd').addEventListener('click', ()=>{
+    const lines=$('#recipeInput').value.split('\n'); let added=0;
+    lines.forEach(l=>{ const s=l.trim(); if(!s) return;
+      let title=s, detail='';
+      const idxs=[s.indexOf('|'), s.indexOf('：'), s.indexOf(':')].filter(p=>p>0);
+      if(idxs.length){ const sep=Math.min(...idxs); title=s.slice(0,sep).trim(); detail=s.slice(sep+1).trim(); }
+      if(title){ state.recipesImports.push({id:Date.now()+added, title, detail}); added++; }
+    });
+    if(added){ DB.set('recipesImports', state.recipesImports); $('#recipeInput').value=''; renderFitness(); toast('已导入 '+added+' 条食谱'); }
+    else toast('格式：每行一个，可用「菜名 | 内容」');
+  });
+  $('#saveBodyBtn').addEventListener('click', () => {
+    const w = +$('#fWeight').value, h = +$('#fHeight').value;
+    if(!w || !h) return;
+    const bmi = (w / Math.pow(h/100,2));
+    $('#bmiOut').textContent = 'BMI '+bmi.toFixed(1)+'（'+(bmi<18.5?'偏瘦':bmi<24?'正常':bmi<28?'偏胖':'肥胖')+'）';
+    state.fitness.push({date:todayStr(), weight:w, height:h, bmi:+bmi.toFixed(1)});
+    DB.set('fitness', state.fitness); drawWeightChart(); addTickets(1, '身体记录');
+  });
+  function drawWeightChart(){
+    const svg = $('#weightChart'); if(!svg) return;
+    const recs = state.fitness.slice().sort((a,b)=>a.date<b.date?-1:1);
+    svgLine(svg, recs.map(r=>r.date.slice(5)), recs.map(r=>r.weight), '#16a34a');
+  }
+  function svgLine(svg, labels, vals, color){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    const W=320,H=130,pad=22;
+    if(!vals.length){ return; }
+    const max=Math.max(...vals), min=Math.min(...vals);
+    const span=(max-min)||1;
+    const x=i=> pad + i*((W-2*pad)/(labels.length-1 || 1));
+    const y=v=> H-pad - ((v-min)/span)*(H-2*pad);
+    const ns='http://www.w3.org/2000/svg';
+    // 轴线
+    const ax=document.createElementNS(ns,'line'); ax.setAttribute('x1',pad); ax.setAttribute('x2',W-pad); ax.setAttribute('y1',H-pad); ax.setAttribute('y2',H-pad); ax.setAttribute('stroke','#e5e0f0'); svg.appendChild(ax);
+    // 折线
+    const pts=vals.map((v,i)=> x(i)+','+y(v)).join(' ');
+    const pl=document.createElementNS(ns,'polyline'); pl.setAttribute('points',pts); pl.setAttribute('fill','none'); pl.setAttribute('stroke',color); pl.setAttribute('stroke-width','2.5'); svg.appendChild(pl);
+    vals.forEach((v,i)=>{ const c=document.createElementNS(ns,'circle'); c.setAttribute('cx',x(i)); c.setAttribute('cy',y(v)); c.setAttribute('r','3'); c.setAttribute('fill',color); svg.appendChild(c); });
+    // 标签（首末）
+    if(labels.length){
+      const t0=document.createElementNS(ns,'text'); t0.setAttribute('x',pad); t0.setAttribute('y',H-6); t0.setAttribute('font-size','9'); t0.setAttribute('fill','#9ca3af'); t0.textContent=labels[0]; svg.appendChild(t0);
+      const t1=document.createElementNS(ns,'text'); t1.setAttribute('x',W-pad-18); t1.setAttribute('y',H-6); t1.setAttribute('font-size','9'); t1.setAttribute('fill','#9ca3af'); t1.textContent=labels[labels.length-1]; svg.appendChild(t1);
+    }
+  }
+
+  /* ============ 俄国新闻（GitHub Actions + jsDelivr 真后台推送，免服务器） ============ */
+  const $rnUrl = $('#russianWorkerUrl'), $rnStatus = $('#russianStatus');
+  $rnUrl.value = state.russianWorkerUrl || '';
+  let workerItems = [];      // 数据源返回的新闻（打开即见，无需现场刮）
+  let workerUpdated = null;  // KV 最后更新时间
+  function renderRussian(){
+    const list = workerItems.concat(state.russianNews || []);
+    if(!list.length){ $('#russianList').innerHTML = '<div class="card mini center">还没有新闻。填上方数据源 URL 拉取，或手动添加一条。</div>'; return; }
+    $('#russianList').innerHTML = list.map(n => `
+      <div class="card" style="margin-bottom:8px;">
+        <div class="row" style="justify-content:space-between; gap:8px;">
+          <strong style="font-size:14px;">${escapeHtml(n.title)}</strong>
+          <button class="secondary" data-rndel="${n.id}" style="padding:3px 9px; font-size:12px; flex:none;">🗑</button>
+        </div>
+        <div class="mini" style="margin:4px 0;">${n.source? escapeHtml(n.source)+' · ' : ''}${n.pubDate? escapeHtml(n.pubDate) : ''}</div>
+        ${n.summary? '<div class="mini" style="margin-bottom:4px;">'+escapeHtml(n.summary)+'</div>' : ''}
+        <div class="row wrap" style="gap:5px;">
+          ${(n.tags&&n.tags.length)? n.tags.map(t=>'<span class="chip">'+escapeHtml(t)+'</span>').join('') : '<span class="chip">未分类</span>'}
+          ${n.link? '<a class="link" href="'+escapeAttr(n.link)+'" target="_blank">查看原文 →</a>' : ''}
+        </div>
+      </div>`).join('');
+    document.querySelectorAll('[data-rndel]').forEach(b=>b.addEventListener('click', function(){
+      const id=this.dataset.rndel;
+      state.russianNews = (state.russianNews||[]).filter(x=>String(x.id)!==id);
+      workerItems = workerItems.filter(x=>String(x.id)!==id);
+      DB.set('russianNews', state.russianNews); renderRussian();
+    }));
+  }
+  $('#addRnBtn').addEventListener('click', ()=>{
+    const title=$('#rnTitle').value.trim(), source=$('#rnSource').value.trim(), link=$('#rnLink').value.trim(), tagsRaw=$('#rnTags').value.trim();
+    if(!title) return;
+    const tags = tagsRaw? tagsRaw.split(/[,，]/).map(s=>s.trim()).filter(Boolean) : [];
+    state.russianNews.unshift({id:Date.now(), title, source, link, summary:'', pubDate: new Date().toLocaleString('zh-CN'), tags});
+    $('#rnTitle').value=''; $('#rnSource').value=''; $('#rnLink').value=''; $('#rnTags').value='';
+    DB.set('russianNews', state.russianNews); renderRussian(); toast('已添加新闻');
+  });
+  $('#saveWorkerUrl').addEventListener('click', ()=>{
+    state.russianWorkerUrl = $rnUrl.value.trim(); DB.set('russianWorkerUrl', state.russianWorkerUrl);
+    toast('数据源 URL 已保存'); if(state.russianWorkerUrl) loadRussianNews(false);
+  });
+  $('#refreshRussian').addEventListener('click', ()=> loadRussianNews(true));
+  async function loadRussianNews(force){
+    const url = state.russianWorkerUrl;
+    if(!url){ $rnStatus.textContent = '未配置数据源 URL，可手动添加，或填写上方数据源地址。'; return; }
+    $rnStatus.textContent = '读取新闻中…';
+    try{
+      const sep = url.includes('?') ? '&' : '?';
+      const q = force ? sep + '_=' + Date.now() : '';   // 缓存破坏，拿到 GitHub 刚提交的最新 news.json
+      const res = await fetch(url + q, { cache:'no-store' });
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      const data = await res.json();
+      workerItems = (data.items||[]).map(it=>({ id: 'w_'+Date.now()+'_'+Math.random().toString(36).slice(2,8),
+        title: it.title||'', source: it.source||'GitHub', link: it.link||'', summary: it.summary||'', pubDate: it.pubDate||'', tags: it.tags||[] }));
+      workerUpdated = data.updated || null;
+      const ts = workerUpdated? new Date(workerUpdated).toLocaleString('zh-CN') : '未知';
+      $rnStatus.textContent = '已更新（GitHub 后台于 '+ts+' 采集），共 '+workerItems.length+' 条'+(force?'（已重新拉取）':'');
+      renderRussian();
+    }catch(e){
+      $rnStatus.textContent = '拉取失败：'+e.message+'（请检查数据源 URL，或网络是否能访问 GitHub/jsDelivr）';
+    }
+  }
+  renderRussian(); // 初始渲染（手动新闻 + 已缓存新闻）
+  /* ============ 英语游戏 ============ */
+  let gameTimers = [];   // 统一持有进行中的 setInterval，避免切换游戏/导航时孤儿定时器泄漏
+  function clearGameTimers(){ gameTimers.forEach(id=>clearInterval(id)); gameTimers = []; }
+  const gameSelect=$('#gameSelect'), playBtn=$('#playGameBtn'), gameArea=$('#gameArea');
+  $('#wordCount').textContent = state.words.length;
+  $('#importWordsBtn').addEventListener('click', ()=>{ const b=$('#importBox'); b.style.display = b.style.display==='none'?'block':'none'; });
+  $('#doImportBtn').addEventListener('click', ()=>{
+    const lines = $('#importText').value.split('\n'); let added=0;
+    let skipped=0;
+    lines.forEach(l=>{ const m=l.split(','); if(m.length>=2){ const en=m[0].trim(), cn=m[1].trim(); if(en&&cn&&/[一-龥]/.test(cn)){ state.words.push({en,cn}); added++; } else if(en&&cn){ skipped++; } } });
+    if(added){ DB.set('words', state.words); $('#wordCount').textContent=state.words.length; toast('已导入 '+added+' 词'+(skipped? '，跳过 '+skipped+' 条无中文释义':'')); $('#importText').value=''; $('#importBox').style.display='none'; }
+    else if(skipped) toast('已跳过 '+skipped+' 条无中文释义（格式应为：英文,中文）');
+    else toast('格式应为：英文,中文');
+  });
+  gameSelect.addEventListener('change', renderGamePreview);
+  playBtn.addEventListener('click', ()=>{
+    if(gameArea.dataset.active==='1'){ toast('当前游戏进行中，先完成或刷新'); return; }
+    if(!spendTicket()) return;
+    const g = gameSelect.value;
+    ({wheel:startWheel, board:startBoard, bomb:startBomb, whack:startWhack, flight:startFlight, memory:startMemory}[g])();
+  });
+  function renderGamePreview(){
+    clearGameTimers(); // 切换游戏前清理上一个游戏（如打地鼠）遗留的定时器
+    gameArea.dataset.active = '0'; // 允许切换到新游戏（重置进行中状态）
+    const g = gameSelect.value;
+    if(g==='memory'){ startMemory(true); }
+    else gameArea.innerHTML = '<div class="center mini" style="padding:24px;">点击「开始游戏」消耗1券进入<b>'+gameSelect.options[gameSelect.selectedIndex].text+'</b></div>';
+  }
+
+  // 工具：从词库抽 n 个，生成选择题
+  function pickWords(n){ const a=state.words.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a.slice(0,n); }
+  function distractors(correct, n){
+    const pool = state.words.filter(w=>w.cn && /[一-龥]/.test(w.cn) && w.cn!==correct.cn).map(w=>w.cn);
+    for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
+    return pool.slice(0,n);
+  }
+  function questionHTML(word, onAnswer){
+    const opts = [word.cn, ...distractors(word,3)].sort(()=>Math.random()-0.5);
+    return `<div class="center" style="margin-bottom:6px;">「<b style="font-size:18px;">${word.en}</b>」 的意思是？</div>
+      <div id="qopts">${opts.map(o=>`<button class="opt-btn" data-o="${o}">${o}</button>`).join('')}</div>`;
+  }
+  function bindQuestion(container, word, onResult){
+    container.dataset.answered = '';   // 每出新题先解锁，避免闸门卡死（修复第2词起点击无反应）
+    container.querySelectorAll('.opt-btn').forEach(b=>b.addEventListener('click', function(){
+      if(container.dataset.answered) return; container.dataset.answered='1';
+      const ok = this.dataset.o===word.cn;
+      this.classList.add(ok?'correct':'wrong');
+      if(!ok){ container.querySelector(`.opt-btn[data-o="${cssEscape(word.cn)}"]`)?.classList.add('correct'); }
+      onResult(ok);
+    }));
+  }
+
+  /* —— 游戏1：大转盘 —— */
+  function startWheel(){
+    gameArea.dataset.active='1';
+    const words = pickWords(8);
+    const N = words.length, seg = 360/N;
+    let rotation = 0;
+    const colors = ['#4f46e5','#6366f1','#7c3aed','#8b5cf6','#4f46e5','#6366f1','#7c3aed','#8b5cf6'];
+    let segs = words.map((w,i)=>{
+      const a0=i*seg, a1=a0+seg; const mid=(a0+a1)/2;
+      return `<path d="M160,160 L${160+140*Math.cos((a0-90)*Math.PI/180)},${160+140*Math.sin((a0-90)*Math.PI/180)} A140,140 0 0 1 ${160+140*Math.cos((a1-90)*Math.PI/180)},${160+140*Math.sin((a1-90)*Math.PI/180)} Z" fill="${colors[i%colors.length]}"></path>
+        <text x="${160+95*Math.cos((mid-90)*Math.PI/180)}" y="${160+95*Math.sin((mid-90)*Math.PI/180)}" fill="#fff" font-size="11" font-weight="700" text-anchor="middle" transform="rotate(${mid},${160+95*Math.cos((mid-90)*Math.PI/180)},${160+95*Math.sin((mid-90)*Math.PI/180)})">${shortEn(w.en)}</text>`;
+    }).join('');
+    gameArea.innerHTML = `<div class="wheel-wrap">
+      <svg viewBox="0 0 320 320" width="240" height="240" style="transition:transform 3s cubic-bezier(.17,.67,.3,1.2);" id="wheel">
+        <g id="wheelG">${segs}</g>
+      </svg>
+      <div style="font-size:22px;">🎯</div>
+      <div id="wheelQ"></div>
+      <button id="spinBtn" style="width:100%;">🎡 转动</button>
+      <div class="mini">得分：<b id="wheelScore">0</b></div>
+    </div>`;
+    const wheel=$('#wheel'); let score=0;
+    $('#spinBtn').addEventListener('click', ()=>{
+      const idx = Math.floor(Math.random()*N);
+      const targetMid = idx*seg + seg/2;
+      rotation += (360*5) + (360 - (rotation%360)) + (360 - targetMid);
+      wheel.style.transform = 'rotate('+rotation+'deg)';
+      $('#spinBtn').disabled=true;
+      setTimeout(()=>{
+        const w = words[idx];
+        const q = $('#wheelQ'); q.innerHTML = questionHTML(w, ()=>{});
+        bindQuestion(q, w, (ok)=>{ if(ok){ score++; $('#wheelScore').textContent=score; toast('答对了 +1分'); } else toast('答错了'); setTimeout(()=>{ q.innerHTML=''; $('#spinBtn').disabled=false; }, 900); });
+      }, 3100);
+    });
+  }
+  function shortEn(s){ return s.length>9? s.slice(0,8)+'…' : s; }
+
+  /* —— 游戏2：7×7 大富翁 —— */
+  const BOARD7 = (()=>{ const p=[]; for(let r=0;r<7;r++){ const row=[]; for(let c=0;c<7;c++) row.push(r*7+c); if(r%2===1) row.reverse(); p.push(...row); } return p; })();
+  function startBoard(){
+    gameArea.dataset.active='1';
+    let pos=0, score=0;
+    const cells = BOARD7.map((idx,i)=>{ const w=state.words[(i*7)%state.words.length]; return `<div class="cell" data-i="${i}" id="cell${i}">${i+1}</div>`; });
+    gameArea.innerHTML = `<div class="center"><b>🎲 单词大富翁</b></div>
+      <div class="board" id="board">${cells.join('')}</div>
+      <div id="boardQ" style="margin-top:8px;"></div>
+      <div class="row" style="margin-top:8px;">
+        <button id="diceBtn" style="flex:1;">🎲 掷骰子</button>
+        <span class="mini">步数 <b id="boardPos">0</b>/49 · 分 <b id="boardScore">0</b></span>
+      </div>`;
+    placeToken();
+    function placeToken(){ document.querySelectorAll('.tok').forEach(t=>t.remove()); const c=$('#cell'+pos); const t=document.createElement('span'); t.className='tok'; t.textContent='🧍'; c.appendChild(t); }
+    $('#diceBtn').addEventListener('click', ()=>{
+      if($('#boardQ').dataset.busy) return;
+      const step = Math.floor(Math.random()*6)+1;
+      pos = Math.min(48, pos+step); $('#boardPos').textContent=pos; placeToken();
+      const w = state.words[(pos*3)%state.words.length];
+      const q=$('#boardQ'); q.dataset.busy='1'; q.innerHTML=questionHTML(w,()=>{});
+      bindQuestion(q, w, (ok)=>{ if(ok){ score++; $('#boardScore').textContent=score; toast('答对 +1分'); } else toast('答错'); setTimeout(()=>{ q.innerHTML=''; q.dataset.busy=''; if(pos>=48){ toast('🏁 到达终点！总分 '+score); gameArea.dataset.active='0'; } }, 700); });
+    });
+  }
+
+  /* —— 游戏3：炸弹寻宝 —— */
+  function startBomb(){
+    gameArea.dataset.active='1';
+    const total=20, bomb=Math.floor(Math.random()*total);
+    const words=pickWords(total-1);
+    let score=0, found=0, over=false;
+    const tiles=[];
+    for(let i=0;i<total;i++){ tiles.push(i===bomb?{bomb:true}:{bomb:false, w:words[i>bomb?i-1:i]}); }
+    gameArea.innerHTML = `<div class="center"><b>💣 单词炸弹寻宝</b></div>
+      <div class="game-grid" id="bombGrid" style="grid-template-columns:repeat(5,1fr);"></div>
+      <div class="mini center" style="margin-top:6px;">找到 <b id="bombFound">0</b>/${total-1} 宝物 · 分 <b id="bombScore">0</b></div>`;
+    const grid=$('#bombGrid');
+    tiles.forEach((t,i)=>{
+      const d=document.createElement('div'); d.className='memory-card'; d.textContent='?'; d.dataset.i=i;
+      d.addEventListener('click', ()=>{
+        if(over || d.dataset.open) return;
+        if(t.bomb){ d.style.background='#dc2626'; d.textContent='💥'; over=true; toast('💥 踩到炸弹！游戏结束'); setTimeout(()=>gameArea.dataset.active='0', 1000); return; }
+        d.dataset.open='1'; found++; $('#bombFound').textContent=found; score++; $('#bombScore').textContent=score;
+        d.style.background='#eef2ff'; d.style.color='#1e1b2f'; d.innerHTML = t.w.en+'<br>'+t.w.cn;
+        toast('💎 宝物 +1分');
+        if(found===total-1){ toast('🏆 全部找到！'); gameArea.dataset.active='0'; }
+      });
+      grid.appendChild(d);
+    });
+  }
+
+  /* —— 游戏4：打地鼠 —— */
+  function startWhack(){
+    clearGameTimers();
+    gameArea.dataset.active='1';
+    let score=0, time=30;
+    gameArea.innerHTML = `<div class="center"><b>🔨 单词打地鼠</b></div>
+      <div class="mini center">目标含义：<b id="whTarget"></b></div>
+      <div class="holes" id="whHoles"></div>
+      <div class="row" style="margin-top:8px; justify-content:space-between;"><span>分 <b id="whScore">0</b></span><span>剩余 <b id="whTime">30</b>s</span></div>`;
+    const holes=$('#whHoles'); const hs=[];
+    for(let i=0;i<3;i++){ const h=document.createElement('div'); h.className='hole'; h.dataset.i=i; holes.appendChild(h); hs.push(h); }
+    function round(){
+      const target=pickWords(1)[0]; $('#whTarget').textContent=target.cn;
+      const wrongs=distractors(target,2);
+      const set=[target.en, ...wrongs].sort(()=>Math.random()-0.5);
+      hs.forEach((h,i)=>{ h.className='hole up'; h.textContent=set[i]||''; h.onclick=()=>{ if(h.textContent===target.en){ score++; $('#whScore').textContent=score; toast('命中 +1'); } else { toast('打错了'); } h.className='hole'; h.onclick=null; }; });
+    }
+    gameTimers.push(setInterval(round, 1000)); round();
+    gameTimers.push(setInterval(()=>{ time--; $('#whTime').textContent=time; if(time<=0){ clearGameTimers(); toast('⏰ 时间到！得分 '+score); gameArea.dataset.active='0'; } }, 1000));
+  }
+
+  /* —— 游戏5：飞行棋 —— */
+  function startFlight(){
+    gameArea.dataset.active='1';
+    let pos=0, score=0; const TRACK=16;
+    const cells=[]; for(let i=0;i<TRACK;i++) cells.push(`<div class="cell" id="fcell${i}" data-i="${i}">${i===0?'✈️':i===TRACK-1?'🏁':i+1}</div>`);
+    gameArea.innerHTML = `<div class="center"><b>✈️ 单词飞行棋</b></div>
+      <div class="board" id="ftrack" style="grid-template-columns:repeat(8,1fr);">${cells.join('')}</div>
+      <div id="flightQ" style="margin-top:8px;"></div>
+      <div class="row" style="margin-top:8px;"><button id="fDice" style="flex:1;">🎲 投掷</button><span class="mini">步 <b id="fPos">0</b>/${TRACK-1} · 分 <b id="fScore">0</b></span></div>`;
+    place();
+    function place(){ document.querySelectorAll('#ftrack .tok').forEach(t=>t.remove()); const c=$('#fcell'+pos); const t=document.createElement('span'); t.className='tok'; t.textContent='🛩️'; c.appendChild(t); }
+    $('#fDice').addEventListener('click', ()=>{
+      if($('#flightQ').dataset.busy) return;
+      const step=Math.floor(Math.random()*6)+1; pos=Math.min(TRACK-1, pos+step); $('#fPos').textContent=pos; place();
+      const w=state.words[(pos*5)%state.words.length]; const q=$('#flightQ'); q.dataset.busy='1'; q.innerHTML=questionHTML(w,()=>{});
+      bindQuestion(q,w,(ok)=>{ if(ok){score++;$('#fScore').textContent=score;toast('答对 +1分');}else toast('答错'); setTimeout(()=>{ q.innerHTML=''; q.dataset.busy=''; if(pos>=TRACK-1){ toast('🏁 抵达终点！总分 '+score); gameArea.dataset.active='0'; } },700); });
+    });
+  }
+
+  /* —— 游戏6：翻翻乐 —— */
+  function startMemory(preview){
+    gameArea.dataset.active = preview? '0':'1';
+    const w8 = pickWords(8);
+    const cards=[]; w8.forEach((w,i)=>{ cards.push({...w,pid:i}); cards.push({...w,pid:i}); });
+    for(let i=cards.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[cards[i],cards[j]]=[cards[j],cards[i]];}
+    const mem={cards, flipped:[], matched:new Array(cards.length).fill(false), lock:false};
+    gameArea.innerHTML = `<div class="center"><b>🃏 单词翻翻乐</b> <span class="mini">（手机16:9也能看清）</span></div>
+      <div class="game-grid" id="memGrid">${cards.map((c,i)=>`<div class="memory-card" data-i="${i}">?</div>`).join('')}</div>
+      <div class="mini center" style="margin-top:6px;">配对 <b id="memMatched">0</b>/8 · 分 <b id="memScore">0</b></div>`;
+    let score=0;
+    document.querySelectorAll('#memGrid .memory-card').forEach(card=>{
+      card.addEventListener('click', ()=>{
+        if(mem.lock) return; const i=+card.dataset.i;
+        if(mem.matched[i] || mem.flipped.includes(i)) return;
+        mem.flipped.push(i); flipUI();
+        if(mem.flipped.length===2){ mem.lock=true; setTimeout(()=>{
+          const [a,b]=mem.flipped;
+          if(mem.cards[a].pid===mem.cards[b].pid){ mem.matched[a]=mem.matched[b]=true; score++; $('#memScore').textContent=score; $('#memMatched').textContent=score; card.classList.add('matched'); toast('配对成功 +1分'); }
+          else { toast('再想想'); }
+          mem.flipped=[]; mem.lock=false; flipUI();
+          if(mem.matched.every(Boolean)){ toast('🎉 全部配对完成！'); setTimeout(()=>alert('🎉 恭喜通关！'),200); }
+        }, 800); }
+      });
+    });
+    function flipUI(){ document.querySelectorAll('#memGrid .memory-card').forEach((card,i)=>{ const w=mem.cards[i]; if(mem.matched[i]||mem.flipped.includes(i)){ card.style.background='#f0ebff'; card.style.color='#1e1b2f'; card.innerHTML=w.en+'<br>'+w.cn; } else { card.style.background='#4f46e5'; card.style.color='#fff'; card.textContent='?'; } }); }
+  }
+
+  /* ============ 通知 + 23:30 睡觉提醒 ============ */
+  function fireSleep(){
+    if('Notification' in window && Notification.permission==='granted'){ new Notification('🌙 睡觉提醒', {body:'已经 23:30 啦，该睡觉了，明天继续打卡赚券～', icon:'icon.svg'}); }
+    toast('🌙 23:30 睡觉提醒');
+  }
+  function scheduleSleep(){
+    const now=new Date(); const tgt=new Date(); tgt.setHours(23,30,0,0); if(tgt<now) tgt.setDate(tgt.getDate()+1);
+    setTimeout(()=>{ fireSleep();
+      if(navigator.serviceWorker && navigator.serviceWorker.controller){ navigator.serviceWorker.controller.postMessage({type:'SLEEP_REMINDER'}); }
+    }, tgt-now);
+  }
+  $('#enableNotifBtn').addEventListener('click', async ()=>{
+    if(!('Notification' in window)){ toast('此浏览器不支持通知'); return; }
+    const p = await Notification.requestPermission();
+    $('#notifState').textContent = p==='granted'? '✅ 已启用，23:30 会提醒' : '未授权';
+    if(p==='granted') scheduleSleep();
+  });
+  $('#testNotifBtn').addEventListener('click', fireSleep);
+
+  /* ============ 工具 ============ */
+  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+  function escapeAttr(s){ return escapeHtml(s); }
+  function cssEscape(s){ return s.replace(/"/g,'\\"'); }
+
+  /* ============ 初始化 ============ */
+  function init(){
+    renderTickets(); renderStreak();
+    renderTodos(); renderSelections(); renderSplits(); renderProducts(); drawReviewChart();
+    refreshSplitFrom(); renderGamePreview();
+    if('Notification' in window && Notification.permission==='granted'){ $('#notifState').textContent='✅ 已启用'; scheduleSleep(); }
+    if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js').catch(()=>{}); }
+  }
+  init();
+})();
+</script>
+</body>
+</html>

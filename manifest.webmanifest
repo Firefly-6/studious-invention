@@ -1,0 +1,25 @@
+{
+  "name": "WorkBuddy 独立工作台",
+  "short_name": "工作台",
+  "description": "每日计划 / 选品灵感 / 爆款裂变 / 内容复盘 / 减脂日常 / 英语小游戏 一体化独立工作台",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f3f8",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
