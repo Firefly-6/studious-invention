@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T11:45:58.111Z",
+  "updated": "2026-08-02T15:47:16.769Z",
   "count": 200,
   "items": [
     {
@@ -37,6 +37,17 @@
         "需求↑",
         "供给↓",
         "进口"
+      ]
+    },
+    {
+      "title": "СМИ: на Украине начали ограничивать продажу дизеля из-за дефицита",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218240-ukraine-dizelya",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 18:07:54 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
       ]
     },
     {
@@ -161,13 +172,63 @@
       ]
     },
     {
-      "title": "Кинокомпания СТВ с начала года подала иски об авторских правах на 7,5 млн рублей",
-      "link": "https://iz.ru/2142542/2026-08-02/kinokompaniia-stv-s-nachala-goda-podala-iski-ob-avtorskikh-pravakh-na-75-mln-rublei",
+      "title": "Россиянам объяснили причину отличия стоимости услуги в клинике от цены на сайте",
+      "link": "https://lenta.ru/news/2026/08/02/rossiyanam-ob-yasnili-prichinu-otlichiya-stoimosti-uslugi-v-klinike-ot-tseny-na-sayte/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:51:55 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ]
+    },
+    {
+      "title": "Миллер назвал завод по производству Patriot на Украине возможной целью ВС РФ",
+      "link": "https://iz.ru/2142623/miller-nazval-planiruiushchiisia-zavod-po-vypusku-patriot-na-ukraine-tceliu-vs-rf-izi",
       "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:40:00 +0300",
-      "summary": "<p>Кинокомпания СТВ, владеющая правами на такие фильмы, как «Брат», «Брат 2» и «Жмурки», с начала 2026 года подала 100 исков о защите интеллектуальных прав на общую сумму около 7,5 млн рублей. Об этом 2 августа сообщило ",
+      "pubDate": "Sun, 02 Aug 2026 17:50:48 +0300",
+      "summary": "<p>Завод по производству ракет для американских комплексов Patriot на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a> может стать одной из целей российских ударов. Об этом 2 августа сказал бывший премьер-",
+      "tags": [
+        "生产"
+      ]
+    },
+    {
+      "title": "В МИД России отреагировали на сокращение списка отсрочки от мобилизации на Украине",
+      "link": "https://lenta.ru/news/2026/08/02/v-mid-rossii-otreagirovali-na-sokraschenie-spiska-otsrochki-ot-mobilizatsii-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:09:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ]
+    },
+    {
+      "title": "Мендель указала на значительное снижение поддержки Зеленского на Украине",
+      "link": "https://iz.ru/2142583/mendel-ukazala-na-znachitelnoe-snizhenie-podderzhki-zelenskogo-na-ukraine-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:44:00 +0300",
+      "summary": "<p>Число сторонников президента <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимира Зеленского</a> существенно сократилось. Об этом 2 а",
+      "tags": [
+        "供给↓"
+      ]
+    },
+    {
+      "title": "В Омске отменили концерт на Соборной площади из-за атаки ВСУ",
+      "link": "https://iz.ru/2142597/2026-08-02/v-omske-otmenili-kontcert-na-sobornoi-ploshchadi-iz-za-ataki-vsu",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:31:06 +0300",
+      "summary": "<p>В Омске из-за отражения средствами противовоздушной обороны (ПВО) атаки украинских беспилотников отменен вечерний концерт на Соборной площади, приуроченный к финалу VIII Всероссийского конкурса «Лучший водитель такси ",
       "tags": [
         "汇率"
+      ]
+    },
+    {
+      "title": "Кольский научный центр РАН опроверг сведения о якобы открытии нового минерала",
+      "link": "https://iz.ru/2142554/2026-08-02/kolskii-nauchnyi-tcentr-ran-oproverg-svedeniia-o-iakoby-otkrytii-novogo-minerala",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 14:37:00 +0300",
+      "summary": "<p>Кольский научный центр Российской академии наук (КНЦ РАН) опроверг распространившуюся в СМИ информацию об открытии нового сверхдорогого минерала. Об этом 2 августа сообщили в пресс-службе центра.</p><p>«Это недоразуме",
+      "tags": [
+        "需求↑"
       ]
     },
     {
@@ -201,41 +262,11 @@
       ]
     },
     {
-      "title": "Reuters узнало о проведении Японией и США первой за 15 лет валютной интервенции",
-      "link": "https://iz.ru/2142529/reuters-uznalo-o-provedenii-iaponiei-i-ssha-pervoi-za-15-let-valiutnoi-interventcii-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:57:11 +0300",
-      "summary": "<p>Министр финансов Японии Сацуки Катаяма 3 августа может объявить о первом за 15 лет совместном вмешательстве Токио и Вашингтона в ситуацию на валютном рынке с целью остановить падение иены до минимального уровня за 40 ",
-      "tags": [
-        "汇率"
-      ]
-    },
-    {
       "title": "Снявшая фильм «Брат» компания подала 100 исков на 7,5 миллиона рублей",
       "link": "https://lenta.ru/news/2026/08/02/raskryty-100-iskov-snyavshey-film-brat-kompanii-na-7-5-milliona-rubley/",
       "source": "Lenta",
       "pubDate": "Sun, 02 Aug 2026 10:20:00 +0300",
       "summary": "",
-      "tags": [
-        "汇率"
-      ]
-    },
-    {
-      "title": "Армения может потерять свыше 80% доходов от экспорта абрикосов без России",
-      "link": "https://iz.ru/2142510/2026-08-02/armeniia-mozhet-poteriat-svyshe-80-dokhodov-ot-eksporta-abrikosov-bez-rossii",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 10:14:49 +0300",
-      "summary": "<p>Армения рискует лишиться более 80% доходов от экспорта абрикосов без российского рынка. Об этом 2 августа сообщило <a href=\"https://ria.ru/\" target=\"_blank\">«РИА Новости»</a> со ссылкой на данные национальных статисти",
-      "tags": [
-        "出口"
-      ]
-    },
-    {
-      "title": "Один в поле воин: как проходят учения курсантов ВДВ",
-      "link": "https://iz.ru/2139290/gallery/ucheniia-kursantov-desantikov-ko-dniu-vdv",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 10:00:00 +0300",
-      "summary": "В Рязанском гвардейском высшем воздушно-десантном училище завершился очередной этап полевой подготовки",
       "tags": [
         "汇率"
       ]
@@ -291,26 +322,6 @@
       ]
     },
     {
-      "title": "Россиянка описала отель во Вьетнаме фразой «кусачие цены и проблема с ле­жа­ка­ми»",
-      "link": "https://lenta.ru/news/2026/08/01/rossiyanka-opisala-otel-vo-vietname-frazoy-kusachie-tseny-i-problema-s-le-zha-ka-mi/",
-      "source": "Lenta",
-      "pubDate": "Sat, 01 Aug 2026 17:33:36 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ]
-    },
-    {
-      "title": "Удорожание производства самолетов Ил-114-300 назвали закономерным",
-      "link": "https://lenta.ru/news/2026/08/01/udorozhanie-proizvodstva-samoletov-il-114-300-nazvali-zakonomernym/",
-      "source": "Lenta",
-      "pubDate": "Sat, 01 Aug 2026 17:08:00 +0300",
-      "summary": "",
-      "tags": [
-        "生产"
-      ]
-    },
-    {
       "title": "WP: Нетаньяху наложил вето на поставку систем «Железный купол» Украине",
       "link": "https://www.vedomosti.ru/politics/news/2026/08/01/1218147-netanyahu-zheleznii-kupol",
       "source": "Vedomosti",
@@ -318,36 +329,6 @@
       "summary": "",
       "tags": [
         "物流"
-      ]
-    },
-    {
-      "title": "Нетаньяху отказал Украине в поставках ПРО",
-      "link": "https://lenta.ru/news/2026/08/01/netanyahu-otkazal-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Sat, 01 Aug 2026 16:46:00 +0300",
-      "summary": "",
-      "tags": [
-        "物流"
-      ]
-    },
-    {
-      "title": "Американские ученые завели аккаунт OnlyFans из-за сокращения бюджетов",
-      "link": "https://lenta.ru/news/2026/08/01/amerikanskie-uchenye-zaveli-akkaunt-onlyfans-iz-za-sokrascheniya-byudzhetov/",
-      "source": "Lenta",
-      "pubDate": "Sat, 01 Aug 2026 16:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ]
-    },
-    {
-      "title": "На Украине усомнились в запуске производства ракет для Patriot",
-      "link": "https://lenta.ru/news/2026/08/01/no-patriot/",
-      "source": "Lenta",
-      "pubDate": "Sat, 01 Aug 2026 15:35:00 +0300",
-      "summary": "",
-      "tags": [
-        "生产"
       ]
     },
     {
@@ -521,26 +502,6 @@
       ]
     },
     {
-      "title": "РБК: ущерб по делу миллиардера Кустова составил 8,6 млрд рублей",
-      "link": "https://www.vedomosti.ru/society/news/2026/07/31/1217838-uscherb-delu-milliardera",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 31 Jul 2026 07:59:01 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ]
-    },
-    {
-      "title": "США ввели санкции за связь с иранской авиакомпанией Mahan Air",
-      "link": "https://www.vedomosti.ru/politics/news/2026/07/30/1217808-ssha-vveli-sanktsii",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 30 Jul 2026 22:47:21 +0300",
-      "summary": "",
-      "tags": [
-        "制裁"
-      ]
-    },
-    {
       "title": "Топливный кризис в России отразился на ценах на бензин в Узбекистане — стоимость топлива выросла до 20% - Piter.tv",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42bk1YTEhfTW9jZjVGbFY0LUxDU0EyN0YyQV9lbmZ5OHByRWZhUFhLTFlJSkl3QlM1VWNIYmNianA4UkZIVzgxYWQ1elZ2WHdzZWNlcnRYTWFDSWRyTmN6MW1EdFcyUTA5clZJaWxULWE4ck9M?oc=5",
       "source": "GoogleNews",
@@ -601,7 +562,17 @@
       ]
     },
     {
-      "title": "В РФ ограничили параллельный импорт ПК и ноутбуков - itspeaker.ru",
+      "title": "Отели Сочи снижают цены, но загрузка остается на уровне 25–30% - Ассоциация Туроператоров",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0tySlRHeHJTMnRyNUxmd0lUbFVZVlJtNEpsM01lOGt6REVzaVhKNWVvSjJyaGRyeWowRUNvbkNtNTFUclNtWjRxN0dQTC1kdDRDdk5rZjlCYmtfaG1ZRTMtWF9IV3VnZ0loQ1FYdjBTRGVqM2gyaV9maHZFTnlnQmdJX1A3a09tTzJuZzVsSXJnZGp6b2RoTEdkcTQ5U1lXZEHSAacBQVVfeXFMUFhPd1RKbzZKd0FGcVB5akVfM1k2UmFndFIyZ29jZFNlMmM5SXhWSEhmNXdCdDlmVWxkdWVkOEVNanU2eXp4Y1p0R25jQnJ0bzBwQ2ZIUmdHWGY3b282ejBzYm9hdW9HZ3RiMXRINDdSbF9YYjR3RHY3NDc3WEJtYnhobWttRmYwbHREVkRfZktMejhkeVRndmZlWDJ2amdabkxiVURnVGs?oc=5",
+      "source": "GoogleNews",
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0tySlRHeHJTMnRyNUxmd0lUbFVZVlJtNEpsM01lOGt6REVzaVhKNWVvSjJyaGRyeWowRUNvbkNtNTFUclNtWjRxN0dQTC1kdDRDdk5rZjlCYmtfaG1ZRTMtWF9IV3VnZ0loQ1FYdjBTRGVqM2gyaV9maHZFTn",
+      "tags": [
+        "价格"
+      ]
+    },
+    {
+      "title": "В РФ ограничили параллельный импорт ПК и ноутбуков - ITSpeaker",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDhZN3BwdGt3MnZ2WTBURVlURGFXQXlyUXVuS09HVVRobkt4VVlGWnc0ek0xUGtHR28tZnFIY0tVd2tPRlNNdTl1V1Uwa1d4RTNXTzJONTI4RzRiel93TGV5QVA2aHNwLXY2RGRoTWRNV05nNnJjRmhrM2pKZkFsLVRRQQ?oc=5",
       "source": "GoogleNews",
       "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -631,7 +602,7 @@
       ]
     },
     {
-      "title": "Минпромторг с 27 мая запретит параллельный импорт компьютеров, комплектующих, щёток Oral-B и игрушек Spin Master - alta.ru",
+      "title": "Минпромторг с 27 мая запретит параллельный импорт компьютеров, комплектующих, щёток Oral-B и игрушек Spin Master - Альта-Софт",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZXdUZEUwSWpfOXBLdm1Sc1daSVZXNU4yVlg3VXM4TUI1WC0tVDJ5aWpsMTVRYkl2Z2dsZlA5eWZJYU1XSjdPMDg1VnVPZ1E3VG1z?oc=5",
       "source": "GoogleNews",
       "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
@@ -646,16 +617,6 @@
       "source": "GoogleNews",
       "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tSkw0SFdncU9jYll4MVc4UzZRbG9Sb0UwYWdoSzFGcnY2QWpmN2tVVGQ2bXhWWm50TkVZUEtRT3NhUnBnOG9Zdw?oc=5\" target=\"_blank\">Дилер объяснил рост спроса на премиальные автомоб",
-      "tags": [
-        "需求↑"
-      ]
-    },
-    {
-      "title": "Песков раскрыл, как РФ спасает ситуацию с растущим спросом на нефть в мире - NEWS.ru",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXFRcU5kTU5CT1ROSXBSU25Ed1VBNjE0ZTVLcFpTVzZpLTdGeFdpbG5PWUJreDRxZ2FZZ1FTT3Vxb01qTUFtamRIWENQb1NiYU81T0RwZkg1Q2pJY212OTliVVFkejlxQ1ZOZzZJUUJvRUlaOXUyandadWZ5VEloNzJ3SHJTd0lD0gGOAUFVX3lxTE9LYkZGU25HamlNNHlrRjhBNV9OeWlKSDRTMzhMVV96NDJSMGRYS1dCVnZEYnBNb0dvU0I4MW1nM0pEUmVuX2dSb0c0dnZIVC1MUDl0aWFXSlg0QzNzTEF2bFlpLXRUVUMwMkw0NEZYS1lkbXRCcXItaFpNN2h3aEdPOGV0dGFnUGZ2cUVzb1E?oc=5",
-      "source": "GoogleNews",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXFRcU5kTU5CT1ROSXBSU25Ed1VBNjE0ZTVLcFpTVzZpLTdGeFdpbG5PWUJreDRxZ2FZZ1FTT3Vxb01qTUFtamRIWENQb1NiYU81T0RwZkg1Q2pJY212OTliVVFkejlxQ1ZOZzZJUUJvRUlaOXUyandadWZ5VE",
       "tags": [
         "需求↑"
       ]
@@ -681,7 +642,7 @@
       ]
     },
     {
-      "title": "Панические куплеты: в России вырос импорт моделей ушедших автобрендов - alta.ru",
+      "title": "Панические куплеты: в России вырос импорт моделей ушедших автобрендов - Альта-Софт",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BV2lKdzhWdWFVNW5EZS10OVgwNmE5Z3loWDVrSnl5NUFaZDZSNTNYR2pRZmRrdFBhdUFST3FlanhCdkZnZFB1Z0dsWEFSQnVpTFh3?oc=5",
       "source": "GoogleNews",
       "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
@@ -701,7 +662,7 @@
       ]
     },
     {
-      "title": "РФ может перенаправить поставки углеводородов на фоне ближневосточного конфликта - Ведомости",
+      "title": "РФ может перенаправить поставки углеводородов на фоне ближневосточного конфликта - vedomosti.ru",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUW03c3FFUVZFVkdKY0laTTVfdXgxdjhuTGMwT3R1VEl0UjA2UWwtek5aQnI4Y2REVklGU1RtU3Y1NVlXOUVwVm56NjdXLTJXMElKZUMyLVZWY3MwRlBKZ0RVLWIxM191OWg4RjE5R0g3N29XOWZaeUN2N25IRzg0VlNvYU90bXZVMkQwSEFkVEE5cHdWaWdSRUxYQlc2Z28xRjE4YXItVjYwd3hsY1JDV3VDa0tLTFVjTmRnU1VOeVR4SklaX3psN3p3?oc=5",
       "source": "GoogleNews",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
@@ -881,34 +842,842 @@
       ]
     },
     {
-      "title": "Следующее заседание мониторингового комитета ОПЕК+ пройдет 4 октября",
-      "link": "https://ria.ru/20260802/opek-2108511684.html",
+      "title": "В аэропорту Омска сняли ограничения на прием и выпуск воздушных судов",
+      "link": "https://ria.ru/20260802/omsk-2108535701.html",
       "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:44:45 +0300",
+      "pubDate": "Sun, 02 Aug 2026 18:40:43 +0300",
       "summary": "",
       "tags": []
     },
     {
-      "title": "В Тульской области уничтожили два украинских беспилотника",
-      "link": "https://ria.ru/20260802/pvo-2108511520.html",
+      "title": "Премьер Сербии призвал граждан экономить электроэнергию",
+      "link": "https://ria.ru/20260802/serbiya-2108535370.html",
       "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:42:28 +0300",
+      "pubDate": "Sun, 02 Aug 2026 18:37:24 +0300",
       "summary": "",
       "tags": []
     },
     {
-      "title": "В аэропорту Челябинска сняли временные ограничения",
-      "link": "https://ria.ru/20260802/cheljabinsk-2108511347.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:41:08 +0300",
+      "title": "В МИД рассказали о расплате Киевом людьми за кредит ЕС",
+      "link": "https://lenta.ru/news/2026/08/02/v-mid-rasskazali-o-rasplate-kievom-lyudmi-za-kredit-es/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 18:31:57 +0300",
       "summary": "",
       "tags": []
     },
     {
-      "title": "В аэропорту Екатеринбурга сняли ограничения на полеты",
-      "link": "https://ria.ru/20260802/ekaterinburg-2108510539.html",
+      "title": "Число погибших при пожаре в квартире в Петербурге увеличилось до трех",
+      "link": "https://ria.ru/20260802/peterburg-2108535051.html",
       "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:36:13 +0300",
+      "pubDate": "Sun, 02 Aug 2026 18:31:16 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Тигр схватил пастуха за ногу и попытался утащить в лес",
+      "link": "https://lenta.ru/news/2026/08/02/tigr-shvatil-pastuha-za-nogu-i-popytalsya-utaschit-v-les/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 18:31:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В приграничном регионе человек пострадал из-за атаки ВСУ",
+      "link": "https://lenta.ru/news/2026/08/02/v-prigranichnom-regione-chelovek-postradal-iz-za-ataki-vsu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 18:30:35 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В аэропортах Кургана, Тобольска и Тюмени сняли ограничения",
+      "link": "https://ria.ru/20260802/aeroporty-2108534928.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:30:13 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Суд в Москве отказался признать сгенерированные ИИ изображения творчеством",
+      "link": "https://iz.ru/2142596/sud-v-moskve-otkazalsia-priznat-sgenerirovannye-ii-izobrazheniia-tvorchestvom-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:27:00 +0300",
+      "summary": "<p>Суд в <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> отказал в защите авторских прав создателю изображений, сгенерированных с помощью нейросети, признав их результатом технического процесса, а не творче",
+      "tags": []
+    },
+    {
+      "title": "В Тюменской области отменили режим беспилотной опасности",
+      "link": "https://ria.ru/20260802/tyumen-2108534779.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:25:47 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Греции два человека погибли при крушении пожарных вертолетов",
+      "link": "https://ria.ru/20260802/gretsija-2108534578.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:24:17 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Мендель указала на большую выгоду Зеленского от продолжения конфликта на Украине",
+      "link": "https://iz.ru/2142616/mendel-ukazala-na-bolshuiu-vygodu-zelenskogo-ot-prodolzheniia-konflikta-na-ukraine-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:24:00 +0300",
+      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимир Зеленский</a> стал главным препятствием для страны и получает выгоду от",
+      "tags": []
+    },
+    {
+      "title": "В Румынии у границы с Украиной упали фрагменты беспилотника",
+      "link": "https://ria.ru/20260802/rumynija-2108534397.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:22:46 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В аэропорту Домодедово сняли ограничения на прием и выпуск самолетов",
+      "link": "https://ria.ru/20260802/domodedovo-2108534261.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:22:26 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Тысячи туристов приехали на фестиваль \"Праздник огурца\"",
+      "link": "https://iz.ru/2142637/video/tysiachi-turistov-priekhali-na-festival-prazdnik-ogurtca",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:22:06 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Аэропорт Домодедово принимает и отправляет рейсы по согласованию",
+      "link": "https://ria.ru/20260802/domodedovo-2108534101.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:20:49 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Футболистка марокканского «Магреб Атлетик» погибла, пытаясь добраться до Сеуты",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218242-futbolistka-pogibla",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 18:15:54 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Число пострадавших при обстреле в Белгородской области выросло до четырех",
+      "link": "https://ria.ru/20260802/postradavshie-2108533576.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:14:34 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Два пожарных вертолета столкнулись к западу от Афин",
+      "link": "https://iz.ru/2142632/2026-08-02/dva-pozharnykh-vertoleta-stolknulis-k-zapadu-ot-afin",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:13:34 +0300",
+      "summary": "<p>В Греции во время тушения крупного пожара в районе Псатха столкнулись и разбились два вертолета. Об этом 2 августа сообщает издание <a href=\"https://www.naftemporiki.gr/society/2145857/thriler-stin-psatha-elikoptero-p",
+      "tags": []
+    },
+    {
+      "title": "Пугачева может потерять права на товарный знак «Баронесса фон Орбах»",
+      "link": "https://iz.ru/2142609/pugacheva-mozhet-lishitsia-tovarnogo-znaka-baronessa-fon-orbakh-zi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:09:00 +0300",
+      "summary": "<p>Певица Алла Пугачева может лишиться права на товарный знак «Баронесса фон Орбах», если в течение ближайших шести месяцев не продлит его регистрацию и не выплатит установленный штраф. Соответствующая информация следует",
+      "tags": []
+    },
+    {
+      "title": "В Карачаево-Черкесии взрыв газа произошел во время свадьбы",
+      "link": "https://ria.ru/20260802/karachaevo-cherkesija-2108533135.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:08:46 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Армия России поразила два сухогруза и буксир в порту Николаева",
+      "link": "https://iz.ru/2142629/2026-08-02/armiia-rossii-porazila-dva-sukhogruza-i-buksir-v-portu-nikolaev",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 18:04:49 +0300",
+      "summary": "<p>Вооруженные силы (ВС) РФ нанесли удары по транспортной инфраструктуре, задействованной в интересах Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ), в порту Николаева и Черном море",
+      "tags": []
+    },
+    {
+      "title": "В КЧР после взрыва газа в частном доме не было возгорания",
+      "link": "https://ria.ru/20260802/kchr-2108532713.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:01:23 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Сеуте жители разрываются между желанием помочь мигрантам и страхом",
+      "link": "https://ria.ru/20260802/seuta-2108532501.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 18:00:19 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Карачаево-Черкесии при взрыве газа в частном доме пострадали 10 человек",
+      "link": "https://iz.ru/2142625/v-karachaevo-cherkesii-pri-vzryve-gaza-v-chastnom-dome-postradali-10-chelovek-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:59:19 +0300",
+      "summary": "<p>В Усть-Джегутинском районе Карачаево-Черкесии произошел хлопок газовоздушной смеси в частном доме, пострадали 10 человек. Об этом 2 августа сообщили в пресс-службе главного управления МЧС России по республике.</p><p>«",
+      "tags": []
+    },
+    {
+      "title": "ВС России поразили в Черном море сухогруз с грузами военного назначения",
+      "link": "https://ria.ru/20260802/sukhogruz-2108532358.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:59:06 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "ВС России поразили три судна с военными грузами для ВСУ",
+      "link": "https://ria.ru/20260802/port-2108532269.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:58:35 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Сеуте пожаловались на неравные меры безопасности из-за наплыва мигрантов",
+      "link": "https://ria.ru/20260802/ispanija-2108532093.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:58:15 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Мадьяр предупредил венгров о сложном периоде из-за отключения АЭС «Пакш»",
+      "link": "https://iz.ru/2142608/2026-08-02/madiar-predupredil-vengrov-o-slozhnom-periode-iz-za-otkliucheniia-aes-paksh",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:55:00 +0300",
+      "summary": "<p>Премьер-министр Венгрии Петер Мадьяр<em> </em>2 августа предупредил граждан страны, что их ждет сложный пятидневный период из-за сильной жары и полного отключения АЭС «Пакш».</p><p>«Соотечественники, мы стоим перед са",
+      "tags": []
+    },
+    {
+      "title": "В Сербии из-за обмеления Дуная стали видны затопленные корабли Третьего рейха",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218239-obmeleniya-dunaya-korabli-reiha",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 17:53:33 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Экс-посол ФРГ в России выразил восхищение физической подготовкой Путина",
+      "link": "https://ria.ru/20260802/putin-2108531711.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:50:03 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Лондоне несколько человек пострадали во время давки на фестивале",
+      "link": "https://ria.ru/20260802/london-2108531345.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:44:17 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Карачаево-Черкесии при взрыве газа в доме пострадали десять человек",
+      "link": "https://ria.ru/20260802/gaz-2108531251.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:43:03 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Греции при тушении пожара столкнулись два вертолета",
+      "link": "https://ria.ru/20260802/gretsija-2108530984.html",
+      "source": "RIA",
+      "pubDate": "Sun, 02 Aug 2026 17:42:21 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Мужчина сел на лавку в Москве и получил ожоги от удара током",
+      "link": "https://iz.ru/2142602/muzhchina-sel-na-lavku-v-moskve-i-poluchil-ozhogi-ot-udara-tokom-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:41:00 +0300",
+      "summary": "<p>Мужчина получил ожоги после того, как сел на лавку на западе <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a>. Об этом 2 августа сообщил источник «Известий».</p><p>Инцидент произошел на улице Герасима Кур",
+      "tags": []
+    },
+    {
+      "title": "Люди пострадали при взрыве газа в частном доме в российском регионе",
+      "link": "https://lenta.ru/news/2026/08/02/lyudi-postradali-pri-vzryve-gaza-v-chastnom-dome-v-rossiyskom-regione/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:35:23 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Акция протеста против советских памятников прошла в Кишинёве",
+      "link": "https://iz.ru/2142619/video/aktciia-protesta-protiv-sovetskikh-pamiatnikov-proshla-v-kishineve",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:33:22 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Робот «Курьер» получил лазер для дистанционного разминирования",
+      "link": "https://iz.ru/2142618/2026-08-02/robot-kurer-poluchil-lazer-dlia-distantcionnogo-razminirovaniia",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:33:21 +0300",
+      "summary": "<p>Лазерные средства разминирования, которые устанавливаются на наземном робототехническом комплексе «Курьер», позволяют разрушить боеприпас без подрыва даже под слоем грунта. Об этом 2 августа рассказал эксперт программ",
+      "tags": []
+    },
+    {
+      "title": "В 2025 году россияне отдыхали в Черногории в 2,2 раза дольше других иностранцев",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/02/1218233-rossiyane-chernogorii",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 17:33:04 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Людям с болезнями сердца раскрыли симптомы начинающегося инфаркта",
+      "link": "https://lenta.ru/news/2026/08/02/lyudyam-s-boleznyami-serdtsa-raskryli-simptomy-nachinayuschegosya-infarkta/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:30:29 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Российские мужчины начали уменьшать грудь",
+      "link": "https://lenta.ru/news/2026/08/02/rossiyskie-muzhchiny-nachali-umenshat-grud/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:28:48 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Возгорание произошло в поле около Омска из-за падения обломков БПЛА",
+      "link": "https://iz.ru/2142615/zagorelos-pole-pod-omskom-posle-padeniia-oblomkov-dronov-vsu-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:27:37 +0300",
+      "summary": "<p>В результате падения обломков сбитого беспилотника в окрестностях Омска произошло возгорание в поле. Об этом 2 августа сообщил губернатор Омской области Виталий Хоценко.</p><p>«В результате падения обломков вражеского",
+      "tags": []
+    },
+    {
+      "title": "Полковник объяснил причину удара ВСУ по территории ЗАЭС",
+      "link": "https://lenta.ru/news/2026/08/02/polkovnik-ob-yasnil-prichinu-udara-po-territorii-zaes/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:27:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Греции два вертолета столкнулись во время тушения лесных пожаров",
+      "link": "https://lenta.ru/news/2026/08/02/v-gretsii-dva-vertoleta-stolknulis-vo-vremya-tusheniya-lesnyh-pozharov/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:25:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В МИД России указали на попытку Киева нарастить мобилизацию «пушечного мяса»",
+      "link": "https://iz.ru/2142613/2026-08-02/miroshnik-ukazal-na-popytku-kieva-narastit-mobilizatciiu-pushechnogo-miasa",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:20:32 +0300",
+      "summary": "<p>Власти <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> под давлением европейских спонсоров конфликта ужесточают законодательные механизмы для проведения тотальной мобилизации граждан страны на фронт. О",
+      "tags": []
+    },
+    {
+      "title": "СК отреагировал на смерть младенца при родах в российском регионе",
+      "link": "https://lenta.ru/news/2026/08/02/sk-otreagiroval-na-smert-mladentsa-pri-rodah-v-rossiyskom-regione/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 17:20:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Федорищев: погибших из-за атаки на склад Wildberries в Самарской области нет",
+      "link": "https://iz.ru/2142612/fedorishchev-pogibshikh-iz-za-ataki-na-sklad-wildberries-v-samarskoi-oblasti-net-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:17:05 +0300",
+      "summary": "<p>В результате атаки беспилотников на склад Wildberries в Самарской области погибших нет, на месте происшествия продолжается ликвидация пожара. Об этом 2 августа сообщил губернатор региона Вячеслав Федорищев.</p><p>Ране",
+      "tags": []
+    },
+    {
+      "title": "ОПЕК+ повысила сентябрьские квоты на добычу нефти на 188 тыс. баррелей в день",
+      "link": "https://iz.ru/2142594/2026-08-02/opek-povysila-sentiabrskie-kvoty-na-dobychu-nefti-na-188-tys-barrelei-v-den",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:13:00 +0300",
+      "summary": "<p>Страны ОПЕК+ приняли решение скорректировать сентябрьские квоты и суммарно повысить объемы добычи нефти на 188 тыс. баррелей в сутки. Об этом 2 августа сообщила пресс-служба организации на <a href=\"https://www.opec.or",
+      "tags": []
+    },
+    {
+      "title": "Столкновение вертолетов в Греции",
+      "link": "https://iz.ru/2142610/video/stolknovenie-vertoletov-v-gretcii",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 17:11:47 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Головин: ЕР будет расширять меры поддержки участников СВО",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218229-er-meri-podderzhki-svo",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 17:11:32 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В аэропорту Нюрнберга 20 человек подрались из-за мест в очереди",
+      "link": "https://iz.ru/2142593/dvadtcat-chelovek-podralis-v-aeroportu-niurnberga-iz-za-mest-v-ocheredi-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:59:00 +0300",
+      "summary": "<p>В аэропорту Нюрнберга в Германии произошла массовая драка между пассажирами из-за спора о месте в очереди к стойкам регистрации. Об этом 2 августа сообщила газета <a href=\"https://www.bild.de/regional/bayern/flughafen",
+      "tags": []
+    },
+    {
+      "title": "Стало известно о системе слежки Китая за иностранцами",
+      "link": "https://lenta.ru/news/2026/08/02/stalo-izvestno-o-sisteme-slezhki-kitaya-za-inostrantsami/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:53:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Дептранс предупредил о возможных ограничениях на нескольких станциях метро Москвы",
+      "link": "https://lenta.ru/news/2026/08/02/deptrans-predupredil-o-vozmozhnyh-ogranicheniyah-na-neskolkih-stantsiyah-metro-moskvy/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:48:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Два человека пострадали при взрыве дрона на российском предприятии",
+      "link": "https://lenta.ru/news/2026/08/02/dva-cheloveka-postradali-pri-vzryve-drona-na-rossiyskom-predpriyatii/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:48:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Трамп опубликовал свою фотографию с инопланетянином",
+      "link": "https://iz.ru/2142578/tramp-opublikoval-svoiu-fotografiiu-s-inoplanetianinom-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:44:00 +0300",
+      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> Дональд <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Трамп</a> 2 августа опубликовал в своей социальной сети Truth Social созданное с помо",
+      "tags": []
+    },
+    {
+      "title": "Суд заключил под стражу подозреваемого в убийстве россиянки в Белграде",
+      "link": "https://iz.ru/2142599/sud-zakliuchil-pod-strazhu-podozrevaemogo-v-ubiistve-rossiianki-v-belgrade-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:43:50 +0300",
+      "summary": "<p>Суд в Белграде отправил под арест на 30 суток гражданина <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турции</a>, подозреваемого в убийстве россиянки Людмилы Турковой. Об этом 2 августа сообщило агентство <a h",
+      "tags": []
+    },
+    {
+      "title": "Подозреваемого в убийстве россиянки в Сербии арестовали на 30 суток",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218227-ubiistve-rossiyanki-serbii",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 16:41:35 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Москве мужчина сел на лавочку и пострадал",
+      "link": "https://lenta.ru/news/2026/08/02/v-moskve-muzhchina-sel-na-lavochku-i-postradal/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:33:29 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Россиянки назвали идеальное место для предложения руки и сердца",
+      "link": "https://lenta.ru/news/2026/08/02/rossiyanki-nazvali-idealnoe-mesto-dlya-predlozheniya-ruki-i-serdtsa/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:33:03 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Жовнер взяла золото на соревнованиях по академической гребле чемпионата Европы",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/02/1218228-zhovner-zoloto",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 16:30:16 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Июль 2026 года могут признать самым засушливым для Англии и Уэльса",
+      "link": "https://iz.ru/2142579/2026-08-02/iiul-2026-goda-mogut-priznat-samym-zasushlivym-dlia-anglii-i-uelsa",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:30:00 +0300",
+      "summary": "<p>Согласно прогнозам экспертов, июль 2026 года могут признать самым засушливым для Англии и Уэльса за всю историю наблюдений из-за экстремальной жары. Об этом 2 августа сообщила газета <a href=\"https://www.theguardian.c",
+      "tags": []
+    },
+    {
+      "title": "Слова госсекретаря США о новом импульсе переговоров по Украине вызвали гнев на Западе",
+      "link": "https://lenta.ru/news/2026/08/02/slova-gossekretarya-ssha-o-novom-impulse-peregovorov-po-ukraine-vyzvali-gnev-na-zapade/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:27:50 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Белоруссии заявили о создании десантно-штурмовой бригады на границе с Украиной",
+      "link": "https://iz.ru/2142590/2026-08-02/v-belorussii-zaiavili-o-sozdanii-desantno-shturmovoi-brigady-na-granitce-s-ukrainoi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:23:52 +0300",
+      "summary": "<p>Белоруссия стала формировать 37-ю отдельную десантно-штурмовую бригаду вблизи Гомеля на границе с <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украиной</a>. Об этом 2 августа заявил командующий Силами специальн",
+      "tags": []
+    },
+    {
+      "title": "Количество погибших при попытке добраться до Сеуты беженцев увеличилось до 94",
+      "link": "https://iz.ru/2142572/2026-08-02/kolichestvo-pogibshikh-pri-popytke-dobratsia-do-seuty-bezhentcev-uvelichilos-do-94",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:16:00 +0300",
+      "summary": "<p>Количество погибших при попытке добраться до Сеуты марокканцев увеличилось до 94. Об этом 2 августа сообщила радиостанция <a href=\"https://iz.ru/\">Cadena SER</a> со ссылкой на местные власти.</p><p>«Увеличилось число ",
+      "tags": []
+    },
+    {
+      "title": "При взрыве дрона на предприятии в Белгородской области пострадали два человека",
+      "link": "https://iz.ru/2142592/pri-vzryve-drona-na-predpriiatii-v-belgorodskoi-oblasti-postradali-dva-cheloveka-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:14:18 +0300",
+      "summary": "<p>В селе Ясные Зори Белгородской области беспилотник взорвался на территории предприятия, в результате пострадали два человека. Об этом 2 августа сообщил оперативный штаб региона.</p><p>«В Октябрьскую районную больницу ",
+      "tags": []
+    },
+    {
+      "title": "ВСУ атаковали российский регион в 2500 километрах от границы",
+      "link": "https://lenta.ru/news/2026/08/02/vsu-atakovali-rossiyskiy-region-v-2500-kilometrah-ot-granitsy/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 16:09:25 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "На КПП в Нарве выстроились очереди из желающих попасть в Россию",
+      "link": "https://iz.ru/2142588/2026-08-02/na-kpp-v-narve-vystroilis-ocheredi-iz-zhelaiushchikh-popast-v-rossiiu",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:07:09 +0300",
+      "summary": "<p>На контрольно-пропускном пункте в Нарве продолжают фиксироваться значительные очереди из граждан, желающих пересечь границу и попасть на территорию России. Об этом 2 августа сообщила пресс-служба Северо-Западного тамо",
+      "tags": []
+    },
+    {
+      "title": "Роспотребнадзор сообщил об отсутствии вируса Бурбон на территории России",
+      "link": "https://iz.ru/2142587/rospotrebnadzor-soobshchil-ob-otsutstvii-virusa-burbon-na-territorii-rossii-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:03:45 +0300",
+      "summary": "<p>Подтвержденных данных о циркуляции вируса Бурбон на территории России нет. Об этом 2 августа сообщила пресс-служба Роспотребнадзора.</p><p>«На данный момент подтвержденных данных о циркуляции вируса Бурбон на территор",
+      "tags": []
+    },
+    {
+      "title": "Взрыв у ресторана Balzi Rossi в центре Москвы. Главное",
+      "link": "https://iz.ru/2142575/terakt-u-restorana-balzi-rossi-v-tcentre-moskvy-chto-izvestno-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:02:00 +0300",
+      "summary": "<p>Вечером 1 августа в центре <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> у ресторана Balzi Rossi на Кудринской площади прогремел взрыв. По последним данным, погибли пять человек, еще 19 пострадали. Нац",
+      "tags": []
+    },
+    {
+      "title": "Магнитная буря накроет Землю в ближайшие сутки",
+      "link": "https://iz.ru/2142589/magnitnaia-buria-nakroet-zemliu-v-blizhaishie-sutki-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 16:01:10 +0300",
+      "summary": "<p>Вероятность магнитной бури на Земле в ближайшие сутки оценивается в 75%, ухудшение геомагнитной обстановки ожидается в ночь на 2 августа. Об этом сообщили специалисты центра погоды <a href=\"https://www.meteovesti.ru/n",
+      "tags": []
+    },
+    {
+      "title": "Суд решил судьбу подозреваемого в расчленении пропавшей россиянки в Сербии турка",
+      "link": "https://lenta.ru/news/2026/08/02/sud-reshil-sudbu-podozrevaemogo-v-raschlenenii-propavshey-rossiyanki-v-serbii-turka/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:50:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Июль 2026 года может стать самым засушливым для Англии и Уэльса за всю историю",
+      "link": "https://iz.ru/2142567/iiul-2026-mogut-priznat-samym-zasushlivym-za-vsiu-istoriiu-nabliudenii-v-britanii",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:48:00 +0300",
+      "summary": "<p>Согласно прогнозам экспертов, июль 2026 года могут признать самым засушливым для Англии и Уэльса за всю историю наблюдений из-за экстремальной жары. Об этом 2 августа сообщила газета <a href=\"https://www.theguardian.c",
+      "tags": []
+    },
+    {
+      "title": "В Индонезии могут открыть филиалы российских вузов",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218226-indoneziya-rossiiskih-vuzov",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 15:47:56 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Герой России заявил о совершенствовании ЕР поддержки участников СВО",
+      "link": "https://iz.ru/2142586/geroi-rossii-zaiavil-o-sovershenstvovanii-er-podderzhki-uchastnikov-svo-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:47:12 +0300",
+      "summary": "<p>Поддержка участников специальной военной операции должна включать помощь на всех этапах возвращения к мирной жизни — от реабилитации до трудоустройства. Партия «Единая Россия» (ЕР) продолжит эту работу. Об этом 2 авгу",
+      "tags": []
+    },
+    {
+      "title": "Собянин назвал жестоким террористическим актом взрыв в ресторане в Москве",
+      "link": "https://iz.ru/2142585/sobianin-nazval-zhestokim-terroristicheskim-aktom-vzryv-v-restorane-v-moskve-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:44:03 +0300",
+      "summary": "<p>Мэр <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> Сергей Собянин 2 августа назвал произошедшее в ресторане Balzi Rossi на Кудринской площади террористическим актом.</p><p>По словам градоначальника, пра",
+      "tags": []
+    },
+    {
+      "title": "На Запорожской АЭС высказались о значениях радиационного фона после атаки ВСУ",
+      "link": "https://lenta.ru/news/2026/08/02/na-zaporozhskoy-aes-vyskazalis-o-znacheniyah-radiatsionnogo-fona-posle-ataki-vsu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:43:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Белоруссия создает десантно-штурмовую бригаду на границе с Украиной",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218224-belorussiya-granitse-ukrainoi",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 15:42:06 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Десантник прыгнул с крыши дома Санкт-Петербурге",
+      "link": "https://iz.ru/2142584/video/desantnik-prygnul-s-kryshi-doma-sankt-peterburge",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:40:46 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "На ЗАЭС заявили о рисках для ядерной безопасности после атаки ВСУ",
+      "link": "https://lenta.ru/news/2026/08/02/na-zaes-zayavili-o-riskah-dlya-yadernoy-bezopasnosti-posle-ataki-vsu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:40:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Россиянка убила ядовитого жука в Китае и попала в больницу",
+      "link": "https://lenta.ru/news/2026/08/02/molodaya-rossiyanka-ubila-yadovitogo-zhuka-v-kitae-i-popala-v-bolnitsu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:39:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "ВСУ попытались атаковать хранилище отработанного ядерного топлива на ЗАЭС",
+      "link": "https://lenta.ru/news/2026/08/02/vsu-popytalis-atakovat-hranilische-otrabotannogo-yadernogo-topliva-na-zaes/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:37:25 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Комики Катя Вяликова и Алексей Шальнов сыграли свадьбу",
+      "link": "https://iz.ru/2142566/komedianty-katia-vialikova-i-aleksei-shalnov-sygrali-svadbu-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:33:00 +0300",
+      "summary": "<p>Российская артистка Екатерина Вяликова вышла замуж за комика Алексея Шальнова. Об этом она сообщила 31 июля в Telegram-канале.</p><p>«С днем дня, когда в жизни есть место лебедям из шариков», — написала Вяликова.<br /",
+      "tags": []
+    },
+    {
+      "title": "Лихачев сообщил о 15 погибших при атаках ВСУ на Энергодар с 27 апреля",
+      "link": "https://iz.ru/2142582/likhachev-soobshchil-o-15-pogibshikh-pri-atakakh-vsu-na-energodar-s-27-aprelia-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:31:31 +0300",
+      "summary": "<p>С 27 апреля в результате атак Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) в Энергодаре Запорожской области погибли 15 жителей города, еще 51 человек получил ранения. Об этом 2",
+      "tags": []
+    },
+    {
+      "title": "Врач предупредил о самом тяжелом и необратимом побочном эффекте алкоголя",
+      "link": "https://lenta.ru/news/2026/08/02/vrach-predupredil-o-samom-tyazhelom-i-neobratimom-pobochnom-effekte-alkogolya/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:31:20 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Белоруссия поставит на границе с Украиной военную бригаду",
+      "link": "https://lenta.ru/news/2026/08/02/belorussiya-postavit-na-granitse-s-ukrainoy-voennuyu-brigadu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:30:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Мендель указала на неспособность Макрона признать провал финансирования Киева",
+      "link": "https://iz.ru/2142581/mendel-ukazala-na-nesposobnost-makrona-priznat-proval-finansirovaniia-kieva-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:29:38 +0300",
+      "summary": "<p>Президент Франции Эммануэль Макрон продолжает оказывать финансовую поддержку президенту <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Вл",
+      "tags": []
+    },
+    {
+      "title": "Минздрав Палестины: почти 74 000 человек погибли в Газе с 2023 года",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218221-74-000-pogibli-v-gaze",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 15:25:37 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Избивший будущую жену россиянин отказался платить за ее эвакуацию вертолетом",
+      "link": "https://lenta.ru/news/2026/08/02/evakuirovannaya-vertoletom-izbitaya-vozlyublennym-rossiyanka-otkazalas-platit-million-rubley/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:25:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Пять человек погибли в результате пожара на пароме в Индонезии",
+      "link": "https://iz.ru/2142560/2026-08-02/piat-chelovek-pogibli-v-rezultate-pozhara-na-parome-v-indonezii",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:19:00 +0300",
+      "summary": "<p>По меньшей мере пять человек погибли и 41 числится пропавшим без вести в результате пожара, вспыхнувшего на пароме у индонезийского острова Мадура. Об этом 2 августа сообщило агентство <a href=\"https://www.reuters.com",
+      "tags": []
+    },
+    {
+      "title": "Дрон ударил в нескольких метрах от реакторного отделения энергоблока ЗАЭС",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218222-dron-energobloka-zaes",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 15:15:03 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Стало известно об очередях на эстонской стороне границы с Россией",
+      "link": "https://lenta.ru/news/2026/08/02/stalo-izvestno-ob-ocheredyah-na-estonskoy-storone-granitsy-s-rossiey/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:15:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "WSJ указала на риск обвала мирового рынка из-за ИИ-пузыря",
+      "link": "https://iz.ru/2142576/wsj-ukazala-na-risk-obvala-mirovogo-rynka-iz-za-ii-puzyria-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:08:31 +0300",
+      "summary": "<p>Компании вступают в «опасную зону» из-за колоссальных средств, которые вкладываются в развитие искусственного интеллекта (ИИ). Об этом 1 августа сообщила газета <a href=\"https://www.wsj.com/finance/stocks/stock-market",
+      "tags": []
+    },
+    {
+      "title": "Дрон ВСУ ударил в нескольких метрах от реакторного отделения на ЗАЭС",
+      "link": "https://iz.ru/2142574/2026-08-02/dron-vsu-udaril-v-neskolkikh-metrakh-ot-reaktornogo-otdeleniia-na-zaes",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:07:09 +0300",
+      "summary": "<p>Боевики Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) в ночь с 1 на 2 августа при помощи беспилотных летательных аппаратов (БПЛА) нанесли удар в нескольких метрах от реакторного",
+      "tags": []
+    },
+    {
+      "title": "В ОПЕК+ рассказали, когда увеличатся квоты на добычу нефти",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/02/1218220-opek-rasskazali",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 15:06:50 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Карта спецоперации на Украине 2 августа",
+      "link": "https://iz.ru/2142557/2026-08-02/karta-spetcoperatcii-na-ukraine-2-avgusta",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:05:00 +0300",
+      "summary": "<p>Специальная военная операция по защите мирного населения <a href=\"https://iz.ru/tag/donbass\" target=\"_blank\">Донбасса</a> проводится Россией с 24 февраля 2022 года. Отследить ход продвижения совместных войск России, Д",
+      "tags": []
+    },
+    {
+      "title": "Руководитель российской клиники пропал после лечения клизмой детей с аутизмом",
+      "link": "https://lenta.ru/news/2026/08/02/rukovoditel-rossiyskoy-kliniki-propal-posle-lecheniya-klizmoy-detey-s-autizmom/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:04:20 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "The Times рассказала о планах Инфантино повысить себе зарплату до $30 млн",
+      "link": "https://iz.ru/2142573/2026-08-02/times-rasskazala-o-planakh-infantino-povysit-sebe-zarplatu-do-30-mln",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 15:00:27 +0300",
+      "summary": "<p>Президент Международной федерации футбола (FIFA) Джанни Инфантино планировал увеличить размер своего ежегодного вознаграждения до $30 млн за счет реализации коммерческого проекта по созданию дочерней структуры FIFA Fo",
+      "tags": []
+    },
+    {
+      "title": "Полет десантника с многоэтажки в российском городе попал на видео",
+      "link": "https://lenta.ru/news/2026/08/02/polet-desantnika-s-mnogoetazhki-v-rossiyskom-gorode-popal-na-video/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 15:00:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В Иране опровергли заявления о возобновлении судоходства через Ормуз",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218219-irane-oprovergli-informatsiyu",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 14:59:36 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Бывшая подчиненная Зеленского описала его тремя словами",
+      "link": "https://lenta.ru/news/2026/08/02/byvshaya-podchinennaya-zelenskogo-opisala-ego-tremya-slovami/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 14:59:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Три человека погибли и три пострадали при атаке ВСУ в Белгородской области",
+      "link": "https://iz.ru/2142571/tri-cheloveka-pogibli-i-troe-raneny-posle-atake-dronov-vsu-v-belgorodskoi-oblasti-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 14:56:16 +0300",
+      "summary": "<p>Три человека погибли, еще трое получили ранения в результате атаки Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) на сельскохозяйственное предприятие в селе Казачья Лисица Белгор",
+      "tags": []
+    },
+    {
+      "title": "Россиян предупредили о магнитной буре вечером 2 августа",
+      "link": "https://iz.ru/2142552/2026-08-02/rossiian-predupredili-o-magnitnoi-bure-vecherom-2-avgusta",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 14:51:01 +0300",
+      "summary": "<p>Ожидаемая вот уже вторые сутки магнитная буря может начаться во второй половине дня 2 августа. Об этом сообщил ведущий специалист центра погоды «Фобос» Михаил Леус.</p><p>«По уточненным прогнозам, начало возможной маг",
+      "tags": []
+    },
+    {
+      "title": "Забравшийся на мусорную гору стример показал ее на видео",
+      "link": "https://lenta.ru/news/2026/08/02/zabravshiysya-na-musornuyu-goru-strimer-pokazal-ee-na-video/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 14:50:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "В российском регионе раскрыли число жертв ракетной атаки ВСУ",
+      "link": "https://lenta.ru/news/2026/08/02/v-rossiyskom-regione-raskryli-chislo-zhertv-raketnoy-ataki-vsu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 02 Aug 2026 14:45:00 +0300",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "title": "Таджикистанский футболист Валерий Турсунов умер в Москве",
+      "link": "https://iz.ru/2142568/izvestnyi-tadzhikskii-futbolist-valerii-tursunov-umer-v-moskve-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 02 Aug 2026 14:43:05 +0300",
+      "summary": "<p>В <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> скончался бывший нападающий футбольной команды «Памир» Валерий Турсунов, ему был 71 год. Об этом 2 августа сообщила Федерация футбола Таджикистана (ФФТ).",
+      "tags": []
+    },
+    {
+      "title": "Пятеро погибли после пожара на пароме у берегов Индонезии",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218217-pyatero-pogibli-posle-pozhara",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 02 Aug 2026 14:38:27 +0300",
       "summary": "",
       "tags": []
     },
@@ -929,34 +1698,10 @@
       "tags": []
     },
     {
-      "title": "Боррель после событий в Сеуте заявил об отсутствии единства в ЕС",
-      "link": "https://ria.ru/20260802/migranty-2108510114.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:32:49 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В ЕС воспользуются кризисом в Сеуте для укрепления власти, считает Филиппо",
-      "link": "https://ria.ru/20260802/es-2108509947.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:32:34 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В ОПЕК+ рассказали, когда произойдет следующая встреча",
-      "link": "https://ria.ru/20260802/opek-2108509858.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:32:09 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
       "title": "В Иране сделали заявление о соглашении США об открытии Ормузского пролива",
       "link": "https://lenta.ru/news/2026/08/02/v-irane-sdelali-zayavlenie-o-soglashenii-ssha-ob-otkrytii-ormuzskogo-proliva/",
       "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 14:32:03 +0300",
+      "pubDate": "Sun, 02 Aug 2026 14:32:00 +0300",
       "summary": "",
       "tags": []
     },
@@ -965,14 +1710,6 @@
       "link": "https://lenta.ru/news/2026/08/02/muzhchina-prinyal-soseda-za-medvedya-i-smertelno-ranil-ego/",
       "source": "Lenta",
       "pubDate": "Sun, 02 Aug 2026 14:30:19 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Семерка ОПЕК+ решила увеличить предел нефтедобычи на 188 тысяч б/с",
-      "link": "https://ria.ru/20260802/opek-2108509598.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:30:06 +0300",
       "summary": "",
       "tags": []
     },
@@ -1009,14 +1746,6 @@
       "tags": []
     },
     {
-      "title": "Ученые рассказали, когда будет первая магнитная буря августа",
-      "link": "https://ria.ru/20260802/burya-2108509407.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:27:31 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
       "title": "В Роспотребнадзоре выпустили заявление о не поддающейся лечению инфекции",
       "link": "https://lenta.ru/news/2026/08/02/v-rospotrebnadzore-vypustili-zayavlenie-o-ne-poddayuscheysya-lecheniyu-infektsii/",
       "source": "Lenta",
@@ -1033,35 +1762,11 @@
       "tags": []
     },
     {
-      "title": "Три человека погибли из-за ракетной атаки ВСУ на Белгородскую область",
-      "link": "https://ria.ru/20260802/vsu-2108509263.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:24:42 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
       "title": "Король Марокко переименовал автомагистраль в честь Трампа",
       "link": "https://iz.ru/2142551/2026-08-02/korol-marokko-pereimenoval-avtomagistral-v-chest-trampa",
       "source": "Izvestia",
       "pubDate": "Sun, 02 Aug 2026 14:23:00 +0300",
       "summary": "<p>Король Марокко Мухаммед VI принял решение назвать в честь президента <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> Дональда Трампа скоростную автомагистраль в знак «глубокой признательности» за признание су",
-      "tags": []
-    },
-    {
-      "title": "В Свердловской области отменили режим беспилотной опасности",
-      "link": "https://ria.ru/20260802/bespilotniki-2108508300.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:21:45 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Мендель назвала Украину при Зеленском мафиозным государством",
-      "link": "https://ria.ru/20260802/zelenskij-2108508117.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:21:28 +0300",
-      "summary": "",
       "tags": []
     },
     {
@@ -1077,718 +1782,6 @@
       "link": "https://lenta.ru/news/2026/08/02/v-rossiyskom-regione-vozbudili-ugolovnoe-delo-posle-naezda-katera-na-shestiletnyuyu-devochku/",
       "source": "Lenta",
       "pubDate": "Sun, 02 Aug 2026 14:20:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Челябинской области отменили режим беспилотной опасности",
-      "link": "https://ria.ru/20260802/chelyabinsk-2108506476.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:19:39 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Румынии сообщили о воздушной цели у границы с Украиной",
-      "link": "https://iz.ru/2142561/v-rumynii-soobshchili-o-vozdushnoi-tceli-u-granitcy-s-ukrainoi-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 14:18:24 +0300",
-      "summary": "<p>В румынском уезде Тулча утром включили систему экстренного оповещения населения RO-Alert из-за обнаружения воздушной цели вблизи границы с <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украиной</a>. Об этом 2 ав",
-      "tags": []
-    },
-    {
-      "title": "Мендель рассказала, кто продолжает поддерживать Зеленского",
-      "link": "https://ria.ru/20260802/zelenskiy-2108506069.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:16:46 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Психолог предупредила о риске зависимости от ИИ",
-      "link": "https://ria.ru/20260802/zavisimost-2108505892.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:15:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "На Западной Украине женщин заставили извиняться за музыку на русском языке",
-      "link": "https://lenta.ru/news/2026/08/02/na-zapadnoy-ukraine-zhenschin-zastavili-izvinyatsya-za-muzyku-na-russkom-yazyke/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 14:14:59 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Виновные в теракте на Кудринской площади будут наказаны, заявил Собянин",
-      "link": "https://ria.ru/20260802/sobjanin-2108505715.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:12:25 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Сумах прогремел новый взрыв",
-      "link": "https://ria.ru/20260802/sumy-2108505563.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:11:52 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Пять человек погибли при пожаре на пароме",
-      "link": "https://lenta.ru/news/2026/08/02/pyat-chelovek-pogibli-pri-pozhare-na-parome/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 14:11:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "На территории Ставропольского края отменили беспилотную опасность",
-      "link": "https://ria.ru/20260802/stavropole-2108505402.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:10:01 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Операторы БПЛА \"Южной\" группировки уничтожили три наземных робота ВСУ в ДНР",
-      "link": "https://ria.ru/20260802/drony-2108505112.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:08:19 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Стало известно о продолжении чисток сторонников Сырского в командовании ВСУ",
-      "link": "https://iz.ru/2142545/2026-08-02/stalo-izvestno-o-prodolzhenii-chistok-storonnikov-syrskogo-v-komandovanii-vsu",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 14:08:00 +0300",
-      "summary": "<p>В рядах высшего командования Вооруженными силами <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) продолжаются чистки сторонников экс-главнокомандующего украинскими войсками <a href=\"https://iz.ru",
-      "tags": []
-    },
-    {
-      "title": "В Марокко назвали самую длинную трассу в Африке в честь Трампа",
-      "link": "https://ria.ru/20260802/tramp-2108504932.html",
-      "source": "RIA",
-      "pubDate": "Sun, 02 Aug 2026 14:06:47 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "На Украине восемь категорий мужчин потеряли право на отсрочку",
-      "link": "https://iz.ru/2142559/2026-08-02/na-ukraine-vosem-kategorii-muzhchin-poteriali-pravo-na-otsrochku",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 14:00:28 +0300",
-      "summary": "<p>Украинцы сразу восьми категорий лишились права на отсрочку. Об этом 2 августа сообщило украинское издание «Страна.ua» со ссылкой на Донецкий областной территориальный центр комплектования (ТЦК, аналог военкомата на <a",
-      "tags": []
-    },
-    {
-      "title": "Гособвинение требует ужесточить наказание для Валерии Чекалиной. Главное",
-      "link": "https://iz.ru/2142558/2026-08-02/gosobvinenie-trebuet-uzhestochit-nakazanie-dlia-valerii-chekalinoi-glavnoe",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:59:26 +0300",
-      "summary": "<p>Гособвинение обжалует приговор блогеру <a href=\"https://iz.ru/node/2063190\">Лерчек</a> (настоящее имя — Валерия Чекалина), настаивая на шести годах условного срока и запрете на интернет-деятельность. Все подробности —",
-      "tags": []
-    },
-    {
-      "title": "Три человека погибли при атаке БПЛА в Удмуртии",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/02/1218212-tri-cheloveka-pogibli",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 13:59:04 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Запасы газа в европейских хранилищах приблизились к историческому минимуму",
-      "link": "https://iz.ru/2142539/zapasy-gaza-v-evropeiskikh-khranilishchakh-blizki-k-istoricheskomu-antirekordu-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:54:00 +0300",
-      "summary": "<p>Чистая закачка газа в подземные хранилища Европы по итогам июля текущего года опустилась до минимального уровня за последние шесть лет. Об этом 2 августа сообщает <a href=\"https://tass.ru/\" target=\"_blank\">ТАСС</a> со",
-      "tags": []
-    },
-    {
-      "title": "Президент Армении назначил Пашиняна премьером страны",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218210-prezident-armenii-naznachil",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 13:48:04 +0300",
-      "summary": "Ранее в отставку ушли члены кабмина – это формальная процедура, предусмотренная конституцией",
-      "tags": []
-    },
-    {
-      "title": "Мирные жители погибли при атаке ВСУ на отдаленный от границы российский регион",
-      "link": "https://lenta.ru/news/2026/08/02/mirnye-zhiteli-pogibli-pri-atake-vsu-na-otdalennyy-ot-granitsy-rossiyskiy-region/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:44:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Удмуртии три человека погибли и двое пострадали в результате атаки БПЛА",
-      "link": "https://iz.ru/2142556/v-udmurtii-tri-cheloveka-pogibli-i-dvoe-postradali-pri-atake-bpla-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:43:58 +0300",
-      "summary": "<p>В Удмуртии три человека погибли, еще двое пострадали в результате атаки беспилотников (БПЛА) Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ). Об этом 2 августа сообщила врио губер",
-      "tags": []
-    },
-    {
-      "title": "В Иране опровергли сообщения о компромиссе с США по Ормузскому проливу",
-      "link": "https://iz.ru/2142555/2026-08-02/v-irane-oprovergli-soobshcheniia-o-kompromisse-s-ssha-po-ormuzskomu-prolivu",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:42:40 +0300",
-      "summary": "<p>Сообщения, что Иран якобы согласился на компромисс и с планом <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> по открытию Ормузского пролива, не соответствуют действительности. Об этом 2 августа сообщило аген",
-      "tags": []
-    },
-    {
-      "title": "В стране НАТО включили воздушную тревогу",
-      "link": "https://lenta.ru/news/2026/08/02/v-strane-nato-vklyuchili-vozdushnuyu-trevogu/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:38:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Звезда реалити-шоу попытался поднять 190 килограммов и получил пугающую травму",
-      "link": "https://lenta.ru/news/2026/08/02/zvezda-realiti-shou-popytalsya-podnyat-190-kilogrammov-i-poluchil-pugayuschuyu-travmu/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:30:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Армении назначили премьер-министра",
-      "link": "https://lenta.ru/news/2026/08/02/v-armenii-naznachili-premier-ministra/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:29:01 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Трампа захотели увидеть в стране-союзнице России",
-      "link": "https://lenta.ru/news/2026/08/02/trampa-zahoteli-uvidet-v-strane-soyuznitse-rossii/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:28:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Собянин выразил соболезнования семьям погибших при взрыве в ресторане в Москве",
-      "link": "https://lenta.ru/news/2026/08/02/sobyanin-vyrazil-soboleznovaniya-semyam-pogibshih-pri-vzryve-v-restorane-v-moskve/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:26:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Землетрясение магнитудой 5,9 произошло у побережья Новой Зеландии",
-      "link": "https://iz.ru/2142538/2026-08-02/zemletriasenie-magnitudoi-59-proizoshlo-u-poberezhia-novoi-zelandii",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:26:00 +0300",
-      "summary": "<p>Землетрясение магнитудой 5,9 произошло у берегов Новой Зеландии. Об этом 2 августа сообщило агентство <a href=\"https://www.reuters.com/business/environment/magnitude-59-earthquake-hits-east-coast-north-island-new-zeal",
-      "tags": []
-    },
-    {
-      "title": "Президент Армении переназначил Пашиняна премьер-министром страны",
-      "link": "https://iz.ru/2142548/prezident-armenii-perenaznachil-pashiniana-na-post-premer-ministra-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:23:52 +0300",
-      "summary": "<p>Президент Армении Ваагн Хачатурян переназначил Никола Пашиняна премьер-министром страны. Информация об этом 2 августа следует из указа армянского лидера.</p><p>«Руководствуясь ч. 1 ст. 149 Конституции, назначить Никол",
-      "tags": []
-    },
-    {
-      "title": "Российский пенсионер отправился на ретрит и исчез",
-      "link": "https://lenta.ru/news/2026/08/02/rossiyskiy-pensioner-otpravilsya-na-retrit-i-ischez/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:23:17 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Минобороны России рассказали об успехах на одном из направлений",
-      "link": "https://lenta.ru/news/2026/08/02/v-minoborony-rossii-rasskazali-ob-uspehah-na-odnom-iz-napravleniy/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:17:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "У побережья Финского залива пролетел самолет-разведчик НАТО",
-      "link": "https://lenta.ru/news/2026/08/02/u-poberezhya-finskogo-zaliva-proletel-samolet-razvedchik-nato/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:16:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Собянин выразил соболезнования близким погибших в результате теракта в Москве",
-      "link": "https://iz.ru/2142546/2026-08-02/sobianin-vyrazil-soboleznovaniia-blizkim-pogibshikh-v-rezultate-terakta-v-moskve",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:15:19 +0300",
-      "summary": "<p>Мэр <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> Сергей Собянин 2 августа выразил соболезнования близким погибших при взрыве на Кудринской площади столицы.</p><p>«Вчера в Москве был совершен жестокий ",
-      "tags": []
-    },
-    {
-      "title": "В Греции нашли чемодан с останками пропавшей 38-летней британки",
-      "link": "https://iz.ru/2142531/2026-08-02/v-gretcii-nashli-chemodan-s-ostankami-propavshei-38-letnei-britanki",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 13:11:00 +0300",
-      "summary": "<p>В одном из заброшенных зданий в Афинах нашли чемодан, в котором лежали останки ранее пропавшей 38-летней британки Элизабет Джейн Росс. Об этом сообщила газета <a href=\"https://www.dailymail.com/news/article-16013567/a",
-      "tags": []
-    },
-    {
-      "title": "Собянин назвал взрыв на Кудринской площади терактом",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/02/1218208-sobyanin-nazval",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 13:08:02 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Первый случай заражения редким вирусом выявили в Нью-Йорке",
-      "link": "https://lenta.ru/news/2026/08/02/pervyy-sluchay-zarazheniya-redkim-virusom-vyyavili-v-nyu-yorke/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:06:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В сентябре вступят в силу новые правила перевозки багажа и животных в такси",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/02/1218206-sentyabre-vstupyat",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 13:04:27 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В российском регионе спасли семейство белых китов",
-      "link": "https://lenta.ru/news/2026/08/02/v-rossiyskom-regione-spasli-semeystvo-belyh-kitov/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 13:04:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "ОПЕК+ планирует увеличить квоту на добычу нефти на 188 000 баррелей с сентября",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/02/1218207-opek-planiruet-kvotu",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 12:58:28 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Bloomberg рассказало о проблемах европейской промышленности из-за обмеления рек",
-      "link": "https://iz.ru/2142537/2026-08-02/bloomberg-rasskazalo-o-problemakh-evropeiskoi-promyshlennosti-iz-za-obmeleniia-rek",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:57:00 +0300",
-      "summary": "<p>Тяжелая промышленность Европы страдает из-за пересыхания крупнейших рек региона на фоне продолжительной жары, обрушившейся на континент. Об этом 2 августа сообщило агентство <a href=\"https://www.bloomberg.com/news/art",
-      "tags": []
-    },
-    {
-      "title": "Хабиров: в Башкирии отразили атаку БПЛА ВСУ на предприятия, сбито 25 дронов",
-      "link": "https://iz.ru/2142541/khabirov-v-bashkirii-otrazili-ataku-bpla-vsu-na-predpriiatiia-sbito-25-dronov-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:47:44 +0300",
-      "summary": "<p>Утром 2 августа глава Башкирии Радий Хабиров сообщил об отражении массированной атаки украинских беспилотников (БПЛА) на предприятия республики. Силы противовоздушной обороны (ПВО) сбили 25 украинских дронов. Все подр",
-      "tags": []
-    },
-    {
-      "title": "Федорищев назвал терактом атаку ВСУ на склад Wildberries в Самарской области",
-      "link": "https://iz.ru/2142540/2026-08-02/fedorishchev-nazval-teraktom-ataku-vsu-na-sklad-wildberries-v-samarskoi-oblasti",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:46:56 +0300",
-      "summary": "<p>Атака на склад компании Wildberries в Самарской области является очередным терактом, который совершили боевики Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ). Об этом 2 августа с",
-      "tags": []
-    },
-    {
-      "title": "FT узнала о проблемах добычи вольфрама в США из-за позиции NASA",
-      "link": "https://iz.ru/2142530/ft-uznala-o-problemakh-dobychi-volframa-v-ssha-iz-za-pozitcii-nasa-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:42:00 +0300",
-      "summary": "<p>Национальное управление по аэронавтике и исследованию космического пространства (NASA) препятствует разработке части крупнейшего в <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> месторождения вольфрама из-за",
-      "tags": []
-    },
-    {
-      "title": "В Николаеве прогремел третий взрыв",
-      "link": "https://lenta.ru/news/2026/08/02/v-nikolaeve-progremel-tretiy-vzryv/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:41:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "ПВО за сутки уничтожила шесть авиабомб и 1158 украинских БПЛА",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218204-pvo-unichtozhila-aviabomb",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 12:39:13 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Трамп опубликовал свое фото с инопланетянином",
-      "link": "https://lenta.ru/news/2026/08/02/tramp-opublikoval-svoe-foto-s-inoplanetyaninom/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:38:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Минобороны раскрыли количество сбитых за сутки беспилотников ВСУ",
-      "link": "https://lenta.ru/news/2026/08/02/v-minoborony-raskryli-kolichestvo-sbityh-za-sutki-bespilotnikov-vsu/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:37:52 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "FT: в Неваде обнаружили крупнейшее в США месторождение вольфрама",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/02/1218203-nevade-obnaruzhili",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 12:37:46 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Появились подробности аварии с микроавтобусом в российском городе",
-      "link": "https://lenta.ru/news/2026/08/02/poyavilis-podrobnosti-avarii-s-mikroavtobusom-v-rossiyskom-gorode/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:36:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Российский синоптик уточнил время начала магнитной бури на Земле",
-      "link": "https://lenta.ru/news/2026/08/02/rossiyskiy-sinoptik-utochnil-vremya-nachala-magnitnoy-buri-na-zemle/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:34:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Россиянка описала квартиры в США фразой «стены, которые протыкаешь кулаком»",
-      "link": "https://lenta.ru/news/2026/08/02/rossiyanka-opisala-kvartiry-v-ssha-frazoy-steny-kotorye-protykaesh-kulakom/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:33:11 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Госдуме связали массированную атаку на Россию с одним событием",
-      "link": "https://lenta.ru/news/2026/08/02/v-gosdume-svyazali-massirovannuyu-ataku-na-rossiyu-s-odnim-sobytiem/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:31:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В российском регионе катер проехал по шестилетней девочке",
-      "link": "https://lenta.ru/news/2026/08/02/v-rossiyskom-regione-kater-proehal-po-shestiletney-devochke/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:30:19 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Банк Capital One закрыл счета компании Трампа после проверки на отмывание денег",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218202-bank-capital-one",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 12:28:20 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Катер врезался в лодку с пятью отдыхающими на реке Амур в Хабаровском крае",
-      "link": "https://iz.ru/2142528/kater-vrezalsia-v-lodku-s-piatiu-otdykhaiushchimi-na-reke-amur-v-khabarovskom-krae-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:28:00 +0300",
-      "summary": "<p>На реке Амур в районе пристани города Амурска Хабаровского края катер столкнулся с резиновой лодкой, в которой находились пять отдыхающих, один человек погиб. Об этом 2 августа сообщили в Дальневосточной транспортной ",
-      "tags": []
-    },
-    {
-      "title": "В России вылупился птенец редких папуанских калао",
-      "link": "https://lenta.ru/news/2026/08/02/v-rossii-vylupilsya-ptenets-redkih-papuanskih-kalao/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:24:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Минобороны отчиталось об ударах по логистическим центрам на Украине",
-      "link": "https://lenta.ru/news/2026/08/02/minoborony-otchitalos-ob-udarah-po-logisticheskim-tsentram-na-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:22:58 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Израиль уничтожил участника резни 7 октября",
-      "link": "https://lenta.ru/news/2026/08/02/izrail-unichtozhil-uchastnika-rezni-7-oktyabrya/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:17:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "МИД Ирана назвал вопрос Ормузского пролива предлогом для агрессии США",
-      "link": "https://iz.ru/2142534/mid-irana-nazval-vopros-ormuzskogo-proliva-predlogom-dlia-agressii-ssha-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:15:41 +0300",
-      "summary": "<p>Вопрос разблокировки Ормузского пролива для свободного прохода судов является лишь предлогом для вооруженной агрессии <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> против республики. Об этом 2 августа заяви",
-      "tags": []
-    },
-    {
-      "title": "Трамп возмутился снятию обвинений с подозреваемого в порче Зеркального пруда",
-      "link": "https://iz.ru/2142527/2026-08-02/tramp-vozmutilsia-sniatiiu-obvinenii-s-podozrevaemogo-v-porche-zerkalnogo-pruda",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:15:00 +0300",
-      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> Дональд Трамп раскритиковал решение прокурора Жанин Пирро снять с бывшего олимпийца Дэвида Хирна обвинения в вандализме и повреждении Зеркального пруд",
-      "tags": []
-    },
-    {
-      "title": "Пожар тушат на складе WB в Самарской области, погибших нет",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/02/1218201-pozhar-tushat",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 12:13:01 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Силы ПВО за сутки ликвидировали свыше 1,1 тыс. украинских БПЛА",
-      "link": "https://iz.ru/2142533/2026-08-02/sily-pvo-za-sutki-likvidirovali-svyshe-11-tys-ukrainskikh-bpla",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:08:40 +0300",
-      "summary": "<p>Силы противовоздушной обороны (ПВО) за минувшие сутки ликвидировали 1158 беспилотных летательных аппаратов (БПЛА) Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ). Об этом 2 август",
-      "tags": []
-    },
-    {
-      "title": "Брошенных в клетках щенков бигля нашли в багажнике закрытой машины россиянки",
-      "link": "https://lenta.ru/news/2026/08/02/broshennye-schenki-biglya-v-kletkah-nashli-v-bagazhnike-zakrytoy-mashiny-rossiyanki/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:08:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Армия России поразила используемые ВСУ логистические центры и объекты транспорта",
-      "link": "https://iz.ru/2142532/armiia-rossii-porazila-ispolzuemye-vsu-logisticheskie-tcentry-i-obekty-transporta-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:07:37 +0300",
-      "summary": "<p>Вооруженные силы (ВС) РФ нанесли поражение логистическим центрам, объектам транспорта и энергетики, которые использовались в интересах Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (В",
-      "tags": []
-    },
-    {
-      "title": "Появились подробности о пропавшей в Подмосковье школьнице",
-      "link": "https://lenta.ru/news/2026/08/02/poyavilis-podrobnosti-o-propavshey-v-podmoskovie-shkolnitse/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 12:04:01 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Система «Купол Донбасса» за неделю предотвратила 138 атак беспилотников",
-      "link": "https://iz.ru/2142368/sistema-kupol-donbassa-za-nedeliu-predotvratila-138-atak-bespilotnikov-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:00:00 +0300",
-      "summary": "<p>Система «Купол <a href=\"https://iz.ru/tag/donbass\" target=\"_blank\">Донбасса</a>» и мобильные огневые группы за неделю предотвратили 138 атак с применением беспилотников в Донецкой Народной Республике (ДНР). Об этом со",
-      "tags": []
-    },
-    {
-      "title": "Системой «Купол Донбасса» за неделю предотвращены 138 террористических атак",
-      "link": "https://iz.ru/2142346/video/sistemoi-kupol-donbassa-za-nedeliu-predotvrashcheny-138-terroristicheskikh-atak",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 12:00:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В пастуха ударила молния в российском регионе",
-      "link": "https://lenta.ru/news/2026/08/02/v-pastuha-udarila-molniya-v-rossiyskom-regione/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:53:58 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Глава МИД ФРГ призвал защищать границу ЕС после наплыва мигрантов в Сеуте",
-      "link": "https://iz.ru/2142525/2026-08-02/glava-mid-frg-prizval-zashchishchat-granitcu-es-posle-naplyva-migrantov-v-seute",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:48:00 +0300",
-      "summary": "<p>Министр иностранных дел Германии Йоханн Вадефуль призвал Брюссель уделить большее внимание защите внешних границ Евросоюза после нашествия мигрантов в испанском эксклаве Сеута. Об этом 2 августа пишет газета <a href=\"",
-      "tags": []
-    },
-    {
-      "title": "В Госдуме рассказали о плане Зеленского по уничтожению Украины",
-      "link": "https://lenta.ru/news/2026/08/02/v-gosdume-rasskazali-o-plane-zelenskogo-po-unichtozheniyu-ukrainy/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:44:01 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Двух жительниц Львовской области заставили публично извиняться за русскую музыку",
-      "link": "https://iz.ru/2142526/zhenshchin-zastavili-publichno-izvinitsia-na-ukraine-za-proslushivanie-russkoi-muzyki-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:42:34 +0300",
-      "summary": "<p>Двух жительниц Дрогобыча Львовской области заставили приносить публичные извинения за прослушивание музыки на русском языке. Об этом 2 августа сообщило украинское интернет-издание «Страна.ua».</p><p>«Больше такого не ",
-      "tags": []
-    },
-    {
-      "title": "Российский аэропорт закрыли из-за вопросов безопасности",
-      "link": "https://lenta.ru/news/2026/08/02/rossiyskiy-aeroport-zakryli-iz-za-voprosov-bezopasnosti/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:38:22 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В российском регионе найдена самая удачливая дикая сова",
-      "link": "https://lenta.ru/news/2026/08/02/v-rossiyskom-regione-naydena-samaya-udachlivaya-dikaya-sova/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:37:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Отсутствие католикоса Гарегина II спровоцировало скандал в парламенте Армении",
-      "link": "https://iz.ru/2142521/otkaz-priglasit-katolikosa-sprovotciroval-skandal-v-parlamente-armenii-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:34:00 +0300",
-      "summary": "<p>Католикос всех армян Гарегин II 2 августа впервые не выступил с приветственной речью на открытии первой сессии парламента Армении нового созыва.</p><p>Согласно законодательству этой республики, право обратиться к депу",
-      "tags": []
-    },
-    {
-      "title": "Вдову участника Великой Отечественной войны жестоко избили",
-      "link": "https://lenta.ru/news/2026/08/02/vdovu-uchastnika-velikoy-otechestvennoy-voyny-zhestko-izbili/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:33:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Названа самая вредная для здоровья туалетная привычка",
-      "link": "https://lenta.ru/news/2026/08/02/nazvana-samaya-vrednaya-dlya-zdorovya-tualetnaya-privychka/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:30:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Ресторан Balzi Rossi извинился за неуместный пост после взрыва",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/02/1218196-restoran-izvinilsya",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 11:24:33 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Онищенко перечислил главные угрозы при купании в фонтанах",
-      "link": "https://iz.ru/2142520/onishchenko-nazval-perechislil-glavnye-ugrozy-pri-kupanii-v-fontanakh-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:19:00 +0300",
-      "summary": "<p>Купание в городских фонтанах может обернуться переохлаждением организма и спровоцировать кожные заболевания. Об этом 2 августа сообщил академик РАН, заместитель президента Российской академии образования (РАО) Геннади",
-      "tags": []
-    },
-    {
-      "title": "Собянин рассказал о подготовке кадров для железнодорожной отрасли Москвы",
-      "link": "https://iz.ru/2142524/2026-08-02/sobianin-rasskazal-o-podgotovke-kadrov-dlia-zheleznodorozhnoi-otrasli-moskvy",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:18:10 +0300",
-      "summary": "<p>Подготовка специалистов для железнодорожной отрасли в Москве ведется с учетом потребностей работодателей, а образовательные программы разрабатываются совместно с профильными компаниями. Об этом в День железнодорожника",
-      "tags": []
-    },
-    {
-      "title": "Уровень воды в реке Туре в Тюмени вырос на 4 см за сутки",
-      "link": "https://iz.ru/2142522/v-tiumeni-uroven-vody-v-reke-ture-vyros-na-4-sm-za-sutki-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:16:51 +0300",
-      "summary": "<p>Уровень воды в реке Туре в Тюмени за сутки увеличился на 4 см и достиг отметки 896 см. Об этом 2 августа сообщил губернатор Тюменской области Александр Моор в своем Telegram-канале.</p><p>Глава региона отметил, что та",
-      "tags": []
-    },
-    {
-      "title": "Глава МИД ФРГ призвал защитить границы Евросоюза от наплыва мигрантов",
-      "link": "https://lenta.ru/news/2026/08/02/glava-mid-frg-prizval-zaschitit-granitsy-evrosoyuza-ot-naplyva-migrantov/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:13:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Ресторан извинился за «неуместный» пост после взрыва в Москве",
-      "link": "https://lenta.ru/news/2026/08/02/restoran-izvinilsya-za-neumestnyy-post-posle-vzryva-v-moskve/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:06:26 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "По делу о взятке арестованы еще два топ-менеджера «Газпром энергохолдинг»",
-      "link": "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 11:05:00 +0300",
-      "summary": "<p>Еще двое руководящих сотрудников компании ООО «Газпром энергохолдинг» (ГЭХ) отправлены под арест по делу о получении взятки. Информация об этом 2 августа следует из картотеки Замоскворецкого районного суда <a href=\"ht",
-      "tags": []
-    },
-    {
-      "title": "Единственную АЭС в европейской стране отключили впервые за 44 года",
-      "link": "https://lenta.ru/news/2026/08/02/edinstvennuyu-aes-v-evropeyskoy-strane-otklyuchili-vpervye-za-44-goda/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 11:04:43 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Дети стали жертвами страшного пожара в российском городе",
-      "link": "https://lenta.ru/news/2026/08/02/deti-stali-zhertvami-strashnogo-pozhara-v-rossiyskom-gorode/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 10:58:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Президент Армении утвердил отставку Пашиняна и его правительства",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/02/1218194-prezident-armenii",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 10:54:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Командир ВС РФ сообщил об обнаружении на позициях ВСУ препаратов от ВИЧ",
-      "link": "https://iz.ru/2142516/boetc-soobshchil-ob-obnaruzhenii-na-pozitciiakh-vsu-pod-krasnym-kutom-preparatov-ot-vich-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 10:51:00 +0300",
-      "summary": "<p>Российские военнослужащие при освобождении населенного пункта Красный Кут в Донецкой Народной Республике (ДНР) нашли на оставленных позициях боевиков Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\"",
-      "tags": []
-    },
-    {
-      "title": "Минфин Японии будет бороться с падением иены вместе с США",
-      "link": "https://www.vedomosti.ru/economics/news/2026/08/02/1218193-minfin-yaponii",
-      "source": "Vedomosti",
-      "pubDate": "Sun, 02 Aug 2026 10:47:15 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "В Башкирии отразили массированную атаку беспилотников",
-      "link": "https://iz.ru/2142519/2026-08-02/v-bashkirii-otrazili-massirovannuiu-ataku-bespilotnikov",
-      "source": "Izvestia",
-      "pubDate": "Sun, 02 Aug 2026 10:43:53 +0300",
-      "summary": "<p>В Республике Башкортостан отражена массированная атака беспилотных летательных аппаратов (БПЛА). Об этом 2 августа сообщил глава региона Радий Хабиров.</p><p>«Отразили еще одну массированную атаку беспилотников на пре",
-      "tags": []
-    },
-    {
-      "title": "В промзоне Уфы начался пожар после атак ВСУ",
-      "link": "https://lenta.ru/news/2026/08/02/v-promzone-ufy-nachalsya-pozhar-posle-atak-vsu/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 10:39:00 +0300",
-      "summary": "",
-      "tags": []
-    },
-    {
-      "title": "Диалог России и Китая вышел на новый уровень",
-      "link": "https://lenta.ru/news/2026/08/02/dialog-rossii-i-kitaya-vyshel-na-novyy-uroven/",
-      "source": "Lenta",
-      "pubDate": "Sun, 02 Aug 2026 10:38:54 +0300",
       "summary": "",
       "tags": []
     }
