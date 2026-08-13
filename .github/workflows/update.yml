@@ -2,7 +2,7 @@ name: 更新俄国新闻
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # 每 30 分钟（GitHub 免费层，实际可能略有延迟）
+    - cron: '*/5 * * * *'   # 每 5 分钟（GitHub 免费层最快频率）
   workflow_dispatch: {}       # 也支持在 Actions 页面手动“Run workflow”立即跑一次
 
 permissions:
