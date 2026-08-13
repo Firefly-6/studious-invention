@@ -1060,10 +1060,11 @@
     $('#russianList').innerHTML = list.map(n => `
       <div class="card" style="margin-bottom:8px;">
         <div class="row" style="justify-content:space-between; gap:8px;">
-          <strong style="font-size:14px;">${escapeHtml(n.title)}</strong>
+          <strong style="font-size:14px;">${escapeHtml(n.titleZh || n.title)}</strong>
           <button class="secondary" data-rndel="${n.id}" style="padding:3px 9px; font-size:12px; flex:none;">🗑</button>
         </div>
         <div class="mini" style="margin:4px 0;">${n.source? escapeHtml(n.source)+' · ' : ''}${n.pubDate? escapeHtml(n.pubDate) : ''}</div>
+        ${(n.titleZh && n.title && n.titleZh !== n.title) ? '<div class="mini" style="margin:2px 0; color:#888;">原文：'+escapeHtml(n.title)+'</div>' : ''}
         ${n.summary? '<div class="mini" style="margin-bottom:4px;">'+escapeHtml(n.summary)+'</div>' : ''}
         <div class="row wrap" style="gap:5px;">
           ${(n.tags&&n.tags.length)? n.tags.map(t=>'<span class="chip">'+escapeHtml(t)+'</span>').join('') : '<span class="chip">未分类</span>'}
@@ -1101,7 +1102,7 @@
       if(!res.ok) throw new Error('HTTP '+res.status);
       const data = await res.json();
       workerItems = (data.items||[]).map(it=>({ id: 'w_'+Date.now()+'_'+Math.random().toString(36).slice(2,8),
-        title: it.title||'', source: it.source||'GitHub', link: it.link||'', summary: it.summary||'', pubDate: it.pubDate||'', tags: it.tags||[] }));
+        title: it.title||'', titleZh: it.titleZh||'', source: it.source||'GitHub', link: it.link||'', summary: it.summary||'', pubDate: it.pubDate||'', tags: it.tags||[] }));
       workerUpdated = data.updated || null;
       const ts = workerUpdated? new Date(workerUpdated).toLocaleString('zh-CN') : '未知';
       $rnStatus.textContent = '已更新（GitHub 后台于 '+ts+' 采集），共 '+workerItems.length+' 条'+(force?'（已重新拉取）':'');
