@@ -391,7 +391,7 @@
       {id:1, title:'俄罗斯某平台冬季保暖品需求季节性上涨', source:'示例', link:'https://news.yandex.ru/', summary:'俄区冬季严寒，保暖服饰/小家电进入需求高峰，建议提前布局供应链。', pubDate:'示例', tags:['需求↑','季节']},
       {id:2, title:'进口电子配件供给波动，卖家关注库存', source:'示例', link:'https://news.yandex.ru/', summary:'部分进口品类供给不稳定，建议多渠道备货、分散风险。', pubDate:'示例', tags:['供给↓','进口','库存']}
     ]),
-    russianWorkerUrl: DB.get('russianWorkerUrl', 'https://fastly.jsdelivr.net/gh/Firefly-6/studious-invention@main/news.json'),  // GitHub/jsDelivr 数据源 URL（免服务器、大陆可直读）
+    russianWorkerUrl: DB.get('russianWorkerUrl', 'https://raw.githubusercontent.com/Firefly-6/studious-invention/main/news.json'),  // GitHub/jsDelivr 数据源 URL（免服务器、大陆可直读）
   };
   // 兼容旧列名：把历史存储里的「曝光转化率」统一迁移为「曝光率」
   state.selFilter.forEach(r=>{ if(r.field==='曝光转化率') r.field='曝光率'; });
@@ -1097,7 +1097,7 @@
     $rnStatus.textContent = '读取新闻中…';
     try{
       const sep = url.includes('?') ? '&' : '?';
-      const q = force ? sep + '_=' + Date.now() : '';   // 缓存破坏，拿到 GitHub 刚提交的最新 news.json
+      const q = sep + '_' + Date.now();  // 缓存破坏，拿到 GitHub 刚提交的最新 news.json
       const res = await fetch(url + q, { cache:'no-store' });
       if(!res.ok) throw new Error('HTTP '+res.status);
       const data = await res.json();
