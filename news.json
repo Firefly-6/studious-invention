@@ -1,19 +1,42 @@
 {
-  "updated": "2026-08-13T11:03:50.649Z",
+  "updated": "2026-08-13T18:05:10.141Z",
   "count": 200,
   "items": [
     {
-      "title": "Дефицит федерального бюджета России достиг 6,455 трлн рублей",
-      "link": "https://www.vedomosti.ru/economics/news/2026/08/11/1220386-defitsit-dostig",
+      "title": "Стоимость дома Ольги Серябкиной в Подмосковье оценили в сотни миллионов рублей",
+      "link": "https://lenta.ru/news/2026/08/13/stoimost-doma-olgi-seryabkinoy-v-podmoskovie-otsenili-v-sotni-millionov-rubley/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:48:28 +0300",
+      "summary": "",
+      "tags": [
+        "价格",
+        "汇率"
+      ],
+      "titleZh": "奥尔加·谢里亚布基娜 (Olga Seryabkina) 在莫斯科地区的房屋造价估计达数亿卢布"
+    },
+    {
+      "title": "Мендель заявила о перекладывании Зеленским ответственности за дефицит ракет",
+      "link": "https://iz.ru/2148668/mendel-zaiavila-o-perekladyvanii-zelenskim-otvetstvennosti-za-defitcit-raket-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:54:16 +0300",
+      "summary": "<p>Бывший пресс-секретарь президента <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> Владимира <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Зеленского</a> Юлия Мендель заявила, что он пы",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "孟德尔宣布泽伦斯基正在转移导弹短缺的责任"
+    },
+    {
+      "title": "Потребление рыбы в России снизилось до 22 кг на человека в 2025 году",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/13/1220947-potreblenie-ribi",
       "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 17:42:15 +0300",
+      "pubDate": "Thu, 13 Aug 2026 16:17:00 +0300",
       "summary": "",
       "tags": [
         "需求↑",
-        "供给↓",
-        "汇率"
+        "供给↓"
       ],
-      "titleZh": "俄罗斯联邦预算赤字达6.455万亿卢布"
+      "titleZh": "2025年俄罗斯人均鱼类消费量降至22公斤"
     },
     {
       "title": "Бензин в России подешевел за неделю на 0,6%",
@@ -25,7 +48,7 @@
         "供给↓",
         "价格"
       ],
-      "titleZh": "俄罗斯汽油价格一周下跌0.6%"
+      "titleZh": "俄罗斯汽油价格本周下跌0.6%"
     },
     {
       "title": "Грузия направила в Абхазию топливо на фоне дефицита",
@@ -40,48 +63,268 @@
       "titleZh": "格鲁吉亚因短缺而向阿布哈兹运送燃料"
     },
     {
-      "title": "Диетолог назвал противопоказания для употребления масла",
-      "link": "https://iz.ru/2148464/2026-08-13/dietolog-nazval-protivopokazaniia-dlia-upotrebleniia-masla",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:45:55 +0300",
-      "summary": "<p>Диетолог Антон Поляков рассказал, кому опасно для здоровья есть масло. В беседе с <a href=\"https://aif.ru/health/dietolog-polyakov-skazal-komu-nelzya-est-maslo\">aif.ru</a> в четверг, 13 августа, он отметил, что при оп",
+      "title": "Лавров раскрыл новый курс властей Японии",
+      "link": "https://lenta.ru/news/2026/08/13/lavrov-raskryl-novyy-kurs-vlastey-yaponii/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:47:00 +0300",
+      "summary": "",
       "tags": [
-        "需求↑"
+        "汇率"
       ],
-      "titleZh": "营养师指出食用油的禁忌"
+      "titleZh": "拉夫罗夫透露日本当局的新方针"
     },
     {
-      "title": "Украина наладит в Литве производство боеприпасов по стандартам НАТО",
-      "link": "https://lenta.ru/news/2026/08/13/ukraina-postroit-v-litve-zavod-boepripasov-po-standartam-nato/",
+      "title": "Участница реалити-шоу отказалась принять миллион рублей от звезды КВН",
+      "link": "https://lenta.ru/news/2026/08/13/uchastnitsa-realiti-shou-otkazalas-prinyat-million-rubley-ot-zvezdy-kvn/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:43:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:40:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "真人秀节目的参与者拒绝接受 KVN 明星的一百万卢布"
+    },
+    {
+      "title": "Минсельхоз РФ назвал условия для снятия ограничений с импорта товаров из Армении",
+      "link": "https://iz.ru/2148684/minselkhoz-rf-nazval-usloviia-dlia-sniatiia-ogranichenii-s-importa-tovarov-iz-armenii-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:10:41 +0300",
+      "summary": "<p>Глава Минсельхоза России Оксана Лут заявила, что соблюдение правил и создание четкого алгоритма для безопасной отгрузки товаров помогут вернуть импорт армянской продукции на прежний уровень. Об этом она сказала 13 авг",
+      "tags": [
+        "进口"
+      ],
+      "titleZh": "俄罗斯联邦农业部公布解除亚美尼亚货物进口限制的条件"
+    },
+    {
+      "title": "Популярная российская блогерша обвинила продюсера в невыплате миллионов рублей",
+      "link": "https://lenta.ru/news/2026/08/13/adushkina/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:21:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "一位受欢迎的俄罗斯博主指责制片人未支付数百万卢布"
+    },
+    {
+      "title": "Банк России повысил курсы доллара и евро",
+      "link": "https://lenta.ru/news/2026/08/13/bank-rossii-povysil-kursy-dollara-i-evro/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:12:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "俄罗斯央行上调美元和欧元汇率"
+    },
+    {
+      "title": "Мощный взрыв произошел на заводе по производству боеприпасов под Римом",
+      "link": "https://iz.ru/2148653/moshchnyi-vzryv-proizoshel-na-zavode-po-proizvodstvu-boepripasov-pod-rimom-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:06:23 +0300",
+      "summary": "<p>Мощный взрыв произошел на заводе по производству боеприпасов в Коллеферро недалеко от Рима. Об этом 13 августа сообщила газета <a href=\"https://video.corriere.it/roma/colleferro-il-video-della-maxi-esplosione-della-fa",
+      "tags": [
+        "生产"
+      ],
+      "titleZh": "罗马附近一家弹药厂发生强烈爆炸"
+    },
+    {
+      "title": "Переговоры о создании продолжения «Барби» зашли в тупик",
+      "link": "https://iz.ru/2148645/peregovory-o-sozdanii-prodolzheniia-barbi-zashli-v-tupik-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:04:45 +0300",
+      "summary": "<p>Продолжение фильма «Барби» оказалось под угрозой из-за затянувшихся переговоров Warner Bros. с режиссером Гретой Гервиг, сценаристом Ноа Баумбахом и актерами Марго Робби и Райаном Гослингом. Стороны не смогли согласов",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "制作《芭比娃娃》续集的谈判陷入僵局"
+    },
+    {
+      "title": "В Италии произошел взрыв на заводе по производству боеприпасов",
+      "link": "https://lenta.ru/news/2026/08/13/v-italii-proizoshel-vzryv-na-zavode-po-proizvodstvu-boepripasov/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:03:00 +0300",
       "summary": "",
       "tags": [
         "生产"
       ],
-      "titleZh": "乌克兰将按照北约标准在立陶宛建立弹药生产基地"
+      "titleZh": "意大利一家弹药厂发生爆炸。"
     },
     {
-      "title": "Губернатор Сахалинской области рассказал Путину о средней зарплате в регионе",
-      "link": "https://iz.ru/2148408/sakhalinskii-gubernator-rasskazal-putinu-o-srednei-zarabotnoi-plate-v-regione-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:37:26 +0300",
-      "summary": "<p>Средняя заработная плата в Сахалинской области составляет около 150 тыс. рублей. Об этом 13 августа сообщил губернатор региона Валерий Лимаренко президенту России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_bl",
+      "title": "ЦБ поднял курс доллара до 83,81 рубля",
+      "link": "https://www.vedomosti.ru/finance/news/2026/08/13/1221001-tsb-podnyal-kurs",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 18:00:23 +0300",
+      "summary": "",
       "tags": [
         "汇率"
       ],
-      "titleZh": "萨哈林州州长向普京介绍了该地区的平均工资"
+      "titleZh": "央行将美元汇率上调至83.81卢布"
     },
     {
-      "title": "Зеленский рассказал о сокращении запасов ракет-перехватчиков у ВСУ",
-      "link": "https://ria.ru/20260813/zelenskij-2110670218.html",
-      "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:33:34 +0300",
+      "title": "Захарова указала на снижение способности Киева противостоять СВО",
+      "link": "https://iz.ru/2148635/zakharova-ukazala-na-snizhenie-sposobnosti-kieva-protivostoiat-svo-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 17:44:43 +0300",
+      "summary": "<p>Возможность киевского режима противостоять специальной военной операции (СВО) с каждым днем снижается. Об этом 13 августа заявила официальный представитель МИД РФ Мария Захарова.</p>",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "扎哈罗娃指出基辅抵抗东北国防军的能力下降"
+    },
+    {
+      "title": "Власти Польши с 17 августа начнут ограничивать цены на топливо",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220980-polshe-tseni-toplivo",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 17:13:13 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "波兰当局将从8月17日开始限制燃油价格"
+    },
+    {
+      "title": "Минсельхоз назвал условия возобновления импорта продукции АПК из Армении",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/13/1220971-usloviya-vozobnovleniya",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 16:59:24 +0300",
+      "summary": "",
+      "tags": [
+        "进口"
+      ],
+      "titleZh": "农业部公布恢复从亚美尼亚进口农产品的条件"
+    },
+    {
+      "title": "Цена акций «Алросы» на Мосбирже упала на 7%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220974-aktsii-alrosa",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 16:58:11 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "莫斯科交易所阿尔罗萨股价下跌7%"
+    },
+    {
+      "title": "Россиянин купил лотерейный билет 13-го числа и выиграл 13 миллионов рублей",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyanin-kupil-lotereynyy-bilet-13-go-chisla-i-vyigral-13-millionov-rubley/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 16:57:39 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "俄罗斯一人13日买彩票中了1300万卢布"
+    },
+    {
+      "title": "Россияне свели к минимуму потребление одного продукта питания",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyane-sveli-k-minimumu-potreblenie-odnogo-produkta-pitaniya/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 15:51:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人已将一种食品的消费量降至最低"
+    },
+    {
+      "title": "В России подскочил курс евро",
+      "link": "https://lenta.ru/news/2026/08/13/v-rossii-podskochil-kurs-evro/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 15:22:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "俄罗斯欧元汇率大幅上涨"
+    },
+    {
+      "title": "Кейт Мосс оставила партнеров без 68 миллионов рублей из-за убыточного бизнеса",
+      "link": "https://lenta.ru/news/2026/08/13/keyt-moss-ostavila-partnerov-bez-68-millionov-rubley-iz-za-ubytochnogo-biznesa/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 15:05:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "由于业务无利可图，凯特·莫斯 (Kate Moss) 给合作伙伴留下了 6800 万卢布的损失"
+    },
+    {
+      "title": "Запасы газа в Европе снизились на 13,4 млрд куб. год к году",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/13/1220922-zapasi-gaza",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 15:03:31 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "泽连斯基谈到乌克兰武装部队拦截导弹库存的减少"
+      "titleZh": "欧洲天然气储量减少134亿立方米。年复一年"
+    },
+    {
+      "title": "Захотевшему купить Великобританию Маску назвали ее стоимость",
+      "link": "https://lenta.ru/news/2026/08/13/zahotevshemu-kupit-velikobritaniyu-masku-nazvali-ee-stoimost/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:38:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "想要购买英国的马斯克被告知其成本"
+    },
+    {
+      "title": "Китайский внедорожник почти за пять миллионов рублей сгорел во время зарядки",
+      "link": "https://lenta.ru/news/2026/08/13/kitayskiy-vnedorozhnik-pochti-na-5-millionov-rubley-sgorel-vo-vremya-zaryadki/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:33:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "一辆价值近500万卢布的中国SUV在充电时被烧毁"
+    },
+    {
+      "title": "Помощник российского прокурора собрал миллионы рублей на продвижение карьеры",
+      "link": "https://lenta.ru/news/2026/08/13/pomoschnik-rossiyskogo-prokurora-sobral-milliony-rubley-na-prodvizhenie-kariery/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:27:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "俄罗斯助理检察官筹集了数百万卢布以推进他的职业生涯"
+    },
+    {
+      "title": "Горючее в США подорожало до очередного рекорда",
+      "link": "https://lenta.ru/news/2026/08/13/goryuchee-v-ssha-podorozhalo-do-ocherednogo-rekorda/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:20:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "美国燃油价格再创新高"
+    },
+    {
+      "title": "Цены на «вторичку» в сентябре спрогнозировали",
+      "link": "https://lenta.ru/news/2026/08/13/kv-ceny/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "九月转售价格预测"
+    },
+    {
+      "title": "Jeland объявил цены на новый кроссовер для россиян",
+      "link": "https://lenta.ru/news/2026/08/13/jeland-ob-yavil-tseny-na-novyy-krossover-dlya-rossiyan/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 14:06:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Jeland 公布了针对俄罗斯人的新款跨界车的价格"
     },
     {
       "title": "Внебиржевой курс доллара в моменте поднялся до 84 рублей",
@@ -95,72 +338,6 @@
       "titleZh": "场外美元汇率立即升至84卢布"
     },
     {
-      "title": "Ювелиры сокращают выпуск украшений из-за падения спроса",
-      "link": "https://iz.ru/2148455/video/iuveliry-sokrashchaiut-vypusk-ukrashenii-iz-za-padeniia-sprosa",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:29:38 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "由于需求下降，珠宝商正在削减珠宝产量"
-    },
-    {
-      "title": "При въезде в Россию пассажирам автобуса раздали валюту",
-      "link": "https://lenta.ru/news/2026/08/13/pri-v-ezde-v-rossiyu-passazhiram-avtobusa-razdali-valyutu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:23:17 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "进入俄罗斯后，巴士乘客会收到货币"
-    },
-    {
-      "title": "Пашинян высказался о проблемах с поставками продуктов в Россию",
-      "link": "https://lenta.ru/news/2026/08/13/pashinyan-vyskazalsya-o-problemah-s-postavkami-produktov-v-rossiyu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:18:00 +0300",
-      "summary": "",
-      "tags": [
-        "物流"
-      ],
-      "titleZh": "帕希尼扬谈到俄罗斯粮食供应问题"
-    },
-    {
-      "title": "Курс доллара поднялся выше 84 рублей",
-      "link": "https://lenta.ru/news/2026/08/13/kurs-dollara-podnyalsya-vyshe-84-rubley/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:13:00 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "美元汇率升至84卢布上方"
-    },
-    {
-      "title": "Зеленский сделал заявление о сокращении поставок оружия",
-      "link": "https://lenta.ru/news/2026/08/13/zelenskiy-sdelal-zayavlenie-o-sokraschenii-postavok-oruzhiya/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:13:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "泽连斯基发表关于减少武器供应的声明"
-    },
-    {
-      "title": "Книгу с автографом Ахматовой продали за 120 тыс. рублей",
-      "link": "https://iz.ru/2148429/video/knigu-s-avtografom-akhmatovoi-prodali-za-120-tys-rublei",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:12:51 +0300",
-      "summary": "<p>Книгу Анны Ахматовой с автографом продали на аукционе за 120 тыс. рублей. На экземпляре сборника «Бег времени» сохранилась дарственная надпись поэтессы, передает <a href=\"https://iz.ru/live\" target=\"_blank\">телеканал ",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "阿赫玛托娃亲笔签名的一本书以12万卢布成交"
-    },
-    {
       "title": "Цена привилегированных акций «Сургутнефтегаза» на Мосбирже выросла на 2,1%",
       "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220884-aktsii-surgutneftegaza",
       "source": "Vedomosti",
@@ -172,28 +349,6 @@
       "titleZh": "莫斯科交易所Surgutneftegaz优先股价格上涨2.1%"
     },
     {
-      "title": "Минпросвещения РФ сократило перечень отчетов для педагогов",
-      "link": "https://iz.ru/2148420/minprosveshcheniia-rf-ogranichilo-perechen-otchetov-dlia-pedagogov-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:45:06 +0300",
-      "summary": "<p>Минпросвещения России ограничило перечень отчетов для педагогических работников. Об этом 13 августа сообщил глава ведомства Сергей Кравцов в видеообращении на пленарном заседании совещания работников образования и нау",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯联邦教育部缩减教师报告清单"
-    },
-    {
-      "title": "В соцсетях распространили новый фейк о мобилизации в России",
-      "link": "https://lenta.ru/news/2026/08/13/v-sotssetyah-rasprostranili-novyy-feyk-o-mobilizatsii-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:40:24 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "社交网络上传播了有关俄罗斯动员的新假新闻"
-    },
-    {
       "title": "Цена акций «Газпрома» на Мосбирже упала на 2,3%",
       "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220871-tsena-aktsii-gazproma",
       "source": "Vedomosti",
@@ -203,61 +358,6 @@
         "价格"
       ],
       "titleZh": "俄罗斯天然气工业股份公司在莫斯科交易所的股价下跌2.3%"
-    },
-    {
-      "title": "Покупатель российских энергоносителей решил импортировать больше газа из США",
-      "link": "https://lenta.ru/news/2026/08/13/pokupatel-rossiyskih-energonositeley-reshil-importirovat-bolshe-gaza-iz-ssha/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "进口"
-      ],
-      "titleZh": "俄罗斯能源买家决定从美国进口更多天然气"
-    },
-    {
-      "title": "Варламова уличили в невыплате 34 миллионов рублей налогов",
-      "link": "https://lenta.ru/news/2026/08/13/varlamova-ulichili-v-nevyplate-34-millionov-rubley-nalogov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:01:00 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "瓦尔拉莫夫因未缴纳3400万卢布税款而被定罪"
-    },
-    {
-      "title": "Планы ЕС по введению новых санкций забуксовали",
-      "link": "https://lenta.ru/news/2026/08/13/plany-es-po-vvedeniyu-novyh-sanktsiy-zabuksovali/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 11:27:00 +0300",
-      "summary": "",
-      "tags": [
-        "制裁"
-      ],
-      "titleZh": "欧盟实施新制裁的计划陷入停滞"
-    },
-    {
-      "title": "Спрос россиян на один вид алкоголя резко вырос",
-      "link": "https://lenta.ru/news/2026/08/13/spros-rossiyan-na-odin-vid-alkogolya-rezko-vyros/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 11:10:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人对一种酒的需求急剧增加"
-    },
-    {
-      "title": "Россиянам предложили билеты на курорт Турции за 14,5 тысячи рублей",
-      "link": "https://lenta.ru/news/2026/08/13/rossiyanam-predlozhili-bilety-na-kurort-turtsii-za-14-5-tysyachi-rubley/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 10:02:30 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "俄罗斯人以1.45万卢布的价格获得了前往土耳其度假胜地的门票"
     },
     {
       "title": "Предприятия Нижнекамска выплатят семьям погибших при атаке по 2 млн рублей",
@@ -282,39 +382,6 @@
       "titleZh": "普京透露谁不会从卢布升值中受益"
     },
     {
-      "title": "Спрос россиян на один вид кредитов резко вырос",
-      "link": "https://lenta.ru/news/2026/08/13/spros-rossiyan-na-odin-vid-kreditov-rezko-vyros/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 08:44:35 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人对一种贷款的需求急剧增加"
-    },
-    {
-      "title": "Производство ювелирных изделий в России заметно упало",
-      "link": "https://lenta.ru/news/2026/08/13/proizvodstvo-yuvelirnyh-izdeliy-v-rossii-zametno-upalo/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 07:46:00 +0300",
-      "summary": "",
-      "tags": [
-        "生产"
-      ],
-      "titleZh": "俄罗斯珠宝产量大幅下降"
-    },
-    {
-      "title": "Россиянка описала цены на продукты в Крыму и Италии словами «почти одинаковые»",
-      "link": "https://lenta.ru/news/2026/08/13/rossiyanka-opisala-tseny-na-produkty-v-krymu-i-italii-slovami-pochti-odinakovye/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 07:31:31 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "一位俄罗斯女士形容克里米亚和意大利的食品价格“几乎一样”"
-    },
-    {
       "title": "Американские сенаторы требуют объяснить отсутствие новых санкций против России",
       "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220789-senatori-trebuyut-obyasnit",
       "source": "Vedomosti",
@@ -323,7 +390,7 @@
       "tags": [
         "制裁"
       ],
-      "titleZh": "美国参议员要求对俄罗斯未实施新制裁作出解释"
+      "titleZh": "美国参议员要求对俄罗斯未实施新制裁做出解释"
     },
     {
       "title": "Минсельхоз создаст штаб по координации перевозок зерна на экспорт",
@@ -389,7 +456,7 @@
       "tags": [
         "价格"
       ],
-      "titleZh": "Aeroflot 莫斯科交易所股票价格下跌 2%"
+      "titleZh": "Aeroflot 在莫斯科交易所的股价下跌 2%"
     },
     {
       "title": "ЦБ повысил официальный курс доллара до 83 рублей",
@@ -554,1373 +621,1303 @@
       "tags": [
         "制裁"
       ],
-      "titleZh": "普京：日本在未澄清乌克兰冲突原因的情况下对俄实施制裁"
+      "titleZh": "普京：日本在未澄清乌克兰冲突原因的情况下对俄罗斯实施制裁"
     },
     {
-      "title": "Чистая прибыль «Ростелекома» в первом полугодии составила 14 млрд рублей",
-      "link": "https://www.vedomosti.ru/investments/news/2026/08/12/1220507-pribil-rostelkoma",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 12 Aug 2026 10:29:22 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Rostelecom上半年净利润达140亿卢布"
-    },
-    {
-      "title": "Маск поинтересовался стоимостью Великобритании",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/12/1220503-stoimostyu-velikobritanii",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 12 Aug 2026 10:17:30 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "马斯克询问英国的成本"
-    },
-    {
-      "title": "Кабмин отложил введение экспортной пошлины на алмазы на март 2027 года",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/11/1220461-kabmin-otlozhil-vvedenie",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 23:28:03 +0300",
-      "summary": "",
-      "tags": [
-        "出口"
-      ],
-      "titleZh": "部长内阁将钻石出口关税推迟至 2027 年 3 月"
-    },
-    {
-      "title": "Подмосковье в 2025 году экспортировало продукцию на $20,3 млрд",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/11/1220458-podmoskove-eksportirovalo",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 22:49:05 +0300",
-      "summary": "",
-      "tags": [
-        "出口"
-      ],
-      "titleZh": "2025年莫斯科地区出口产品价值203亿美元"
-    },
-    {
-      "title": "Латвия хочет запретить импорт сладостей и пива из РФ и Белоруссии",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/11/1220451-latviya-hochet-zapretit",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 22:28:11 +0300",
-      "summary": "",
-      "tags": [
-        "进口"
-      ],
-      "titleZh": "拉脱维亚希望禁止从俄罗斯和白俄罗斯进口糖果和啤酒"
-    },
-    {
-      "title": "Швейцария расширила санкции против России",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/11/1220405-rasshirila-sanktsii",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 18:23:18 +0300",
-      "summary": "",
-      "tags": [
-        "制裁"
-      ],
-      "titleZh": "瑞士扩大对俄罗斯制裁"
-    },
-    {
-      "title": "Цена акций «Русагро» на Мосбирже выросла на 2,4%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/08/11/1220396-aktsii-rusagro",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 17:46:27 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "莫斯科交易所 Rusagro 股价上涨 2.4%"
-    },
-    {
-      "title": "ЦБ понизил курсы валют на 12 августа",
-      "link": "https://www.vedomosti.ru/finance/news/2026/08/11/1220387-ponizil-kursi",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 11 Aug 2026 17:40:57 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "央行8月12日下调汇率"
-    },
-    {
-      "title": "В России нашли изменившие историю ледникового периода останки древнего животного",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossii-nashli-izmenivshie-istoriyu-lednikovogo-perioda-ostanki-drevnego-zhivotnogo/",
+      "title": "Стало известно о предложении Украины прекратить удары в Черном море",
+      "link": "https://lenta.ru/news/2026/08/13/stalo-izvestno-o-predlozhenii-ukrainy-prekratit-udary-v-chernom-more/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 14:02:31 +0300",
+      "pubDate": "Thu, 13 Aug 2026 21:01:32 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯发现改变冰河时代历史的古代动物遗骸"
+      "titleZh": "乌克兰提出停止黑海袭击的提议已为人所知"
     },
     {
-      "title": "Женщина попыталась уехать из России в Китай с сотнями зеркал в багаже",
-      "link": "https://lenta.ru/news/2026/08/13/zhenschina-popytalas-uehat-iz-rossii-v-kitay-s-sotnyami-zerkal-v-bagazhe/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 14:01:42 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名女子试图离开俄罗斯前往中国，行李中装有数百面镜子"
-    },
-    {
-      "title": "Раскрыты действия россиянки при подрыве капитана 1-го ранга в Севастополе",
-      "link": "https://lenta.ru/news/2026/08/13/raskryty-deystviya-rossiyanki-pri-podryve-kapitana-1-go-ranga-v-sevastopole/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 14:01:11 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名俄罗斯妇女在塞瓦斯托波尔一级上尉爆炸案中的行为已被揭露"
-    },
-    {
-      "title": "Диетолог опроверг миф об особой пользе отдельных видов овощей и фруктов",
-      "link": "https://ria.ru/20260813/dietolog-2110675178.html",
+      "title": "Глава \"Новых людей\" открыл фестиваль долголетия \"Серебряный рейв\"",
+      "link": "https://ria.ru/20260813/politika-2110788871.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:58:30 +0300",
+      "pubDate": "Thu, 13 Aug 2026 21:00:19 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "营养学家驳斥了某些蔬菜和水果的特殊功效的神话"
+      "titleZh": "“新人”掌门人开启长寿节“银色狂欢”"
     },
     {
-      "title": "В Польше сделали заявление о дальнейшей помощи Украине",
-      "link": "https://lenta.ru/news/2026/08/13/v-polshe-sdelali-zayavlenie-o-dalneyshey-pomoschi-ukraine/",
+      "title": "YouTube-шоу «This is Хорошо» закроется",
+      "link": "https://lenta.ru/news/2026/08/13/youtube-shou-this-is-horosho-zakroetsya/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:58:23 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:58:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "波兰就进一步向乌克兰提供援助发表声明"
+      "titleZh": "YouTube 节目《This is Good》即将结束"
     },
     {
-      "title": "В МИД назвали условие для мира на Украине",
-      "link": "https://ria.ru/20260813/mir-2110675033.html",
+      "title": "Россиянам назвали способ выявить «невидимых жильцов»",
+      "link": "https://lenta.ru/news/2026/08/13/jilcy-propiska/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:56:02 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯人被命名为一种识别“隐形居民”的方法"
+    },
+    {
+      "title": "\"Родина\" обжаловала решение ВС о нарушении \"Яблоком\" прав на изображения",
+      "link": "https://ria.ru/20260813/rodina-2110788494.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:57:59 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:54:11 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "外交部提出乌克兰和平条件"
+      "titleZh": "“罗迪纳”对最高法院关于“雅布洛科”侵犯肖像权的判决提出上诉"
     },
     {
-      "title": "Ученые нашли способ остановить кариес без сверления",
-      "link": "https://lenta.ru/news/2026/08/13/uchenye-nashli-sposob-ostanovit-karies-bez-sverleniya/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:57:41 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "科学家找到了一种无需钻孔即可阻止蛀牙的方法"
-    },
-    {
-      "title": "В МИД прокомментировали недовольство Японии визитом Путина на Итуруп",
-      "link": "https://ria.ru/20260813/kurily-2110674875.html",
-      "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:57:30 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "外交部就日本不满普京访问伊图鲁普发表评论"
-    },
-    {
-      "title": "Телеведущий-итальянец раскрыл три удивившие его особенности жизни в России",
-      "link": "https://lenta.ru/news/2026/08/13/televeduschiy-italyanets-raskryl-tri-udivivshie-ego-osobennosti-zhizni-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:57:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "意大利电视节目主持人透露了令他惊讶的俄罗斯生活的三个特点"
-    },
-    {
-      "title": "Онищенко предложил ввести утренний фильтр для профилактики ОРВИ и гриппа",
-      "link": "https://ria.ru/20260813/onischenko-2110674719.html",
-      "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:56:58 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "奥尼先科提议引入晨间过滤器来预防 ARVI 和流感"
-    },
-    {
-      "title": "Первая поездка Путина на Курилы крайне возмутила Токио. Премьер-министр Японии заявила, что японский народ оскорблен",
-      "link": "https://lenta.ru/news/2026/08/13/long-pervaya-poezdka-putina-na-kurily-krayne-vozmutila-tokio-premier-ministr-yaponii-zayavila-chto-yaponskiy-narod-oskorblen/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:56:22 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "普京首次访问千岛群岛激怒了东京。日本首相称日本民众被冒犯"
-    },
-    {
-      "title": "Прогноз мировых цен на нефть заметно повысили",
-      "link": "https://lenta.ru/news/2026/08/13/prognoz-mirovyh-tsen-na-neft-zametno-povysili/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:54:32 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "对世界油价的预测大幅上调"
-    },
-    {
-      "title": "В некоторых российских регионах решили упорядочить продажу бензина",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossiyskih-regionah-utochnili-ogranicheniya-na-prodazhu-benzina/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:54:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯一些地区决定简化汽油销售"
-    },
-    {
-      "title": "Дело пилота Белова, посадившего самолет в поле, вновь вернули в прокуратуру",
-      "link": "https://ria.ru/20260813/delo-2110674091.html",
-      "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:52:37 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "飞行员别洛夫将飞机降落在田野的案件再次被送回检察官办公室"
-    },
-    {
-      "title": "Производитель чипов CXMT стал самой дорогой китайской компанией",
-      "link": "https://www.vedomosti.ru/technology/news/2026/08/13/1220893-samoi-dorogoi",
+      "title": "Число погибших в результате землетрясения в Колумбии возросло до 273",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221032-zemletryaseniya-v-kolumbii",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:52:35 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:52:22 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "芯片制造商长鑫存储成为中国最具价值公司"
+      "titleZh": "哥伦比亚地震死亡人数上升至273人"
     },
     {
-      "title": "Стало известно о крупных потерях ВСУ в районе Донецка",
-      "link": "https://lenta.ru/news/2026/08/13/stalo-izvestno-o-krupnyh-poteryah-vsu-v-rayone-donetska/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:52:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "据了解，乌克兰武装部队在顿涅茨克地区遭受重大损失"
-    },
-    {
-      "title": "Солист «Иванушек» ответил на высказывание Mia Boyka о предложении руки и сердца",
-      "link": "https://lenta.ru/news/2026/08/13/solist-ivanushek-otvetil-na-vyskazyvanie-mia-boyka-o-predlozhenii-ruki-i-serdtsa/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:50:14 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "《伊万努什基》主唱回应米娅·博伊卡求婚声明"
-    },
-    {
-      "title": "Польская оппозиция возмутилась планами властей по Украине",
-      "link": "https://lenta.ru/news/2026/08/13/polskaya-oppozitsiya-vozmutilas-planami-vlastey-po-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:49:26 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "波兰反对派对当局针对乌克兰的计划感到愤怒"
-    },
-    {
-      "title": "В «Юнармии» призвали упростить доступ к господдержке разработчикам БПЛА с фронта",
-      "link": "https://www.vedomosti.ru/technology/news/2026/08/13/1220891-yunarmii-prizvali-uprostit",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:49:26 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Yunarmiya 呼吁简化对无人机开发商的国家支持"
-    },
-    {
-      "title": "Обвиняемый в убийстве девятилетнего мальчика Петр Жилкин извинился перед матерью ребенка",
-      "link": "https://iz.ru/2148467/video/obviniaemyi-v-ubiistve-deviatiletnego-malchika-petr-zhilkin-izvinilsia-pered-materiu-rebenka",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:46:32 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "被指控谋杀一名九岁男孩的彼得·日尔金向孩子的母亲道歉"
-    },
-    {
-      "title": "МИД заявил о существовании платформы для диалога Британии и России",
-      "link": "https://ria.ru/20260813/mid-2110673197.html",
+      "title": "Ученый рассказал о личном религиозном пути Фиделя Кастро",
+      "link": "https://ria.ru/20260813/religiya-2110788003.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:45:13 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:51:38 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "外交部宣布建立英俄对话平台"
+      "titleZh": "这位科学家谈到了菲德尔·卡斯特罗的个人宗教道路"
     },
     {
-      "title": "Украинский защитник ПСЖ вырезал Сафонова с командной фотографии",
-      "link": "https://lenta.ru/news/2026/08/13/ukrainskiy-zaschitnik-pszh-vyrezal-safonova-s-komandnoy-fotografii/",
+      "title": "Обнародованы снимки 52-летней Кейт Мосс в купальнике без фотошопа",
+      "link": "https://lenta.ru/news/2026/08/13/obnarodovany-snimki-52-letney-keyt-moss-v-kupalnike-bez-fotoshopa/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:45:07 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:50:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "巴黎圣日耳曼乌克兰后卫将萨福诺夫从队照中剔除"
+      "titleZh": "52岁凯特·莫斯未经Photoshop处理的泳装照片已发布"
     },
     {
-      "title": "В Москве двое работников автомойки угнали и разбили Porsche клиента",
-      "link": "https://ria.ru/20260813/moskva-2110673021.html",
+      "title": "Раскрыты детали iPhone 18",
+      "link": "https://lenta.ru/news/2026/08/13/iphone18/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:48:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "iPhone 18 细节曝光"
+    },
+    {
+      "title": "Российский адвокат поехал на встречу с коллегой и пропал",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyskiy-advokat-poehal-na-vstrechu-s-kollegoy-tri-dnya-nazad-i-propal/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:48:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯律师与同事开会失踪"
+    },
+    {
+      "title": "В Великобритании пассажирский поезд сошел с рельсов",
+      "link": "https://ria.ru/20260813/chp-2110787668.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:45:05 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:47:34 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "在莫斯科，两名洗车工人偷走了客户的保时捷并将其撞毁"
+      "titleZh": "英国客运列车脱轨"
     },
     {
-      "title": "Обвиняемый в убийстве мальчика из Петербурга принес извинения матери",
-      "link": "https://ria.ru/20260813/peterburg-2110672846.html",
+      "title": "Россиянка четырежды поднялась на пьедестал международного турнира по роллер-спорту",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyanka-chetyrezhdy-podnyalas-na-piedestal-mezhdunarodnogo-turnira-po-roller-sportu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:44:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯女子四次登上国际轮滑锦标赛领奖台"
+    },
+    {
+      "title": "Россияне смогут проголосовать на выборах в Госдуму в Сербии",
+      "link": "https://ria.ru/20260813/vybory-2110787372.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:44:56 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:43:49 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "被指控谋杀圣彼得堡男孩的母亲向他的母亲道歉"
+      "titleZh": "俄罗斯人将能够在塞尔维亚国家杜马选举中投票"
     },
     {
-      "title": "В ЛНР при атаках ВСУ за сутки пострадали 11 человек",
-      "link": "https://ria.ru/20260813/lnr-2110672655.html",
+      "title": "Глава Минтранса назвал воздушный флот гордостью России",
+      "link": "https://ria.ru/20260813/rossiya-2110787218.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:43:54 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:43:46 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "在LPR，乌克兰武装部队每天发动袭击造成11人受伤"
+      "titleZh": "交通运输部负责人称机队是俄罗斯的骄傲"
     },
     {
-      "title": "Матвей Сафонов о матче",
-      "link": "https://iz.ru/2148465/video/matvei-safonov-o-matche",
+      "title": "Врач назвал способ улучшить состояние сосудов",
+      "link": "https://iz.ru/2148735/2026-08-13/vrach-nazval-sposob-uluchshit-sostoianie-sosudov",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:43:50 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:43:26 +0300",
+      "summary": "<p>Руководитель сосудистого центра НМИЦ «Лечебно-реабилитационный центр» Минздрава России, к. м. н. Александр Покатилов рассказал в четверг, 13 августа, как сосуды связаны с риском инфаркта и инсульта, что их разрушает б",
+      "tags": [],
+      "titleZh": "医生命名了一种改善血管状况的方法"
+    },
+    {
+      "title": "Стал известен новый руководитель Московского театра сатиры",
+      "link": "https://lenta.ru/news/2026/08/13/stal-izvesten-novyy-rukovoditel-moskovskogo-teatra-satiry/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:43:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "马特维·萨福诺夫谈比赛"
+      "titleZh": "莫斯科讽刺剧院新任导演出名"
     },
     {
-      "title": "Певица Пэрис Джексон рассказала о двух расторгнутых помолвках",
-      "link": "https://iz.ru/2148440/pevitca-peris-dzhekson-rasskazala-o-dvukh-rastorgnutykh-pomolvkakh-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:43:22 +0300",
-      "summary": "<p>Американская певица Пэрис Джексон рассказала, что дважды была помолвлена, однако оба раза отказалась от свадьбы. Первый союз пришелся на период, когда она и ее партнер употребляли запрещенные вещества, а вторую помолв",
-      "tags": [],
-      "titleZh": "歌手帕丽斯·杰克逊谈到两次破裂的婚约"
-    },
-    {
-      "title": "МИД не знает об инициативе Британии возобновить диалог, заявил Грушко",
-      "link": "https://ria.ru/20260813/mid-2110672542.html",
+      "title": "Боевик ВСУ потерялся в сумерках и попал к российским бойцам",
+      "link": "https://ria.ru/20260813/vsu-2110786608.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:43:15 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:42:44 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "格鲁什科表示，外交部并不了解英国恢复对话的倡议"
+      "titleZh": "一名乌克兰武装部队战士在暮色中迷路，最终与俄罗斯战士相遇"
     },
     {
-      "title": "WSJ рассказала об уязвимости войск США в ходе учений с ВСУ",
-      "link": "https://iz.ru/2148453/wsj-rasskazala-ob-uiazvimosti-voisk-ssha-v-khode-uchenii-s-vsu-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:41:24 +0300",
-      "summary": "<p>Украинские операторы дронов «уничтожили» американские войска и бронетехнику на учениях в Германии. Об этом 13 августа сообщила газета The Wall Street Journal (<a href=\"https://www.wsj.com/politics/national-security/u-",
-      "tags": [],
-      "titleZh": "《华尔街日报》谈到美军在与乌克兰武装部队演习中的脆弱性"
-    },
-    {
-      "title": "Посольство России назвало омерзительным высказывание журналиста FAZ о русских",
-      "link": "https://iz.ru/2148424/posolstvo-rossii-nazvalo-omerzitelnym-vyskazyvanie-zhurnalista-faz-o-russkikh-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:41:01 +0300",
-      "summary": "<p>Заявление журналиста немецкой газеты Frankfurter Allgemeine Zeitung (FAZ) Михаэля Мартенса об убийстве русских омерзительны и полностью дискредитируют его как журналиста. Об этом 13 августа сообщили в пресс-службе пос",
-      "tags": [],
-      "titleZh": "俄罗斯大使馆称FAZ记者有关俄罗斯人的言论令人厌恶"
-    },
-    {
-      "title": "В России сделали заявление об ударах ВСУ по гражданским объектам",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossii-sdelali-zayavlenie-ob-udarah-vsu-po-grazhdanskim-ob-ektam/",
+      "title": "Шара Буллет предсказал исход поединка между Махачевым и Гэрри",
+      "link": "https://lenta.ru/news/2026/08/13/shara-bullet-predskazal-ishod-poedinka-mezhdu-mahachevym-i-gerri/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:41:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:41:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯就乌克兰武装部队袭击平民目标发表声明"
+      "titleZh": "莎拉子弹预测了马哈乔夫和加里之间的战斗结果"
     },
     {
-      "title": "Медведев подчеркнул неизменную принадлежность Курильских островов России",
-      "link": "https://iz.ru/2148461/2026-08-13/medvedev-podcherknul-neizmennuiu-prinadlezhnost-kurilskikh-ostrovov-rossii",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:40:43 +0300",
-      "summary": "<p>Курильские острова были, есть и останутся российской территорией. Об этом 13 августа заявил заместитель председателя Совбеза РФ Дмитрий Медведев.</p><p>«Премьер Японии [Санаэ] Такаити может сколько угодно болтать, что",
-      "tags": [],
-      "titleZh": "梅德韦杰夫强调俄罗斯对千岛群岛的永久所有权"
-    },
-    {
-      "title": "В ФСБ России подтвердили подрыв военного в Севастополе",
-      "link": "https://lenta.ru/news/2026/08/13/v-fsb-rossii-podtverdili-podryv-voennogo-v-sevastopole/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:40:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯联邦安全局证实一名军人在塞瓦斯托波尔发生爆炸"
-    },
-    {
-      "title": "В Совбезе ответили на возмущения Японии из-за поездки Путина на Курилы",
-      "link": "https://lenta.ru/news/2026/08/13/v-sovbeze-otvetili-na-vozmuscheniya-yaponii-iz-za-poezdki-putina-na-kurily/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:38:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "安理会回应日本对普京访问千岛群岛的愤怒"
-    },
-    {
-      "title": "В МИД прокомментировали желание европейской страны наладить контакты с Россией",
-      "link": "https://lenta.ru/news/2026/08/13/v-mid-prokommentirovali-zhelanie-evropeyskoy-strany-naladit-kontakty-s-rossiey/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:37:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "外交部就欧洲国家与俄罗斯建立联系的愿望发表评论"
-    },
-    {
-      "title": "Экономист назвал теоретическую цену Великобритании для Маска",
-      "link": "https://ria.ru/20260813/ekonomist-2110671387.html",
+      "title": "Финский политик предложил роль посредника в переговорах между Россией и ЕС",
+      "link": "https://ria.ru/20260813/es-2110786440.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:36:53 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:40:16 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "这位经济学家命名了马斯克在英国的理论价格"
+      "titleZh": "芬兰政治家提议在俄罗斯与欧盟谈判中扮演调解人的角色"
     },
     {
-      "title": "В МИД РФ опровергли инициативу со стороны Великобритании возобновить контакты",
-      "link": "https://iz.ru/2148462/v-mid-rf-oprovergli-kontakty-so-storony-velikobritanii-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:36:48 +0300",
-      "summary": "<p>МИД РФ ничего не известно об инициативе Великобритании возобновить контакт с Россией. Об этом 13 августа сообщил замглавы ведомства Александр Грушко.</p><p>«На сегодняшний день мне неизвестно о каких-то официальных об",
-      "tags": [],
-      "titleZh": "俄罗斯外交部否认英国恢复接触的倡议"
-    },
-    {
-      "title": "Обвиняемый в убийстве 9-летнего мальчика в Петербурге совершил ошибку на суде",
-      "link": "https://lenta.ru/news/2026/08/13/obvinyaemyy-v-ubiystve-9-letnego-malchika-v-peterburge-sovershil-oshibku-na-sude/",
+      "title": "Москвичам пообещали необычное бабье лето",
+      "link": "https://lenta.ru/news/2026/08/13/babye-leto-neobychno/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:36:24 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "被指控在圣彼得堡谋杀一名9岁男孩的人在审判中犯了错误"
+      "titleZh": "莫斯科人被许诺度过一个不寻常的小阳春"
     },
     {
-      "title": "На Украине заявили о росте числа людей с чрезвычайно низкой зарплатой",
-      "link": "https://ria.ru/20260813/ukraina-2110670627.html",
+      "title": "Удар ВСУ по Новороссийску разрушил дом приехавшей из-за войны в Нагорном Карабахе беженки",
+      "link": "https://lenta.ru/news/2026/08/13/udar-vsu-po-novorossiysku-razrushil-dom-priehavshey-iz-za-voyny-v-nagornom-karabahe-bezhenki/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:39:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "乌克兰武装部队对新罗西斯克的袭击摧毁了一名因纳戈尔诺-卡拉巴赫战争而抵达的难民的房屋"
+    },
+    {
+      "title": "ВСУ уничтожили 748 гектаров посевов в ДНР, сообщил Пушилин",
+      "link": "https://ria.ru/20260813/vsu-2110786244.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:36:18 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:37:37 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "在乌克兰，他们宣布增加工资极低的人数"
+      "titleZh": "普希林表示，乌克兰武装部队摧毁了民主共和国境内 748 公顷的农作物"
     },
     {
-      "title": "ФСБ поймала устроившую подрыв капитана 1-го ранга в Севастополе женщину",
-      "link": "https://lenta.ru/news/2026/08/13/fsb/",
+      "title": "В России высказались о мольбе Зеленского к Трампу",
+      "link": "https://lenta.ru/news/2026/08/13/v-rossii-vyskazalis-o-molbe-zelenskogo-k-trampu/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:36:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:37:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯联邦安全局逮捕了在塞瓦斯托波尔对一名一级上尉实施爆炸袭击的妇女"
+      "titleZh": "俄罗斯公开谈论泽连斯基向特朗普的请求"
     },
     {
-      "title": "В Петербурге задержали продавщицу по подозрению в избиении мальчика",
-      "link": "https://ria.ru/20260813/peterburg-2110670788.html",
+      "title": "В Днепропетровске демонтируют памятник освободителю Херсона",
+      "link": "https://lenta.ru/news/2026/08/13/v-dnepropetrovske-demontiruyut-pamyatnik-osvoboditelyu-hersona/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:37:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "第聂伯罗彼得罗夫斯克的赫尔松解放者纪念碑正在拆除"
+    },
+    {
+      "title": "«Калашников» модернизировал бесшумные автоматы и скоростные дроны для бойцов СВО",
+      "link": "https://iz.ru/2148734/2026-08-13/kalashnikov-moderniziroval-besshumnye-avtomaty-i-skorostnye-drony-dlia-boitcov-svo",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 20:35:43 +0300",
+      "summary": "<p>Новейшие вооружения, которые помогают бороться с неонацизмом в наши дни, 13 августа представил один из флагманов российской оборонной промышленности — концерн «Калашников». Специалисты показали не только стрелковое ор",
+      "tags": [],
+      "titleZh": "卡拉什尼科夫为防空士兵改进了静音突击步枪和高速无人机"
+    },
+    {
+      "title": "Артемий Лебедев назвал неожиданный плюс негативных комментариев",
+      "link": "https://lenta.ru/news/2026/08/13/lebedev/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:34:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Artemy Lebedev 指出了意外的负面评论"
+    },
+    {
+      "title": "В Москве на ребенка упал парковочный барьер",
+      "link": "https://ria.ru/20260813/chp-2110785749.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:35:59 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:33:48 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "圣彼得堡一名女售货员因涉嫌殴打男孩而被拘留"
+      "titleZh": "莫斯科，停车护栏掉落砸中一名儿童"
     },
     {
-      "title": "В Балашихе стартовала бесплатная образовательная программа по ИИ",
-      "link": "https://iz.ru/2148439/v-balashikhe-startovala-besplatnaia-obrazovatelnaia-programma-po-ii-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:35:24 +0300",
-      "summary": "<p>В Балашихе стартовал бесплатный образовательный цикл «ИИ без сложных слов», посвященный искусственному интеллекту (ИИ). Первая из шести лекций прошла в парке «Пехорка». Об этом 13 августа сообщил глава города Сергей Ю",
-      "tags": [],
-      "titleZh": "巴拉希哈 (Balashikha) 启动了免费人工智能教育项目"
-    },
-    {
-      "title": "ФСБ: украинские спецслужбы подорвали военнослужащего в Севастополе",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220890-podorvali-v-sevastopole",
+      "title": "В армии США появится подразделение ударных беспилотников",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221031-armii-ssha-bespilotnikov",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:35:14 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:33:19 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "FSB：乌克兰特种部队在塞瓦斯托波尔炸死一名军人"
+      "titleZh": "美国陆军将拥有一支攻击无人机部队"
     },
     {
-      "title": "Шура рассказал о похудении фразой «очень люблю вкусно поесть»",
-      "link": "https://lenta.ru/news/2026/08/13/shura-rasskazal-o-pohudenii-frazoy/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:33:27 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Shura谈减肥时说“我真的很喜欢吃好吃的”"
-    },
-    {
-      "title": "Женщинам старше 40 лет подсказали простое упражнение для защиты костей от переломов",
-      "link": "https://lenta.ru/news/2026/08/13/zhenschinam-starshe-40-let-podskazali-prostoe-uprazhnenie-dlya-zaschity-kostey-ot-perelomov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:33:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "40岁以上女性被告知一项简单的运动可以保护骨骼免受骨折"
-    },
-    {
-      "title": "В Соцфонде напомнили о способе увеличить пособие по родам",
-      "link": "https://iz.ru/2148405/v-sotcfonde-rf-napomnili-o-sposobe-uvelichit-posobie-po-rodam-izi",
+      "title": "Пожар на греческом полуострове Кассандра",
+      "link": "https://iz.ru/2148732/video/pozhar-na-grecheskom-poluostrove-kassandra",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:32:41 +0300",
-      "summary": "<p>Женщины, которые родили младшего ребенка во время отпуска по уходу за старшим, могут увеличить размер пособия по беременности и родам за счет замены расчетных лет. Об этом 13 августа сообщили в Социальном фонде России",
+      "pubDate": "Thu, 13 Aug 2026 20:33:01 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "社会基金召回了增加生育津贴的方法"
+      "titleZh": "希腊卡珊德拉半岛大火"
     },
     {
-      "title": "На Урале сбежавших из СИЗО террористов обязали возместить затраты на их розыск",
-      "link": "https://iz.ru/2148457/2026-08-13/na-urale-sbezhavshikh-iz-sizo-terroristov-obiazali-vozmestit-zatraty-na-ikh-rozysk",
+      "title": "Силы ПВО за день сбили 193 беспилотника ВСУ в небе над регионами России",
+      "link": "https://iz.ru/2148731/sily-pvo-za-den-sbili-193-bespilotnika-vsu-v-nebe-nad-regionami-rossii-izi",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:30:01 +0300",
-      "summary": "<p>Свердловский областной суд обязал двух сбежавших из СИЗО № 1 осужденных возместить затраты на их розыск. Об этом 13 августа сообщили в пресс-службе судов региона.</p><p class=\"MsoNormal\">Александр Черепанов и Иван Кор",
+      "pubDate": "Thu, 13 Aug 2026 20:29:30 +0300",
+      "summary": "<p>Средства противовоздушной обороны (ПВО) за день перехватили и уничтожили 193 беспилотника Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> в небе над регионами России. Об этом 13 августа",
       "tags": [],
-      "titleZh": "在乌拉尔地区，从审前拘留中心逃脱的恐怖分子必须偿还搜寻他们的费用"
+      "titleZh": "防空部队白天在俄罗斯地区上空击落193架乌克兰武装部队无人机"
     },
     {
-      "title": "В Белгородской области из-за удара дрона погиб человек",
-      "link": "https://ria.ru/20260813/belgorod-2110669324.html",
+      "title": "ПВО уничтожили 193 украинских БПЛА над Россией за 12 часов",
+      "link": "https://ria.ru/20260813/chp-2110785327.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:29:48 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:28:36 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "别尔哥罗德地区，有人因无人机袭击而死亡"
+      "titleZh": "乌克兰防空系统12小时内摧毁俄罗斯上空193架无人机"
     },
     {
-      "title": "Военнослужащий Минобороны РФ погиб в результате подрыва в Севастополе",
-      "link": "https://iz.ru/2148454/2026-08-13/voennosluzhashchii-minoborony-rf-pogib-v-rezultate-podryva-v-sevastopole",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:29:47 +0300",
-      "summary": "<p>В результате взрыва в Севастополе погиб военнослужащий Минобороны РФ. Об этом 13 августа сообщили в пресс-службе УФСБ России по Республике <a href=\"https://iz.ru/tag/krym\" target=\"_blank\">Крым</a> и городу.</p><p>Заде",
+      "title": "Врач раскрыла последствия поедания арбузных семечек",
+      "link": "https://lenta.ru/news/2026/08/13/vrach-raskryla-posledstviya-poedaniya-arbuznyh-semechek/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:28:29 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯国防部一名军人在塞瓦斯托波尔发生爆炸身亡"
+      "titleZh": "医生揭秘吃西瓜子的后果"
     },
     {
-      "title": "МЭР предложило дифференцировать штрафы за перевозку детей автобусами",
-      "link": "https://iz.ru/2148448/v-rf-mogut-snizit-razmer-shtrafov-za-narushenie-pravil-perevozki-detei-avtobusami",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:29:41 +0300",
-      "summary": "<p>Минэкономразвития России предложило внести изменения в КоАП РФ и установить дифференцированный размер штрафа за нарушение требований организованной перевозки группы детей автобусами в зависимости от его тяжести. Проек",
+      "title": "Названы самые нетерпимые к медленным водителям регионы России",
+      "link": "https://lenta.ru/news/2026/08/13/medlenno-gorod/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:28:23 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "经济发展部建议对公交车接送儿童实行差别罚款"
+      "titleZh": "俄罗斯对慢速司机最不宽容的地区已被命名"
     },
     {
-      "title": "Путин оценил красоту \"лежащих\" облаков во время учений Тихоокеанского флота",
-      "link": "https://ria.ru/20260813/putin-2110669110.html",
+      "title": "Четыре пострадавших при атаке на Нижнекамск остаются в тяжелом состоянии",
+      "link": "https://iz.ru/2148730/chetvero-postradavshikh-pri-atake-na-nizhnekamsk-ostaiutsia-v-tiazhelom-sostoianii-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 20:27:15 +0300",
+      "summary": "<p>Четыре пострадавших при атаке беспилотника на Нижнекамск остаются в тяжелом состоянии, двое из них переведены в Казань. Об этом 13 августа сообщили в минздраве Татарстана.</p><p>«Двое пострадавших перевезены в Казань,",
+      "tags": [],
+      "titleZh": "下卡姆斯克袭击事件的四名受害者仍伤势严重"
+    },
+    {
+      "title": "Туристка получила травму головы из-за низко пролетевшего к земле самолета в Греции",
+      "link": "https://lenta.ru/news/2026/08/13/turistka-poluchila-travmu-golovy-iz-za-nizko-proletevshego-k-zemle-samoleta-v-gretsii/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:27:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "一名游客在希腊被一架低空飞行的飞机撞伤头部"
+    },
+    {
+      "title": "Обычные рыбаки в Приморье случайно выловили морского монстра и побили исторический рекорд",
+      "link": "https://lenta.ru/news/2026/08/13/obychnye-rybaki-v-primorie-sluchayno-vylovili-morskogo-monstra-i-pobili-istoricheskiy-rekord/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:24:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "滨海边疆区普通渔民意外捕获海怪，打破历史纪录"
+    },
+    {
+      "title": "Лавров назвал опасным решение ЕС объявлять все суда «теневым флотом»",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221029-lavrov-tenevim-flotom",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 20:23:34 +0300",
+      "summary": "Брюссель ограничивает возможности РФ работать на мировых рынках, заявил он",
+      "tags": [],
+      "titleZh": "拉夫罗夫称欧盟宣布所有船只为“影子舰队”的决定是危险的"
+    },
+    {
+      "title": "Звезду «12 стульев» и «31 июня» кремируют",
+      "link": "https://lenta.ru/news/2026/08/13/zvezdu-12-stuliev-i-31-iyunya-kremiruyut/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:23:02 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "《12把椅子》和《6月31日》明星将被火化"
+    },
+    {
+      "title": "Range Rover учредителя элитного ресторана обстреляли в Москве",
+      "link": "https://lenta.ru/news/2026/08/13/range-rover-uchreditelya-elitnogo-restorana-obstrelyali-v-moskve/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "莫斯科一家精英餐厅创始人的路虎揽胜遭枪击"
+    },
+    {
+      "title": "41-летняя звезда «Ранеток» удивила фанатов фотосессией в бикини",
+      "link": "https://lenta.ru/news/2026/08/13/41-letnyaya-zvezda-ranetok-udivila-fanatov-fotosessiey-v-bikini/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "41岁《Ranetok》明星晒比基尼写真让粉丝大吃一惊"
+    },
+    {
+      "title": "Москвичи пережили самый холодный день с начала лета",
+      "link": "https://lenta.ru/news/2026/08/13/moskvichi-perezhili-samyy-holodn/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "莫斯科人经历了入夏以来最冷的一天"
+    },
+    {
+      "title": "Польшу покинуло рекордное количество украинских беженцев",
+      "link": "https://lenta.ru/news/2026/08/13/polshu-pokinulo-rekordnoe-kolichestvo-ukrainskih-bezhentsev/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "离开波兰的乌克兰难民人数创历史新高"
+    },
+    {
+      "title": "В Твери проверят инцидент с применением силы к укравшей сыр женщине",
+      "link": "https://ria.ru/20260813/chp-2110784311.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:28:43 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:19:29 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "普京在太平洋舰队演习中欣赏“卧”云之美"
+      "titleZh": "在特维尔，对一名偷奶酪的妇女使用武力的事件将受到调查"
     },
     {
-      "title": "Причастная к подрыву военного в Севастополе действовала по заданию Украины",
-      "link": "https://ria.ru/20260813/sevastopol-2110669010.html",
+      "title": "\"Калашников\" модернизировал бесшумные автоматы и скоростные дроны для бойцов СВО",
+      "link": "https://iz.ru/2148722/video/kalashnikov-moderniziroval-besshumnye-avtomaty-i-skorostnye-drony-dlia-boitcov-svo",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 20:18:49 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "卡拉什尼科夫为防空士兵改进了静音突击步枪和高速无人机"
+    },
+    {
+      "title": "Киевский режим с каждым днем теряет территории, заявил Лавров",
+      "link": "https://ria.ru/20260813/lavrov-2110783991.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:28:26 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:15:21 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "参与塞瓦斯托波尔爆炸事件的人员按照乌克兰的指示行事"
+      "titleZh": "拉夫罗夫表示，基辅政权每天都在失去领土"
     },
     {
-      "title": "В России объяснили отказ Киева забирать пленных",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossii-ob-yasnili-otkaz-kieva-zabirat-plennyh/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:28:03 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯解释基辅拒绝俘虏"
-    },
-    {
-      "title": "Зеленский старается забирать из плена только неонацистов, считает Олейник",
-      "link": "https://ria.ru/20260813/zelenskiy-2110668837.html",
+      "title": "Лавров предупредил ЕС о выборе очень опасной стези",
+      "link": "https://ria.ru/20260813/evrosojuz-2110783614.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:27:58 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:13:27 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "奥莱尼克认为，泽连斯基试图只抓捕新纳粹分子"
+      "titleZh": "拉夫罗夫警告欧盟不要选择一条非常危险的道路"
     },
     {
-      "title": "Посадивший самолет в пшеничном поле пилот поблагодарил всех за поддержку",
-      "link": "https://ria.ru/20260813/pilot-2110668616.html",
+      "title": "Верховный суд указал, как нельзя оценивать незаконное использование фото",
+      "link": "https://ria.ru/20260813/vs-2110783445.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:27:13 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:12:18 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "将飞机降落在麦田的飞行员感谢大家的支持"
+      "titleZh": "最高法院指出如何不应评估照片的非法使用"
     },
     {
-      "title": "В Севастополе при подрыве погиб российский военнослужащий",
-      "link": "https://ria.ru/20260813/sevastopol-2110668340.html",
+      "title": "Раскрыт неочевидный фактор смертности после инсульта",
+      "link": "https://lenta.ru/news/2026/08/13/raskryt-neochevidnyy-faktor-smertnosti-posle-insulta/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:12:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "揭示中风后死亡的不明显因素"
+    },
+    {
+      "title": "Защитник бобров устроил стрельбу по россиянам",
+      "link": "https://lenta.ru/news/2026/08/13/zaschitnik-bobrov-ustroil-strelbu-po-rossiyanam/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:10:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "海狸后卫开始向俄罗斯人开枪"
+    },
+    {
+      "title": "Россиянам напомнили о компенсации за поломку техники в одном случае",
+      "link": "https://lenta.ru/news/2026/08/13/tekhnika-skachok/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:10:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯人因一起设备故障被提醒赔偿"
+    },
+    {
+      "title": "В Великобритании с рельсов сошел пассажирский поезд",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221028-velikobritanii-passazhirskii-poezd",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 20:09:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "英国客运列车脱轨"
+    },
+    {
+      "title": "Спортсмен не заметил ядовитую змею и час тренировался с ней на голове",
+      "link": "https://lenta.ru/news/2026/08/13/sportsmen-ne-zametil-yadovituyu-zmeyu-i-chas-trenirovalsya-s-ney-na-golove/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:08:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "运动员没有注意到毒蛇，将毒蛇顶在头上训练了一个小时"
+    },
+    {
+      "title": "Конструкция возле ТЦ на западе Москвы обвалилась на семилетнего ребенка",
+      "link": "https://iz.ru/2148688/2026-08-13/konstruktciia-vozle-ttc-na-zapade-moskvy-obvalilas-na-semiletnego-rebenka",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 20:06:47 +0300",
+      "summary": "<p>На западе <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> конструкция возле входа в торговый центр (ТЦ) обвалилась на семилетнего мальчика. Об этом 13 августа сообщил источник «Известий».</p><p>Инцидент ",
+      "tags": [],
+      "titleZh": "莫斯科西部一座购物中心附近的一座建筑倒塌，压死一名七岁儿童"
+    },
+    {
+      "title": "Рост европейской промышленности оказался нулевым",
+      "link": "https://lenta.ru/news/2026/08/13/rost-evropeyskoy-promyshlennosti-okazalsya-nulevym/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 20:06:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "欧洲工业增长为零"
+    },
+    {
+      "title": "Россия будет сама выбирать цели для ответа на захват судов, заявил Лавров",
+      "link": "https://ria.ru/20260813/rossija-2110783066.html",
       "source": "RIA",
-      "pubDate": "Thu, 13 Aug 2026 13:26:37 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:04:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "一名俄罗斯军人在塞瓦斯托波尔爆炸中丧生"
+      "titleZh": "拉夫罗夫表示，俄罗斯将选择自己的目标来应对船只被扣押的情况"
     },
     {
-      "title": "В зоне СВО заметили «Ленинградца»",
-      "link": "https://lenta.ru/news/2026/08/13/v-zone-svo-zametili-leningradtsa/",
+      "title": "«Единая Россия» выступила за сохранение условий для поступления в вузы",
+      "link": "https://iz.ru/2148712/2026-08-13/edinaia-rossiia-vystupila-za-sokhranenie-uslovii-dlia-postupleniia-v-vuzy",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 20:02:31 +0300",
+      "summary": "<p>Представители партии «Единая Россия» поддержали сохранение действующих условий для поступающих в вузы, отметив, что для школьников не требуется усложнять нормы единого государственного экзамена (ЕГЭ). Об этом 13 авгус",
+      "tags": [],
+      "titleZh": "“统一俄罗斯”主张维持大学入学条件"
+    },
+    {
+      "title": "Стране БРИКС предложили стать посредником Запада в переговорах с Россией",
+      "link": "https://lenta.ru/news/2026/08/13/strane-briks-predlozhili-stat-posrednikom-zapada-v-peregovorah-s-rossiey/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:26:27 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:01:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "“列宁格勒”号被发现出现在 NVO 区域"
+      "titleZh": "金砖国家被提议成为西方与俄罗斯谈判的调解人"
     },
     {
-      "title": "Как выглядело солнечное затмение в России и Европе",
-      "link": "https://iz.ru/2148437/video/kak-vygliadelo-solnechnoe-zatmenie-v-rossii-i-evrope",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:26:22 +0300",
-      "summary": "<p>В Европе наблюдали первое за 27 лет полное солнечное затмение. Ширина лунной тени на поверхности Земли составила 294 км. Максимальная фаза затмения длилась 2 минуты 18 секунд, передает <a href=\"https://iz.ru/live\" tar",
-      "tags": [],
-      "titleZh": "俄罗斯和欧洲的日食是什么样子"
-    },
-    {
-      "title": "Опубликован список жертв взрыва в российском портовом городе",
-      "link": "https://lenta.ru/news/2026/08/13/opublikovan-spisok-zhertv-vzryva-v-rossiyskom-portovom-gorode/",
+      "title": "Россия ударила по поезду и локомотиву под Одессой",
+      "link": "https://lenta.ru/news/2026/08/13/rossiya-udarila-po-poezdu-i-lokomotivu-pod-odessoy/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:24:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 20:01:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯港口城市爆炸遇难者名单公布"
+      "titleZh": "俄罗斯在敖德萨附近撞上了火车和机车"
     },
     {
-      "title": "Житель Иллинойса выиграл $1 млрд в лотерею Powerball",
-      "link": "https://iz.ru/2148441/video/zhitel-illinoisa-vyigral-1-mlrd-v-lotereiu-powerball",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:23:58 +0300",
-      "summary": "<p>Житель американского Иллинойса выиграл в лотерею Powerball $1 млрд. Эта сумма — крупнейший приз, выигранный в 2026 году, передает <a href=\"https://iz.ru/live\" target=\"_blank\">телеканал «Известия»</a>.</p><p>По условия",
-      "tags": [],
-      "titleZh": "伊利诺伊州男子赢得10亿美元强力球彩票"
-    },
-    {
-      "title": "В России введут электронный контроль за собраниями жильцов",
-      "link": "https://iz.ru/2148450/video/v-rossii-vvedut-elektronnyi-kontrol-za-sobraniiami-zhiltcov",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:23:51 +0300",
+      "title": "Открытки с Медовым Спасом — красивые картинки и поздравления 14 августа",
+      "link": "https://ria.ru/otkrytki/s-medovym-spasom/",
+      "source": "RIA",
+      "pubDate": "Thu, 13 Aug 2026 20:00:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯将对居民会议实行电子控制"
+      "titleZh": "蜂蜜救世主明信片 - 美丽的图片和 8 月 14 日的祝贺"
     },
     {
-      "title": "Названы самые популярные регионы России для отдыха в бархатный сезон",
-      "link": "https://iz.ru/2148423/video/nazvany-samye-populiarnye-regiony-rossii-dlia-otdykha-v-barkhatnyi-sezon",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:22:21 +0300",
-      "summary": "<p>В Российском союзе туриндустрии назвали самые популярные регионы для отдыха осенью. Больше всего бронирований приходится на <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москву</a> — 19%. Второе место занял Петер",
+      "title": "В Испании более 500 человек обратились к медикам после солнечного затмения",
+      "link": "https://ria.ru/20260813/ispanija-2110782422.html",
+      "source": "RIA",
+      "pubDate": "Thu, 13 Aug 2026 19:58:01 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯天鹅绒季节最受欢迎的休闲地区已被命名"
+      "titleZh": "在西班牙，日食发生后，超过 500 人求助于医生"
     },
     {
-      "title": "Сейсмолог объяснил невозможность искусственно вызвать разрушительное цунами",
-      "link": "https://iz.ru/2148413/seismolog-obiasnil-nevozmozhnost-iskusstvenno-vyzvat-razrushitelnoe-tcunami-izi",
+      "title": "Мальчик-подросток погиб при опрокидывании авто в Липецкой области",
+      "link": "https://iz.ru/2148710/2026-08-13/malchik-podrostok-pogib-pri-oprokidyvanii-avto-v-lipetckoi-oblasti",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:22:21 +0300",
-      "summary": "<p>Создать оружие, способное вызвать разрушительное цунами, невозможно. Об этом 13 августа заявил директор Центра наук о землетрясениях региона Каскадия, доцент Университета Орегона Диего Мелгар.</p><p>«Землетрясение маг",
+      "pubDate": "Thu, 13 Aug 2026 19:57:27 +0300",
+      "summary": "<p>В Долгоруковском округе Липецкой области в результате опрокидывания легковушки погиб 15-летний мальчик. Об этом сообщает региональное УМВД.</p><p>Авария произошла накануне, 12 августа, на 53-м км автодороги Стебаево –",
       "tags": [],
-      "titleZh": "地震学家解释了人为引发破坏性海啸的可能性"
+      "titleZh": "利佩茨克地区一辆汽车翻车，一名十几岁男孩死亡"
     },
     {
-      "title": "Вторая экономика Евросоюза потеряет 15 миллиардов евро из-за жары",
-      "link": "https://lenta.ru/news/2026/08/13/vtoraya-ekonomika-evrosoyuza-poteryaet-15-milliardov-evro-iz-za-zhary/",
+      "title": "В ЕР выступили за постепенность при корректировке условий приема в вузы",
+      "link": "https://ria.ru/20260813/er-2110782261.html",
+      "source": "RIA",
+      "pubDate": "Thu, 13 Aug 2026 19:56:31 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "统一俄罗斯党主张逐步调整大学入学条件"
+    },
+    {
+      "title": "Лавров пригрозил Западу ответом на «пиратство»",
+      "link": "https://lenta.ru/news/2026/08/13/lavrov-prigrozil-zapadu-otvetom-na-piratstvo/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:22:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:55:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "欧盟第二经济体将因高温损失150亿欧元"
+      "titleZh": "拉夫罗夫威胁西方应对“盗版”"
     },
     {
-      "title": "Голый мужчина ворвался в пункт приема ставок в Москве и попал на видео",
-      "link": "https://lenta.ru/news/2026/08/13/golyy-muzhchina-vorvalsya-v-punkt-priema-stavok-v-moskve-i-popal-na-video/",
+      "title": "IFW: Европа значительно увеличила объем помощи Украине",
+      "link": "https://ria.ru/20260813/evropa-2110782023.html",
+      "source": "RIA",
+      "pubDate": "Thu, 13 Aug 2026 19:53:53 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "IFW：欧洲大幅增加对乌克兰援助金额"
+    },
+    {
+      "title": "На фото попал интимный момент Аны де Армас с новым возлюбленным",
+      "link": "https://lenta.ru/news/2026/08/13/na-foto-popal-intimnyy-moment-any-de-armas-s-novym-vozlyublennym/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:22:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:52:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "一名裸体男子闯入莫斯科一家博彩公司并被视频拍到"
+      "titleZh": "这张照片捕捉到了安娜·德·阿玛斯与她的新情人的亲密时刻"
     },
     {
-      "title": "SHAMAN обратился к Богу в новой песне «Боже, помоги»",
-      "link": "https://iz.ru/2148445/shaman-obratilsia-k-bogu-v-novoi-pesne-bozhe-pomogi-izi",
+      "title": "Что произошло за день 13 августа. Главное",
+      "link": "https://iz.ru/2148683/2026-08-13/chto-proizoshlo-za-den-13-avgusta-glavnoe",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:21:27 +0300",
-      "summary": "<p>Заслуженный артист России, певец Ярослав Дронов (<a href=\"https://iz.ru/1765091/2024-09-26/shaman-rossiiskii-pevetc-biografiia \">SHAMAN</a>) представил новую песню «Боже, помоги». Композицию он посвятил людям, которые",
+      "pubDate": "Thu, 13 Aug 2026 19:52:00 +0300",
+      "summary": "<p>МИД Японии заявил о «решительном протесте» в связи с поездкой президента России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> на остров Итуруп в составе южной группы Курил. Армия Росс",
       "tags": [],
-      "titleZh": "萨满在新歌《上帝，帮助》中转向上帝"
+      "titleZh": "8月13日那天发生了什么。主要的"
     },
     {
-      "title": "В России отреагировали на обмен телами погибших военных между Москвой и Киевом",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossii-otreagirovali-na-obmen-telami-pogibshih-voennyh-mezhdu-moskvoy-i-kievom/",
+      "title": "Врач назвал симптомы камней в желчном пузыре",
+      "link": "https://lenta.ru/news/2026/08/13/vrach-nazval-simptomy-kamney-v-zhelchnom-puzyre/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:20:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:51:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯对莫斯科和基辅之间交换阵亡军人尸体作出反应"
+      "titleZh": "医生将胆结石的症状命名为"
     },
     {
-      "title": "Россияне стали чаще закрывать ипотеку досрочно",
-      "link": "https://iz.ru/2148446/video/rossiiane-stali-chashche-zakryvat-ipoteku-dosrochno",
+      "title": "Назван срок возвращения Овечкина в США",
+      "link": "https://lenta.ru/news/2026/08/13/nazvan-srok-vozvrascheniya-ovechkina-v-ssha/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:50:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "奥维奇金返回美国的日期已经公布"
+    },
+    {
+      "title": "Житель Хабаровска прыгнул с флагом РФ со 145-метровой высотки в Малайзии",
+      "link": "https://iz.ru/2148555/2026-08-13/zhitel-khabarovska-prygnul-s-flagom-rf-so-145-metrovoi-vysotki-v-malaizii",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:19:15 +0300",
-      "summary": "",
+      "pubDate": "Thu, 13 Aug 2026 19:49:55 +0300",
+      "summary": "<p>Житель Хабаровска Алексей Пыхов совершил прыжок с флагом России со 145-метровой высотки в Малайзии в ходе международных соревнований по бейсджампингу Terengganu International Basejump Challenge, заняв второе место. В ",
       "tags": [],
-      "titleZh": "俄罗斯人更有可能提前结清抵押贷款"
+      "titleZh": "哈巴罗夫斯克居民举着俄罗斯国旗从马来西亚145米高的建筑上跳下"
     },
     {
-      "title": "Мощное землетрясение произошло в одной стране",
-      "link": "https://lenta.ru/news/2026/08/13/moschnoe-zemletryasenie-proizoshlo-v-odnoy-strane/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:19:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一个国家发生强烈地震"
-    },
-    {
-      "title": "Telegram перестал работать в одной из стран СНГ",
-      "link": "https://lenta.ru/news/2026/08/13/telegram-perestal-rabotat-v-odnoy-iz-stran-sng/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:19:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Telegram 在独联体国家之一停止运行"
-    },
-    {
-      "title": "Пашинян заявил о нежелании «идти на острые решения» вопроса с железными дорогами",
-      "link": "https://iz.ru/2148444/pashinian-zaiavil-o-nezhelanii-idti-na-ostrye-resheniia-voprosa-s-zheleznymi-dorogami-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:18:41 +0300",
-      "summary": "<p>Армения хочет мирно решить вопрос с концессией России на железные дороги, не прибегая к «острым решениям». Об этом 13 августа сообщил премьер-министр республики Никол Пашинян.</p><p>«Мы хотим мирного решения вопроса с",
-      "tags": [],
-      "titleZh": "帕希尼扬表示不愿在铁路问题上“做出尖锐决定”"
-    },
-    {
-      "title": "Медведев: Курильские острова были, есть и будут российской землей",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220882-kurilskie-ostrova",
+      "title": "В Москве создан Общественный штаб по наблюдению за выборами",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221023-shtab-nablyudeniyu",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:18:32 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:49:07 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "梅德韦杰夫：千岛群岛过去、现在和将来都是俄罗斯土地"
+      "titleZh": "莫斯科设立公共选举观察总部"
     },
     {
-      "title": "В России произошло 334 ДТП за минувшие сутки",
-      "link": "https://iz.ru/2148443/2026-08-13/v-rossii-proizoshlo-334-dtp-za-minuvshie-sutki",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:18:09 +0300",
-      "summary": "<p>За прошедшие сутки на российских дорогах зафиксировано 334 ДТП, в которых погибли 30 и получили ранения 403 человека. 25 из погибших были водителями и пассажирами. Об этом 13 августа «Известиям» сообщили в Госавтоинсп",
+      "title": "Скандальный полк ВСУ отдали «Азову»",
+      "link": "https://lenta.ru/news/2026/08/13/skandalnyy-pollk-vsu-otdali-azovu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:49:00 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "过去24小时俄罗斯发生334起交通事故"
+      "titleZh": "乌克兰武装部队的丑闻团被交给亚速军"
     },
     {
-      "title": "Чистая прибыль «Диасофта» в I квартале 2026 фингода выросла на 84%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220883-pribil-diasofta",
+      "title": "ВС РФ поразили ремонтно-восстановительный поезд и локомотив в Одесской области",
+      "link": "https://iz.ru/2148707/2026-08-13/vs-rf-porazili-remontno-vosstanovitelnyi-poezd-i-lokomotiv-v-odesskoi-oblasti",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:48:14 +0300",
+      "summary": "<p>Вооруженные силы России нанесли удары по ремонтно-восстановительному поезду и локомотиву в Одесской области. Об этом 13 августа сообщили в Минобороны РФ.</p> <p>Уточняется, что цели поражены с применением беспилотнико",
+      "tags": [],
+      "titleZh": "俄罗斯武装部队在敖德萨地区击中了维修和恢复列车和机车"
+    },
+    {
+      "title": "Удар ФАБ-500 по бригаде ВСУ",
+      "link": "https://iz.ru/2148706/video/udar-fab-500-po-brigade-vsu",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:45:55 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "FAB-500攻击乌克兰武装部队旅"
+    },
+    {
+      "title": "Работа \"Герани\" по поезду ВСУ",
+      "link": "https://iz.ru/2148705/video/rabota-gerani-po-poezdu-vsu",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:44:57 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "APU列车上的“Gerani”作品"
+    },
+    {
+      "title": "Количество поврежденных домов при атаке БПЛА на Новороссийск возросло до 185",
+      "link": "https://iz.ru/2148692/kolichestvo-povrezhdennykh-domov-pri-atake-bpla-na-novorossiisk-vozroslo-do-185-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:43:54 +0300",
+      "summary": "<p>В Новороссийске в результате атаки украинских беспилотников в ночь на 12 августа получили повреждения 185 домов. Об этом 13 августа сообщила администрация Краснодарского края на своем <a href=\"https://admkrai.krasnoda",
+      "tags": [],
+      "titleZh": "新罗西斯克无人机袭击中受损房屋数量增至 185 间"
+    },
+    {
+      "title": "Шансы Украины пережить зиму оценили",
+      "link": "https://lenta.ru/news/2026/08/13/shansy-ukrainy-perezhit-zimu-otsenili/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:43:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "乌克兰度过冬季的机会评估"
+    },
+    {
+      "title": "В России появился первый сертифицированный по ГОСТу глэмпинг",
+      "link": "https://lenta.ru/news/2026/08/13/v-rossii-poyavilsya-pervyy-sertifitsirovannyy-po-gostu-glemping/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:41:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "第一个获得GOST认证的豪华露营地出现在俄罗斯"
+    },
+    {
+      "title": "Лавров заявил о праве РФ самой выбирать цели для ответа на пиратство Запада",
+      "link": "https://iz.ru/2148699/2026-08-13/lavrov-zaiavil-o-prave-rf-samoi-vybirat-tceli-dlia-otveta-na-piratstvo-zapada",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:40:19 +0300",
+      "summary": "<p>Россия будет сама выбирать цели в качестве ответа на разбой и пиратство западных стран, при этом не обязательно в тех же самых акваториях. Об этом 13 августа заявил министр иностранных дел Сергей Лавров.</p>",
+      "tags": [],
+      "titleZh": "拉夫罗夫宣称俄罗斯联邦有权选择自己的目标以应对西方海盗行为"
+    },
+    {
+      "title": "МВД упорядочит оформление документов по административным делам за нарушения ПДД",
+      "link": "https://iz.ru/2148693/2026-08-13/mvd-uporiadochit-oformlenie-dokumentov-po-administrativnym-delam-za-narusheniia-pdd",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:39:21 +0300",
+      "summary": "<p>МВД России разработало проект ведомственного приказа, которым вносятся изменения в Порядок осуществления надзора за соблюдением участниками дорожного движения требований законодательства РФ. Об этом 13 августа говорит",
+      "tags": [],
+      "titleZh": "内务部将简化交通违法行政案件的文件处理"
+    },
+    {
+      "title": "Российский заключенный вырастил за решеткой гигантскую тыкву",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyskiy-zaklyuchennyy-vyrastil-za-reshetkoy-gigantskuyu-tykvu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:39:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯囚犯在监狱里种植了一个巨大的南瓜"
+    },
+    {
+      "title": "МЧС призвало москвичей к осторожности из-за порывистого ветра",
+      "link": "https://iz.ru/2148665/2026-08-13/mchs-prizvalo-moskvichei-k-ostorozhnosti-iz-za-poryvistogo-vetra",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:38:00 +0300",
+      "summary": "<p>Сильные порывы ветра ожидаются в <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> до конца суток. Об этом пресс-служба ГУ МЧС России по столице сообщила в четверг, 13 августа.</p><p>«По прогнозам синоптик",
+      "tags": [],
+      "titleZh": "紧急情况部呼吁莫斯科民众注意阵风"
+    },
+    {
+      "title": "Раскрыты полезные функции Windows",
+      "link": "https://lenta.ru/news/2026/08/13/windows-features/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:34:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "实用的 Windows 功能揭晓"
+    },
+    {
+      "title": "Reuters узнало о якобы предложении Украины взаимно прекратить обстрел судов",
+      "link": "https://iz.ru/2148689/reuters-uznalo-o-predlozhenii-ukrainy-vzaimno-prekratit-obstrel-sudov-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:31:00 +0300",
+      "summary": "<p>Украина якобы направила России предложение приостановить атаки на цели в Черном море на взаимной основе. Об этом 13 августа сообщило агентство <a href=\"https://www.reuters.com/\">Reuters</a>, ссылаясь на источник, знак",
+      "tags": [],
+      "titleZh": "路透社获悉乌克兰据称提出的相互停止炮击船只的提议"
+    },
+    {
+      "title": "Генетический код победителя: визит Путина на Итуруп стал четким сигналом Японии",
+      "link": "https://iz.ru/2148593/maksim-bazanov/vizit-putina-na-iturup-stal-chetkim-signalom-yaponii",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:28:37 +0300",
+      "summary": "Президента России на Курильских островах приняли как дома, в Токио же заявили жесткий протест",
+      "tags": [],
+      "titleZh": "获胜者的遗传密码：普京访问伊图鲁普向日本发出明确信号"
+    },
+    {
+      "title": "Суд отказался привлекать Microsoft и Google к иску о снятии кандидата Матвеева",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221022-matveev-microsoft-google",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:17:18 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:28:03 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Diasoft 2026财年第一季度净利润增长84%"
+      "titleZh": "法院拒绝让微软和谷歌参与罢免候选人马特维耶夫的诉讼"
     },
     {
-      "title": "На берегу нашли 29 туш акул из-за таинственного явления",
-      "link": "https://lenta.ru/news/2026/08/13/na-beregu-nashli-29-tush-akul-iz-za-tainstvennogo-yavleniya/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:16:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "因神秘现象在岸上发现29具鲨鱼尸体"
-    },
-    {
-      "title": "Пашинян назвал условие проведения референдума по ЕС",
-      "link": "https://lenta.ru/news/2026/08/13/pashinyan-nazval-uslovie-provedeniya-referenduma-po-es/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:14:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "帕希尼扬提出了举行脱欧公投的条件"
-    },
-    {
-      "title": "В Абхазии завершено строительство новой школы для детей военнослужащих",
-      "link": "https://iz.ru/2148435/v-abkhazii-zaversheno-stroitelstvo-novoi-shkoly-dlia-detei-voennosluzhashchikh-izi",
+      "title": "Мединский назвал неоспоримым право России на Курильские острова",
+      "link": "https://iz.ru/2148682/2026-08-13/medinskii-nazval-neosporimym-pravo-rossii-na-kurilskie-ostrova",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:06:45 +0300",
-      "summary": "<p>На российской военной базе в Абхазии завершено возведение новой современной школы для детей военнослужащих на 300 мест. Об этом 13 августа сообщили в Минобороны России.</p> <p>«Современное образовательное учреждение п",
+      "pubDate": "Thu, 13 Aug 2026 19:24:14 +0300",
+      "summary": "<p>Россия имеет неоспоримое право на Курильские острова по факту их открытия, освоения русскими, а также после победы во Второй мировой войне (ВМВ). На это 13 августа указал помощник президента РФ Владимир Мединский в св",
       "tags": [],
-      "titleZh": "阿布哈兹一所新的军人儿童学校的建设已经完成"
+      "titleZh": "梅丁斯基称俄罗斯对千岛群岛的权利无可争议"
     },
     {
-      "title": "«Газета.Ru» запустила мультимедийный спецпроект о Фиделе Кастро",
-      "link": "https://iz.ru/2148442/2026-08-13/gazetaru-zapustila-multimediinyi-spetcproekt-o-fidele-kastro",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 13:04:29 +0300",
-      "summary": "<p>«Газета.Ru» (входит в медиахолдинг Rambler&Co) при поддержке Института развития интернета (АНО «ИРИ») подготовила <a href=\"https://www.gazeta.ru/fidel/moncada/index.shtml\">специальный проект</a> «Первый среди третьих:",
-      "tags": [],
-      "titleZh": "Gazeta.Ru 启动了有关菲德尔·卡斯特罗的多媒体特别项目"
-    },
-    {
-      "title": "Раскрыта способность России перекрыть критически важные для НАТО пути",
-      "link": "https://lenta.ru/news/2026/08/13/raskryta-sposobnost-rossii-perekryt-kriticheski-vazhnye-dlya-nato-puti/",
+      "title": "Россиянкам назвали самую трендовую вещь осени и зимы",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyankam-nazvali-samuyu-trendovuyu-vesch-oseni-i-zimy/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:04:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:24:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯封锁北约关键路线的能力已经显现"
+      "titleZh": "俄罗斯人评选秋冬最流行单品"
     },
     {
-      "title": "Сын Анджелины Джоли и Брэда Питта вновь кардинально сменил имидж",
-      "link": "https://lenta.ru/news/2026/08/13/syn-andzheliny-dzholi-i-breda-pitta-vnov-kardinalno-smenil-imidzh/",
+      "title": "Глава российского региона сообщил об изменении графика работы заправок",
+      "link": "https://lenta.ru/news/2026/08/13/glava-rossiyskogo-regiona-soobschil-ob-izmenenii-grafika-raboty-zapravok/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:03:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:24:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "安吉丽娜朱莉和布拉德皮特的儿子再次彻底改变了他的形象"
+      "titleZh": "俄罗斯地区负责人宣布改变加油站运营时间表"
     },
     {
-      "title": "МИД Японии вызвал посла России из-за посещения Путиным Курил",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220881-mid-yaponii-vizval",
+      "title": "Российского журналиста заочно арестовали по уголовному делу",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyskogo-zhurnalista-zaochno-arestovali-po-ugolovnomu-delu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯记者因刑事案件缺席被捕"
+    },
+    {
+      "title": "Под Римом взорвался завод боеприпасов. Им владеет концерн, активно снабжающий ВСУ техникой и снарядами",
+      "link": "https://lenta.ru/news/2026/08/13/long-pod-rimom-vzorvalsya-zavod-boepripasov-im-vladeet-kontsern-aktivno-snabzhayuschiy-vsu-tehnikoy-i-snaryadami/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:14:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "罗马附近一家弹药厂发生爆炸。它的所有者是一家积极向乌克兰武装部队提供装备和弹药的企业。"
+    },
+    {
+      "title": "Мельниковой повысили оценку на чемпионате Европы",
+      "link": "https://lenta.ru/news/2026/08/13/melnikovoy-povysili-otsenku-na-chempionate-evropy/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:13:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "梅尔尼科娃在欧洲锦标赛上得分上升"
+    },
+    {
+      "title": "В ЕР выступили за устранение перекосов при поступлении по ЕГЭ и олимпиадам",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1221019-postuplenii-ege-olimpiadam",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:01:51 +0300",
-      "summary": "Президент на острове Итуруп пообщался с жителями, осмотрел школу и больницу",
+      "pubDate": "Thu, 13 Aug 2026 19:12:50 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "日本外务省因普京访问千岛群岛召见俄罗斯大使"
+      "titleZh": "统一俄罗斯党主张消除国家统一考试和奥林匹克招生中的扭曲现象"
     },
     {
-      "title": "«Яндекс Музыка» начнет маркировать ИИ-треки",
-      "link": "https://www.vedomosti.ru/media/news/2026/08/13/1220877-muzika-markirovat",
+      "title": "Электронный контроль защитит жильцов от незаконной смены УК",
+      "link": "https://iz.ru/2148660/2026-08-13/elektronnyi-kontrol-zashchitit-zhiltcov-ot-nezakonnoi-smeny-uk",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:11:12 +0300",
+      "summary": "<p>В России предложили свой способ борьбы с подделкой протоколов голосования собственников жилья. Варианта два, и оба — цифровые. Авторы идеи уверены, что электронный контроль позволит определить, что жильцы действительн",
+      "tags": [],
+      "titleZh": "电子控制将保护居民免受非法所有权变更"
+    },
+    {
+      "title": "США отправят новый авианосец на Ближний Восток",
+      "link": "https://lenta.ru/news/2026/08/13/ssha-otpravyat-novyy-avianosets-na-blizhniy-vostok/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:09:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "美国将向中东派遣一艘新航母"
+    },
+    {
+      "title": "В России предупредили о спорах в школах из-за нововведения",
+      "link": "https://lenta.ru/news/2026/08/13/v-rossii-predupredili-o-sporah-v-shkolah-iz-za-odnogo-novovvedeniya/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:09:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在俄罗斯，他们警告学校因创新而引发的纠纷"
+    },
+    {
+      "title": "В Совфеде оценили реакцию Японии на поездку Путина на Курилы",
+      "link": "https://iz.ru/2148579/2026-08-13/v-sovfede-otcenili-reaktciiu-iaponii-na-poezdku-putina-na-kurily",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 19:08:00 +0300",
+      "summary": "<p>Протест МИД Японии в связи с поездкой президента России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> на остров Итуруп носит дежурный характер. Об этом глава комитета Совфеда по между",
+      "tags": [],
+      "titleZh": "联邦委员会评估日本对普京访问千岛群岛的反应"
+    },
+    {
+      "title": "Квартиру уехавших в отпуск супругов заняла незнакомая девушка",
+      "link": "https://lenta.ru/news/2026/08/13/kvartiru-uehavshih-v-otpusk-suprugov-zanyala-neznakomaya-devushka/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:07:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "一个陌生女孩占据了一对去度假的夫妇的公寓"
+    },
+    {
+      "title": "Популярный остров Европы стал терпеть убытки после оттока российских туристов",
+      "link": "https://lenta.ru/news/2026/08/13/populyarnyy-ostrov-evropy-stal-terpet-ubytki-posle-ottoka-rossiyskih-turistov/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 19:03:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯游客外流后，欧洲热门岛屿开始遭受损失"
+    },
+    {
+      "title": "СД «Русагро» досрочно сменил состав правления",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/13/1221016-rusagro-pravlenie",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:01:27 +0300",
+      "pubDate": "Thu, 13 Aug 2026 19:00:23 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Yandex Music 将开始为 AI 曲目添加标签"
+      "titleZh": "Rusagro董事会提前变更董事会组成"
     },
     {
-      "title": "Россияне стали больше интересоваться перелетами в Грузию",
-      "link": "https://lenta.ru/news/2026/08/13/rossiyane-stali-bolshe-interesovatsya-pereletami-v-gruziyu/",
+      "title": "Раскинуть альянс: США сжимают дипломатическую удавку вокруг Кубы",
+      "link": "https://iz.ru/2148604/vladislav-petrov/ssha-szhimayut-diplomaticheskuyu-udavku-vokrug-kuby",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:57:29 +0300",
+      "summary": "Зачем Колумбия вступила в военно-политический блок «Щит Америк»",
+      "tags": [],
+      "titleZh": "扩大联盟：美国加强对古巴的外交束缚"
+    },
+    {
+      "title": "Захарова снова ответила на выпад Польши в адрес России",
+      "link": "https://lenta.ru/news/2026/08/13/zaharova-snova-otvetila-na-vypad-polshi-v-storonu-rossii/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 13:01:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:55:12 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯人对飞往格鲁吉亚的航班越来越感兴趣"
+      "titleZh": "扎哈罗娃再次回应波兰攻击俄罗斯"
     },
     {
-      "title": "ЕР предложила увеличить поддержку технологических компаний",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220874-er-predlozhila",
+      "title": "Морской толк: какие задачи отработал Тихоокеанский флот на учениях на Сахалине",
+      "link": "https://iz.ru/2148449/iuliia-leonova-roman-kretcul/kakie-zadachi-otrabatyval-tihookeanskiy-flot-na-operativnyh-ucheniyah-na-sahaline",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:54:41 +0300",
+      "summary": "И как защиту дальневосточных рубежей России меняет опыт современных конфликтов",
+      "tags": [],
+      "titleZh": "海洋意识：太平洋舰队在萨哈林岛演习期间执行了哪些任务"
+    },
+    {
+      "title": "В российском городе затопило целый район без капли дождя",
+      "link": "https://lenta.ru/news/2026/08/13/ekat-livnevki/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:53:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在俄罗斯一座城市，一滴雨都没有，整个地区就被洪水淹没了。"
+    },
+    {
+      "title": "Столичный суд в заочном порядке арестовал комика Долгополова",
+      "link": "https://iz.ru/2148669/stolichnyi-sud-v-zaochnom-poriadke-arestoval-komika-sashu-dolgopolova-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:52:18 +0300",
+      "summary": "<p>Суд заочно арестовал комика Александра Долгополова, обвиняемого в реабилитации нацизма. Об этом 13 августа сообщили в пресс-службе Мосгорсуда.</p><p>«Суд избрал в отношении Долгополова Александра Ивановича меру пресеч",
+      "tags": [],
+      "titleZh": "首都法院缺席逮捕喜剧演员多尔戈波洛夫"
+    },
+    {
+      "title": "Скандальный выпуск «Нового Ревизорро» из стоматологии потребовали изъять из эфира",
+      "link": "https://lenta.ru/news/2026/08/13/skandalnyy-vypusk-novogo-revizorro-iz-stomatologii-potrebovali-iz-yat-iz-efira/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:51:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "牙科丑闻“新雷维佐罗”被要求停播"
+    },
+    {
+      "title": "В Конгрессе США сделали заявление о мире на Украине",
+      "link": "https://lenta.ru/news/2026/08/13/v-kongresse-ssha-sdelali-zayavlenie-o-mire-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:48:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "美国国会就乌克兰和平发表声明"
+    },
+    {
+      "title": "Российский фондовый рынок вернулся к падению котировок",
+      "link": "https://lenta.ru/news/2026/08/13/rossiyskiy-fondovyy-rynok-vernulsya-k-padeniyu-kotirovok/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:48:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯股市重回跌势"
+    },
+    {
+      "title": "Врач назвал самые неудачные закуски к алкоголю",
+      "link": "https://lenta.ru/news/2026/08/13/vrach-nazval-samye-neudachnye-zakuski-k-alkogolyu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:46:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "医生列出了最不利于酒精的零食"
+    },
+    {
+      "title": "Louis Vuitton выпустил две эксклюзивные версии Porsche 911",
+      "link": "https://lenta.ru/news/2026/08/13/louis-vuitton-vypustil-dve-eksklyuzivnye-versii-porsche-911/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:46:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "路易威登发布了保时捷 911 的两款独家版本"
+    },
+    {
+      "title": "Суд Москвы заочно арестовал журналиста Михаила Фишмана",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1221011-zaochno-arestoval-fishmana",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 13:00:15 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:45:52 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "欧洲议会提议加大对科技企业的支持力度"
+      "titleZh": "莫斯科法院缺席逮捕记者米哈伊尔·菲什曼"
     },
     {
-      "title": "В МИД обвинили НАТО в нагнетании напряженности в одном регионе",
-      "link": "https://lenta.ru/news/2026/08/13/v-mid-obvinili-nato-v-nagnetanii-napryazhennosti-v-odnom-regione/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:58:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "外交部指责北约加剧某一地区紧张局势"
-    },
-    {
-      "title": "МИД Японии вызвал посла РФ в Токио после поездки Путина на остров Итуруп",
-      "link": "https://iz.ru/2148436/2026-08-13/mid-iaponii-vyzval-posla-rf-v-tokio-posle-poezdki-putina-na-ostrov-iturup",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:55:48 +0300",
-      "summary": "<p>МИД Японии 13 августа вызвал посла РФ в Токио Николая Ноздрева из-за поездки президента РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> на остров Итуруп. Об этом 13 августа сообщило ",
-      "tags": [],
-      "titleZh": "普京访问伊图鲁普岛后，日本外务省召见俄罗斯驻东京大使"
-    },
-    {
-      "title": "Индонезия может запустить новые прямые рейсы на Бали из РФ",
-      "link": "https://iz.ru/2148432/video/indoneziia-mozhet-zapustit-novye-priamye-reisy-na-bali-iz-rf",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:55:18 +0300",
-      "summary": "<p>Индонезия хочет запустить прямые рейсы из четырех городов России. Об этом <a href=\"https://iz.ru/live\" target=\"_blank\">телеканалу «Известия»</a> сообщили в посольстве республики в <a href=\"https://iz.ru/tag/moskva\" ta",
-      "tags": [],
-      "titleZh": "印度尼西亚可能开通从俄罗斯飞往巴厘岛的新直飞航班"
-    },
-    {
-      "title": "Холдинг «АГР» запустил новый центр автомобильных исследований и разработок",
-      "link": "https://iz.ru/2148430/2026-08-13/kholding-agr-zapustil-novyi-tcentr-avtomobilnykh-issledovanii-i-razrabotok",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:54:12 +0300",
-      "summary": "<p>Российский холдинг «АГР» и китайская компания Defetoo создали Центр автомобильных исследований и разработок (ЦАИР). Он будет заниматься инжинирингом, локализацией, качеством и разработкой продуктов для российского рын",
-      "tags": [],
-      "titleZh": "AGR Holding 成立新的汽车研发中心"
-    },
-    {
-      "title": "В США испытали контейнерный HIMARS",
-      "link": "https://lenta.ru/news/2026/08/13/v-ssha-ispytali-konteynernyy-himars/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:54:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "集装箱式 HIMARS 在美国进行测试"
-    },
-    {
-      "title": "МИД Японии вызвал посла России из-за визита Путина на Курилы",
-      "link": "https://lenta.ru/news/2026/08/13/mid-yaponii-vyzval-posla-rossii-iz-za-vizita-putina-na-kurily/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:52:48 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "日本外务省因普京访问千岛群岛召见俄罗斯大使"
-    },
-    {
-      "title": "Демилитаризация 13 августа",
-      "link": "https://iz.ru/2148434/video/demilitarizatciia-13-avgusta",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:52:31 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "8 月 13 日非军事化"
-    },
-    {
-      "title": "Мужчину с простреленной головой нашли в российском заказнике",
-      "link": "https://lenta.ru/news/2026/08/13/muzhchinu-s-prostrelennoy-golovoy-nashli-v-rossiyskom-zakaznike/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:52:15 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯自然保护区发现一名头部中弹的男子"
-    },
-    {
-      "title": "Более 1,6 тыс. участников СВО выдвинули на выборах всех уровней",
-      "link": "https://iz.ru/2148422/bolee-15-tys-uchastnikov-svo-vydvinuli-na-vyborakh-vsekh-urovnei-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:51:22 +0300",
-      "summary": "<p>Более 1,6 тыс. участников и ветеранов специальной военной операции (СВО) выдвинуты кандидатами на выборах разных уровней, которые пройдут в единый день голосования в сентябре 2026 года. Об этом 13 августа сообщила пре",
-      "tags": [],
-      "titleZh": "超过1600名SBO成员在各级选举中获得提名"
-    },
-    {
-      "title": "Собянин рассказал о попавших в «Банк технологий» разработках из регионов",
-      "link": "https://iz.ru/2148433/2026-08-13/sobianin-rasskazal-o-popavshikh-v-bank-tekhnologii-razrabotkakh-iz-regionov",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:50:53 +0300",
-      "summary": "<p>Использование «Банка технологий» позволяет отбирать лучшие разработки российских компаний для московской промышленности. Об этом сообщил мэр столицы Сергей Собянин в своем канале в <a href=\"https://max.ru/mossobyanin/",
-      "tags": [],
-      "titleZh": "索比亚宁谈到了技术银行所含地区的发展"
-    },
-    {
-      "title": "В поездке Путина на Курилы заметили один дипломатический жест",
-      "link": "https://lenta.ru/news/2026/08/13/v-poezdke-putina-na-kurily-zametili-odin-diplomaticheskiy-zhest/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:48:23 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "普京访问千岛群岛期间出现了一项外交姿态"
-    },
-    {
-      "title": "Россия и Украина обменялись телами погибших бойцов",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220873-rossiya-ukraina-obmenyalis",
+      "title": "Дочери Билла Гейтса грозит до 20 лет тюрьмы",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221010-docheri-geitsa",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:46:49 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:41:01 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯和乌克兰交换阵亡士兵尸体"
+      "titleZh": "比尔盖茨女儿面临最高20年监禁"
     },
     {
-      "title": "Пять человек погибли при разминировании в Севастополе",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1220875-pyat-chelovek-pogibli",
+      "title": "Появилась новая информация об избиении журналиста охраной «Локомотива»",
+      "link": "https://lenta.ru/news/2026/08/13/poyavilas-novaya-informatsiya-ob-izbienii-zhurnalista-ohranoy-lokomotiva/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:41:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "关于一名记者被火车头保安殴打的新信息出现。"
+    },
+    {
+      "title": "В Запорожской области сотрудник МЧС пострадал после повторного удара БПЛА",
+      "link": "https://iz.ru/2148629/2026-08-13/v-zaporozhskoi-oblasti-sotrudnik-mchs-postradal-posle-povtornogo-udara-bpla",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:41:00 +0300",
+      "summary": "<p>Сотрудник МЧС получил ранения при повторном ударе беспилотника Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ), когда работал на тушении пожара в Запорожской области. Об этом 13 а",
+      "tags": [],
+      "titleZh": "在扎波罗热地区，紧急情况部一名雇员在第二次无人机袭击后受伤"
+    },
+    {
+      "title": "В Минобороны раскрыли детали нового удара по портам на Украине",
+      "link": "https://lenta.ru/news/2026/08/13/v-minoborony-raskryli-detali-novogo-udara-po-portam-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:40:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "国防部公布了乌克兰港口新一轮袭击的细节"
+    },
+    {
+      "title": "Получившая перелом Ирина Безрукова обратилась к поклонникам",
+      "link": "https://lenta.ru/news/2026/08/13/poluchivshaya-perelom-irina-bezrukova-obratilas-k-poklonnikam/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:40:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "骨折的伊琳娜·贝兹鲁科娃向粉丝发表讲话"
+    },
+    {
+      "title": "Суд Москвы заочно арестовал комика Долгополова",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1221013-arestoval-dolgopolova",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:45:11 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:39:50 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "塞瓦斯托波尔扫雷造成五人死亡"
+      "titleZh": "莫斯科法院缺席逮捕喜剧演员多尔戈波洛夫"
     },
     {
-      "title": "Пять человек не выжили при разминировании после атаки ВСУ в Севастополе",
-      "link": "https://lenta.ru/news/2026/08/13/pyat-chelovek-ne-vyzhili-pri-razminirovanii-posle-ataki-vsu-v-sevastopole/",
+      "title": "Премьер Польши рассказал о задержании россиянина по подозрению в покушении на американца",
+      "link": "https://lenta.ru/news/2026/08/13/premier-polshi-rasskazal-o-zaderzhanii-rossiyanina-po-podozreniyu-v-pokushenii-na-amerikantsa/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:45:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:38:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰武装部队在塞瓦斯托波尔发动袭击后，五人在清理地雷时丧生"
+      "titleZh": "波兰总理谈到一名俄罗斯人因涉嫌谋杀一名美国人未遂而被拘留"
     },
     {
-      "title": "Украину отказались приглашать на парад в стране НАТО",
-      "link": "https://lenta.ru/news/2026/08/13/ukrainu-otkazalis-priglashat-na-parad-strany-nato/",
+      "title": "Раскрыта судьба уехавшего из России стендап-комика",
+      "link": "https://lenta.ru/news/2026/08/13/raskryta-sudba-uehavshego-iz-rossii-stendap-komika/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:44:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:37:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰拒绝受邀参加北约国家阅兵"
+      "titleZh": "离开俄罗斯的单口喜剧演员的命运已经揭晓"
     },
     {
-      "title": "Премьер Японии Такаити выразила протест после визита Путина на Курилы",
-      "link": "https://iz.ru/2148428/2026-08-13/premer-iaponii-takaiti-vyrozila-protest-posle-vizita-putina-na-kurily",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:42:04 +0300",
-      "summary": "<p>Премьер-министр Японии Санаэ Такаити 13 августа выразила протест в связи с посещением президентом России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимиром Путиным</a> острова Итуруп.</p><p>«Я решит",
-      "tags": [],
-      "titleZh": "日本首相高市对普京访问千岛群岛表示抗议"
-    },
-    {
-      "title": "Стало известно об очередном обмене телами погибших военнослужащих между Россией и Украиной",
-      "link": "https://lenta.ru/news/2026/08/13/stalo-izvestno-ob-ocherednom-obmene-telami-rossii-i-ukrainy/",
+      "title": "В США начался суд над возможным убийцей Тупака",
+      "link": "https://lenta.ru/news/2026/08/13/v-ssha-nachalsya-sud-nad-vozmozhnym-ubiytsey-tupaka/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:42:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:36:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "据了解，俄罗斯和乌克兰之间再次交换了阵亡军人的尸体"
+      "titleZh": "对图帕克可能凶手的审判在美国开始"
     },
     {
-      "title": "Пять человек погибли в Севастополе при разминировании после атаки ВСУ",
-      "link": "https://iz.ru/2148426/2026-08-13/piat-chelovek-pogibli-v-sevastopole-pri-razminirovanii-posle-ataki-vsu",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:40:11 +0300",
-      "summary": "<p>Четверо пиротехников МЧС и охранник погибли в Севастополе при обследовании территории после ночных ударов Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>. Об этом 13 августа сообщил губ",
-      "tags": [],
-      "titleZh": "乌克兰武装部队袭击后，塞瓦斯托波尔在扫雷时造成五人死亡"
-    },
-    {
-      "title": "Грушко о напряженности в Балтийском регионе",
-      "link": "https://iz.ru/2148427/video/grushko-o-napriazhennosti-v-baltiiskom-regione",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:39:13 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "格鲁什科谈波罗的海地区紧张局势"
-    },
-    {
-      "title": "Стало известно об исчерпанном терпении России к «тявкающим моськам»",
-      "link": "https://lenta.ru/news/2026/08/13/stalo-izvestno-ob-ischerpannom-terpenii-rossii-k-tyavkayuschim-moskam/",
+      "title": "Перечислены повышающие риск рака простаты продукты",
+      "link": "https://lenta.ru/news/2026/08/13/perechisleny-povyshayuschie-risk-raka-prostaty-produkty/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:37:20 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:34:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "众所周知，俄罗斯对“嚎叫的哈巴狗”已经失去了耐心"
+      "titleZh": "列出了增加前列腺癌风险的食物"
     },
     {
-      "title": "В багаже прилетевшего из КНР россиянина нашли 64 фрагмента крокодилов",
-      "link": "https://iz.ru/2148401/v-bagazhe-priletevshego-iz-knr-rossiianina-nashli-64-fragmenta-krokodilov-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:37:17 +0300",
-      "summary": "<p>Шереметьевские таможенники обнаружили в багаже 60-летнего россиянина 64 части крокодила, которые он привез из китайского Хайкоу. Об этом 13 августа сообщила Федеральная таможенная служба России.</p> <p>Экзотический то",
-      "tags": [],
-      "titleZh": "一名从中国抵达的俄罗斯人行李中发现64块鳄鱼碎片"
-    },
-    {
-      "title": "Губерниев рассказал о главной мотивации Большунова",
-      "link": "https://lenta.ru/news/2026/08/13/guberniev-rasskazal-o-glavnoy-motivatsii-bolshunova/",
+      "title": "В МИД обвинили Киев в возвеличивании приспешников Гитлера",
+      "link": "https://lenta.ru/news/2026/08/13/v-mid-obvinili-kiev-v-vozvelichivanii-prispeshnikov-gitlera/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:37:16 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:30:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "古别涅夫谈到博尔舒诺夫的主要动机"
+      "titleZh": "外交部指责基辅美化希特勒的爪牙"
     },
     {
-      "title": "В Госдуме рассказали о возможной подделке 50% протоколов собраний собственников",
-      "link": "https://iz.ru/2148400/2026-08-13/v-gosdume-rasskazali-o-vozmozhnoi-poddelke-50-protokolov-sobranii-sobstvennikov",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:35:57 +0300",
-      "summary": "<p>Около 50% протоколов собраний собственников жилья могут подделываться. Об этом 13 августа «Известиям» сообщила заместитель председателя комиссии Госдумы по строительству и ЖКХ Светлана Разворотнева.</p><p>«Люди постоя",
-      "tags": [],
-      "titleZh": "国家杜马谈到 50% 的业主会议记录可能存在伪造问题"
-    },
-    {
-      "title": "Актриса из сериала «Доктор Кто» Шерил Холл умерла в возрасте 76 лет",
-      "link": "https://iz.ru/2148425/2026-08-13/zvezda-seriala-doktor-kto-sheril-kholl-umerla-v-vozraste-76-let",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:35:36 +0300",
-      "summary": "<p>Британская актриса, которая снималась в сериале «Доктор Кто», Шерил Холл скончалась на 77-м году жизни. Об этом 13 августа сообщила газета <a href=\"https://www.thesun.co.uk/tv/40039131/eastenders-and-the-bill-actress-",
-      "tags": [],
-      "titleZh": "《神秘博士》女演员谢丽尔·霍尔去世，享年 76 岁"
-    },
-    {
-      "title": "На Украине предупредили о серьезных последствиях блокады Черного моря",
-      "link": "https://lenta.ru/news/2026/08/13/na-ukraine-predupredili-o-serieznyh-posledstviyah-blokady-chernogo-morya/",
+      "title": "Россиянам назвали главные финансовые ошибки",
+      "link": "https://lenta.ru/news/2026/08/13/finance-oshibka/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:35:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:29:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰警告黑海封锁将造成严重后果"
+      "titleZh": "俄罗斯人列举了主要的金融错误"
     },
     {
-      "title": "Запасы газа в европейских хранилищах оказались минимальными",
-      "link": "https://lenta.ru/news/2026/08/13/zapasy-gaza-v-evropeyskih-hranilischah-okazalis-minimalnymi/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:35:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "欧洲储存设施的天然气储量微乎其微"
-    },
-    {
-      "title": "Россиян предупредили о схемах мошенников перед 1 сентября",
-      "link": "https://lenta.ru/news/2026/08/13/moshenniki/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:33:59 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "9 月 1 日之前，俄罗斯人已收到有关骗子计划的警告"
-    },
-    {
-      "title": "Рябков: США не передавали никаких предложений от Зеленского",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220858-ssha-ne-peredavali",
+      "title": "Захарова: цели по денацификации Украины будут достигнуты",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221006-denatsifikatsii-ukraini",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:31:33 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:28:35 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "里亚布科夫：美方没有转达泽连斯基的任何建议"
+      "titleZh": "扎哈罗娃：乌克兰去纳粹化目标将会实现"
     },
     {
-      "title": "Памфилова рассказала о новой мошеннической схеме в преддверии выборов",
-      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1220863-pamfilova-rasskazala",
+      "title": "Развожаев предложил наградить орденами Мужества погибших сотрудников МЧС",
+      "link": "https://iz.ru/2148661/razvozhaev-predlozhil-nagradit-ordenami-muzhestva-pogibshikh-sotrudnikov-mchs-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:27:34 +0300",
+      "summary": "<p>Губернатор Севастополя Михаил Развожаев ходатайствует о посмертном награждении орденами Мужества четырех сотрудников МЧС, погибших при исполнении служебного долга. Об этом 13 августа сообщила пресс-служба правительств",
+      "tags": [],
+      "titleZh": "拉兹沃扎耶夫提议向紧急情况部已故雇员授予勇气勋章"
+    },
+    {
+      "title": "Какие привычки помогут сохранить здоровье",
+      "link": "https://iz.ru/2148664/video/kakie-privychki-pomogut-sokhranit-zdorove",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:26:28 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "哪些习惯可以帮助您保持健康？"
+    },
+    {
+      "title": "В Челябинске обвинили SHAMAN в плагиате",
+      "link": "https://iz.ru/2148659/2026-08-13/v-cheliabinske-obvinili-shaman-v-plagiate",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:25:32 +0300",
+      "summary": "<p>В Челябинске заслуженный артист России, певец Ярослав Дронов (SHAMAN) стал ответчиком в суде после иска челябинского автора, который обвинил его в плагиате. Соответствующая карточка 13 августа появилась на <a href=\"ht",
+      "tags": [],
+      "titleZh": "SHAMAN在车里雅宾斯克被指控抄袭"
+    },
+    {
+      "title": "Как мошенники обманывают россиян с доставкой еды",
+      "link": "https://iz.ru/2148663/video/kak-moshenniki-obmanyvaiut-rossiian-s-dostavkoi-edy",
+      "source": "Izvestia",
+      "pubDate": "Thu, 13 Aug 2026 18:25:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "诈骗者如何通过送餐欺骗俄罗斯人"
+    },
+    {
+      "title": "Российские военные ударили по украинскому патрульному катеру и резервуарам с ГСМ",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1221008-udarili-po-kateru",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:31:22 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:23:30 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "帕姆菲洛娃在选举前谈到了一个新的欺诈计划"
+      "titleZh": "俄罗斯军队击中乌克兰巡逻艇和油箱"
     },
     {
-      "title": "EBITDA X5 выросла на 2% во II квартале, чистая прибыль упала на 29%",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/13/1220841-ebitda-x5-virosla",
+      "title": "Международные резервы России резко выросли",
+      "link": "https://lenta.ru/news/2026/08/13/mezhdunarodnye-rezervy-rossii-rezko-vyrosli/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯国际储备大幅增加"
+    },
+    {
+      "title": "В России назвали Японию американским рабом после визита Путина на Курилы",
+      "link": "https://lenta.ru/news/2026/08/13/v-rossii-nazvali-yaponiyu-amerikanskimi-rabami-posle-vizita-putina-na-kurily/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "普京访问千岛群岛后，俄罗斯称日本为美国奴隶"
+    },
+    {
+      "title": "Ходатайство о заочном аресте известного российского комика поступило в суд",
+      "link": "https://lenta.ru/news/2026/08/13/hodataystvo-o-zaochnom-areste-izvestnogo-rossiyskogo-komika-postupilo-v-sud/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:19:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "法院收到了缺席逮捕俄罗斯著名喜剧演员的请愿书。"
+    },
+    {
+      "title": "Против комика Долгополова возбудили дело о реабилитации нацизма",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1221002-protiv-dolgopolova",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:31:02 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:18:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "X5二季度EBITDA增长2%，净利润下降29%"
+      "titleZh": "喜剧演员多尔戈波洛夫因复兴纳粹主义而被立案"
     },
     {
-      "title": "В Минобороны назвали цели атак российских военных на Украине",
-      "link": "https://lenta.ru/news/2026/08/13/v-minoborony-nazvali-tseli-atak-rossiyskih-voennyh-na-ukraine/",
+      "title": "Блогерша посетила секонд-хенд и удивилась ценной находке",
+      "link": "https://lenta.ru/news/2026/08/13/blogersha-posetila-sekond-hend-i-udivilas-tsennoy-nahodke/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:31:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:16:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "国防部公布俄罗斯在乌克兰军事袭击目标"
+      "titleZh": "博主参观了一家二手店，对其中有价值的发现感到惊讶"
     },
     {
-      "title": "Врач предупредил о неприятных последствиях частой ошибки во время еды",
-      "link": "https://lenta.ru/news/2026/08/13/vrach-predupredil-o-nepriyatnyh-posledstviyah-chastoy-oshibki-vo-vremya-edy/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:30:50 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "医生警告吃饭时经常出错会带来不愉快的后果"
-    },
-    {
-      "title": "Германия ответила на предупреждение Путина о последствиях захвата российских судов",
-      "link": "https://lenta.ru/news/2026/08/13/germaniya-otvetila/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:30:14 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "德国回应普京关于扣押俄罗斯船只后果的警告"
-    },
-    {
-      "title": "Получивший повреждения при атаке ВСУ российский НПЗ полностью остановил работу",
-      "link": "https://lenta.ru/news/2026/08/13/poluchivshiy-povrezhdeniya-pri-atake-vsu-rossiyskiy-npz-polnostyu-ostanovil-rabotu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "在乌克兰武装部队袭击中受损的俄罗斯炼油厂完全停止生产"
-    },
-    {
-      "title": "Путина пригласили на рыбалку на палтуса",
-      "link": "https://iz.ru/2148421/putina-priglasili-na-rybalku-na-paltusa-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:28:54 +0300",
-      "summary": "<p>Президента России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> пригласили на рыбалку на палтуса во время его поездки на курильский остров Итуруп. С предложением 13 августа выступил г",
-      "tags": [],
-      "titleZh": "普京受邀去钓鱼"
-    },
-    {
-      "title": "Глава МИД Ирана назвал причину частых ошибок США",
-      "link": "https://lenta.ru/news/2026/08/13/glava-mid-irana-nazval-prichinu-chastyh-oshibok-ssha/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:28:26 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "伊朗外长点名美国频频犯错的原因"
-    },
-    {
-      "title": "В МИД Украины высказались о встрече Зеленского с Лукашенко",
-      "link": "https://lenta.ru/news/2026/08/13/v-mid-ukrainy-vyskazalis-o-vstreche-zelenskogo-i-lukashenko/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:26:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "乌克兰外交部谈到泽连斯基与卢卡申科的会面"
-    },
-    {
-      "title": "Армия России взяла Петровку в ДНР",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220866-armiya-rossii",
+      "title": "Екатерина Сироткина назначена директором Театра сатиры",
+      "link": "https://www.vedomosti.ru/lifestyle/news/2026/08/13/1220998-direktorom-teatra-satiri",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:24:23 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:13:27 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯军队占领了民主共和国的彼得罗夫卡"
+      "titleZh": "叶卡捷琳娜·西洛特金娜 (Ekaterina Sirotkina) 被任命为讽刺剧院导演"
     },
     {
-      "title": "В Совфеде рассказали о глубоком заблуждении Запада",
-      "link": "https://lenta.ru/news/2026/08/13/v-sovfede-rasskazali-o-glubokom-zabluzhdenii-zapada/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:24:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "联邦委员会谈西方的深刻误解"
-    },
-    {
-      "title": "Компания VK нарастила выручку по итогам первого полугодия 2026 года",
-      "link": "https://iz.ru/2148395/2026-08-13/kompaniia-vk-narastila-vyruchku-po-itogam-pervogo-polugodiia-2026-goda",
+      "title": "Квартирный убийца: раскрыта серия жестоких убийств в Москве и Подмосковье",
+      "link": "https://iz.ru/2148646/ivan-petrov/kvartirnyi-ubiitca-raskryta-seriia-zhestokikh-ubiistv-v-moskve-i-podmoskove",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:23:57 +0300",
-      "summary": "<p>Компания VK по итогам II квартала и первого полугодия 2026 года зафиксировала рост финансовых показателей во всех операционных сегментах, компания сохраняет прогноз на текущий год и ожидает, что доход без вычетов (EBI",
+      "pubDate": "Thu, 13 Aug 2026 18:11:44 +0300",
+      "summary": "Преступника депортировали из США в РФ",
       "tags": [],
-      "titleZh": "VK公司2026年上半年收入增加"
+      "titleZh": "公寓杀手：莫斯科及莫斯科地区一系列残酷谋杀案已告侦破"
     },
     {
-      "title": "Водитель автобуса с туристами в Грузии перед аварией выпрыгнул из кабины на ходу",
-      "link": "https://lenta.ru/news/2026/08/13/voditel-avtobusa-s-turistami-v-gruzii-pered-avariey-vyprygnul-iz-kabiny-na-hodu/",
+      "title": "«Пришел с фингалом и расплакался». Сын бывшего федерального министра России арестован по делу о жестокой расправе над курьером",
+      "link": "https://lenta.ru/news/2026/08/13/long-prishel-s-fingalom-i-rasplakalsya-syn-byvshego-federalnogo-ministra-rossii-arestovan-po-delu-o-zhestokoy-rasprave-nad-kurierom/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:23:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:11:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "佐治亚州一辆载有游客的巴士司机在事故发生前行驶时跳出驾驶室"
+      "titleZh": "“他来的时候眼睛都肿了，泪流满面。”俄罗斯前联邦部长的儿子因涉嫌残酷屠杀一名信使而被捕。"
     },
     {
-      "title": "Армения хочет разрешить ситуацию с ж/д по-дружески",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220865-armeniya-hochet-razreshit",
+      "title": "Российские автогонщики смогут участвовать в соревнованиях под флагом РФ",
+      "link": "https://www.vedomosti.ru/lifestyle/news/2026/08/13/1221000-avtogonschiki-pod-flagom",
       "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:22:43 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:10:01 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "亚美尼亚希望友好解决铁路问题"
+      "titleZh": "俄罗斯赛车手将能够代表俄罗斯参加比赛"
     },
     {
-      "title": "Участник BTS признался в частичной потере слуха",
-      "link": "https://lenta.ru/news/2026/08/13/uchastnik-bts-priznalsya-v-chastichnoy-potere-sluha/",
+      "title": "Зевающего котенка манула запечатлели на Алтае",
+      "link": "https://lenta.ru/news/2026/08/13/zevayuschego-kotenka-manula-zapechatleli-na-altae/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:22:11 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:10:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "BTS 成员承认部分听力损失"
+      "titleZh": "一只打哈欠的帕拉斯猫在阿尔泰被捕获"
     },
     {
-      "title": "В России высказались о реакции Японии на поездку Путина на Курилы",
-      "link": "https://lenta.ru/news/2026/08/13/v-rossii-vyskazalis-o-reaktsii-yaponii-na-poezdku-putina-na-kurily/",
+      "title": "Захарова указала на доказательства участия стран НАТО в терактах Киева",
+      "link": "https://lenta.ru/news/2026/08/13/zaharova-ukazala-na-dokazatelstva-uchastiya-stran-nato-v-teraktah-kieva/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:21:00 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:08:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯公开谈论日本对普京访问千岛群岛的反应"
+      "titleZh": "扎哈罗娃指出北约国家参与基辅恐怖袭击的证据"
     },
     {
-      "title": "Популярный морепродукт оказался полезен для памяти",
-      "link": "https://lenta.ru/news/2026/08/13/populyarnyy-moreprodukt-okazalsya-polezen-dlya-pamyati/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:21:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "受欢迎的海鲜产品有利于记忆"
-    },
-    {
-      "title": "Перечислены самые модные джинсы",
-      "link": "https://lenta.ru/news/2026/08/13/perechisleny-samye-modnye-dzhinsy/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:20:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "最时尚的牛仔裤都列出来了"
-    },
-    {
-      "title": "В Абхазии завершено строительство новой школы для детей военнослужащих",
-      "link": "https://iz.ru/2148419/video/v-abkhazii-zaversheno-stroitelstvo-novoi-shkoly-dlia-detei-voennosluzhashchikh",
+      "title": "Посадивший в поле под Новосибирском самолет пилот поблагодарил за поддержку",
+      "link": "https://iz.ru/2148654/posadivshii-v-pole-pod-novosibirskom-samolet-pilot-poblagodaril-za-podderzhku-izi",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:20:28 +0300",
-      "summary": "",
+      "pubDate": "Thu, 13 Aug 2026 18:06:25 +0300",
+      "summary": "<p>Пилот Сергей Белов, посадивший самолет в поле в Новосибирской области в 2023 году, 13 августа поблагодарил в суде коллег и пассажиров за поддержку.</p><p>«Я хотел бы поблагодарить всех пассажиров, всех, кто меня подде",
       "tags": [],
-      "titleZh": "阿布哈兹一所新的军人儿童学校的建设已经完成"
+      "titleZh": "将飞机降落在新西伯利亚附近田野的飞行员感谢大家的支持"
     },
     {
-      "title": "Названы российские города со «сдувающимися» квартирами",
-      "link": "https://lenta.ru/news/2026/08/13/nazvany-rossiyskie-goroda-so-sduvayuschimisya-kvartirami/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:20:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "公寓“萎缩”的俄罗斯城市被命名"
-    },
-    {
-      "title": "В Минобороны раскрыли детали о примененном при атаках ВСУ оружии",
-      "link": "https://lenta.ru/news/2026/08/13/v-minoborony-raskryli-detali-o-primenennom-pri-atakah-vsu-oruzhii/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:19:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "国防部透露乌克兰武装部队袭击中使用的武器细节"
-    },
-    {
-      "title": "Россия взяла под контроль населенный пункт в зоне СВО",
-      "link": "https://lenta.ru/news/2026/08/13/rossiya-vzyala-pod-kontrol-naselennyy-punkt-v-zone-svo/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:17:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯控制了北部军区的一个定居点"
-    },
-    {
-      "title": "Выручка «Вымпелкома» во II квартале выросла на 11%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220854-viruchka-bilaina",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 13 Aug 2026 12:15:48 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "VimpelCom第二季度营收增长11%"
-    },
-    {
-      "title": "Появились подробности подрыва капитана 1 ранга в Севастополе",
-      "link": "https://lenta.ru/news/2026/08/13/poyavilis-podrobnosti-podryva-kapitana-1-ranga-v-sevastopole/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:15:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "塞瓦斯托波尔一名一级上尉爆炸的细节已经浮出水面"
-    },
-    {
-      "title": "Отказ от знакомства привел к стрельбе в российском городе",
-      "link": "https://lenta.ru/news/2026/08/13/otkaz-ot-znakomstv-privel-k-strelbe-v-rossiyskom-gorode/",
-      "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:15:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "拒绝会见某人导致俄罗斯城市发生枪击事件"
-    },
-    {
-      "title": "Средства ПВО за день сбили 1150 украинских дронов в зоне СВО",
-      "link": "https://iz.ru/2148416/2026-08-13/sredstva-pvo-za-den-sbili-1150-ukrainskikh-dronov-v-zone-svo",
+      "title": "Всемирный совет по автоспорту снял ограничения с российских спортсменов",
+      "link": "https://iz.ru/2148652/2026-08-13/vsemirnyi-sovet-po-avtosportu-snial-ogranicheniia-s-rossiiskikh-sportsmenov",
       "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:14:34 +0300",
-      "summary": "<p>Средства противовоздушной обороны (ПВО) в течение суток сбили 1150 украинских беспилотников в зоне специальной военной операции. Об этом 13 августа сообщили в Минобороны РФ.</p><p>«Средствами противовоздушной обороны ",
+      "pubDate": "Thu, 13 Aug 2026 18:05:36 +0300",
+      "summary": "<p>Всемирный совет по автоспорту (WMSC) снял ограничения на выступление российских и белорусских спортсменов в международных соревнованиях — они смогут участвовать с флагом и гимном. Об этом 13 августа сообщается на <a h",
       "tags": [],
-      "titleZh": "防空系统白天在北部防区击落 1,150 架乌克兰无人机"
+      "titleZh": "世界汽车运动理事会取消对俄罗斯运动员的限制"
     },
     {
-      "title": "Армия России поразила используемые ВСУ объекты инфраструктуры Украины",
-      "link": "https://iz.ru/2148415/2026-08-13/armiia-rossii-porazila-ispolzuemye-vsu-obekty-infrastruktury-ukrainy",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:14:21 +0300",
-      "summary": "<p>Российские военнослужащие нанесли удары по объектам топливно-энергетической и транспортной инфраструктуры <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>, используемым в интересах Вооруженных сил Украи",
-      "tags": [],
-      "titleZh": "俄罗斯军队袭击了乌克兰武装部队使用的乌克兰基础设施"
-    },
-    {
-      "title": "В пресс-центре МИЦ «Известия» расскажут об итогах приемной кампании в вузы в 2026 году",
-      "link": "https://iz.ru/2148417/2026-08-13/v-press-tcentre-mitc-izvestiia-rasskazhut-ob-itogakh-priemnoi-kampanii-v-vuzy-v-2026-godu",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:14:09 +0300",
-      "summary": "<p><strong>14 августа в 12:00 в пресс-центре МИЦ «Известия»</strong> состоится пресс-конференция «Приемная кампания – 2026 в ведущие российские вузы: итоги и основные тенденции».</p><p>Как прошла приемная кампания в этом",
-      "tags": [],
-      "titleZh": "《消息报》国际研究中心新闻中心将谈2026年大学招生结果"
-    },
-    {
-      "title": "Сафонов поделился впечатлениями от завоевания Суперкубка УЕФА",
-      "link": "https://lenta.ru/news/2026/08/13/safonov-podelilsya-vpechatleniyami-ot-zavoevaniya-superkubka-uefa/",
+      "title": "20-летний турист устроил фотосессию на вершине водопада, сорвался вниз и не выжил",
+      "link": "https://lenta.ru/news/2026/08/13/20-letniy-turist-ustroil-fotosessiyu-na-vershine-vodopada-sorvalsya-vniz-i-ne-vyzhil/",
       "source": "Lenta",
-      "pubDate": "Thu, 13 Aug 2026 12:13:59 +0300",
+      "pubDate": "Thu, 13 Aug 2026 18:01:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "萨福诺夫分享赢得欧洲超级杯的感想"
+      "titleZh": "20岁游客在瀑布顶拍照不慎坠落身亡"
     },
     {
-      "title": "Армия России освободила населенный пункт Петровка в ДНР",
-      "link": "https://iz.ru/2148414/2026-08-13/armiia-rossii-osvobodila-naselennyi-punkt-petrovka-v-dnr",
-      "source": "Izvestia",
-      "pubDate": "Thu, 13 Aug 2026 12:13:55 +0300",
-      "summary": "<p>Армия России освободила населенный пункт Петровка Донецкой Народной Республики (ДНР). Об этом 13 августа сообщило Министерство обороны РФ.</p><p>«Подразделения группировки войск «Центр» освободили населенный пункт Пет",
+      "title": "Еще одна спортивная федерация сняла запрет на флаг и гимн России",
+      "link": "https://lenta.ru/news/2026/08/13/esche-odna-sportivnaya-federatsiya-snyala-zapret-na-flag-i-gimn-rossii/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:01:00 +0300",
+      "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯军队解放了民主共和国彼得罗夫卡村"
+      "titleZh": "另一个体育联合会解除了对俄罗斯国旗和国歌的禁令"
+    },
+    {
+      "title": "В Абхазии получили топливо из России",
+      "link": "https://lenta.ru/news/2026/08/13/v-abhazii-zayavili-o-poluchenii-topliva-iz-rossii/",
+      "source": "Lenta",
+      "pubDate": "Thu, 13 Aug 2026 18:00:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "阿布哈兹从俄罗斯获得燃料"
     }
   ]
 }
