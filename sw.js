@@ -1,4 +1,4 @@
-const CACHE = 'wb-v1';
+const CACHE = 'wb-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
