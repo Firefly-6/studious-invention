@@ -14,7 +14,6 @@ const SOURCES = [
   { name: 'RIA',         url: 'https://ria.ru/export/rss2/index.xml' },
   { name: 'Izvestia',    url: 'https://iz.ru/rss' },
   { name: 'ForbesRussia',url: 'https://www.forbes.ru/rss/news' },
-  { name: 'GoogleNews',  url: 'https://news.google.com/rss/search?q=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%20%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%20%D1%86%D0%B5%D0%BD%D1%8B&hl=ru&gl=RU&ceid=RU:ru' },
 ];
 
 // 俄文关键词 -> 中文供需标签（命中越多越靠前）
@@ -55,6 +54,42 @@ async function fetchText(url, timeoutMs = 15000){
   } finally {
     clearTimeout(t);
   }
+}
+
+// 俄文 -> 中文（Google 翻译公共端点，免 key；CI 在境外可访问，失败时保留原文）
+async function translateRU(text, timeoutMs = 8000){
+  if (!text) return text;
+  const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=ru&tl=zh-CN&dt=t&q=' + encodeURIComponent(text);
+  for (let attempt = 0; attempt < 2; attempt++){
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), timeoutMs);
+    try {
+      const r = await fetch(url, { signal: ctrl.signal, headers: { 'User-Agent': 'Mozilla/5.0' } });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const j = await r.json();
+      const zh = (j[0] || []).map(seg => seg[0]).filter(Boolean).join('');
+      if (zh) return zh;
+      throw new Error('empty');
+    } catch (e) {
+      if (attempt === 1) return text;   // 兜底：保留俄文原文
+    } finally {
+      clearTimeout(t);
+    }
+  }
+  return text;
+}
+
+// 并发翻译标题（写入 titleZh），失败保留原文
+async function translateTitles(items, concurrency = 5){
+  let i = 0;
+  async function worker(){
+    while (i < items.length){
+      const idx = i++;
+      items[idx].titleZh = await translateRU(items[idx].title);
+    }
+  }
+  const n = Math.min(concurrency, items.length);
+  await Promise.all(Array.from({ length: n }, worker));
 }
 
 function decodeEntities(s){
@@ -133,6 +168,8 @@ async function main(){
     return db - da;
   });
   merged = merged.slice(0, 200);
+  console.log('翻译标题（俄->中）中…');
+  await translateTitles(merged);
   const out = { updated: new Date().toISOString(), count: merged.length, items: merged };
   fs.writeFileSync('news.json', JSON.stringify(out, null, 2));
   console.log(`已写出 news.json，共 ${merged.length} 条`);
