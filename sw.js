@@ -1,4 +1,4 @@
-const CACHE = 'wb-v2';
+const CACHE = 'wb-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
@@ -18,17 +18,34 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
   const url = event.request.url;
+
+  // 页面（导航请求）走「网络优先」：保证俄国新闻/中文标题等更新即时生效，不再被 SW 缓存卡住
+  const isPage = event.request.mode === 'navigate' ||
+                 url.endsWith('/') || url.endsWith('/index.html');
+  if (isPage) {
+    event.respondWith(
+      fetch(event.request)
+        .then((resp) => {
+          const copy = resp.clone();
+          caches.open(CACHE).then((c) => c.put(event.request, copy));
+          return resp;
+        })
+        .catch(() => caches.match(event.request).then((c) => c || caches.match('./index.html')))
+    );
+    return;
+  }
+
+  // 其它静态资源（图标、xlsx 库等）走「缓存优先」，便于离线使用
   event.respondWith(
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
       return fetch(event.request).then((resp) => {
-        // 运行时缓存 xlsx 库，便于首次联网加载后离线导入 Excel
-        if (url.includes('xlsx') && resp && resp.status === 200 && (resp.type === 'basic' || resp.type === 'cors')) {
+        if (resp && resp.status === 200 && (resp.type === 'basic' || resp.type === 'cors')) {
           const copy = resp.clone();
           caches.open(CACHE).then((c) => c.put(event.request, copy));
         }
         return resp;
-      }).catch(() => caches.match('./index.html'));
+      }).catch(() => cached);
     })
   );
 });
