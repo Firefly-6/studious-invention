@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T11:30:21.085Z",
+  "updated": "2026-08-14T11:33:50.475Z",
   "count": 200,
   "items": [
     {
@@ -9,7 +9,7 @@
       "pubDate": "Fri, 14 Aug 2026 14:20:49 +0300",
       "summary": "<p>Россия в I полугодии 2026 года увеличила экспорт креветок в стоимостном выражении на 17% по сравнению с аналогичным периодом прошлого года. Об этом 14 августа сообщили в Федеральном центре «Агроэкспорт».</p><p>По оцен",
       "tags": [
-        "出口",
+        "供给↓",
         "价格"
       ],
       "titleZh": "上半年俄罗斯虾出口增长17%"
@@ -21,10 +21,22 @@
       "pubDate": "Fri, 14 Aug 2026 12:42:00 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "进口"
+        "需求↑",
+        "供给↓"
       ],
       "titleZh": "俄罗斯钻石主要进口国之一大幅减少采购量"
+    },
+    {
+      "title": "Названа минимальная цена яблок в российских магазинах",
+      "link": "https://lenta.ru/news/2026/08/14/nazvana-minimalnaya-tsena-yablok-v-rossiyskih-magazinah/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 11:11:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "价格"
+      ],
+      "titleZh": "俄罗斯商店苹果最低售价公布"
     },
     {
       "title": "Потребление рыбы в России снизилось до 22 кг на человека в 2025 году",
@@ -51,18 +63,6 @@
       "titleZh": "俄罗斯汽油价格一周下跌0.6%"
     },
     {
-      "title": "Грузия направила в Абхазию топливо на фоне дефицита",
-      "link": "https://www.vedomosti.ru/business/news/2026/08/12/1220692-gruziya-napravila",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 12 Aug 2026 17:28:12 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "格鲁吉亚因短缺而向阿布哈兹运送燃料"
-    },
-    {
       "title": "Минфин предложил пересмотреть налоговые льготы для авиации объемом 573 млрд",
       "link": "https://iz.ru/2149078/2026-08-14/minfin-predlozhil-peresmotret-nalogovye-lgoty-dlia-aviatcii-obemom-573-mlrd",
       "source": "Izvestia",
@@ -85,6 +85,50 @@
       "titleZh": "第二季度IIS债券份额达到创纪录的730亿卢布"
     },
     {
+      "title": "Сеть доставки «Ёбидоёби» решила провести ребрендинг и поменять название на «Ё»",
+      "link": "https://iz.ru/2149052/set-dostavki-ebidoebi-reshila-provesti-rebrending-i-pomeniat-nazvanie-na-e-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 14 Aug 2026 14:02:04 +0300",
+      "summary": "<p>Международная сеть по доставке блюд азиатской кухни «Ёбидоёби» 14 августа объявила, что в рамках ребрендинга планирует сменить свое название на «Ё».</p><p>Первые изменения будут внесены на официальном сайте и в мобиль",
+      "tags": [
+        "物流"
+      ],
+      "titleZh": "配送网络“Yobidoyobi”决定重塑品牌并更名为“Yo”"
+    },
+    {
+      "title": "Захарова: возврат к «Черноморской инициативе» нецелесообразен",
+      "link": "https://iz.ru/2149056/2026-08-14/zakharova-vozvrat-k-chernomorskoi-initciative-netcelesoobrazen",
+      "source": "Izvestia",
+      "pubDate": "Fri, 14 Aug 2026 13:40:02 +0300",
+      "summary": "<p>Возврат к «Черноморской инициативе» на фоне предложения <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турции</a> об остановке боевых действий в Черном море является нецелесообразным. Об этом 14 августа сообщила",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "扎哈罗娃：重返黑海倡议是不合适的"
+    },
+    {
+      "title": "В Евросоюзе нашли главного покупателя российского газа",
+      "link": "https://lenta.ru/news/2026/08/14/v-evrosoyuze-nashli-glavnogo-pokupatelya-rossiyskogo-gaza/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 13:38:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "欧盟找到俄罗斯天然气主要买家"
+    },
+    {
+      "title": "Сборная России по футболу проведет матч с Ираном в Казани 29 сентября",
+      "link": "https://iz.ru/2149044/sbornaia-rossii-po-futbolu-provedet-match-s-iranom-v-kazani-29-sentiabria-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 14 Aug 2026 13:37:51 +0300",
+      "summary": "<p>Товарищеский матч между сборными России и Ирана пройдет в Казани 29 сентября. Об этом 14 августа сообщили на <a href=\"https://www.rfs.ru/news/224834\">сайте</a> Российского футбольного союза.</p><p>«Сборная России сыгр",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯国足将于9月29日在喀山与伊朗队进行一场比赛"
+    },
+    {
       "title": "Российская компания эмигрировавшего Лагутенко заработала 39 млн рублей",
       "link": "https://iz.ru/2149047/2026-08-14/rossiiskaia-kompaniia-emigrirovavshego-lagutenko-zarabotala-39-mln-rublei",
       "source": "Izvestia",
@@ -102,7 +146,7 @@
       "pubDate": "Fri, 14 Aug 2026 13:21:54 +0300",
       "summary": "",
       "tags": [
-        "物流"
+        "供给↓"
       ],
       "titleZh": "有关提供空中定位“Groza”电子战系统的信息被否认"
     },
@@ -146,9 +190,9 @@
       "pubDate": "Fri, 14 Aug 2026 12:37:22 +0300",
       "summary": "<p>Украинская экономика может столкнуться с серьезными последствиями из-за практически остановившегося экспорта сельхозпродукции через черноморские порты. Об этом 14 августа сообщило агентство <a href=\"https://www.reuter",
       "tags": [
-        "出口"
+        "供给↓"
       ],
-      "titleZh": "路透社预测，由于港口封锁，乌克兰农业部门将陷入危机"
+      "titleZh": "路透社预测乌克兰农业部门将因港口封锁而陷入危机"
     },
     {
       "title": "Эксперты рассказали о результатах приемной кампании в вузы в 2026 году",
@@ -160,6 +204,28 @@
         "汇率"
       ],
       "titleZh": "专家谈2026年大学招生结果"
+    },
+    {
+      "title": "Назван ключевой покупатель российских креветок",
+      "link": "https://lenta.ru/news/2026/08/14/nazvan-klyuchevoy-pokupatel-rossiyskih-krevetok/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 12:21:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯虾的主要买家被命名"
+    },
+    {
+      "title": "В МИД России ответили на вопрос о предложении Турции по Украине",
+      "link": "https://lenta.ru/news/2026/08/14/mid-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 12:20:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯外交部回答有关土耳其对乌克兰提议的问题"
     },
     {
       "title": "В Москве резко сократилось число дорожных происшествий одного типа",
@@ -190,7 +256,7 @@
       "pubDate": "Fri, 14 Aug 2026 11:36:20 +0300",
       "summary": "",
       "tags": [
-        "物流"
+        "供给↓"
       ],
       "titleZh": "俄罗斯在向印度的石油供应方面保持领先地位，领先优势超过一倍"
     },
@@ -201,7 +267,7 @@
       "pubDate": "Fri, 14 Aug 2026 11:32:15 +0300",
       "summary": "",
       "tags": [
-        "物流"
+        "供给↓"
       ],
       "titleZh": "拉夫罗夫：俄罗斯没有就向基辅供应武器向美国发出最后通牒"
     },
@@ -228,17 +294,6 @@
       "titleZh": "Raspadskaya上半年净亏损减半"
     },
     {
-      "title": "Названа минимальная цена яблок в российских магазинах",
-      "link": "https://lenta.ru/news/2026/08/14/nazvana-minimalnaya-tsena-yablok-v-rossiyskih-magazinah/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 11:11:00 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "俄罗斯商店苹果最低售价公布"
-    },
-    {
       "title": "В России отреагировали на желание Японии ужесточить санкции после поездки Путина на Курилы",
       "link": "https://lenta.ru/news/2026/08/14/v-rossii-otreagirovali-na-zhelanie-yaponii-uzhestochit-sanktsii-poezdki-putina-na-kurily/",
       "source": "Lenta",
@@ -248,6 +303,39 @@
         "制裁"
       ],
       "titleZh": "普京访问千岛群岛后，俄罗斯对日本加强制裁的愿望作出反应"
+    },
+    {
+      "title": "ВСУ ударили по Тверской области. Обломки дрона упали на склад маркетплейса, на объекте прошла эвакуация",
+      "link": "https://lenta.ru/news/2026/08/14/long-vsu-udarili-po-tverskoy-oblasti-oblomki-drona-upali-na-sklad-marketpleysa-na-ob-ekte-proshla-evakuatsiya/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 10:25:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "乌克兰武装部队袭击了特维尔地区。无人机碎片落在市场仓库上，现场已被疏散"
+    },
+    {
+      "title": "Россия заметно нарастила вывоз популярного вида морепродуктов",
+      "link": "https://lenta.ru/news/2026/08/14/rossiya-zametno-narastila-vyvoz-populyarnogo-vida-moreproduktov/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 10:24:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯大幅增加了一种受欢迎的海鲜类型的出口"
+    },
+    {
+      "title": "Российская авиакомпания запустила распродажу билетов со скидками на все рейсы",
+      "link": "https://lenta.ru/news/2026/08/14/rossiyskaya-aviakompaniya-zapustila-rasprodazhu-biletov-so-skidkami-na-vse-reysy/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 10:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯航空公司已推出所有航班折扣机票销售活动"
     },
     {
       "title": "Цены на нефть перешли к росту на фоне новой угрозы США Ирану",
@@ -272,15 +360,37 @@
       "titleZh": "梅拉泽带着妻儿在两个欧洲国家度过了800万卢布的假期"
     },
     {
-      "title": "Россиянам раскрыли подробности внедрения цифрового рубля",
-      "link": "https://lenta.ru/news/2026/08/14/rossiyanam-raskryli-podrobnosti-vnedreniya-tsifrovogo-rublya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 07:16:32 +0300",
+      "title": "Обломки БПЛА повредили склад Wildberries под Тверью",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/14/1221097-oblomki-bpla-povredili",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 14 Aug 2026 08:49:12 +0300",
       "summary": "",
       "tags": [
-        "汇率"
+        "需求↑"
       ],
-      "titleZh": "俄罗斯人透露了数字卢布实施的细节"
+      "titleZh": "无人机碎片损坏了特维尔附近的 Wildberry 仓库"
+    },
+    {
+      "title": "Склад маркетплейса поврежден при атаке ВСУ в российском регионе",
+      "link": "https://lenta.ru/news/2026/08/14/sklad-marketpleysa-povrezhden-pri-atake-vsu-v-rossiyskom-regione/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 08:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯地区乌克兰武装部队袭击导致市场仓库受损"
+    },
+    {
+      "title": "Суд продлил арест бизнесмену Траберу по делу о заказном убийстве",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1221041-arest-traberu",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 21:58:10 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "法院延长对商人特拉伯合同谋杀案的逮捕"
     },
     {
       "title": "ЦБ поднял курс доллара до 83,81 рубля",
@@ -292,6 +402,17 @@
         "汇率"
       ],
       "titleZh": "央行将美元汇率上调至83.81卢布"
+    },
+    {
+      "title": "Под Римом взорвался завод боеприпасов",
+      "link": "https://www.vedomosti.ru/society/news/2026/08/13/1220989-vzorvalsya-zavod",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 17:46:29 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "罗马附近一家弹药厂发生爆炸"
     },
     {
       "title": "Власти Польши с 17 августа начнут ограничивать цены на топливо",
@@ -311,7 +432,7 @@
       "pubDate": "Thu, 13 Aug 2026 16:59:24 +0300",
       "summary": "",
       "tags": [
-        "进口"
+        "供给↓"
       ],
       "titleZh": "农业部公布恢复从亚美尼亚进口农产品的条件"
     },
@@ -327,6 +448,17 @@
       "titleZh": "莫斯科交易所阿尔罗萨股价下跌7%"
     },
     {
+      "title": "«Росатом» наладил контакт с новым руководством заказчика АЭС «Пакш-2»",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220921-rosatom-naladil-kontakt",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 15:09:43 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Rosatom 已与 Paks-2 核电站客户的新管理层建立了联系"
+    },
+    {
       "title": "Запасы газа в Европе снизились на 13,4 млрд куб. год к году",
       "link": "https://www.vedomosti.ru/business/news/2026/08/13/1220922-zapasi-gaza",
       "source": "Vedomosti",
@@ -336,6 +468,28 @@
         "供给↓"
       ],
       "titleZh": "欧洲天然气储量减少134亿立方米。年复一年"
+    },
+    {
+      "title": "Грушко: Россия не получала предложений от Турции по Черному морю",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220906-rossiya-ne-poluchala",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 14:21:27 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "格鲁什科：俄罗斯尚未收到土耳其关于黑海问题的建议"
+    },
+    {
+      "title": "«Озон фармацевтика» в первом полугодии нарастила розничные продажи на 14%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220898-ozon-farmatsevtika",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 14:15:41 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Ozon Pharmaceuticals上半年零售额增长14%"
     },
     {
       "title": "Внебиржевой курс доллара в моменте поднялся до 84 рублей",
@@ -371,6 +525,28 @@
       "titleZh": "俄罗斯天然气工业股份公司在莫斯科交易所的股价下跌2.3%"
     },
     {
+      "title": "Рябков: США не передавали никаких предложений от Зеленского",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/13/1220858-ssha-ne-peredavali",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 12:31:33 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "里亚布科夫：美方没有转达泽连斯基的任何建议"
+    },
+    {
+      "title": "Brent подешевела до $88,94 за баррель",
+      "link": "https://www.vedomosti.ru/investments/news/2026/08/13/1220831-brent-podeshevela",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 13 Aug 2026 10:25:30 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "布伦特原油跌至每桶 88.94 美元"
+    },
+    {
       "title": "Предприятия Нижнекамска выплатят семьям погибших при атаке по 2 млн рублей",
       "link": "https://www.vedomosti.ru/society/news/2026/08/13/1220819-predpriyatiya-nizhnekamska",
       "source": "Vedomosti",
@@ -401,7 +577,7 @@
       "tags": [
         "制裁"
       ],
-      "titleZh": "美国参议员要求对俄罗斯未实施新制裁作出解释"
+      "titleZh": "美国参议员要求对俄罗斯未实施新制裁做出解释"
     },
     {
       "title": "Минсельхоз создаст штаб по координации перевозок зерна на экспорт",
@@ -410,7 +586,7 @@
       "pubDate": "Wed, 12 Aug 2026 21:17:19 +0300",
       "summary": "",
       "tags": [
-        "出口"
+        "供给↓"
       ],
       "titleZh": "农业部将成立指挥部协调出口粮食运输"
     },
@@ -424,6 +600,39 @@
         "价格"
       ],
       "titleZh": "FAS将检查禽肉和牛肉的价格"
+    },
+    {
+      "title": "Приложение Wildberries вернулось в App Store в США",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/12/1220737-prilozhenie-wildberries-vernulos",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 12 Aug 2026 19:37:52 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Wildberry 应用程序已返回美国 App Store"
+    },
+    {
+      "title": "Против Трампа подали иск за продажу раннего доступа к его постам",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/12/1220735-protiv-trampa-isk",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 12 Aug 2026 19:32:44 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "特朗普因出售其帖子的早期访问权而被起诉"
+    },
+    {
+      "title": "Wildberries исчез из американского App Store",
+      "link": "https://www.vedomosti.ru/technology/news/2026/08/12/1220730-wildberries-ischez",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 12 Aug 2026 19:00:40 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Wildberry 从美国应用商店消失"
     },
     {
       "title": "Росстат зафиксировал снижение цен в России вторую неделю подряд",
@@ -443,7 +652,7 @@
       "pubDate": "Wed, 12 Aug 2026 18:40:55 +0300",
       "summary": "",
       "tags": [
-        "生产"
+        "供给↓"
       ],
       "titleZh": "统一俄罗斯党提议扩大对研究和生产集群的支持"
     },
@@ -467,7 +676,7 @@
       "tags": [
         "价格"
       ],
-      "titleZh": "Aeroflot 莫斯科交易所股票价格下跌 2%"
+      "titleZh": "Aeroflot 在莫斯科交易所的股价下跌 2%"
     },
     {
       "title": "ЦБ повысил официальный курс доллара до 83 рублей",
@@ -492,6 +701,17 @@
       "titleZh": "俄罗斯天然气工业股份公司在莫斯科交易所的股价下跌2.1%"
     },
     {
+      "title": "Грузия направила в Абхазию топливо на фоне дефицита",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/12/1220692-gruziya-napravila",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 12 Aug 2026 17:28:12 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "格鲁吉亚因短缺而向阿布哈兹运送燃料"
+    },
+    {
       "title": "Дом.РФ увеличил объем размещения флоатера с 20 млрд до 50 млрд рублей",
       "link": "https://www.vedomosti.ru/investments/news/2026/08/12/1220686-domrf-uvelichil",
       "source": "Vedomosti",
@@ -503,13 +723,76 @@
       "titleZh": "Dom.RF将流动资金投放量从200亿卢布增加至500亿卢布"
     },
     {
+      "title": "\"Яблоко\" подало в Верховный суд жалобу на решение о снятии с выборов",
+      "link": "https://ria.ru/20260814/sud-2110908471.html",
+      "source": "RIA",
+      "pubDate": "Fri, 14 Aug 2026 14:31:29 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "亚布洛科向最高法院提出申诉，反对退出选举的决定"
+    },
+    {
+      "title": "Дело блогера Улановой могут передали в другой суд",
+      "link": "https://ria.ru/20260814/ulanova-2110908192.html",
+      "source": "RIA",
+      "pubDate": "Fri, 14 Aug 2026 14:31:15 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "博主Ulanova的案件可能会被转移到另一个法院"
+    },
+    {
+      "title": "Пожилым людям назвали способ отличить обычные признаки старения от симптомов болезни",
+      "link": "https://lenta.ru/news/2026/08/14/pozhilym-lyudyam-nazvali-sposob-otlichit-obychnye-priznaki-stareniya-ot-simptomov-bolezni/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 14:31:12 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "老年人被命名为一种区分通常的衰老迹象和疾病症状的方法"
+    },
+    {
+      "title": "В Армении пришли в ужас от наплыва армян",
+      "link": "https://lenta.ru/news/2026/08/14/v-armenii-prishli-v-uzhas-ot-naplyva-armyan/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 14:30:53 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "亚美尼亚对亚美尼亚人的涌入感到震惊"
+    },
+    {
+      "title": "Ключевой союзник России столкнулся с усугублением экономического кризиса",
+      "link": "https://lenta.ru/news/2026/08/14/klyuchevoy-soyuznik-rossii-stolknulsya-s-usugubleniem-ekonomicheskogo-krizisa/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 14:30:42 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯主要盟友面临日益恶化的经济危机"
+    },
+    {
+      "title": "Россиянке не засчитали в стаж работу в мошенническом call-центре",
+      "link": "https://lenta.ru/news/2026/08/14/rossiyanke-ne-zaschitali-v-stazh-rabotu-v-moshennicheskom-call-tsentre/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 14:29:44 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯女子在诈骗呼叫中心工作经历不计入"
+    },
+    {
+      "title": "В Германии указали на беззащитность Украины перед российскими атаками",
+      "link": "https://lenta.ru/news/2026/08/14/v-germanii-ukazali-na-bezzaschitnost-ukrainy-pered-rossiyskimi-atakami/",
+      "source": "Lenta",
+      "pubDate": "Fri, 14 Aug 2026 14:29:17 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "德国指出乌克兰对俄罗斯袭击毫无防御能力"
+    },
+    {
       "title": "Во Владивостоке проверят информацию о загрязнении бухты Аякс",
       "link": "https://ria.ru/20260814/prokuratura-2110907842.html",
       "source": "RIA",
       "pubDate": "Fri, 14 Aug 2026 14:29:03 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "符拉迪沃斯托克将检查阿贾克斯湾污染信息"
+      "titleZh": "海参崴将检查阿贾克斯湾污染信息"
     },
     {
       "title": "В Москве врачи провели 80-летней пациентке три операции за 40 часов",
@@ -605,7 +888,7 @@
       "title": "Бензин из Африки и Азии стал предметом спора в России",
       "link": "https://lenta.ru/news/2026/08/14/benzin-iz-afriki-i-azii-stal-predmetom-spora-v-rossii/",
       "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 14:17:19 +0300",
+      "pubDate": "Fri, 14 Aug 2026 14:17:00 +0300",
       "summary": "",
       "tags": [],
       "titleZh": "来自非洲和亚洲的汽油成为俄罗斯争议的话题"
@@ -617,7 +900,7 @@
       "pubDate": "Fri, 14 Aug 2026 14:15:49 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "《Univer》系列明星的 YouTube 频道在乌克兰被封锁"
+      "titleZh": "《Univer》系列明星的 YouTube 频道在乌克兰被屏蔽"
     },
     {
       "title": "«Ёбидоёби» поменял название",
@@ -632,7 +915,7 @@
       "title": "ОАЭ обвинили Иран в атаке на суда",
       "link": "https://lenta.ru/news/2026/08/14/oae-obvinili-iran-v-atake-na-suda/",
       "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 14:15:06 +0300",
+      "pubDate": "Fri, 14 Aug 2026 14:15:00 +0300",
       "summary": "",
       "tags": [],
       "titleZh": "阿联酋指责伊朗袭击船只"
@@ -872,15 +1155,6 @@
       "titleZh": "参与滨海边疆区女孩谋杀案的儿童将接受再教育"
     },
     {
-      "title": "Сеть доставки «Ёбидоёби» решила провести ребрендинг и поменять название на «Ё»",
-      "link": "https://iz.ru/2149052/set-dostavki-ebidoebi-reshila-provesti-rebrending-i-pomeniat-nazvanie-na-e-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 14:02:04 +0300",
-      "summary": "<p>Международная сеть по доставке блюд азиатской кухни «Ёбидоёби» 14 августа объявила, что в рамках ребрендинга планирует сменить свое название на «Ё».</p><p>Первые изменения будут внесены на официальном сайте и в мобиль",
-      "tags": [],
-      "titleZh": "配送网络“Yobidoyobi”决定重塑品牌并更名为“Yo”"
-    },
-    {
       "title": "Россиянин привез из Дубая три сумки Hermes и заинтересовал таможенников",
       "link": "https://lenta.ru/news/2026/08/14/rossiyanin-privez-iz-dubaya-tri-sumki-hermes-i-zainteresoval-tamozhennikov/",
       "source": "Lenta",
@@ -977,7 +1251,7 @@
       "pubDate": "Fri, 14 Aug 2026 13:53:21 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "米罗什尼克解释为何乌克兰武装部队组织后勤封锁"
+      "titleZh": "米罗什尼克解释了乌克兰武装部队为何组织后勤封锁"
     },
     {
       "title": "Российский гимнаст отказался от участия в Олимпиаде-2028",
@@ -1097,15 +1371,6 @@
       "titleZh": "一位离开俄罗斯的著名记者说出了他的养老金数额"
     },
     {
-      "title": "В Подмосковье женщина угрожала посетителям банка электрошокером",
-      "link": "https://ria.ru/20260814/podmoskove-2110892850.html",
-      "source": "RIA",
-      "pubDate": "Fri, 14 Aug 2026 13:45:15 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "在莫斯科地区，一名妇女用电击枪威胁银行访客"
-    },
-    {
       "title": "Азиатские энергогиганты стали скупать дорогую нефть из США на фоне закрытия Ормуза",
       "link": "https://lenta.ru/news/2026/08/14/aziatskie-energogiganty-stali-skupat-doroguyu-neft-iz-ssha-na-fone-zakrytiya-ormuza/",
       "source": "Lenta",
@@ -1113,15 +1378,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "在霍尔木兹海峡关闭之际，亚洲能源巨头开始从美国购买昂贵的石油"
-    },
-    {
-      "title": "ВСУ перешли к более циничным методам ведения войны, заявил Мирошник",
-      "link": "https://ria.ru/20260814/vsu-2110892387.html",
-      "source": "RIA",
-      "pubDate": "Fri, 14 Aug 2026 13:43:36 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "米罗什尼克说，乌克兰武装部队已转向更加愤世嫉俗的作战方法"
     },
     {
       "title": "В США разработали дрон-перехватчик с «микроволновкой»",
@@ -1142,15 +1398,6 @@
       "titleZh": "俄罗斯公开表示乌克兰全面停电"
     },
     {
-      "title": "Захарова: возврат к «Черноморской инициативе» нецелесообразен",
-      "link": "https://iz.ru/2149056/2026-08-14/zakharova-vozvrat-k-chernomorskoi-initciative-netcelesoobrazen",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 13:40:02 +0300",
-      "summary": "<p>Возврат к «Черноморской инициативе» на фоне предложения <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турции</a> об остановке боевых действий в Черном море является нецелесообразным. Об этом 14 августа сообщила",
-      "tags": [],
-      "titleZh": "扎哈罗娃：重返黑海倡议是不合适的"
-    },
-    {
       "title": "Дмитриев назвал восстановление диалога с Россией первостепенной задачей для ЕС",
       "link": "https://iz.ru/2149055/dmitriev-nazval-vosstanovlenie-dialoga-s-rossiei-pervostepennoi-zadachei-dlia-es-izi",
       "source": "Izvestia",
@@ -1158,24 +1405,6 @@
       "summary": "<p>Восстановление диалога с Россией становится первостепенной задачей для Евросоюза (ЕС) и Великобритании. Об этом 14 августа заявил глава Российского фонда прямых инвестиций (РФПИ), спецпредставитель президента РФ по ин",
       "tags": [],
       "titleZh": "德米特里耶夫称恢复与俄罗斯的对话是欧盟的首要任务"
-    },
-    {
-      "title": "В Евросоюзе нашли главного покупателя российского газа",
-      "link": "https://lenta.ru/news/2026/08/14/v-evrosoyuze-nashli-glavnogo-pokupatelya-rossiyskogo-gaza/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 13:38:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "欧盟找到俄罗斯天然气主要买家"
-    },
-    {
-      "title": "Сборная России по футболу проведет матч с Ираном в Казани 29 сентября",
-      "link": "https://iz.ru/2149044/sbornaia-rossii-po-futbolu-provedet-match-s-iranom-v-kazani-29-sentiabria-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 13:37:51 +0300",
-      "summary": "<p>Товарищеский матч между сборными России и Ирана пройдет в Казани 29 сентября. Об этом 14 августа сообщили на <a href=\"https://www.rfs.ru/news/224834\">сайте</a> Российского футбольного союза.</p><p>«Сборная России сыгр",
-      "tags": [],
-      "titleZh": "俄罗斯国足将于9月29日在喀山与伊朗队进行一场比赛"
     },
     {
       "title": "Воры украли 210 статуэток Моцарта с Пимперлем",
@@ -1490,7 +1719,7 @@
       "pubDate": "Fri, 14 Aug 2026 12:56:57 +0300",
       "summary": "<p>Президент <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимир Зеленский</a> стал одной из причин усиления напряженности в польском об",
       "tags": [],
-      "titleZh": "在波兰，泽伦斯基被指控破坏国内局势稳定"
+      "titleZh": "在波兰，泽连斯基被指控破坏国内局势稳定"
     },
     {
       "title": "Россиянин подкупил сотрудника банка и встретился с сотрудниками ФСБ",
@@ -1707,195 +1936,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "评估了日本和俄罗斯之间公开对抗的可能性"
-    },
-    {
-      "title": "Лавров о детстве и школьных прогулах",
-      "link": "https://iz.ru/2149028/video/lavrov-o-detstve-i-shkolnykh-progulakh",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 12:32:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "拉夫罗夫关于童年和学校缺勤的问题"
-    },
-    {
-      "title": "Собянин рассказал о ходе строительства станции метро «Достоевская»",
-      "link": "https://iz.ru/2149027/2026-08-14/sobianin-rasskazal-o-khode-stroitelstva-stantcii-metro-dostoevskaia",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 12:32:24 +0300",
-      "summary": "<p>Строительство станции «Достоевская» на Кольцевой линии московского метро подошло к важному этапу — созданию наклонного хода. Об этом сообщил мэр столицы Сергей Собянин, пояснив, что наклонный ход — это эскалаторный то",
-      "tags": [],
-      "titleZh": "索比亚宁介绍陀思妥耶夫斯卡亚地铁站建设进展"
-    },
-    {
-      "title": "Индекс Мосбиржи упал ниже 2200 пунктов",
-      "link": "https://lenta.ru/news/2026/08/14/indeks-mosbirzhi-upal-nizhe-2200-punktov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:32:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "莫斯科交易所指数跌破2200点"
-    },
-    {
-      "title": "Первые задержания после обысков в «Горбушке» попали на видео",
-      "link": "https://lenta.ru/news/2026/08/14/pervye-zaderzhaniya-posle-obyskov-v-gorbushke-popali-na-video/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:31:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "戈尔布什卡搜查后的第一批逮捕被视频记录下来"
-    },
-    {
-      "title": "Сильный загар у молодой женщины оказался симптомом смертельно опасной болезни",
-      "link": "https://lenta.ru/news/2026/08/14/silnyy-zagar-u-molodoy-zhenschiny-okazalsya-simptomom-smertelno-opasnoy-bolezni/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名年轻女子晒黑的皮肤原来是一种致命疾病的症状"
-    },
-    {
-      "title": "Женщина выиграла в лотерею больше миллиарда долларов",
-      "link": "https://lenta.ru/news/2026/08/14/zhenschina-vyigrala-v-lotereyu-bolshe-milliarda-dollarov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:25:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名女子中了超过十亿美元的彩票"
-    },
-    {
-      "title": "Названо число выпущенных за неделю ВСУ беспилотников и ракет для атак по России",
-      "link": "https://lenta.ru/news/2026/08/14/nazvano-chislo-vypuschennyh-za-nedelyu-vsu-bespilotnikov-i-raket-dlya-atak-po-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:23:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "乌克兰武装部队每周为袭击俄罗斯而发射的无人机和导弹数量已公布"
-    },
-    {
-      "title": "У авиакомпании Azur Air сменится гендиректор",
-      "link": "https://iz.ru/2149016/2026-08-14/u-aviakompanii-azur-air-smenitsia-gendirektor",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 12:22:14 +0300",
-      "summary": "<p>Действующий гендиректор Евгений Королев завершает работу на посту генерального директора Azur Air. Об этом 14 августа он сообщил в прощальном письме сотрудникам авиакомпании, документ есть в распоряжении «Известий».</",
-      "tags": [],
-      "titleZh": "蔚蓝航空 (Azur Air) 将更换首席执行官"
-    },
-    {
-      "title": "Назван ключевой покупатель российских креветок",
-      "link": "https://lenta.ru/news/2026/08/14/nazvan-klyuchevoy-pokupatel-rossiyskih-krevetok/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:21:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯虾的主要买家被命名"
-    },
-    {
-      "title": "Ложный вызов полиции из ревности обернулся для россиянки встречей с судом",
-      "link": "https://lenta.ru/news/2026/08/14/lozhnyy-vyzov-politsii-iz-revnosti-obernulsya-dlya-rossiyanki-vstrechi-s-sudom/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:21:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名俄罗斯女子因嫉妒而假报警，结果与法庭会面"
-    },
-    {
-      "title": "В МИД России ответили на вопрос о предложении Турции по Украине",
-      "link": "https://lenta.ru/news/2026/08/14/mid-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:20:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯外交部回答有关土耳其对乌克兰提议的问题"
-    },
-    {
-      "title": "Агент польских спецслужб получил 23 года колонии за шпионаж. Что известно",
-      "link": "https://iz.ru/2149021/2026-08-14/agent-polskikh-spetcsluzhb-poluchil-23-goda-kolonii-za-shpionazh-chto-izvestno",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 12:17:32 +0300",
-      "summary": "<p>Московский городской суд приговорил к 23 годам колонии строгого режима гражданина России Георгия Пирогова, признанного виновным в сотрудничестве с польскими спецслужбами. Как установила ФСБ, он передавал секретные све",
-      "tags": [],
-      "titleZh": "波兰情报部门的一名特工因间谍罪被判入狱 23 年。已知什么"
-    },
-    {
-      "title": "В Ессентуках задержаны шесть человек после массовой драки с погибшим",
-      "link": "https://iz.ru/2149022/2026-08-14/v-essentukakh-zaderzhany-shest-chelovek-posle-massovoi-draki-s-pogibshim",
-      "source": "Izvestia",
-      "pubDate": "Fri, 14 Aug 2026 12:17:20 +0300",
-      "summary": "<p>В городе Ессентуки задержаны шесть участников массовой драки, в результате которой пострадали трое человек, один из них от полученных травм скончался. Об этом 14 августа сообщили в пресс-службе СК РФ.</p><p>«В средств",
-      "tags": [],
-      "titleZh": "在叶森图基，六人在与死者发生大规模斗殴后被拘留"
-    },
-    {
-      "title": "Потоп уничтожил песни Газманова",
-      "link": "https://lenta.ru/news/2026/08/14/potop-unichtozhil-pesni-gazmanova/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:12:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "洪水摧毁了加兹马诺夫的歌曲"
-    },
-    {
-      "title": "В МИД отреагировали на боевые действия ВСУ в Черном море",
-      "link": "https://lenta.ru/news/2026/08/14/v-mid-otreagirovali-na-boevye-deystviya-vsu-v-chernom-more/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:12:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "外交部回应乌克兰武装部队在黑海的军事行动"
-    },
-    {
-      "title": "В России заявили о смене направления атак ВСУ",
-      "link": "https://lenta.ru/news/2026/08/14/v-rossii-zayavili-o-smene-napravleniya-atak-vsu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:10:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯宣布改变乌克兰武装部队攻击方向"
-    },
-    {
-      "title": "Лавров призвал Сербию к ответу после слов журналиста об убийстве русских",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/14/1221161-lavrov-prizval-serbiyu",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 14 Aug 2026 12:08:25 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "拉夫罗夫在一名记者发表有关俄罗斯人被谋杀的言论后要求塞尔维亚承担责任"
-    },
-    {
-      "title": "Российские военные за неделю нанесли 14 групповых ударов по целям на Украине",
-      "link": "https://lenta.ru/news/2026/08/14/rossiyskie-voennye-za-nedelyu-nanesli-14-gruppovyh-udarov-po-tselyam-na-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:08:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄军方一周内对乌克兰目标实施14次集体袭击"
-    },
-    {
-      "title": "Российский рынок акций упал до уровня 2200 по индексу",
-      "link": "https://www.vedomosti.ru/investments/news/2026/08/14/1221165-rinok-aktsii",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 14 Aug 2026 12:05:20 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯股市指数跌至2200点水平"
-    },
-    {
-      "title": "Торги на Мосбирже решили начинать раньше",
-      "link": "https://lenta.ru/news/2026/08/14/torgi-na-mosbirzhe-reshili-nachinat-ranshe/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:04:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "莫斯科交易所决定提前开始交易"
-    },
-    {
-      "title": "Стубб признался в любви к россиянам",
-      "link": "https://lenta.ru/news/2026/08/14/stubb-priznalsya-v-lyubvi-k-rossiyanam/",
-      "source": "Lenta",
-      "pubDate": "Fri, 14 Aug 2026 12:04:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "斯塔布承认他对俄罗斯人的喜爱"
     }
   ]
 }
