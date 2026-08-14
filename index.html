@@ -72,6 +72,8 @@
     .progress > i{ display:block; height:100%; background:linear-gradient(90deg,#6366f1,#4f46e5); width:0; transition:.3s; }
     .badge-no{ background:#f0ebff; color:var(--indigo); font-size:11px; padding:2px 8px; border-radius:20px; font-weight:600; }
     .chip{ display:inline-block; background:var(--indigo-soft); color:var(--indigo); font-size:11px; padding:3px 9px; border-radius:20px; margin:2px; }
+    .rn-filter{ cursor:pointer; border:1px solid var(--indigo-soft); background:#fff; }
+    .rn-filter.active{ background:var(--indigo); color:#fff; border-color:var(--indigo); }
     .mini{ font-size:12px; color:var(--muted); }
     /* 游戏区 */
     .game-grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:6px; }
@@ -342,6 +344,13 @@
           <button id="addRnBtn" style="white-space:nowrap;">添加</button>
         </div>
       </div>
+      <div class="row wrap" id="rnFilterBar" style="gap:6px; margin:8px 0;">
+        <button class="chip rn-filter active" data-f="all">全部</button>
+        <button class="chip rn-filter" data-f="demand">仅需求</button>
+        <button class="chip rn-filter" data-f="supply">仅供给</button>
+        <button class="chip rn-filter" data-f="tagged">已分类</button>
+        <button class="chip rn-filter" data-f="notag">仅未分类</button>
+      </div>
       <div id="russianList" class="scroll-y"></div>
     </section>
   </main>
@@ -391,7 +400,7 @@
       {id:1, title:'俄罗斯某平台冬季保暖品需求季节性上涨', source:'示例', link:'https://news.yandex.ru/', summary:'俄区冬季严寒，保暖服饰/小家电进入需求高峰，建议提前布局供应链。', pubDate:'示例', tags:['需求↑','季节']},
       {id:2, title:'进口电子配件供给波动，卖家关注库存', source:'示例', link:'https://news.yandex.ru/', summary:'部分进口品类供给不稳定，建议多渠道备货、分散风险。', pubDate:'示例', tags:['供给↓','进口','库存']}
     ]),
-    russianWorkerUrl: DB.get('russianWorkerUrl', 'https://firefly-6.github.io/studious-invention/news.json'),  // GitHub/jsDelivr 数据源 URL（免服务器、大陆可直读）
+    russianWorkerUrl: DB.get('russianWorkerUrl', 'https://firefly-6.github.io/studious-invention/news.json'),  // GitHub Pages 直链（同域可访问、无 jsDelivr 缓存）
   };
   // 兼容旧列名：把历史存储里的「曝光转化率」统一迁移为「曝光率」
   state.selFilter.forEach(r=>{ if(r.field==='曝光转化率') r.field='曝光率'; });
@@ -1054,9 +1063,15 @@
   $rnUrl.value = state.russianWorkerUrl || '';
   let workerItems = [];      // 数据源返回的新闻（打开即见，无需现场刮）
   let workerUpdated = null;  // KV 最后更新时间
+  let rnFilter = 'all';       // 俄国新闻筛选：all / demand / supply / tagged / notag
   function renderRussian(){
-    const list = workerItems.concat(state.russianNews || []);
+    let list = workerItems.concat(state.russianNews || []);
     if(!list.length){ $('#russianList').innerHTML = '<div class="card mini center">还没有新闻。填上方数据源 URL 拉取，或手动添加一条。</div>'; return; }
+    if (rnFilter === 'demand')      list = list.filter(n => (n.tags||[]).some(t => /需求/.test(t)));
+    else if (rnFilter === 'supply') list = list.filter(n => (n.tags||[]).some(t => /供给|进口|出口|生产/.test(t)));
+    else if (rnFilter === 'tagged') list = list.filter(n => (n.tags||[]).length > 0);
+    else if (rnFilter === 'notag')  list = list.filter(n => (n.tags||[]).length === 0);
+    if(!list.length){ $('#russianList').innerHTML = '<div class="card mini center">当前筛选条件下没有匹配的新闻。</div>'; return; }
     $('#russianList').innerHTML = list.map(n => `
       <div class="card" style="margin-bottom:8px;">
         <div class="row" style="justify-content:space-between; gap:8px;">
@@ -1091,13 +1106,20 @@
     toast('数据源 URL 已保存'); if(state.russianWorkerUrl) loadRussianNews(false);
   });
   $('#refreshRussian').addEventListener('click', ()=> loadRussianNews(true));
+  document.querySelectorAll('.rn-filter').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      rnFilter = btn.dataset.f;
+      document.querySelectorAll('.rn-filter').forEach(b=>b.classList.toggle('active', b===btn));
+      renderRussian();
+    });
+  });
   async function loadRussianNews(force){
     const url = state.russianWorkerUrl;
     if(!url){ $rnStatus.textContent = '未配置数据源 URL，可手动添加，或填写上方数据源地址。'; return; }
     $rnStatus.textContent = '读取新闻中…';
     try{
       const sep = url.includes('?') ? '&' : '?';
-      const q = sep + '_' + Date.now();  // 缓存破坏，拿到 GitHub 刚提交的最新 news.json
+      const q = sep + '_=' + Date.now();   // 每次都在 URL 后加时间戳，彻底破坏 CDN/浏览器缓存
       const res = await fetch(url + q, { cache:'no-store' });
       if(!res.ok) throw new Error('HTTP '+res.status);
       const data = await res.json();
