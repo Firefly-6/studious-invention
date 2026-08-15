@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:56:24.145Z",
+  "updated": "2026-08-15T17:43:45.223Z",
   "count": 200,
   "items": [
     {
@@ -60,28 +60,6 @@
         "需求↑"
       ],
       "titleZh": "考虑到这项调查，德米特里耶夫称梅尔茨为欧洲最不受欢迎的领导人"
-    },
-    {
-      "title": "В Москве за семь месяцев сократилось число ДТП с мотоциклистами",
-      "link": "https://ria.ru/20260815/moskva-2111129314.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:11:03 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在莫斯科，涉及摩托车手的事故数量在七个月内有所下降。"
-    },
-    {
-      "title": "Украинских бойцов, жаловавшихся на нехватку еды и воды, лишили связи",
-      "link": "https://ria.ru/20260815/vsu-2111128770.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:08:13 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "抱怨缺乏食物和水的乌克兰战士被剥夺了通讯能力"
     },
     {
       "title": "Эксперт: Турция не будет поставлять Украине оружие своего производства",
@@ -290,7 +268,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯另一个地区限制汽油销售"
+      "titleZh": "俄罗斯另一地区限制汽油销售"
     },
     {
       "title": "В Ozon отреагировали на удаление из Google Play",
@@ -313,17 +291,6 @@
         "需求↑"
       ],
       "titleZh": "Ozon 确认已从 Google Play 中删除其应用程序"
-    },
-    {
-      "title": "Суд взыскал с «Промомеда» более шести миллионов рублей",
-      "link": "https://lenta.ru/news/2026/08/14/sud-vzyskal-s-promomeda-bolee-shesti-millionov-rubley/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 00:00:46 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "法院从 Promomed 追回超过 600 万卢布"
     },
     {
       "title": "Приложение Ozon удалили из Google Play",
@@ -634,6 +601,195 @@
       "titleZh": "莫斯科交易所阿尔罗萨股价下跌7%"
     },
     {
+      "title": "В Севастополе отменили воздушную тревогу",
+      "link": "https://ria.ru/20260815/chp-2111138219.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:42:28 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "塞瓦斯托波尔取消空袭警报"
+    },
+    {
+      "title": "Либман установил мировой рекорд на дистанции 1500 метров кролем на ЧЕ",
+      "link": "https://ria.ru/20260815/plovets-2111137841.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:40:55 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "利布曼在欧洲锦标赛上创造了1500米自由泳世界纪录"
+    },
+    {
+      "title": "МИД России поздравил Республику Конго с Днем независимости",
+      "link": "https://ria.ru/20260815/mid-2111137173.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:38:45 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯外交部祝贺刚果共和国独立日"
+    },
+    {
+      "title": "В российском городе при пожаре в строящемся здании пострадали 11 человек",
+      "link": "https://lenta.ru/news/2026/08/15/v-rossiyskom-gorode-pri-pozhare-v-stroyaschemsya-zdanii-postradali-11-chelovek/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:38:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯一座城市一栋在建建筑发生火灾，造成11人受伤。"
+    },
+    {
+      "title": "Число погибших при землетрясении в Колумбии достигло почти 300 человек",
+      "link": "https://ria.ru/20260815/kolumbiya-2111136897.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:35:34 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "哥伦比亚地震死亡人数已近300人"
+    },
+    {
+      "title": "Девочка-подросток сожгла кухню во время готовки в Москве",
+      "link": "https://lenta.ru/news/2026/08/15/podrostok-ustroila-pozhar-vo-vremya-gotovki-v-moskve/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:32:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "莫斯科少女做饭时烧毁厨房"
+    },
+    {
+      "title": "Цеков назвал карту НАСА с российским Крымом справедливой",
+      "link": "https://ria.ru/20260815/krym-2111136719.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:28:32 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "采科夫称美国宇航局绘制的俄罗斯克里米亚地图很公平"
+    },
+    {
+      "title": "Россиянин вернулся с СВО, не увидел свою собаку и обратился в суд",
+      "link": "https://lenta.ru/news/2026/08/15/rossiyanin-vernulsya-s-svo-ne-uvidel-svoyu-sobaku-i-obratilsya-v-sud/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:26:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯人从SVO回来，没有看到他的狗，于是上了法庭"
+    },
+    {
+      "title": "Россиянки выиграли ЧМ по художественной гимнастике в командном многоборье",
+      "link": "https://www.vedomosti.ru/lifestyle/news/2026/08/15/1221398-chm-hudozhestvennoi-gimnastike",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 15 Aug 2026 20:25:13 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯队夺得世锦赛艺术体操团体全能冠军"
+    },
+    {
+      "title": "В Севастополе объявили воздушную тревогу",
+      "link": "https://ria.ru/20260815/chp-2111136252.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:24:23 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "塞瓦斯托波尔发布空袭警报"
+    },
+    {
+      "title": "Николь Кидман возмутила публику внешностью на новом видео",
+      "link": "https://lenta.ru/news/2026/08/15/nikol-kidman-vozmutila-publiku-vneshnostyu-na-novom-video/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:24:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "妮可·基德曼在新视频中的出现激怒了公众"
+    },
+    {
+      "title": "Эрдоган анонсировал визит в Сирию в ближайшее время",
+      "link": "https://ria.ru/20260815/erdogan-2111135474.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:18:28 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "埃尔多安宣布近期访问叙利亚"
+    },
+    {
+      "title": "ВСУ атаковали Энергодар дронами",
+      "link": "https://ria.ru/20260815/vsu-2111135277.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:17:55 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "乌克兰武装部队用无人机袭击了Energodar"
+    },
+    {
+      "title": "В Москве приземлился первый самолет из Эль-Аламейна",
+      "link": "https://lenta.ru/news/2026/08/15/el-alameyn/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:16:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "首架从阿拉曼起飞的飞机降落在莫斯科"
+    },
+    {
+      "title": "В Крыму отреагировали на опубликованную NASA карту с полуостровом в составе России",
+      "link": "https://lenta.ru/news/2026/08/15/v-krymu-otreagirovali-na-opublikovannuyu-nasa-kartu-s-poluostrovom-v-sostave-rossii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:15:28 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "克里米亚对美国宇航局发布的地图做出反应，该地图显示该半岛是俄罗斯的一部分"
+    },
+    {
+      "title": "Сборная России выиграла чемпионат мира по художественной гимнастике в командном многоборье",
+      "link": "https://lenta.ru/news/2026/08/15/sbornaya-rossii-vyigrala-chempionat-mira-po-hudozhestvennoy-gimnastike-v-komandnom-mnogoborie/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:11:33 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯队夺得世界艺术体操锦标赛团体全能冠军"
+    },
+    {
+      "title": "Власти США отозвали 150 виз из-за «родильного туризма»",
+      "link": "https://lenta.ru/news/2026/08/15/vlasti-ssha-otozvali-150-viz-iz-za-rodilnogo-turizma/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:09:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "美国当局因“生育旅游”撤销150个签证"
+    },
+    {
+      "title": "Опера Чайковского вошла в программу фестиваля главного театра Нью-Йорка",
+      "link": "https://ria.ru/20260815/onegin-2111134426.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 20:07:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "柴可夫斯基的歌剧被列入纽约主要剧院的节日节目"
+    },
+    {
+      "title": "Эрдоган заявил об отсутствии стремления Турции в Евросоюз",
+      "link": "https://lenta.ru/news/2026/08/15/erdo/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:05:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "埃尔多安表示土耳其无意加入欧盟"
+    },
+    {
+      "title": "«Меня убьют». Пропавший после угроз адвокат найден задушенным в российской лесополосе",
+      "link": "https://lenta.ru/news/2026/08/15/long-menya-ubyut/",
+      "source": "Lenta",
+      "pubDate": "Sat, 15 Aug 2026 20:00:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "“他们会杀了我。”一名在威胁后失踪的律师被发现在俄罗斯森林地带被勒死"
+    },
+    {
+      "title": "\"Тебя ненавидят\". Поздравление Зеленского вызвало бурную реакцию в Сети",
+      "link": "https://ria.ru/20260815/zelenskiy-2111133378.html",
+      "source": "RIA",
+      "pubDate": "Sat, 15 Aug 2026 19:59:02 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "“他们恨你。”泽连斯基的祝贺在网络上引起强烈反响"
+    },
+    {
       "title": "Украинцев предупредили о возможных перебоях с газом зимой",
       "link": "https://ria.ru/20260815/ukraina-2111133061.html",
       "source": "RIA",
@@ -650,6 +806,15 @@
       "summary": "",
       "tags": [],
       "titleZh": "鄂木斯克火灾的新细节浮出水面"
+    },
+    {
+      "title": "МИД Ирана оценил ущерб от нефтяного загрязнения Ормуза в триллионы долларов",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/15/1221396-uscherb-zagryazneniya-ormuza",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 15 Aug 2026 19:50:19 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "伊朗外交部估计霍尔木兹石油污染造成的损失达数万亿美元"
     },
     {
       "title": "В Белгородской области при атаке ВСУ пострадали два мирных жителя",
@@ -697,13 +862,13 @@
       "titleZh": "乌克兰一座苏联将军纪念碑被拆除"
     },
     {
-      "title": "Россиянки победили в ЧМ по художественной гимнастике в командном многоборье",
+      "title": "Российские \"художницы\" завоевали золото ЧМ в командном многоборье",
       "link": "https://ria.ru/20260815/rossiya-2111130517.html",
       "source": "RIA",
       "pubDate": "Sat, 15 Aug 2026 19:31:40 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯队夺得世锦赛艺术体操团体全能冠军"
+      "titleZh": "俄罗斯“艺术家”夺得世锦赛团体全能金牌"
     },
     {
       "title": "Названо пошатнувшее репутацию «рая для сверхбогатых» обстоятельство",
@@ -712,7 +877,7 @@
       "pubDate": "Sat, 15 Aug 2026 19:30:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "一个动摇“超级富豪天堂”美誉的情况被命名"
+      "titleZh": "一个动摇“超级富豪天堂”名声的情况被命名"
     },
     {
       "title": "На Купянском направлении уничтожили колумбийского наемника",
@@ -740,33 +905,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "在土耳其迪兹杰省的一个花园中发现的无人机残骸"
-    },
-    {
-      "title": "В Сербии привлекли пожарное судно для тушения водой из обмелевшего Дуная",
-      "link": "https://ria.ru/20260815/mvd-2111129961.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:20:22 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "在塞尔维亚，一艘消防船被调来使用浅多瑙河的水来扑灭大火"
-    },
-    {
-      "title": "В Мелитополе при атаке беспилотника на АЗС пострадал один человек",
-      "link": "https://ria.ru/20260815/melitopol-2111129781.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:18:54 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "在梅利托波尔，加油站遭到无人机袭击，造成一人受伤"
-    },
-    {
-      "title": "В Брянской области два человека пострадали при атаке дрона",
-      "link": "https://ria.ru/20260815/dron-2111129627.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:14:30 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "布良斯克地区无人机袭击造成两人受伤"
     },
     {
       "title": "Пропавшего после угроз российского адвоката нашли в лесополосе",
@@ -805,15 +943,6 @@
       "titleZh": "国防部用一句话评价“天竺葵”袭击乌克兰目标"
     },
     {
-      "title": "Сенатор рассказал, что последует за показом НАСА карты с российским Крымом",
-      "link": "https://ria.ru/20260815/rossiya-2111128554.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:03:05 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "这位参议员表示，他将关注美国宇航局展示的俄罗斯克里米亚地图"
-    },
-    {
       "title": "Мельниковой запретили обниматься с соперницами на пьедестале почета",
       "link": "https://lenta.ru/news/2026/08/15/melnikovoy-zapretili-obnimatsya-s-sopernitsami-na-piedestale-pocheta/",
       "source": "Lenta",
@@ -832,33 +961,6 @@
       "titleZh": "土耳其机场附近的海滩上发现一架无人机"
     },
     {
-      "title": "Русскую тройку здорово поддержали в Калужской области, заявил Плотников",
-      "link": "https://ria.ru/20260815/sport-2111128095.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 19:00:09 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "普洛特尼科夫表示，俄罗斯三驾马车在卡卢加州得到了大力支持"
-    },
-    {
-      "title": "Госдеп за последние дни аннулировал 150 виз из-за \"родильного туризма\"",
-      "link": "https://ria.ru/20260815/ssha-2111127882.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 18:58:19 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "国务院连日取消150个“孕妇旅游”签证"
-    },
-    {
-      "title": "Украинские власти вывозит имущество из Краматорска, сообщили силовики",
-      "link": "https://ria.ru/20260815/ukraina-2111127454.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 18:55:03 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "据安全官员报道，乌克兰当局正在从克拉马托尔斯克移走财产"
-    },
-    {
       "title": "Школьники из РФ взяли четыре медали на Международной олимпиаде по информатике",
       "link": "https://www.vedomosti.ru/society/news/2026/08/15/1221392-olimpiade-po-informatike",
       "source": "Vedomosti",
@@ -866,15 +968,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "俄罗斯联邦小学生在国际信息学奥林匹克竞赛中获得四枚奖牌"
-    },
-    {
-      "title": "Орловского рысака назвали брендом России",
-      "link": "https://ria.ru/20260815/rossiya-2111125397.html",
-      "source": "RIA",
-      "pubDate": "Sat, 15 Aug 2026 18:51:08 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "奥廖尔猪蹄被评为俄罗斯品牌"
     },
     {
       "title": "Упавшего в реку на юге России ребенка нашли без признаков жизни",
@@ -1054,7 +1147,7 @@
       "pubDate": "Sat, 15 Aug 2026 17:26:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯人在出发当天就没有享受他们计划了六个月的假期"
+      "titleZh": "俄罗斯人在出发当天就没有享受他们计划的六个月假期"
     },
     {
       "title": "Мельникова завоевала золото чемпионата Европы",
@@ -1180,7 +1273,7 @@
       "pubDate": "Sat, 15 Aug 2026 16:20:13 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "图片报：德国当局需要认真对待普京有关法院的声明"
+      "titleZh": "图片报：德国当局需要认真对待普京有关法院的言论"
     },
     {
       "title": "Профессор Лебединский оформил инвалидность в США",
@@ -1225,7 +1318,7 @@
       "pubDate": "Sat, 15 Aug 2026 16:06:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "一架降落在俄罗斯的飞机上的一名乘客用“没有人受伤，这才是最重要的”来描述他的心情"
+      "titleZh": "一架降落在俄罗斯的飞机上的一名乘客用“没有人受伤，这才是最重要的”来形容自己的心情"
     },
     {
       "title": "Почти 1800 беспилотников летели на Московский регион за неделю",
@@ -1540,7 +1633,7 @@
       "pubDate": "Sat, 15 Aug 2026 13:27:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "莫斯科人殴打妻子并殴打继子"
+      "titleZh": "莫斯科人殴打了他的妻子并殴打了他的继子"
     },
     {
       "title": "Умер победитель первого чемпионата мира по боксу Руфат Рискиев",
@@ -1567,7 +1660,7 @@
       "pubDate": "Sat, 15 Aug 2026 13:17:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "秋天来临前，俄罗斯人被告知营养知识"
+      "titleZh": "俄罗斯人在秋季之前被告知营养知识"
     },
     {
       "title": "Российский пловец назвал свои результаты на чемпионате Европы тухлыми",
@@ -1576,7 +1669,7 @@
       "pubDate": "Sat, 15 Aug 2026 13:16:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯游泳运动员称自己在欧洲锦标赛上的成绩很糟糕"
+      "titleZh": "俄罗斯游泳运动员称他在欧洲锦标赛上的成绩很糟糕"
     },
     {
       "title": "Лукашенко назвал залог спокойствия Белоруссии",
@@ -1594,7 +1687,7 @@
       "pubDate": "Sat, 15 Aug 2026 13:15:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯游客在越南发生巴士事故的细节曝光"
+      "titleZh": "俄罗斯游客在越南发生巴士事故细节曝光"
     },
     {
       "title": "В Берлине жительница многоквартирного дома прыгнула из окна 11-го этажа из-за пожара",
@@ -1612,7 +1705,7 @@
       "pubDate": "Sat, 15 Aug 2026 13:09:43 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "抢劫威胁到日内瓦湖作为“超级富豪天堂”的声誉"
+      "titleZh": "抢劫威胁到日内瓦湖“超级富豪天堂”的声誉"
     },
     {
       "title": "Два корпуса детского лагеря сгорели в российском регионе",
@@ -1747,7 +1840,7 @@
       "pubDate": "Sat, 15 Aug 2026 12:18:22 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "俄罗斯武装部队控制了扎波罗热的雷巴尔斯科"
+      "titleZh": "俄罗斯武装部队控制了扎波罗热的雷巴尔斯科耶"
     },
     {
       "title": "Футболист «Зенита» перешел в «Крылья Советов»",
@@ -1820,105 +1913,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "一辆载有俄罗斯游客的巴士在越南发生事故"
-    },
-    {
-      "title": "Министру обороны доложили о продвижении группировки «Восток» в зоне СВО",
-      "link": "https://lenta.ru/news/2026/08/15/ministru-oborony-dolozhili-o-prodvizhenii-gruppirovki-vostok-v-zone-svo/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:42:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "国防部长获悉东方集团在北部军区的推进情况"
-    },
-    {
-      "title": "Глушаков предупредил об опасности последнего трансфера «Спартака»",
-      "link": "https://lenta.ru/news/2026/08/15/glushakov-predupredil-ob-opasnosti-poslednego-transfera-spartaka/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:38:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "格卢沙科夫警告斯巴达克最新转会的危险"
-    },
-    {
-      "title": "Телеведущая заглянула в телефон мужа и испытала приступ тошноты",
-      "link": "https://lenta.ru/news/2026/08/15/abbey/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "电视节目主持人看着丈夫的手机感到恶心"
-    },
-    {
-      "title": "Анонсированы важные заявления Путина",
-      "link": "https://lenta.ru/news/2026/08/15/anonsirovany-vazhnye-zayavleniya-putina/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "普京宣布重要声明"
-    },
-    {
-      "title": "Несколько регионов России столкнулись с ночными заморозками",
-      "link": "https://lenta.ru/news/2026/08/15/neskolko-regionov-rossii-stolknulis-s-nochnymi-zamorozkami/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:15:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯多个地区面临夜间霜冻"
-    },
-    {
-      "title": "Два человека пострадали при ракетной атаке на Самарскую область",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/15/1221354-dva-cheloveka-postradali",
-      "source": "Vedomosti",
-      "pubDate": "Sat, 15 Aug 2026 11:14:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "萨马拉地区遭导弹袭击，造成两人受伤"
-    },
-    {
-      "title": "Стало известно о пострадавших после удара ВСУ по Самарской области",
-      "link": "https://lenta.ru/news/2026/08/15/stalo-izvestno-o-postradavshih-posle-udara-vsu-po-samarskoy-oblasti/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:13:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "乌克兰武装部队袭击萨马拉地区后伤亡情况曝光"
-    },
-    {
-      "title": "Беспилотник ВСУ врезался в жилой дом в Московской области. Для пострадавших работает горячая линия",
-      "link": "https://lenta.ru/news/2026/08/15/long-bespilotnik-vsu-vrezalsya-v-zhiloy-dom-v-moskovskoy-oblasti-chto-izvestno-o-posledstviyah/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:09:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一架乌克兰武装部队无人机坠入莫斯科地区的一栋住宅楼。设有受害者热线"
-    },
-    {
-      "title": "Генсек ОДКБ заявил, что считает Армению союзником",
-      "link": "https://www.vedomosti.ru/politics/news/2026/08/15/1221352-gensek-odkb-armeniyu",
-      "source": "Vedomosti",
-      "pubDate": "Sat, 15 Aug 2026 11:04:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "集体安全条约组织秘书长表示，他认为亚美尼亚是一个盟友"
-    },
-    {
-      "title": "Белоусов проинспектировал группировку войск «Восток»",
-      "link": "https://lenta.ru/news/2026/08/15/belousov-proinspektiroval-gruppirovku-voysk-vostok/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 11:04:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "别洛乌索夫检阅东方集团军"
-    },
-    {
-      "title": "Школьница умерла во время игры в прятки в российском городе",
-      "link": "https://lenta.ru/news/2026/08/15/shkolnitsa-umerla-vo-vremya-igry-v-pryatki-v-rossiyskom-gorode/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 10:58:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯某城市一名女学生在玩捉迷藏时死亡"
     }
   ]
 }
