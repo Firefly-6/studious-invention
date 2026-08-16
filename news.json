@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:52:01.893Z",
+  "updated": "2026-08-16T11:40:25.748Z",
   "count": 200,
   "items": [
     {
@@ -37,6 +37,28 @@
         "汇率"
       ],
       "titleZh": "7月卢布实际有效汇率下跌4.7%"
+    },
+    {
+      "title": "Грузия закрыла поставки бензина в Абхазию",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/16/1221447-gruziya-zakrila",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 16 Aug 2026 14:12:26 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "格鲁吉亚关闭对阿布哈兹的汽油供应"
+    },
+    {
+      "title": "В Курской области женщина погибла при атаке дрона на автомобиль",
+      "link": "https://ria.ru/20260816/dron-2111205254.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:06:34 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "在库尔斯克地区，一名妇女在无人机袭击汽车中丧生"
     },
     {
       "title": "Популярная блогерша купила 100-летний дом и пришла в шок от находки в стене",
@@ -191,17 +213,6 @@
         "需求↑"
       ],
       "titleZh": "由于高温，有毒藻类已沿着德国海岸蔓延"
-    },
-    {
-      "title": "Эксперт допустил поставки ранее произведенного оружия США на Украину из Турции",
-      "link": "https://lenta.ru/news/2026/08/15/ekspert-dopustil-postavki-ranee-proizvedennogo-oruzhiya-ssha-na-ukrainu-iz-turtsii/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 17:36:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "专家允许从土耳其向乌克兰供应美国以前生产的武器"
     },
     {
       "title": "МИД РФ потребовал от США и Турции разъяснить планы по поставкам оружия Украине",
@@ -490,6 +501,231 @@
       "titleZh": "法院延长对商人特拉伯合同谋杀案的逮捕"
     },
     {
+      "title": "В Забайкалье из-за паводка подтоплены 43 жилых дома",
+      "link": "https://ria.ru/20260816/zabajkale-2111208833.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:37:52 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "外贝加尔地区43栋住宅楼因洪水被淹"
+    },
+    {
+      "title": "В российском регионе женщины не стало из-за атаки дрона на автомобиль",
+      "link": "https://lenta.ru/news/2026/08/16/v-rossiyskom-regione-zhenschiny-ne-stalo-iz-za-ataki-drona-na-avtomobil/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:35:33 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯地区一名妇女因汽车遭无人机袭击身亡"
+    },
+    {
+      "title": "Россиянка побрызгалась подаренными духами и покрылась пятнами",
+      "link": "https://lenta.ru/news/2026/08/16/rossiyanka-pobryzgalas-podarennymi-duhami-i-pokrylas-pyatnami/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:34:59 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯女子给自己喷了捐赠香水，全身长满斑点"
+    },
+    {
+      "title": "В Венгрии больше десятка человек погибли в ДТП с автобусом",
+      "link": "https://lenta.ru/news/2026/08/16/venrgria-avtobus/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:31:57 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "匈牙利发生公交车事故 造成十几人死亡"
+    },
+    {
+      "title": "На Украине сотрудники военкомата похитили митрополита УПЦ",
+      "link": "https://ria.ru/20260816/ukraina-2111207285.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:27:35 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在乌克兰，军事登记和征兵办公室员工绑架了 UOC 都主教"
+    },
+    {
+      "title": "Двое мужчин попали в больницу с огнестрельными ранениями в российском регионе",
+      "link": "https://lenta.ru/news/2026/08/16/dvoe-muzhchin-popali-v-bolnitsu-s-ognestrelnymi-raneniyami-v-rossiyskom-regione/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:26:59 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯地区两名男子因枪伤住院"
+    },
+    {
+      "title": "У берегов Папуа-Новой Гвинеи произошло землетрясение",
+      "link": "https://ria.ru/20260816/chp-2111206669.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:21:58 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "巴布亚新几内亚沿海发生地震"
+    },
+    {
+      "title": "Клава Кока вернула доступ к своему аккаунту в Instagram*",
+      "link": "https://ria.ru/20260816/koka-2111206475.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:19:57 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Klava Koka 重新获得了她的 Instagram 帐户*"
+    },
+    {
+      "title": "Инвалид посмотрел на Трусову и восстановился",
+      "link": "https://lenta.ru/news/2026/08/16/invalid-posmotrel-na-trusovu-i-vosstanovilsya/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:19:15 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "残疾人看了特鲁索娃一眼，恢复了过来"
+    },
+    {
+      "title": "Опрос Financial Times показал ухудшение финансового положения американцев",
+      "link": "https://ria.ru/20260816/ssha-2111206316.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:17:46 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "英国《金融时报》调查显示美国人财务状况恶化"
+    },
+    {
+      "title": "Россия почти вдвое увеличила объемы поставок рыбы в Евросоюз за месяц",
+      "link": "https://www.vedomosti.ru/business/news/2026/08/16/1221448-rossiya-pochti-uvelichila",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 16 Aug 2026 14:14:44 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "俄罗斯一个月内向欧盟的鱼类供应量几乎增加了一倍"
+    },
+    {
+      "title": "В Грузии еще восемь пострадавших в ДТП белорусов выписали из больниц",
+      "link": "https://ria.ru/20260816/dtp-2111205641.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:13:06 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在格鲁吉亚，又有八名在交通事故中受伤的白俄罗斯人出院"
+    },
+    {
+      "title": "Стало известно о снаряженных «железной смертью» украинских дронах",
+      "link": "https://lenta.ru/news/2026/08/16/stalo-izvestno-o-snaryazhennyh-zheleznoy-smertyu-ukrainskih-dronah/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:13:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "乌克兰无人机装备“铁死”的消息曝光"
+    },
+    {
+      "title": "Названа оптимальная частота смены зубной щетки",
+      "link": "https://lenta.ru/news/2026/08/16/nazvana-optimalnaya-chastota-smeny-zubnoy-schetki/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:12:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "更换牙刷的最佳频率已经揭晓"
+    },
+    {
+      "title": "У берегов Индонезии произошло новое землетрясение",
+      "link": "https://ria.ru/20260816/indonezija-2111205400.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:07:58 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "印度尼西亚沿海发生新地震"
+    },
+    {
+      "title": "В Молдавии рассказали о шантаже Санду",
+      "link": "https://lenta.ru/news/2026/08/16/v-moldavii-rasskazali-o-shantazhe-sandu/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:05:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在摩尔多瓦，他们谈论了桑杜的勒索"
+    },
+    {
+      "title": "Новый план Европы по переговорам с Россией вызвал недоумение в Норвегии",
+      "link": "https://ria.ru/20260816/ukraina-2111205055.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:04:07 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "欧洲与俄罗斯谈判的新计划引起了挪威的关注"
+    },
+    {
+      "title": "Глава UFC осудил поведение Гэрри в поединке с Махачевым",
+      "link": "https://lenta.ru/news/2026/08/16/glava-ufc-osudil-povedenie-gerri-v-poedinke-s-mahachevym/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:02:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "UFC主席谴责哈利在与马哈乔夫的战斗中的行为"
+    },
+    {
+      "title": "Законность сбора урожая с соседских деревьев разъяснили",
+      "link": "https://lenta.ru/news/2026/08/16/derevo-dacha/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 14:01:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "明确了从邻居的树上采伐的合法性"
+    },
+    {
+      "title": "В ЛНР при атаке БПЛА погиб один человек, четверо пострадали",
+      "link": "https://ria.ru/20260816/pasechnik-2111204306.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 14:00:20 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "LPR遭无人机袭击造成1人死亡、4人受伤"
+    },
+    {
+      "title": "Более 50% избирателей в США заявили об ухудшении их положения при Трампе",
+      "link": "https://www.vedomosti.ru/politics/news/2026/08/16/1221445-bolee-izbiratelei-zayavili",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 16 Aug 2026 13:58:08 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "超过50%的美国选民表示，特朗普治下他们的处境更加恶化"
+    },
+    {
+      "title": "США определили две цели в конфликте с Ираном",
+      "link": "https://lenta.ru/news/2026/08/16/ssha-opredelili-dve-tseli-v-konflikte-s-iranom/",
+      "source": "Lenta",
+      "pubDate": "Sun, 16 Aug 2026 13:56:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "美国确定了与伊朗冲突的两个目标"
+    },
+    {
+      "title": "В Дагестане двоих мужчин госпитализировали с огнестрельными ранениями",
+      "link": "https://ria.ru/20260816/dagestan-2111203639.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 13:55:41 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "在达吉斯坦，两名男子因枪伤住院"
+    },
+    {
+      "title": "\"Радиостанция Судного дня\" передала новое сообщение",
+      "link": "https://ria.ru/20260816/radio-2111203945.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 13:54:17 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "世界末日电台广播新消息"
+    },
+    {
+      "title": "В Пермском крае в ДТП с автобусом пострадали семь человек",
+      "link": "https://ria.ru/20260816/perm-2111203469.html",
+      "source": "RIA",
+      "pubDate": "Sun, 16 Aug 2026 13:51:11 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "彼尔姆地区发生一起公交车事故，造成七人受伤"
+    },
+    {
       "title": "Посол Нечаев надеется, что в Берлине не закроют Русский дом",
       "link": "https://ria.ru/20260816/nechaev-2111203106.html",
       "source": "RIA",
@@ -634,15 +870,6 @@
       "titleZh": "新西伯利亚，一名工人在企业内死亡"
     },
     {
-      "title": "Политик рассказал, зачем Стубб заговорил о восстановлении диалога с Россией",
-      "link": "https://ria.ru/20260816/stubb-2111200669.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 13:05:38 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "这位政治家解释了为什么斯塔布谈到恢复与俄罗斯的对话"
-    },
-    {
       "title": "«Радиостанция Судного дня» передала новое странное сообщение",
       "link": "https://lenta.ru/news/2026/08/16/radiostantsiya-sudnogo-dnya-peredala-novoe-strannoe-soobschenie/",
       "source": "Lenta",
@@ -652,22 +879,13 @@
       "titleZh": "世界末日电台广播新的奇怪信息"
     },
     {
-      "title": "В Ливии растет интерес к изучению русского языка",
-      "link": "https://ria.ru/20260816/livija-2111200401.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 13:04:20 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "利比亚学习俄语的兴趣日益浓厚"
-    },
-    {
       "title": "Раскрыты подробности о расправах над солдатами ВСУ",
       "link": "https://lenta.ru/news/2026/08/16/raskryty-podrobnosti-o-raspravah-nad-soldatami-vsu/",
       "source": "Lenta",
       "pubDate": "Sun, 16 Aug 2026 13:04:16 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰武装部队士兵遭报复的细节曝光"
+      "titleZh": "关于对乌克兰武装部队士兵进行报复的细节公布"
     },
     {
       "title": "В Госдуме прокомментировали карту НАСА с российским Крымом",
@@ -677,24 +895,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "国家杜马评论美国宇航局的俄罗斯克里米亚地图"
-    },
-    {
-      "title": "В Пермском крае опрокинулся автобус",
-      "link": "https://ria.ru/20260816/avtobus-2111199917.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 13:00:55 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "彼尔姆地区一辆公交车翻倒"
-    },
-    {
-      "title": "Во Львове сотрудники военкомата и полиции похитили мужчину",
-      "link": "https://ria.ru/20260816/lvov-2111199640.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:59:12 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "在利沃夫，军事登记和征兵办公室和警察绑架了一名男子"
     },
     {
       "title": "ВСУ выпустили в сторону Москвы рекордное за два года количество беспилотников",
@@ -713,15 +913,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "俄罗斯军队袭击了乌克兰的能源设施和无人机组装厂"
-    },
-    {
-      "title": "ПВО второй день подряд ставит рекорд по количеству сбитых дронов ВСУ",
-      "link": "https://ria.ru/20260816/pvo-2111198950.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:48:53 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "防空部门连续第二天刷新乌克兰武装部队无人机击落数量纪录"
     },
     {
       "title": "Россиян предупредили о тревожных симптомах начинающейся шизофрении",
@@ -769,24 +960,6 @@
       "titleZh": "俄罗斯战斗机占领了哈尔科夫地区的库季耶夫卡和民主共和国的佩尔绍马耶夫卡"
     },
     {
-      "title": "На Сицилии из музея похитили картины художника эпохи Возрождения",
-      "link": "https://ria.ru/20260816/messina-2111197143.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:40:41 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "文艺复兴时期艺术家的画作在西西里岛博物馆被盗"
-    },
-    {
-      "title": "Китай временно запретил судоходство в некоторых зонах Желтого моря",
-      "link": "https://ria.ru/20260816/kitaj-2111196896.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:40:21 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "中国暂时禁止黄海部分海域通航"
-    },
-    {
       "title": "Дмитриев рассказал о личной благодарности мигрантов фон дер Ляйен",
       "link": "https://lenta.ru/news/2026/08/16/dmitriev-rasskazal-o-lichnoy-blagodarnosti-migrantov/",
       "source": "Lenta",
@@ -805,15 +978,6 @@
       "titleZh": "国防部宣布朝鲜一个村庄解放"
     },
     {
-      "title": "Пенсионерка построила деревню только для женщин",
-      "link": "https://ria.ru/20260816/derevnya-2111196201.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:31:10 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "养老金领取者专门为女性建造了一个村庄"
-    },
-    {
       "title": "Над Россией сбили рекордное количество дронов ВСУ",
       "link": "https://lenta.ru/news/2026/08/16/nad-rossiey-sbili-rekordnoe-kolichestvo-dronov-vsu/",
       "source": "Lenta",
@@ -829,34 +993,7 @@
       "pubDate": "Sun, 16 Aug 2026 12:30:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "一位俄罗斯妇女用这样一句话来形容伯利兹：“不是一个你可以拿着手机平静行走的国家”"
-    },
-    {
-      "title": "В Белгородской области при атаке дрона погиб мирный житель",
-      "link": "https://ria.ru/20260816/dron-2111196079.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:27:27 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "别尔哥罗德地区的无人机袭击造成一名平民死亡"
-    },
-    {
-      "title": "Появилось новое фото страдающего деменцией Брюса Уиллиса",
-      "link": "https://ria.ru/20260816/uillis-2111195865.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:26:44 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "布鲁斯·威利斯患有痴呆症的新照片出现了。"
-    },
-    {
-      "title": "Силы ПВО за сутки сбили 1478 беспилотников ВСУ",
-      "link": "https://ria.ru/20260816/pvo-2111195402.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:23:29 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "防空部队每天击落 1,478 架乌克兰武装部队无人机"
+      "titleZh": "一位俄罗斯妇女用这样一句话来形容伯利兹：“不是一个可以拿着手机平静行走的国家”"
     },
     {
       "title": "ВСУ не сбили ни одной баллистической ракеты во время ночных ударов",
@@ -866,24 +1003,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "乌克兰武装部队在夜间袭击中没有击落一枚弹道导弹"
-    },
-    {
-      "title": "ВСУ потеряли до 250 военных в зоне действий \"Южной\" группировки",
-      "link": "https://ria.ru/20260816/vsu-2111194919.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:18:01 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "乌克兰武装部队在“南方”组织行动区内损失多达250名军事人员"
-    },
-    {
-      "title": "ВС России поразили объекты ТЭК на Украине",
-      "link": "https://ria.ru/20260816/tek-2111194814.html",
-      "source": "RIA",
-      "pubDate": "Sun, 16 Aug 2026 12:16:24 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "俄罗斯武装部队袭击了乌克兰的燃料和能源设施"
     },
     {
       "title": "Стало известно о последствиях группового удара ВС России по Украине",
@@ -1063,7 +1182,7 @@
       "pubDate": "Sun, 16 Aug 2026 10:41:43 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰武装部队无人机夜间对俄罗斯发起一年来最大规模袭击"
+      "titleZh": "乌克兰武装部队无人机对俄罗斯的夜间袭击成为一年来最大规模"
     },
     {
       "title": "В России назвали условие для возвращения западного бизнеса",
@@ -1081,7 +1200,7 @@
       "pubDate": "Sun, 16 Aug 2026 10:39:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "马哈乔夫讲述了与哈利打斗的细节"
+      "titleZh": "马哈乔夫讲述了与哈利打架的细节"
     },
     {
       "title": "ВС РФ ударили по крупнейшему НПЗ в Кременчуге",
@@ -1468,7 +1587,7 @@
       "pubDate": "Sun, 16 Aug 2026 07:10:20 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "乌克兰武装部队一名军官谴责一名乌克兰宣传员骚扰一名批评乌克兰当局的歌手"
+      "titleZh": "乌克兰武装部队一名军官谴责一名乌克兰宣传人员骚扰一名批评乌克兰当局的歌手"
     },
     {
       "title": "В США осудили Зеленского за поздравление в адрес Польши",
@@ -1513,7 +1632,7 @@
       "pubDate": "Sun, 16 Aug 2026 06:18:12 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "波兰找到了让泽连斯基下台的方法"
+      "titleZh": "波兰找到了让泽伦斯基下台的方法"
     },
     {
       "title": "Три человека пострадали в результате атаки БПЛА на Москву",
@@ -1621,7 +1740,7 @@
       "pubDate": "Sun, 16 Aug 2026 04:20:13 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "索比亚宁报告说，76架向莫斯科发动的无人机袭击已被击退"
+      "titleZh": "索比亚宁报告称，76架向莫斯科发动的无人机袭击已被击退"
     },
     {
       "title": "При крушении парома в Зимбабве погибло 72 человека",
@@ -1630,7 +1749,7 @@
       "pubDate": "Sun, 16 Aug 2026 04:15:06 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "津巴布韦渡轮灾难造成72人死亡"
+      "titleZh": "津巴布韦渡轮事故造成72人死亡"
     },
     {
       "title": "Три московских аэропорта ввели ограничения на полеты",
@@ -1675,7 +1794,7 @@
       "pubDate": "Sun, 16 Aug 2026 03:08:16 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "泽伦斯基前新闻秘书宣布加强强制动员"
+      "titleZh": "泽连斯基前新闻秘书宣布加强强制动员"
     },
     {
       "title": "Раскрыт один из главных страхов украинских военных",
@@ -1775,123 +1894,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "海湾国家对美国行为的不满曝光"
-    },
-    {
-      "title": "Иран оценил ущерб от разлива нефти в Ормузском проливе",
-      "link": "https://lenta.ru/news/2026/08/16/iran-otsenil-uscherb-ot-razliva-nefti-v-ormuzskom-prolive/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 01:43:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "伊朗评估霍尔木兹海峡漏油损失"
-    },
-    {
-      "title": "В Госдуме высказались о переговорах по Украине",
-      "link": "https://lenta.ru/news/2026/08/16/v-gosdume-vyskazalis-o-peregovorah-po-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 01:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "国家杜马谈到乌克兰谈判"
-    },
-    {
-      "title": "«Обстоятельства крайне противоречивы». Россия запросила разъяснения у США и Турции о планах поставить оружие Украине",
-      "link": "https://lenta.ru/news/2026/08/16/long-obstoyatelstva-krayne-protivorechivy-rossiya-zaprosila-raz-yasneniya-u-ssha-i-turtsii-o-planah-postavit-oruzhie-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 01:10:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "“情况极其矛盾。”俄罗斯要求美国和土耳其澄清向乌克兰供应武器的计划"
-    },
-    {
-      "title": "Отношение Драпатого к украинским солдатам оценили",
-      "link": "https://lenta.ru/news/2026/08/16/otnoshenie-drapatogo-k-ukrainskim-soldatam-otsenili/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 01:08:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "德拉帕蒂对乌克兰士兵的态度受到赞赏"
-    },
-    {
-      "title": "В ряде российских регионов предсказали снег в сентябре",
-      "link": "https://lenta.ru/news/2026/08/16/sinoptik-rasskazal-v-kakih-regionah-rossii-mozhet-vypast-sneg-v-sentyabre/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 01:05:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "预计俄罗斯部分地区九月会下雪"
-    },
-    {
-      "title": "Раскрыто число пораженных за полтора месяца судов ВСУ в Черном море",
-      "link": "https://lenta.ru/news/2026/08/16/raskryto-chislo-porazhennyh-za-poltora-mesyatsa-sudov-vsu-v-chernom-more/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 00:32:42 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一个半月内在黑海被击中的乌克兰武装部队船只数量已公布"
-    },
-    {
-      "title": "Раскрыта проблема одиноких мужчин в Стамбуле",
-      "link": "https://lenta.ru/news/2026/08/16/raskryta-problema-odinokih-muzhchin-v-stambule/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 00:27:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "伊斯坦布尔单身男性问题暴露"
-    },
-    {
-      "title": "Коррупцию в окружении Зеленского назвали проблемой для Европы",
-      "link": "https://lenta.ru/news/2026/08/15/korruptsiyu-v-okruzhenii-zelenskogo-nazvali-problemoy-dlya-evropy/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 00:10:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "泽伦斯基周围的腐败被称为欧洲的问题"
-    },
-    {
-      "title": "16 августа: какой праздник отмечают в России и мире",
-      "link": "https://lenta.ru/news/2026/08/16/16-avgusta-kakoy-prazdnik-otmechayut-v-rossii-i-mire/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 00:05:37 +0300",
-      "summary": "]]>",
-      "tags": [],
-      "titleZh": "8月16日：俄罗斯和世界各地庆祝什么节日"
-    },
-    {
-      "title": "Овечкин ответил на вопрос о своем будущем в «Вашингтоне»",
-      "link": "https://lenta.ru/news/2026/08/16/ovechkin-otvetil-na-vopros-o-svoem-buduschem-v-vashingtone/",
-      "source": "Lenta",
-      "pubDate": "Sun, 16 Aug 2026 00:03:59 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "奥维奇金回答了有关他在华盛顿的未来的问题"
-    },
-    {
-      "title": "Американка потребовала от бывшего сенатора компенсацию за измену мужа",
-      "link": "https://lenta.ru/news/2026/08/15/amerikanka-potrebovala-ot-byvshego-senatora-kompensatsiyu-za-izmenu-muzha/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 23:56:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "一名美国妇女因丈夫的不忠行为要求前参议员赔偿"
-    },
-    {
-      "title": "Макрона раскритиковали за отпуск во время пожаров во Франции",
-      "link": "https://lenta.ru/news/2026/08/15/makrona-raskritikovali-za-otpusk-vo-vremya-pozharov-vo-frantsii/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 23:56:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "法国火灾期间马克龙休假受到批评"
-    },
-    {
-      "title": "В Германии указали на беспомощное положение Украины",
-      "link": "https://lenta.ru/news/2026/08/16/v-germanii-ukazali-na-bespomoschnoe-polozhenie-ukrainy/",
-      "source": "Lenta",
-      "pubDate": "Sat, 15 Aug 2026 23:52:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "德国指出乌克兰的无奈处境"
     }
   ]
 }
