@@ -1,18 +1,66 @@
 {
-  "updated": "2026-09-09T06:10:31.415Z",
+  "updated": "2026-09-09T11:18:40.044Z",
   "count": 200,
   "items": [
     {
-      "title": "В Израиле заявили, что закроют британское консульство в ответ на санкции Лондона",
-      "link": "https://iz.ru/2163706/v-izraile-zaiavili-chto-zakroiut-britanskoe-konsulstvo-v-otvet-na-sanktcii-londona-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:34:13 +0300",
-      "summary": "<p>Тель-Авив закроет британское консульство в Восточном Иерусалиме в ответ на санкции Лондона против товаров из израильских поселений. Об этом 8 сентября заявил министр иностранных дел <a href=\"https://iz.ru/tag/izrail\" ",
+      "title": "Кремль: повышение налогов из-за дефицита бюджета не обсуждается",
+      "link": "https://www.vedomosti.ru/economics/news/2026/09/09/1227507-povishenie-nalogov-ne-obsuzhdaetsya",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 13:34:32 +0300",
+      "summary": "С начала года расходы превысили доходы на 5,8 трлн рублей",
       "tags": [
         "需求↑",
-        "制裁"
+        "汇率"
       ],
-      "titleZh": "В Израиле заявили, что закроют британское консульство в ответ на санкции Лондона"
+      "titleZh": "Кремль: повышение налогов из-за дефицита бюджета не обсуждается"
+    },
+    {
+      "title": "Мошенники рассылают селлерам Wildberries фейковые предложения о компенсации",
+      "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227494-moshenniki-rassilayut",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 13:31:13 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "Мошенники рассылают селлерам Wildberries фейковые предложения о компенсации"
+    },
+    {
+      "title": "Россиянин зашел в магазин погреться и стал обладателем 8 миллионов рублей",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyanin-zashel-v-magazin-pogretsya-i-stal-obladatelem-8-millionov-rubley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:55:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "汇率"
+      ],
+      "titleZh": "Россиянин зашел в магазин погреться и стал обладателем 8 миллионов рублей"
+    },
+    {
+      "title": "Дефицит российского бюджета сократился",
+      "link": "https://lenta.ru/news/2026/09/09/defitsit-rossiyskogo-byudzheta-sokratilsya/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "Дефицит российского бюджета сократился"
+    },
+    {
+      "title": "Дефицит федерального бюджета составил с начала года 5,8 трлн рублей",
+      "link": "https://www.vedomosti.ru/economics/news/2026/09/09/1227435-defitsit-byudzheta",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 11:10:45 +0300",
+      "summary": "Показатель вырос в 1,5 раза в сравнении с аналогичным периодом 2025 года",
+      "tags": [
+        "需求↑",
+        "汇率"
+      ],
+      "titleZh": "Дефицит федерального бюджета составил с начала года 5,8 трлн рублей"
     },
     {
       "title": "Средняя стоимость картофеля снизилась на 12,3%",
@@ -27,27 +75,521 @@
       "titleZh": "Средняя стоимость картофеля снизилась на 12,3%"
     },
     {
-      "title": "Продажи новых автобусов в России снизились в августе на 23,4%",
-      "link": "https://www.vedomosti.ru/auto/news/2026/09/07/1226982-prodazhi-snizilis",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 17:06:30 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "Продажи новых автобусов в России снизились в августе на 23,4%"
-    },
-    {
-      "title": "В Роскачестве дали советы по правильному хранению продуктов в холодильнике",
-      "link": "https://iz.ru/2163064/2026-09-09/v-roskachestve-dali-sovety-po-pravilnomu-khraneniiu-produktov-v-kholodilnike",
+      "title": "Альтернативное мнение",
+      "link": "https://iz.ru/2163910/filip-gashpar/alternativnoe-mnenie",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 09:00:02 +0300",
-      "summary": "<p>Одной из главных ошибок при хранении еды в холодильнике является нарушение товарного соседства. Об этом 9 сентября «Известиям» рассказала директор Центра компетенций в области пищевой безопасности Роскачества Елена Сп",
+      "pubDate": "Wed, 09 Sep 2026 14:15:00 +0300",
+      "summary": "Политолог Филип Гашпар — о причинах растущей непопулярности партии Мерца",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "В Роскачестве дали советы по правильному хранению продуктов в холодильнике"
+      "titleZh": "Альтернативное мнение"
+    },
+    {
+      "title": "Депутат предупредил о схемах займов с риском потери имущества",
+      "link": "https://iz.ru/2163871/2026-09-09/deputat-predupredil-o-skhemakh-zaimov-s-riskom-poteri-imushchestva",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:14:11 +0300",
+      "summary": "<p>Нелегальные кредиторы все чаще используют схемы, при которых заемщик рискует потерять имущество, оформляя фактически не кредит, а сделку по продаже жилья или автомобиля. Об этом 9 сентября «Известиям» рассказал предсе",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Депутат предупредил о схемах займов с риском потери имущества"
+    },
+    {
+      "title": "Россия запретила поставку продукции белорусского производителя",
+      "link": "https://lenta.ru/news/2026/09/09/stop/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:14:09 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Россия запретила поставку продукции белорусского производителя"
+    },
+    {
+      "title": "Песков прокомментировал резкое подорожание газа в Европе",
+      "link": "https://lenta.ru/news/2026/09/09/peskov-prokommentiroval-rezkoe-podorozhanie-gaza-v-evrope/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:13:39 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Песков прокомментировал резкое подорожание газа в Европе"
+    },
+    {
+      "title": "В России хотят зарегистрировать товарный знак Harry Potter",
+      "link": "https://ria.ru/20260909/rossija-2116574056.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:13:38 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "В России хотят зарегистрировать товарный знак Harry Potter"
+    },
+    {
+      "title": "Филипп Киркоров установил семейный мемориал за 10 миллионов рублей",
+      "link": "https://lenta.ru/news/2026/09/09/filipp-kirkorov-ustanovil-semeynyy-memorial-za-10-millionov-rubley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:10:55 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Филипп Киркоров установил семейный мемориал за 10 миллионов рублей"
+    },
+    {
+      "title": "В AmCham оценили идею проведения бизнес-форума с участием США, России и Германии",
+      "link": "https://iz.ru/2163908/v-amcham-otcenili-ideiu-provedeniia-biznes-foruma-s-uchastiem-ssha-rossii-i-germanii-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:06:09 +0300",
+      "summary": "<p>Американская торговая палата в России (AmCham Russia) поддержала предложение о проведении трехстороннего бизнес-форума с участием России, <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> и Германии. Об этом 9 ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "В AmCham оценили идею проведения бизнес-форума с участием США, России и Германии"
+    },
+    {
+      "title": "Названы четыре сценария СВО",
+      "link": "https://lenta.ru/news/2026/09/09/pobeda-rossii-v-svo/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:05:27 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Названы четыре сценария СВО"
+    },
+    {
+      "title": "Стоимость дизеля в США подскочила до нового рекорда",
+      "link": "https://lenta.ru/news/2026/09/09/dizel-v-ssha-podskochil-do-novogo-tsenovogo-rekorda/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:02:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Стоимость дизеля в США подскочила до нового рекорда"
+    },
+    {
+      "title": "Акции владельца сети АЗС резко подешевели после ареста главы совета директоров",
+      "link": "https://lenta.ru/news/2026/09/09/aktsii-vladeltsa-seti-azs-rezko-podesheveli-posle-aresta-glavy-soveta-direktorov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:57:03 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Акции владельца сети АЗС резко подешевели после ареста главы совета директоров"
+    },
+    {
+      "title": "Россия независима от импорта при борьбе с туберкулезом, заявили в Минздраве",
+      "link": "https://ria.ru/20260909/rossiya-2116568032.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:55:49 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Россия независима от импорта при борьбе с туберкулезом, заявили в Минздраве"
+    },
+    {
+      "title": "«Народный фронт» запустил виртуального мобильного оператора «Всё для Победы!»",
+      "link": "https://iz.ru/2163846/narodnyi-front-zapustil-virtualnogo-mobilnogo-operatora-vse-dlia-pobedy-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:47:03 +0300",
+      "summary": "<p>«Народный фронт» запустил виртуального мобильного оператора «Всё для Победы!», который объединяет услуги связи и поддержку военнослужащих. Часть средств от абонентской платы будет направляться на закупку необходимого ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "«Народный фронт» запустил виртуального мобильного оператора «Всё для Победы!»"
+    },
+    {
+      "title": "Песков: рекорд по ценам на газ в Европе впереди",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227513-rekord-vperedi",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 13:45:58 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Песков: рекорд по ценам на газ в Европе впереди"
+    },
+    {
+      "title": "Блогер Ремесло получил обвинительное заключение по делу о фейках о ВС РФ",
+      "link": "https://iz.ru/2163899/bloger-remeslo-poluchil-obvinitelnoe-zakliuchenie-po-delu-o-feikakh-o-vs-rf-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:40:19 +0300",
+      "summary": "<p>Блогер Илья Ремесло получил обвинительное заключение по делу о распространении фейков об армии России. Об этом 9 сентября заявил его адвокат Сергей Бадамшин.</p><p>«Ремесло действительно вручили обвинительное заключен",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Блогер Ремесло получил обвинительное заключение по делу о фейках о ВС РФ"
+    },
+    {
+      "title": "Россия резко нарастила поставки продовольствия в одну страну",
+      "link": "https://lenta.ru/news/2026/09/09/rossiya-rezko-narastila-postavki-prodovolstviya-v-odnu-stranu/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Россия резко нарастила поставки продовольствия в одну страну"
+    },
+    {
+      "title": "В Красноярский край ввезли более 63 тыс. яиц для выращивания кур",
+      "link": "https://iz.ru/2163907/2026-09-09/v-krasnoiarskii-krai-vvezli-bolee-63-tys-iaitc-dlia-vyrashchivaniia-kur",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:32:46 +0300",
+      "summary": "<p>В Красноярский край вновь завезли 63 440 штук инкубационных яиц из Узбекистана на одну из птицефабрик. Это уже 16-я партия с начала 2026 года, сообщает пресс-служба регионального Россельхознадзора в среду, 9 сентября.",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "В Красноярский край ввезли более 63 тыс. яиц для выращивания кур"
+    },
+    {
+      "title": "Видео. В Кремле призвали не беспокоится из-за дефицита бюджета РФ",
+      "link": "https://iz.ru/2163902/video/video-v-kremle-prizvali-ne-bespokoitsia-iz-za-defitcita-biudzheta-rf",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:29:15 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Видео. В Кремле призвали не беспокоится из-за дефицита бюджета РФ"
+    },
+    {
+      "title": "В Кремле призвали не беспокоиться из-за дефицита бюджета РФ",
+      "link": "https://iz.ru/2163885/2026-09-09/v-kremle-prizvali-ne-bespokoitsia-iz-za-defitcita-biudzheta-rf",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:25:00 +0300",
+      "summary": "<p>Дефицит бюджета России в 2,5% внутреннего валового продукта (ВВП) не должен вызывать обеспокоенность, так как является динамическим показателем, над которым работает правительство страны. Об этом 9 сентября заявил офи",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "В Кремле призвали не беспокоиться из-за дефицита бюджета РФ"
+    },
+    {
+      "title": "Цена акций «Газпрома» на Мосбирже упала на 2%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227501-tsena-aktsii-gazproma",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 13:23:43 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Цена акций «Газпрома» на Мосбирже упала на 2%"
+    },
+    {
+      "title": "Археологи раскрыли тайны древнего каннибализма в Европе",
+      "link": "https://iz.ru/2163887/arkheologi-raskryli-tainy-drevnego-kannibalizma-v-evrope-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:22:10 +0300",
+      "summary": "<p dir=\"ltr\">Археологи повторно изучили почти 1 тыс. костей, найденных в трех пещерах на юге Испании, и обнаружили свидетельства разных практик каннибализма. Новое исследование показало, что употребление человеческих ост",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Археологи раскрыли тайны древнего каннибализма в Европе"
+    },
+    {
+      "title": "Панические атаки: цена Brent превысила $100 за баррель из-за эскалации на Ближнем Востоке",
+      "link": "https://iz.ru/2163863/valentina-averianova/panicheskie-ataki-tcena-brent-prevysila-100-za-barrel-iz-za-eskalatcii-na-blizhnem-vostoke",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:15:00 +0300",
+      "summary": "Стоимость эталонной марки дорожает вторую неделю подряд",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Панические атаки: цена Brent превысила $100 за баррель из-за эскалации на Ближнем Востоке"
+    },
+    {
+      "title": "Партнер сети «Твое» намерен обратиться в суд с заявлением о банкротстве сети",
+      "link": "https://iz.ru/2163879/2026-09-09/partner-seti-tvoe-nameren-obratitsia-v-sud-s-zaiavleniem-o-bankrotstve-seti",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:13:57 +0300",
+      "summary": "<p>Транспортная компания ООО «Поволжье-Транс» заявила о намерении обратиться в Арбитражный суд <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> с заявлением о банкротстве ООО «Твое», управляющего одноименной",
+      "tags": [
+        "物流"
+      ],
+      "titleZh": "Партнер сети «Твое» намерен обратиться в суд с заявлением о банкротстве сети"
+    },
+    {
+      "title": "Памфилова: число жалоб на давление на избирателей резко сократилось",
+      "link": "https://www.vedomosti.ru/society/news/2026/09/09/1227495-pamfilova-chislo-zhalob",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 13:11:59 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Памфилова: число жалоб на давление на избирателей резко сократилось"
+    },
+    {
+      "title": "Вор украл у туристов на Байкале аудиосистему и материалы для кальяна на 80 тысяч рублей",
+      "link": "https://lenta.ru/news/2026/09/09/vor-ukral-u-turistov-na-baykale-audiosistemu-i-materialy-dlya-kalyana-na-80-tysyach-rubley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:10:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Вор украл у туристов на Байкале аудиосистему и материалы для кальяна на 80 тысяч рублей"
+    },
+    {
+      "title": "Бензин рекордно подорожал во второй экономике Евросоюза",
+      "link": "https://lenta.ru/news/2026/09/09/benzin-rekordno-podorozhal-vo-vtoroy-ekonomike-evrosoyuza/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:53:22 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Бензин рекордно подорожал во второй экономике Евросоюза"
+    },
+    {
+      "title": "Цена акций ВТБ на Мосбирже упала на 2,3%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227492-tsena-aktsii-vtb",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 12:47:44 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Цена акций ВТБ на Мосбирже упала на 2,3%"
+    },
+    {
+      "title": "В сети распространились недостоверные данные о выдаче сотрудникам «Почты России» оружия",
+      "link": "https://lenta.ru/news/2026/09/09/v-seti-rasprostranilis-nedostovernye-dannye-o-vydache-sotrudnikam-pochty-rossii-oruzhiya/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:35:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "В сети распространились недостоверные данные о выдаче сотрудникам «Почты России» оружия"
+    },
+    {
+      "title": "Россию лишили леса на десятки миллионов рублей",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyu-lishili-lesa-na-desyatki-millionov-rubley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:24:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Россию лишили леса на десятки миллионов рублей"
+    },
+    {
+      "title": "Ценам на нефть предсказали преодоление психологически важного рубежа",
+      "link": "https://lenta.ru/news/2026/09/09/tsenam-na-neft-predskazali-preodolenie-psihologicheski-vazhnogo-rubezha/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Ценам на нефть предсказали преодоление психологически важного рубежа"
+    },
+    {
+      "title": "Россияне заплатили 339 тысяч рублей за тур с бизнес-классом и полетели экономом",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyane-zaplatili-339-tysyach-rubley-za-tur-s-biznes-klassom-i-poleteli-ekonomom/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Россияне заплатили 339 тысяч рублей за тур с бизнес-классом и полетели экономом"
+    },
+    {
+      "title": "Звезду «Фабрики» оштрафовали из-за рекламы",
+      "link": "https://lenta.ru/news/2026/09/09/zvezdu-fabriki-oshtrafovali-iz-za-reklamy/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:16:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Звезду «Фабрики» оштрафовали из-за рекламы"
+    },
+    {
+      "title": "Российская авиакомпания запустила осеннюю распродажу билетов",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyskaya-aviakompaniya-zapustila-osennyuyu-rasprodazhu-biletov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:05:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Российская авиакомпания запустила осеннюю распродажу билетов"
+    },
+    {
+      "title": "«Полюс» увеличил объем программы облигаций 001Р до 1 трлн рублей",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227457-polyus-uvelichil-obem",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 12:00:30 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "«Полюс» увеличил объем программы облигаций 001Р до 1 трлн рублей"
+    },
+    {
+      "title": "Газ в Европе подорожал до максимума с 2022 года",
+      "link": "https://lenta.ru/news/2026/09/09/gaz-v-evrope-podorozhal-do-maksimuma-s-2022-goda/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 11:43:03 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Газ в Европе подорожал до максимума с 2022 года"
+    },
+    {
+      "title": "Самая дорогая командировка в августе обошлась российской компании в 702 тысячи рублей",
+      "link": "https://lenta.ru/news/2026/09/09/samaya-dorogaya-komandirovka-v-avguste-oboshlas-rossiyskoy-kompanii-v-702-tysyachi-rubley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 11:43:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Самая дорогая командировка в августе обошлась российской компании в 702 тысячи рублей"
+    },
+    {
+      "title": "Южноамериканская страна нарастила закупки российской рыбы",
+      "link": "https://lenta.ru/news/2026/09/09/yuzhnoamerikanskaya-strana-narastila-zakupki-rossiyskoy-ryby/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 11:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Южноамериканская страна нарастила закупки российской рыбы"
+    },
+    {
+      "title": "«Рособоронэкспорт» подписал первый контракт на Як-130М",
+      "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227443-rosoboroneksport-podpisal-pervii",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 11:35:02 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "«Рособоронэкспорт» подписал первый контракт на Як-130М"
+    },
+    {
+      "title": "«Ростех» запустил первый промышленный маркетплейс",
+      "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227442-rosteh-zapustil",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 11:28:26 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "«Ростех» запустил первый промышленный маркетплейс"
+    },
+    {
+      "title": "Уничтожение крупного завода под Киевом, 20-часовая тревога и сожженные АЗС. Результаты ударов ВС России по Украине за сутки",
+      "link": "https://lenta.ru/news/2026/09/09/long-unichtozhenie-krupnogo-zavoda-pod-kievom-20-chasovaya-trevoga-i-sozhzhennye-azs-rezultaty-udarov-vs-rossii-po-ukraine-za-sutki/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 11:13:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Уничтожение крупного завода под Киевом, 20-часовая тревога и сожженные АЗС. Результаты ударов ВС России по Украине за сутки"
+    },
+    {
+      "title": "Россия обошла почти все страны Европы по продажам автомобилей",
+      "link": "https://lenta.ru/news/2026/09/09/rossiya-oboshla-pochti-vse-strany-evropy-po-prodazham-avtombiley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 11:02:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Россия обошла почти все страны Европы по продажам автомобилей"
+    },
+    {
+      "title": "Цена нефти Brent поднялась выше $100 за баррель впервые с конца июля",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227428-tsena-nefti-brent",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 10:55:27 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Цена нефти Brent поднялась выше $100 за баррель впервые с конца июля"
+    },
+    {
+      "title": "Стоимость нефти поднялась выше 100 долларов за баррель",
+      "link": "https://lenta.ru/news/2026/09/09/stoimost-nefti-podnyalas-vyshe-100-dollarov-za-barrel/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 10:50:00 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Стоимость нефти поднялась выше 100 долларов за баррель"
+    },
+    {
+      "title": "Стоимость газа на европейских площадках превысила $940",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227421-stoimost-gaza",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 09 Sep 2026 10:42:54 +0300",
+      "summary": "",
+      "tags": [
+        "价格"
+      ],
+      "titleZh": "Стоимость газа на европейских площадках превысила $940"
+    },
+    {
+      "title": "Сын Байдена поделится криптовалютой с потерявшими деньги на мемкоине Трампа",
+      "link": "https://lenta.ru/news/2026/09/09/syn-baydena-podelitsya-kriptovalyutoy-s-poteryavshimi-dengi-na-memkoine-trampa/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 10:31:00 +0300",
+      "summary": "",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Сын Байдена поделится криптовалютой с потерявшими деньги на мемкоине Трампа"
+    },
+    {
+      "title": "Мишуков предложил способ повысить популярность хоккея в России",
+      "link": "https://lenta.ru/news/2026/09/09/mishukov-predlozhil-sposob-povysit-populyarnost-hokkeya-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 10:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Мишуков предложил способ повысить популярность хоккея в России"
+    },
+    {
+      "title": "В России спрогнозировали паузу в снижении ключевой ставки",
+      "link": "https://lenta.ru/news/2026/09/09/v-rossii-sprognozirovali-pauzu-v-snizhenii-klyuchevoy-stavki/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 10:17:23 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "В России спрогнозировали паузу в снижении ключевой ставки"
+    },
+    {
+      "title": "Покупатель российского газа столкнулся с ростом инфляции",
+      "link": "https://lenta.ru/news/2026/09/09/pokupatel-rossiyskogo-gaza-stolknulsya-s-rostom-inflyatsii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 10:15:52 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Покупатель российского газа столкнулся с ростом инфляции"
     },
     {
       "title": "Onlinetours запустил отдельный сервис для премиальных туров от 500 000 рублей",
@@ -61,39 +603,6 @@
       "titleZh": "Onlinetours запустил отдельный сервис для премиальных туров от 500 000 рублей"
     },
     {
-      "title": "Вайдель пообещала изменить курс Германии в отношении России и Украины",
-      "link": "https://iz.ru/2163708/2026-09-09/vaidel-poobeshchala-izmenit-kurs-germanii-v-otnoshenii-rossii-i-ukrainy",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:58:00 +0300",
-      "summary": "<p>Сопредседатель партии «Альтернатива для Германии» (АдГ) Алиса Вайдель 8 сентября заявила, что Германия изменит свой курс в отношении России и <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> после побед",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Вайдель пообещала изменить курс Германии в отношении России и Украины"
-    },
-    {
-      "title": "Эксперт рассказал о доступных к получению единовременно пенсионных накоплениях",
-      "link": "https://iz.ru/2163719/2026-09-09/ekspert-rasskazal-o-dostupnykh-k-polucheniiu-edinovremenno-pensionnykh-nakopleniiakh",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:32:00 +0300",
-      "summary": "<p>В России пенсионные накопления можно получить одной суммой, если они не превышают 440 тыс. рублей. Об этом 9 сентября сообщил доцент Финансового университета при Правительстве РФ Игорь Балынин.</p><p>«Вычисление суммы",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Эксперт рассказал о доступных к получению единовременно пенсионных накоплениях"
-    },
-    {
-      "title": "Врач оценил пользу четырех популярных у россиян завтраков",
-      "link": "https://lenta.ru/news/2026/09/09/vrach-otsenil-polzu-chetyreh-populyarnyh-u-rossiyan-zavtrakov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:30:14 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Врач оценил пользу четырех популярных у россиян завтраков"
-    },
-    {
       "title": "«Герофарм» отказался от иска к Wildberries",
       "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227277-gerofarm-otkazalsya",
       "source": "Vedomosti",
@@ -103,28 +612,6 @@
         "需求↑"
       ],
       "titleZh": "«Герофарм» отказался от иска к Wildberries"
-    },
-    {
-      "title": "Перспективы курса рубля оценили",
-      "link": "https://lenta.ru/news/2026/09/09/perspektivy-kursa-rublya-otsenili/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:48:00 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Перспективы курса рубля оценили"
-    },
-    {
-      "title": "Захарова заявила о нехватке иммунитета Украины к действиям Запада",
-      "link": "https://lenta.ru/news/2026/09/09/zaharova-zayavila-o-nehvatke-immuniteta-ukrainy-k-deystviyam-zapada/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:31:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Захарова заявила о нехватке иммунитета Украины к действиям Запада"
     },
     {
       "title": "Вадефуль раскритиковал Киев за количество оборонных заказов у Германии",
@@ -138,83 +625,6 @@
       "titleZh": "Вадефуль раскритиковал Киев за количество оборонных заказов у Германии"
     },
     {
-      "title": "США запретили ввоз части канадских алкогольных напитков",
-      "link": "https://iz.ru/2163700/2026-09-09/ssha-zapretili-vvoz-chasti-kanadskikh-alkogolnykh-napitkov",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:13:00 +0300",
-      "summary": "<p><a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> введут запрет на импорт ряда алкогольных напитков из Канады с 29 сентября 2026 года. Решение связано с обвинениями Вашингтона в дискриминационных мерах со сторо",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "США запретили ввоз части канадских алкогольных напитков"
-    },
-    {
-      "title": "Эксперт развеял миф о подорожании авиабилетов по пятницам вечером",
-      "link": "https://iz.ru/2163051/2026-09-09/ekspert-razveial-mif-o-podorozhanii-aviabiletov-po-piatnitcam-vecherom",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0300",
-      "summary": "<p>Рост поисковых запросов на авиабилеты в пятницу вечером не приводит к автоматическому повышению цен. Стоимость перелета зависит не от количества просмотров, а от доступности мест по тарифам, конкуренции и сроков до вы",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "Эксперт развеял миф о подорожании авиабилетов по пятницам вечером"
-    },
-    {
-      "title": "Эксперт назвал причину повышения ставок по краткосрочным вкладам",
-      "link": "https://iz.ru/2163696/ekspert-rasskazal-o-povyshenii-stavok-po-kratkosrochnym-vkladam-iz-za-ottoka-sredstv-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:34:25 +0300",
-      "summary": "<p>Российские банки летом 2026 года начали повышать доходность краткосрочных вкладов на фоне сокращения объемов средств клиентов и необходимости привлечения ликвидности. Об этом 9 сентября рассказал президент СРО «Регион",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Эксперт назвал причину повышения ставок по краткосрочным вкладам"
-    },
-    {
-      "title": "Украинские мошенники в Польше начали обманывать сограждан от имени полиции",
-      "link": "https://iz.ru/2163695/2026-09-09/ukrainskie-moshenniki-v-polshe-nachali-obmanyvat-sograzhdan-ot-imeni-politcii",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:27:58 +0300",
-      "summary": "<p>В Польше получила распространение схема мошенничества, при которой украинские преступники выдают себя за представителей правоохранительных органов и обманывают граждан <a href=\"https://iz.ru/tag/ukraina\" target=\"_blan",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Украинские мошенники в Польше начали обманывать сограждан от имени полиции"
-    },
-    {
-      "title": "Белый дом представил Трампа в образе героя The Legend of Zelda",
-      "link": "https://iz.ru/2163687/2026-09-09/belyi-dom-predstavil-trampa-v-obraze-geroia-legend-zelda",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:10:00 +0300",
-      "summary": "<p>Белый дом опубликовал видеоролик с президентом <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональдом Трампом</a>, созданный в стилистике популярной",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Белый дом представил Трампа в образе героя The Legend of Zelda"
-    },
-    {
-      "title": "Стало известно о нехватке топлива в ВСУ",
-      "link": "https://lenta.ru/news/2026/09/09/stalo-izvestno-o-nehvatke-goryuche-smazochnyh-materialov-v-vsu/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 04:36:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Стало известно о нехватке топлива в ВСУ"
-    },
-    {
-      "title": "Раскрыта доля россиян с ежемесячными доходами выше 100 тысяч рублей",
-      "link": "https://lenta.ru/news/2026/09/09/raskryta-dolya-rossiyan-s-ezhemesyachnymi-dohodami-vyshe-100-tysyach-rubley/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 01:18:13 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Раскрыта доля россиян с ежемесячными доходами выше 100 тысяч рублей"
-    },
-    {
       "title": "Трамп поручил исключить канадские товары из госзакупок США на $50 млрд в год",
       "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227373-tramp-poruchil",
       "source": "Vedomosti",
@@ -226,50 +636,6 @@
       "titleZh": "Трамп поручил исключить канадские товары из госзакупок США на $50 млрд в год"
     },
     {
-      "title": "Назван самый подешевевший в августе продукт",
-      "link": "https://lenta.ru/news/2026/09/09/nazvan-samyy-podeshevevshiy-v-avguste-produkt/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 00:48:00 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "Назван самый подешевевший в августе продукт"
-    },
-    {
-      "title": "Учительница объяснила совращение школьников стремлением к популярности",
-      "link": "https://lenta.ru/news/2026/09/09/uchitelnitsa-ob-yasnila-sovraschenie-shkolnikov-stremleniem-k-populyarnosti/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 00:30:23 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Учительница объяснила совращение школьников стремлением к популярности"
-    },
-    {
-      "title": "Раскрыт неочевидный фактор снижения риска инсульта",
-      "link": "https://lenta.ru/news/2026/09/09/raskryt-prostoy-sposob-snizit-risk-insulta/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 00:30:17 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Раскрыт неочевидный фактор снижения риска инсульта"
-    },
-    {
-      "title": "Глава АдГ пообещала изменить курс Германии в отношении Украины и России",
-      "link": "https://lenta.ru/news/2026/09/09/glava-adg-poobeschala-izmenit-kurs-germanii-v-otnoshenii-ukrainy-i-rossii/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 23:51:07 +0300",
-      "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Глава АдГ пообещала изменить курс Германии в отношении Украины и России"
-    },
-    {
       "title": "Израиль закроет британское консульство в Иерусалиме в ответ на санкции",
       "link": "https://www.vedomosti.ru/politics/news/2026/09/08/1227368-izrail-reshil-zakrit",
       "source": "Vedomosti",
@@ -279,61 +645,6 @@
         "制裁"
       ],
       "titleZh": "Израиль закроет британское консульство в Иерусалиме в ответ на санкции"
-    },
-    {
-      "title": "На заводе под Киевом произошел мощный пожар",
-      "link": "https://lenta.ru/news/2026/09/08/na-zavode-pod-kievom-proizoshel-moschnyy-pozhar/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 23:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "На заводе под Киевом произошел мощный пожар"
-    },
-    {
-      "title": "В Киеве возник транспортный коллапс из-за воздушной тревоги",
-      "link": "https://lenta.ru/news/2026/09/09/v-kieve-voznik-transportnyy-kollaps-iz-za-vozdushnoy-trevogi/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 21:27:45 +0300",
-      "summary": "",
-      "tags": [
-        "物流"
-      ],
-      "titleZh": "В Киеве возник транспортный коллапс из-за воздушной тревоги"
-    },
-    {
-      "title": "Автору проекта по производству чипов памяти в России запросили срок",
-      "link": "https://lenta.ru/news/2026/09/08/avtoru-proekta-rosnano-po-proizvodstvu-chipov-pamyati-zaprosili-srok/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 21:18:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Автору проекта по производству чипов памяти в России запросили срок"
-    },
-    {
-      "title": "Россиянам назвали требующее срочного обращения к врачу последствие употребления алкоголя",
-      "link": "https://lenta.ru/news/2026/09/08/rossiyanam-nazvali-trebuyuschee-srochnogo-obrascheniya-k-vrachu-posledstvie-upotrebleniya-alkogolya/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 20:28:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Россиянам назвали требующее срочного обращения к врачу последствие употребления алкоголя"
-    },
-    {
-      "title": "В Киеве назвали препятствие для скорой поставки ракет для Patriot на Украину",
-      "link": "https://lenta.ru/news/2026/09/08/v-kieve-nazvali-prepyatstvie-dlya-skoroy-postavki-raket-dlya-patriot-na-ukrainu/",
-      "source": "Lenta",
-      "pubDate": "Tue, 08 Sep 2026 20:10:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "В Киеве назвали препятствие для скорой поставки ракет для Patriot на Украину"
     },
     {
       "title": "Биржевая стоимость меди установила исторический рекорд",
@@ -567,1359 +878,1093 @@
       "titleZh": "СМИ: ЕК одобрила заявку Украины на закупку ракет для Patriot за счет кредита ЕС"
     },
     {
-      "title": "Трамп призвал остановить продажу канадских самолетов Bombardier в США",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/07/1227050-tramp-prizval-ostanovit-bombardier",
+      "title": "Роман Симоньян вошел в пятерку книжного рейтинга \"Что читает Москва?\"",
+      "link": "https://ria.ru/20260909/simonjan-2116574984.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:17:10 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Роман Симоньян вошел в пятерку книжного рейтинга \"Что читает Москва?\""
+    },
+    {
+      "title": "Грузия назвала условие для вступления страны в Евросоюз",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227499-gruziya-nazvala",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 22:30:30 +0300",
+      "pubDate": "Wed, 09 Sep 2026 14:15:04 +0300",
       "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Трамп призвал остановить продажу канадских самолетов Bombardier в США"
+      "tags": [],
+      "titleZh": "Грузия назвала условие для вступления страны в Евросоюз"
     },
     {
-      "title": "Во Франции предупредили о риске резкого падения производства вина из-за засухи",
-      "link": "https://www.vedomosti.ru/business/news/2026/09/07/1227026-vo-frantsii-predupredili",
+      "title": "Захарова ответила главе МИД Польши после его слов о российских дипломатах",
+      "link": "https://ria.ru/20260909/zaharova-2116574442.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:14:44 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова ответила главе МИД Польши после его слов о российских дипломатах"
+    },
+    {
+      "title": "Верующие Элисты прикладываются к кресту на могиле свидетелей явления Христа",
+      "link": "https://ria.ru/20260909/elista-2116573850.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:12:50 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Верующие Элисты прикладываются к кресту на могиле свидетелей явления Христа"
+    },
+    {
+      "title": "Иран ввел запретную для судоходства зону у Ормузского пролива",
+      "link": "https://iz.ru/2163937/iran-nachal-vvodit-zapretnuiu-dlia-sudokhodstva-zonu-u-ormuzskogo-proliva-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:11:30 +0300",
+      "summary": "<p>Иран вводит запретную для судоходства зону у Ормузского пролива. Суда, которые войдут в нее, будут лишаться морских, страховых и других услуг. Об этом 9 сентября заявил официальный представитель Корпуса стражей исламс",
+      "tags": [],
+      "titleZh": "Иран ввел запретную для судоходства зону у Ормузского пролива"
+    },
+    {
+      "title": "В Москве в строящемся здании загорелся утеплитель",
+      "link": "https://ria.ru/20260909/moskva-2116573504.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:11:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Москве в строящемся здании загорелся утеплитель"
+    },
+    {
+      "title": "Собянин назвал парк «Зарядье» символом современной Москвы",
+      "link": "https://iz.ru/2163942/2026-09-09/sobianin-nazval-park-zariade-simvolom-sovremennoi-moskvy",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:10:21 +0300",
+      "summary": "<p>Парк «Зарядье» по праву стал настоящим символом сегодняшней Москвы. Это масштабное общественное пространство, объединяющее музейно-выставочные зоны, концертные площадки и разнообразную коллекцию растительности, сообщи",
+      "tags": [],
+      "titleZh": "Собянин назвал парк «Зарядье» символом современной Москвы"
+    },
+    {
+      "title": "Мишустин о списании задолженности Курганской и Еврейской автономной областям",
+      "link": "https://iz.ru/2163941/video/mishustin-o-spisanii-zadolzhennosti-kurganskoi-i-evreiskoi-avtonomnoi-oblastiam",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:09:49 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Мишустин о списании задолженности Курганской и Еврейской автономной областям"
+    },
+    {
+      "title": "В ДНР женщина получила срок за госизмену",
+      "link": "https://ria.ru/20260909/dnr-2116572789.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:09:06 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В ДНР женщина получила срок за госизмену"
+    },
+    {
+      "title": "Захарова об отсутствии доверия к договоренностям с Западом",
+      "link": "https://iz.ru/2163938/video/zakharova-ob-otsutstvii-doveriia-k-dogovorennostiam-s-zapadom",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:08:14 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова об отсутствии доверия к договоренностям с Западом"
+    },
+    {
+      "title": "Захарова посоветовала Токио вечно каяться за преступления их предков",
+      "link": "https://ria.ru/20260909/zakharova-2116572478.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:08:04 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова посоветовала Токио вечно каяться за преступления их предков"
+    },
+    {
+      "title": "Спасатели едва не попали под повторную лавину при поиске тел альпинистов на Кавказе",
+      "link": "https://lenta.ru/news/2026/09/09/spasateli-edva-ne-popali-pod-povtornuyu-lavinu-pri-poiske-tel-alpinistov-na-kavkaze/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:06:55 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Спасатели едва не попали под повторную лавину при поиске тел альпинистов на Кавказе"
+    },
+    {
+      "title": "В ЛНР за сутки восемь человек пострадали от атак ВСУ",
+      "link": "https://ria.ru/20260909/vsu-2116571977.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:06:42 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В ЛНР за сутки восемь человек пострадали от атак ВСУ"
+    },
+    {
+      "title": "Бундестаг загудел во время выступления Фридриха Мерца",
+      "link": "https://iz.ru/2163903/2026-09-09/bundestag-zagudel-vo-vremia-vystupleniia-fridrikha-mertca",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:05:55 +0300",
+      "summary": "<p>Бундестаг в среду, 9 сентября, загудел во время выступления канцлера ФРГ Фридриха Мерца, депутатов пришлось призывать к порядку три раза.</p> <p>Громкие выкрики и возмущения из зала сопровождали речь Мерца. Наиболее б",
+      "tags": [],
+      "titleZh": "Бундестаг загудел во время выступления Фридриха Мерца"
+    },
+    {
+      "title": "Киркоров открыл памятник родителям в Москве",
+      "link": "https://lenta.ru/news/2026/09/09/kirkorov-otkryl-pamyatnik-roditelyam-v-moskve/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:04:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Киркоров открыл памятник родителям в Москве"
+    },
+    {
+      "title": "Акции «Евротранса» продолжают снижаться на фоне арестов",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227520-aktsii-evrotransa",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 20:30:38 +0300",
+      "pubDate": "Wed, 09 Sep 2026 14:03:51 +0300",
       "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Во Франции предупредили о риске резкого падения производства вина из-за засухи"
+      "tags": [],
+      "titleZh": "Акции «Евротранса» продолжают снижаться на фоне арестов"
     },
     {
-      "title": "Цена на нефть Brent превысила $98 за баррель",
-      "link": "https://www.vedomosti.ru/investments/news/2026/09/07/1227009-tsena-na-brent",
+      "title": "Захарова заявила об отсутствии у России доверия к договоренностям с Западом",
+      "link": "https://iz.ru/2163933/zakharova-zaiavila-ob-otsutstvii-u-rossii-doveriia-k-dogovorennostiam-s-zapadom-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:03:38 +0300",
+      "summary": "<p>Россия не доверяет любым договоренностям с Западом. Об этом 9 сентября заявила официальный представитель МИД РФ Мария Захарова, комментируя сообщения СМИ о возможном возобновлении зерновой сделки.</p><p>В ходе брифинг",
+      "tags": [],
+      "titleZh": "Захарова заявила об отсутствии у России доверия к договоренностям с Западом"
+    },
+    {
+      "title": "Захарова назвала Санду бесстыжей",
+      "link": "https://iz.ru/2163931/video/zakharova-nazvala-sandu-besstyzhei",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:02:22 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова назвала Санду бесстыжей"
+    },
+    {
+      "title": "В ЛНР три женщины пострадали при атаке БПЛА на цех по переработке молока",
+      "link": "https://ria.ru/20260909/lnr-2116570593.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:02:09 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В ЛНР три женщины пострадали при атаке БПЛА на цех по переработке молока"
+    },
+    {
+      "title": "КСИР ввел запретную для судоходства зону к востоку от Ормузского пролива",
+      "link": "https://ria.ru/20260909/iran-2116570380.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 14:02:05 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "КСИР ввел запретную для судоходства зону к востоку от Ормузского пролива"
+    },
+    {
+      "title": "Песков: обмен осужденными между Россией и США продолжается",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227517-obmen-arestovannimi",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 18:39:53 +0300",
+      "pubDate": "Wed, 09 Sep 2026 14:01:32 +0300",
       "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "Цена на нефть Brent превысила $98 за баррель"
+      "tags": [],
+      "titleZh": "Песков: обмен осужденными между Россией и США продолжается"
     },
     {
-      "title": "Объемы производства алкоголя продолжают снижаться",
-      "link": "https://www.vedomosti.ru/business/news/2026/09/07/1226997-proizvodstva-alkogolya",
+      "title": "Российская «Дань-Т» оказалась «Бандеролью»",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyskaya-dan-t-okazalas-banderolyu/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:01:13 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Российская «Дань-Т» оказалась «Бандеролью»"
+    },
+    {
+      "title": "Захарова ответила на заявление главы МИД Польши о дипломатах и гражданах России",
+      "link": "https://lenta.ru/news/2026/09/09/zaharova-otvetila-na-zayavlenie-glavy-mid-polshi-o-diplomatah-i-grazhdanah-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:01:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова ответила на заявление главы МИД Польши о дипломатах и гражданах России"
+    },
+    {
+      "title": "В пресс-центре МИЦ «Известия» расскажут о перспективных разработках в российской фармацевтике",
+      "link": "https://iz.ru/2163929/2026-09-09/v-press-tcentre-mitc-izvestiia-rasskazhut-o-perspektivnykh-razrabotkakh-v-rossiiskoi-farmatcevtike",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:00:58 +0300",
+      "summary": "<p><strong>10 сентября в 14:00 в пресс-центре МИЦ «Известия»</strong> состоится пресс-конференция: «Лекарства будущего: как меняются препараты и способы лечения».</p><p>На каком этапе находится разработка капель против з",
+      "tags": [],
+      "titleZh": "В пресс-центре МИЦ «Известия» расскажут о перспективных разработках в российской фармацевтике"
+    },
+    {
+      "title": "Газета «Жизнь» запускает новый журнал",
+      "link": "https://iz.ru/2163928/2026-09-09/gazeta-zhizn-zapuskaet-novyi-zhurnal",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 14:00:03 +0300",
+      "summary": "<p>Газета «Жизнь» к своему 25-летию выпустила ежемесячный журнал «LIFE — это ЖИЗНЬ». Одна из причин его появления — запрос аудитории на более глубокий и героизированный контент. Новый формат с устоявшейся структурой позв",
+      "tags": [],
+      "titleZh": "Газета «Жизнь» запускает новый журнал"
+    },
+    {
+      "title": "Раскрыты возможные шаги США к миру на Украине",
+      "link": "https://lenta.ru/news/2026/09/09/raskryty-vozmozhnye-shagi-ssha-k-miru-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 14:00:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Раскрыты возможные шаги США к миру на Украине"
+    },
+    {
+      "title": "В Кремле отметили важность визита президента Вьетнама в Россию",
+      "link": "https://ria.ru/20260909/peskov-2116569177.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:59:26 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Кремле отметили важность визита президента Вьетнама в Россию"
+    },
+    {
+      "title": "Редкий вид папоротника и ландыши обнаружили на Ставрополье",
+      "link": "https://iz.ru/2163927/2026-09-09/redkii-vid-paporotnika-i-landyshi-obnaruzhili-na-stavropole",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:59:25 +0300",
+      "summary": "<p>В Ставропольском крае обнаружили редкие растения во время обследования Татарского леса — реликтового лесного массива, находящегося под охраной государства. Об этом сообщает пресс-служба регионального минприроды.</p><p",
+      "tags": [],
+      "titleZh": "Редкий вид папоротника и ландыши обнаружили на Ставрополье"
+    },
+    {
+      "title": "Блогера Ремесло осудят за фейки об армии",
+      "link": "https://lenta.ru/news/2026/09/09/blogera-remeslo-osudyat-za-feyki-ob-armii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:59:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Блогера Ремесло осудят за фейки об армии"
+    },
+    {
+      "title": "Премьерный расчет: сможет ли Вучич сохранить власть в Сербии",
+      "link": "https://iz.ru/2163817/kirill-fenin/smozhet-li-vuchich-sokhranit-vlast-v-serbii",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:59:00 +0300",
+      "summary": "Действующий президент страны намерен перейти на пост главы правительства после досрочных парламентских выборов",
+      "tags": [],
+      "titleZh": "Премьерный расчет: сможет ли Вучич сохранить власть в Сербии"
+    },
+    {
+      "title": "Киселев призвал не испытывать иллюзий по поводу \"новых идей\" американцев",
+      "link": "https://ria.ru/20260909/kiselev-2116568819.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:58:18 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Киселев призвал не испытывать иллюзий по поводу \"новых идей\" американцев"
+    },
+    {
+      "title": "В Москве церковь баптистов оштрафовали из-за книг нежелательной организации",
+      "link": "https://ria.ru/20260909/sud-2116568617.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:57:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Москве церковь баптистов оштрафовали из-за книг нежелательной организации"
+    },
+    {
+      "title": "В Минздраве рассказали о борьбе с разными штаммами туберкулеза",
+      "link": "https://ria.ru/20260909/tuberkulez-2116568272.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:57:08 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Минздраве рассказали о борьбе с разными штаммами туберкулеза"
+    },
+    {
+      "title": "Захарова уличила Санду в отсутствии стыда после слов об «оккупации» Молдавии",
+      "link": "https://iz.ru/2163924/zakharova-ulichila-sandu-v-otsutstvii-styda-posle-slov-ob-okkupatcii-moldavii",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:56:41 +0300",
+      "summary": "<p>Кишинев в попытке выслужиться перед своими западными кураторами готов переступить через свои национальные интересы и историю, принимая новую «правду», выгодную Европе. Об этом 9 сентября заявила официальный представит",
+      "tags": [],
+      "titleZh": "Захарова уличила Санду в отсутствии стыда после слов об «оккупации» Молдавии"
+    },
+    {
+      "title": "Минкульт сделал заявление о прокате «Дюны» и «Мстителей»",
+      "link": "https://lenta.ru/news/2026/09/09/minkult-sdelal-zayavlenie-o-prokate-dyuny-i-mstiteley/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:55:42 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Минкульт сделал заявление о прокате «Дюны» и «Мстителей»"
+    },
+    {
+      "title": "Полковник объяснил сложность штурма Краматорска",
+      "link": "https://lenta.ru/news/2026/09/09/polkovnik-ob-yasnil-slozhnost-shturma-kramatorska/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:54:08 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Полковник объяснил сложность штурма Краматорска"
+    },
+    {
+      "title": "Захарова призвала японских дипломатов встать на колени и извиниться перед Россией",
+      "link": "https://lenta.ru/news/2026/09/09/zaharova-predlozhila-yaponii-izvinitsya-na-kolenyah-pered-rossiey/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:54:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова призвала японских дипломатов встать на колени и извиниться перед Россией"
+    },
+    {
+      "title": "Венгрия проиграла суд ЕС о передаче доходов от активов РФ Украине",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227498-vengriya-proigrala",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 18:07:24 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:52:52 +0300",
       "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Объемы производства алкоголя продолжают снижаться"
+      "tags": [],
+      "titleZh": "Венгрия проиграла суд ЕС о передаче доходов от активов РФ Украине"
     },
     {
-      "title": "ЦБ держит курс доллара на уровне 86 рублей",
-      "link": "https://www.vedomosti.ru/finance/news/2026/09/07/1226990-kurs-dollara",
+      "title": "МИД Венгрии отказался называть даты высылки российских дипломатов",
+      "link": "https://ria.ru/20260909/mid-2116565692.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:52:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "МИД Венгрии отказался называть даты высылки российских дипломатов"
+    },
+    {
+      "title": "Кабанята прогулялись по Подмосковью и попали на видео",
+      "link": "https://lenta.ru/news/2026/09/09/kabanyata-progulyalis-po-podmoskovyu-i-popali-na-video/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:52:19 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Кабанята прогулялись по Подмосковью и попали на видео"
+    },
+    {
+      "title": "Эксперт: штамм туберкулеза EurA1.1 не отличается большей заразностью",
+      "link": "https://ria.ru/20260909/minzdrav-2116565439.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:51:45 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Эксперт: штамм туберкулеза EurA1.1 не отличается большей заразностью"
+    },
+    {
+      "title": "\"Ростех\" рассказал, какую задачу решает новая система уничтожения дронов",
+      "link": "https://ria.ru/20260909/rosteh-2116565234.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:51:12 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "\"Ростех\" рассказал, какую задачу решает новая система уничтожения дронов"
+    },
+    {
+      "title": "В Дагестане предъявили обвинение подозреваемому в убийстве двух женщин",
+      "link": "https://ria.ru/20260909/dagestan-2116565064.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:50:49 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Дагестане предъявили обвинение подозреваемому в убийстве двух женщин"
+    },
+    {
+      "title": "В Кремле не намерены публично обсуждать переговоры по Украине",
+      "link": "https://ria.ru/20260909/kreml-2116564889.html",
+      "source": "RIA",
+      "pubDate": "Wed, 09 Sep 2026 13:50:45 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Кремле не намерены публично обсуждать переговоры по Украине"
+    },
+    {
+      "title": "Пульмонолог оценил ситуацию с устойчивым штаммом туберкулеза в России",
+      "link": "https://lenta.ru/news/2026/09/09/pulmonolog-otsenil-situatsiyu-s-ustoychivym-shtammom-tuberkuleza-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:50:14 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Пульмонолог оценил ситуацию с устойчивым штаммом туберкулеза в России"
+    },
+    {
+      "title": "Россиянке с переломом голени пришлось несколько часов ждать спасения из каньона в Европе",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyanke-s-perelomom-goleni-prishlos-neskolko-chasov-zhdat-spaseniya-iz-kanona-v-evrope/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:50:14 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Россиянке с переломом голени пришлось несколько часов ждать спасения из каньона в Европе"
+    },
+    {
+      "title": "Глава Новороссийска показал последствия атаки БПЛА на город",
+      "link": "https://iz.ru/2163920/glava-novorossiiska-pokazal-posledstviia-ataki-bpla-na-gorod-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:50:02 +0300",
+      "summary": "<p>В сети появилось видео с разрушениями в Новороссийске после ударов Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) в ночь на 9 сентября. Ролик опубликовал глава города Андрей Крав",
+      "tags": [],
+      "titleZh": "Глава Новороссийска показал последствия атаки БПЛА на город"
+    },
+    {
+      "title": "В России отреагировали на неудачную попытку ВСУ ударить ракетой «Нептун»",
+      "link": "https://lenta.ru/news/2026/09/09/v-rossii-otreagirovali-na-neudachnuyu-popytku-vsu-udarit-raketoy-neptun/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:50:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В России отреагировали на неудачную попытку ВСУ ударить ракетой «Нептун»"
+    },
+    {
+      "title": "Песков: Россия ответит на высылку своих дипломатов из Венгрии",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227514-peskov-rossiya-otvetit",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 17:30:04 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:49:13 +0300",
       "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "ЦБ держит курс доллара на уровне 86 рублей"
+      "tags": [],
+      "titleZh": "Песков: Россия ответит на высылку своих дипломатов из Венгрии"
     },
     {
-      "title": "Продавцы платят Ozon в среднем четверть суммы от продаж товаров",
-      "link": "https://www.vedomosti.ru/business/news/2026/09/07/1226980-prodavtsi-platyat-ozon",
+      "title": "Захарова о добивании Германией связей с Россией",
+      "link": "https://iz.ru/2163921/video/zakharova-o-dobivanii-germaniei-sviazei-s-rossiei",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:48:04 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова о добивании Германией связей с Россией"
+    },
+    {
+      "title": "Демилитаризация 9 сентября",
+      "link": "https://iz.ru/2163918/video/demilitarizatciia-9-sentiabria",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:46:17 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Демилитаризация 9 сентября"
+    },
+    {
+      "title": "Нарколог рассказал о серьезных нарушениях памяти у алкоголиков",
+      "link": "https://iz.ru/2163917/2026-09-09/narkolog-rasskazal-o-sereznykh-narusheniiakh-pamiati-u-alkogolikov",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:45:31 +0300",
+      "summary": "<p>При алкоголизме у людей настолько ухудшается память, что они не могут вспомнить, что ели на завтрак. Свои наблюдения озвучил главный внештатный нарколог Забайкалья Олег Дубинин на форуме «Моя земля — моя семья», сообщ",
+      "tags": [],
+      "titleZh": "Нарколог рассказал о серьезных нарушениях памяти у алкоголиков"
+    },
+    {
+      "title": "Мужчина обманул россиянку под видом лечения больного сына",
+      "link": "https://lenta.ru/news/2026/09/09/muzhchina-obmanul-rossiyanku-pod-vidom-lecheniya-bolnogo-syna/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:45:17 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Мужчина обманул россиянку под видом лечения больного сына"
+    },
+    {
+      "title": "Захарова о возмущении Японии из-за памятника в Хабаровске",
+      "link": "https://iz.ru/2163916/video/zakharova-o-vozmushchenii-iaponii-iz-za-pamiatnika-v-khabarovske",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:44:41 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова о возмущении Японии из-за памятника в Хабаровске"
+    },
+    {
+      "title": "Карта спецоперации на Украине 9 сентября",
+      "link": "https://iz.ru/2163915/2026-09-09/karta-spetcoperatcii-na-ukraine-9-sentiabria",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:43:07 +0300",
+      "summary": "<p>Специальная военная операция по защите мирного населения <a href=\"https://iz.ru/tag/donbass\" target=\"_blank\">Донбасса</a> проводится Россией с 24 февраля 2022 года. Отследить ход продвижения совместных войск России, Д",
+      "tags": [],
+      "titleZh": "Карта спецоперации на Украине 9 сентября"
+    },
+    {
+      "title": "В Кремле высказались об обмене пленными между Россией и Украиной",
+      "link": "https://lenta.ru/news/2026/09/09/v-kremle-vyskazalis-ob-obmene-plennymi-mezhdu-rossiey-i-ukrainoy/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:43:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Кремле высказались об обмене пленными между Россией и Украиной"
+    },
+    {
+      "title": "Песков заявил о желании возобновить переговоры по Украине",
+      "link": "https://lenta.ru/news/2026/09/09/peskov-zayavil-o-zhelanii-vozobnovit-peregovory-po-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:42:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Песков заявил о желании возобновить переговоры по Украине"
+    },
+    {
+      "title": "В Кремле отреагировали на высылку российских дипломатов из Венгрии",
+      "link": "https://lenta.ru/news/2026/09/09/v-kremle-otreagirovali-na-vysylku-rossiyskih-diplomatov-iz-vengrii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:41:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Кремле отреагировали на высылку российских дипломатов из Венгрии"
+    },
+    {
+      "title": "На Украине рассказали о шоке Уиткоффа и Кушнера от поведения Зеленского",
+      "link": "https://lenta.ru/news/2026/09/09/na-ukraine-rasskazali-o-shoke-uitkoffa-i-kushnera-ot-povedeniya-zelenskogo/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:40:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "На Украине рассказали о шоке Уиткоффа и Кушнера от поведения Зеленского"
+    },
+    {
+      "title": "Названы условия для заключения мирных соглашений с Украиной",
+      "link": "https://lenta.ru/news/2026/09/09/nazvany-usloviya-dlya-zaklyucheniya-mirnyh-soglasheniy-s-ukrainoy/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:39:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Названы условия для заключения мирных соглашений с Украиной"
+    },
+    {
+      "title": "Последствия атаки дронов в Новороссийске",
+      "link": "https://iz.ru/2163913/video/posledstviia-ataki-dronov-v-novorossiiske",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:37:24 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Последствия атаки дронов в Новороссийске"
+    },
+    {
+      "title": "Взрыв произошел на гидроэлектростанции в Швейцарии",
+      "link": "https://iz.ru/2163912/2026-09-09/vzryv-proizoshel-na-gidroelektrostantcii-v-shveitcarii",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:37:21 +0300",
+      "summary": "<p>Взрыв произошел на гидроэлектростанции (ГЭС) Ритом в швейцарской деревне Пьотта. Об этом 9 сентября сообщил портал <a href=\"https://www.20min.ch/fr/story/tessin-explosion-dans-une-centrale-intervention-massive-en-cour",
+      "tags": [],
+      "titleZh": "Взрыв произошел на гидроэлектростанции в Швейцарии"
+    },
+    {
+      "title": "Песков: Путин и Трамп обсуждали организацию трехстороннего саммита с КНР",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227504-organizatsiyu-trehstoronnego-sammita",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 17:03:30 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:36:15 +0300",
       "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Продавцы платят Ozon в среднем четверть суммы от продаж товаров"
+      "tags": [],
+      "titleZh": "Песков: Путин и Трамп обсуждали организацию трехстороннего саммита с КНР"
     },
     {
-      "title": "На регионы пришлось более 70% покупок на маркетплейсах",
-      "link": "https://www.vedomosti.ru/business/news/2026/09/07/1226964-pokupok-na-marketpleisah",
+      "title": "Видео. Песков указал на невозможность для ЕС наполнить газовые хранилища до зимы",
+      "link": "https://iz.ru/2163909/video/video-peskov-ukazal-na-nevozmozhnost-dlia-es-napolnit-gazovye-khranilishcha-do-zimy",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:36:04 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Видео. Песков указал на невозможность для ЕС наполнить газовые хранилища до зимы"
+    },
+    {
+      "title": "Россиянам назвали связанную с кабачком полезную хитрость",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyanam-nazvali-svyazannuyu-s-kabachkom-poleznuyu-hitrost/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:36:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Россиянам назвали связанную с кабачком полезную хитрость"
+    },
+    {
+      "title": "Песков: сейчас нет оформленных дорожных карт по решению конфликта с Украиной",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227509-peskov-seichas-net-oformlennih",
       "source": "Vedomosti",
-      "pubDate": "Mon, 07 Sep 2026 16:40:28 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "На регионы пришлось более 70% покупок на маркетплейсах"
-    },
-    {
-      "title": "Пожилую женщину нашли живой в день собственных похорон",
-      "link": "https://lenta.ru/news/2026/09/09/pozhiluyu-zhenschinu-nashli-zhivoy-v-den-sobstvennyh-pohoron/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:06:22 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:35:32 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Пожилую женщину нашли живой в день собственных похорон"
+      "titleZh": "Песков: сейчас нет оформленных дорожных карт по решению конфликта с Украиной"
     },
     {
-      "title": "Самсонов подписал контракт с «Сан-Хосе»",
-      "link": "https://lenta.ru/news/2026/09/09/samsonov-podpisal-kontrakt-s-san-hose/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:06:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Самсонов подписал контракт с «Сан-Хосе»"
-    },
-    {
-      "title": "Устный экзамен по истории станет допуском к ОГЭ",
-      "link": "https://ria.ru/20260909/ekzamen-2116482880.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:05:33 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Устный экзамен по истории станет допуском к ОГЭ"
-    },
-    {
-      "title": "Дочь Заворотнюк снялась в бикини на отдыхе",
-      "link": "https://lenta.ru/news/2026/09/09/doch-zavorotnyuk-snyalas-v-bikini-na-otdyhe/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:05:07 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Дочь Заворотнюк снялась в бикини на отдыхе"
-    },
-    {
-      "title": "Захарова: западные послы после работы в России критикуют свои правительства",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227397-zaharova-zapadnie",
+      "title": "Путин встретится с президентом Вьетнама То Ламом",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227505-putin-vstretitsya-s-prezidentom",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 09:04:23 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:34:49 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Захарова: западные послы после работы в России критикуют свои правительства"
+      "titleZh": "Путин встретится с президентом Вьетнама То Ламом"
     },
     {
-      "title": "Захарова назвала Мерца рабом немецкого ВПК",
-      "link": "https://ria.ru/20260909/zaharova-2116482596.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:04:16 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Захарова назвала Мерца рабом немецкого ВПК"
-    },
-    {
-      "title": "Захарова призвала Европу осознать масштабы России на примере Коми",
-      "link": "https://ria.ru/20260909/zaharova-2116482363.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:03:52 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Захарова призвала Европу осознать масштабы России на примере Коми"
-    },
-    {
-      "title": "В российском городе детский сад приостановил прием детей после атаки БПЛА",
-      "link": "https://lenta.ru/news/2026/09/09/v-rossiyskom-gorode-detskiy-sad-priostanovil-priem-detey-posle-ataki-bpla/",
+      "title": "Мужчина украл женские стринги и оправдался фетишем",
+      "link": "https://lenta.ru/news/2026/09/09/muzhchina-ukral-zhenskie-stringi-i-opravdalsya-fetishem/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:03:21 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:34:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В российском городе детский сад приостановил прием детей после атаки БПЛА"
+      "titleZh": "Мужчина украл женские стринги и оправдался фетишем"
     },
     {
-      "title": "ЦБ предупредил о уязвимости подростков перед мошенниками",
-      "link": "https://ria.ru/20260909/moshenniki-2116482131.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:01:54 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "ЦБ предупредил о уязвимости подростков перед мошенниками"
-    },
-    {
-      "title": "Россиянка описала одну привычку туристов в Турции фразой «это просто дурной тон»",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyanka-opisala-odnu-privychku-turistov-v-turtsii-frazoy-eto-prosto-durnoy-ton/",
+      "title": "Мать 44-летней Натальи Водяновой высказалась о рождении шестой внучки",
+      "link": "https://lenta.ru/news/2026/09/09/mat-natali-vodyanovoy-vyskazalas-o-rozhdenii-shestoy-vnuchki/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:01:12 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:33:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Россиянка описала одну привычку туристов в Турции фразой «это просто дурной тон»"
+      "titleZh": "Мать 44-летней Натальи Водяновой высказалась о рождении шестой внучки"
     },
     {
-      "title": "Четыре человека стали жертвами удара ВСУ по портовому российскому городу",
-      "link": "https://lenta.ru/news/2026/09/09/chetyre-cheloveka-stali-zhertvami-udara-dronov-vsu-v-rossiyskom-regione/",
+      "title": "Появились подробности о пострадавших при атаке ВСУ на крупнейший портовый город России",
+      "link": "https://lenta.ru/news/2026/09/09/poyavilis-podrobnosti-o-postradavshih-pri-atake-vsu-na-krupneyshiy-portovyy-gorod-rossii/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:33:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Четыре человека стали жертвами удара ВСУ по портовому российскому городу"
+      "titleZh": "Появились подробности о пострадавших при атаке ВСУ на крупнейший портовый город России"
     },
     {
-      "title": "Ученые нашли рецепт \"оживления\" сушеных овощей",
-      "link": "https://ria.ru/20260909/nauka-2116260441.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0300",
+      "title": "МИД России объяснил отказ от зерновой сделки",
+      "link": "https://lenta.ru/news/2026/09/09/mid-rossii-ob-yasnil-otkaz-ot-zernovoy-sdelki/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:33:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Ученые нашли рецепт \"оживления\" сушеных овощей"
+      "titleZh": "МИД России объяснил отказ от зерновой сделки"
     },
     {
-      "title": "В Москве высоко оценили значение найденной на Куликовом поле реликвии",
-      "link": "https://ria.ru/20260909/nauka-2116420473.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Москве высоко оценили значение найденной на Куликовом поле реликвии"
-    },
-    {
-      "title": "Захарова раскритиковала новый доклад ЕС о правах человека",
-      "link": "https://ria.ru/20260909/zaharova-2116481867.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:59:25 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Захарова раскритиковала новый доклад ЕС о правах человека"
-    },
-    {
-      "title": "В аэропорту Оренбурга сняли ограничения на полеты",
-      "link": "https://ria.ru/20260909/orenburg-2116481725.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:58:11 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В аэропорту Оренбурга сняли ограничения на полеты"
-    },
-    {
-      "title": "КПП на границе Украины и Молдавии приостановил работу после взрывов",
-      "link": "https://iz.ru/2163725/2026-09-09/kpp-na-granitce-ukrainy-i-moldavii-priostanovil-rabotu-posle-vzryvov",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:57:08 +0300",
-      "summary": "<p>Работу контрольно-пропускного пункта (КПП) «Староказачье» на границе <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> и Молдавии приостановили. Об этом 9 сентября сообщила государственная пограничная сл",
-      "tags": [],
-      "titleZh": "КПП на границе Украины и Молдавии приостановил работу после взрывов"
-    },
-    {
-      "title": "Число погибших при сходе лавины в горах в КБР выросло до 13",
-      "link": "https://ria.ru/20260909/gumchs-2116481512.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:56:30 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Число погибших при сходе лавины в горах в КБР выросло до 13"
-    },
-    {
-      "title": "В Краснодарском крае БПЛА повредили жилые дома, храм и детский сад",
-      "link": "https://ria.ru/20260909/bpla-2116481404.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:55:42 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Краснодарском крае БПЛА повредили жилые дома, храм и детский сад"
-    },
-    {
-      "title": "ЦБ отметил рост «черных кредиторов» в шесть раз",
-      "link": "https://www.vedomosti.ru/finance/news/2026/09/09/1227394-tsb-otmetil",
+      "title": "В Московском военном округе появятся отделения FPV-перехватчиков из резервистов",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227500-moskovskom-voennom-okruge",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 08:53:36 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:32:33 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "ЦБ отметил рост «черных кредиторов» в шесть раз"
+      "titleZh": "В Московском военном округе появятся отделения FPV-перехватчиков из резервистов"
     },
     {
-      "title": "Появились подробности о начале новых поисков бесследно исчезнувших в тайге Усольцевых",
-      "link": "https://lenta.ru/news/2026/09/09/poyavilis-podrobnosti-o-nachale-novyh-poiskov-bessledno-ischeznuvshih-v-tayge-usoltsevyh/",
+      "title": "Видео. Путин обсуждал с Трампом трехсторонний саммит России, США и Китая",
+      "link": "https://iz.ru/2163906/video/video-putin-obsuzhdal-s-trampom-trekhstoronnii-sammit-rossii-ssha-i-kitaia",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:32:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Видео. Путин обсуждал с Трампом трехсторонний саммит России, США и Китая"
+    },
+    {
+      "title": "Молодой россиянин получил 20 лет колонии за задание украинских спецслужб",
+      "link": "https://lenta.ru/news/2026/09/09/molodoy-rossiyanin-poluchil-20-let-kolonii-za-zadanie-ukrainskih-spetssluzhb/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:53:34 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:32:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Появились подробности о начале новых поисков бесследно исчезнувших в тайге Усольцевых"
+      "titleZh": "Молодой россиянин получил 20 лет колонии за задание украинских спецслужб"
     },
     {
-      "title": "Из-за атаки БПЛА в Новороссийске пострадали 29 человек",
-      "link": "https://ria.ru/20260909/novorossiysk-2116481630.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:53:16 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Из-за атаки БПЛА в Новороссийске пострадали 29 человек"
-    },
-    {
-      "title": "Четыре человека погибли в результате атаки украинских БПЛА на Новороссийск",
-      "link": "https://iz.ru/2163724/2026-09-09/chetyre-cheloveka-pogibli-v-rezultate-ataki-ukrainskikh-bpla-na-novorossiisk",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:53:01 +0300",
-      "summary": "<p>В результате атак украинских беспилотных летательных аппаратов (БПЛА) на Новороссийск четыре человека погибли, еще 29 пострадали. Об этом 9 сентября сообщил губернатор Краснодарского края Вениамин Кондратьев.</p><p>«К",
-      "tags": [],
-      "titleZh": "Четыре человека погибли в результате атаки украинских БПЛА на Новороссийск"
-    },
-    {
-      "title": "Спасатели нашли тело еще одного альпиниста в ущелье Безенги в КБР",
-      "link": "https://iz.ru/2163723/2026-09-09/spasateli-nashli-telo-eshche-odnogo-alpinista-v-ushchele-bezengi-v-kbr",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:52:43 +0300",
-      "summary": "<p>В Кабардино-Балкарии спасатели обнаружили тело еще одного альпиниста в ущелье Безенги. Об этом 9 сентября сообщили в МЧС по республике.</p><p> </p>",
-      "tags": [],
-      "titleZh": "Спасатели нашли тело еще одного альпиниста в ущелье Безенги в КБР"
-    },
-    {
-      "title": "В России назвали перспективы взятия Долгенького",
-      "link": "https://lenta.ru/news/2026/09/09/v-rossii-nazvali-perspektivy-vzyatiya-dolgenkogo/",
+      "title": "Азиатская авиакомпания возобновила рейсы из Вьетнама в Москву",
+      "link": "https://lenta.ru/news/2026/09/09/aziatskaya-aviakompaniya-vozobnovila-reysy-iz-vietnama-v-moskvu/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:52:38 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:31:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В России назвали перспективы взятия Долгенького"
+      "titleZh": "Азиатская авиакомпания возобновила рейсы из Вьетнама в Москву"
     },
     {
-      "title": "В России назвали самую дорогую командировку в августе",
-      "link": "https://ria.ru/20260909/komandirovki-2116481156.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:52:13 +0300",
+      "title": "Видео. В Кремле заявили о продолжении контактов по обменам военнопленными с Украиной",
+      "link": "https://iz.ru/2163905/video/video-v-kremle-zaiavili-o-prodolzhenii-kontaktov-po-obmenam-voennoplennymi-s-ukrainoi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:30:34 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В России назвали самую дорогую командировку в августе"
+      "titleZh": "Видео. В Кремле заявили о продолжении контактов по обменам военнопленными с Украиной"
     },
     {
-      "title": "При атаке БПЛА по Новороссийску погибли четыре человека",
-      "link": "https://ria.ru/20260909/novorosiysk-2116481061.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:51:48 +0300",
-      "summary": "",
+      "title": "«Эксперт РА» повысил ESG-рейтинг ДОМ.РФ до максимального уровня",
+      "link": "https://iz.ru/2163890/2026-09-09/ekspert-ra-povysil-esg-reiting-domrf-do-maksimalnogo-urovnia",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:30:04 +0300",
+      "summary": "<p>Рейтинговое агентство «Эксперт РА» повысило ESG-рейтинг ДОМ.РФ до максимального уровня ESG-AAA, что означает наивысшую оценку реализации и планирования практик в области устойчивого развития. Прогноз по рейтингу «стаб",
       "tags": [],
-      "titleZh": "При атаке БПЛА по Новороссийску погибли четыре человека"
+      "titleZh": "«Эксперт РА» повысил ESG-рейтинг ДОМ.РФ до максимального уровня"
     },
     {
-      "title": "Новую эскалацию конфликта Ирана и США предрекли",
-      "link": "https://lenta.ru/news/2026/09/09/novuyu-eskalatsiyu-konflikta-irana-i-ssha-predrekli/",
+      "title": "Студентка списала плохое самочувствие на похмелье и едва выжила",
+      "link": "https://lenta.ru/news/2026/09/09/studentka-spisala-plohoe-samochuvstvie-na-pohmelie-i-edva-vyzhila/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:50:26 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:30:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Новую эскалацию конфликта Ирана и США предрекли"
+      "titleZh": "Студентка списала плохое самочувствие на похмелье и едва выжила"
     },
     {
-      "title": "Силы ПВО за ночь уничтожили 596 украинских беспилотников",
-      "link": "https://iz.ru/2163722/2026-09-09/sily-pvo-za-noch-unichtozhili-596-ukrainskikh-bespilotnikov",
+      "title": "Видео. Песков пообещал не оставлять без ответа действия Венгрии против России",
+      "link": "https://iz.ru/2163904/video/video-peskov-poobeshchal-ne-ostavliat-bez-otveta-deistviia-vengrii-protiv-rossii",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:49:33 +0300",
-      "summary": "<p>Средствами противовоздушной обороны (ПВО) за ночь были уничтожены 596 украинских беспилотников над территорией России. Об этом 8 сентября сообщили в Министерстве обороны РФ.</p><p>«Дежурными силами ПВО перехвачены и у",
-      "tags": [],
-      "titleZh": "Силы ПВО за ночь уничтожили 596 украинских беспилотников"
-    },
-    {
-      "title": "Бессент сравнил Украину с нацистской Германией",
-      "link": "https://ria.ru/20260909/ukraina-2116480875.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:48:32 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:29:49 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Бессент сравнил Украину с нацистской Германией"
+      "titleZh": "Видео. Песков пообещал не оставлять без ответа действия Венгрии против России"
     },
     {
-      "title": "ПВО за ночь сбила 596 беспилотников",
-      "link": "https://ria.ru/20260909/pvo-2116480785.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:47:46 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "ПВО за ночь сбила 596 беспилотников"
-    },
-    {
-      "title": "В России разрабатывают катализаторы для прямой конверсии нефти",
-      "link": "https://ria.ru/20260909/rossija-2116480600.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:47:11 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В России разрабатывают катализаторы для прямой конверсии нефти"
-    },
-    {
-      "title": "Самый массовый и продолжительный налет БПЛА зафиксировали ночью в Геленджике",
-      "link": "https://iz.ru/2163721/2026-09-09/samyi-massovyi-i-prodolzhitelnyi-nalet-bpla-zafiksirovali-nochiu-v-gelendzhike",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:46:53 +0300",
-      "summary": "<p>Минувшей ночью в Геленджике был зафиксирован самый массовый и продолжительный налет беспилотников. Об этом 9 сентября сообщил глава города Алексей Богодистов.</p><p>«Минувшая ночь была самая тревожная для Геленджика. ",
-      "tags": [],
-      "titleZh": "Самый массовый и продолжительный налет БПЛА зафиксировали ночью в Геленджике"
-    },
-    {
-      "title": "Психолог рассказала, как снизить влияние осенней хандры",
-      "link": "https://ria.ru/20260909/osen-2116480440.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:46:48 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Психолог рассказала, как снизить влияние осенней хандры"
-    },
-    {
-      "title": "В полиции рассказали, нужно ли менять права при смене паспорта",
-      "link": "https://ria.ru/20260909/rossijane-2116480295.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:45:20 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В полиции рассказали, нужно ли менять права при смене паспорта"
-    },
-    {
-      "title": "Средства ПВО Иордании уничтожили 18 из 20 выпущенных иранских ракет",
-      "link": "https://iz.ru/2163705/2026-09-09/sredstva-pvo-iordanii-unichtozhili-18-iz-20-vypushchennykh-iranskikh-raket",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:45:00 +0300",
-      "summary": "<p>Силы противовоздушной обороны (ПВО) Иордании уничтожили 18 из 20 баллистических ракет, выпущенных иранской стороной. Об этом 9 сентября сообщил Национальный центр управления безопасностью и кризисными ситуациями со сс",
-      "tags": [],
-      "titleZh": "Средства ПВО Иордании уничтожили 18 из 20 выпущенных иранских ракет"
-    },
-    {
-      "title": "Стало известно о действиях попавших в кольцо в Харьковской области бойцов ВСУ",
-      "link": "https://lenta.ru/news/2026/09/09/stalo-izvestno-o-deystviyah-popavshih-v-koltso-v-harkovskoy-oblasti-boytsov-vsu/",
+      "title": "В России ветеран боевых действий добился возвращения сына с СВО",
+      "link": "https://lenta.ru/news/2026/09/09/v-rossii-veteran-boevyh-deystviy-dobilsya-vozvrascheniya-syna-s-svo/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:44:47 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:29:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Стало известно о действиях попавших в кольцо в Харьковской области бойцов ВСУ"
+      "titleZh": "В России ветеран боевых действий добился возвращения сына с СВО"
     },
     {
-      "title": "В аэропорту Чебоксар сняли ограничения на полеты",
-      "link": "https://ria.ru/20260909/cheboksary-2116480154.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:44:36 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В аэропорту Чебоксар сняли ограничения на полеты"
-    },
-    {
-      "title": "В Госдуме напомнили об осенней индексации окладов военных и силовиков на 4%",
-      "link": "https://iz.ru/2163707/v-gosdume-soobshchili-ob-osennei-indeksatcii-okladov-voennykh-i-silovikov-na-4-izi",
+      "title": "Видео. Песков заявил об отсутствии оформленных программ по урегулированию на Украине",
+      "link": "https://iz.ru/2163900/video/video-peskov-zaiavil-ob-otsutstvii-oformlennykh-programm-po-uregulirovaniiu-na-ukraine",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:44:27 +0300",
-      "summary": "<p>Оклады военнослужащих и сотрудников силовых ведомств с 1 октября 2026 года будут проиндексированы на 4%. На такой же процент вырастут пенсии военных пенсионеров, сообщил 9 сентября депутат Госдумы от КПРФ, зампред ком",
-      "tags": [],
-      "titleZh": "В Госдуме напомнили об осенней индексации окладов военных и силовиков на 4%"
-    },
-    {
-      "title": "Еще один крупный специалист по ИИ уволился из-за опасности апокалипсиса",
-      "link": "https://lenta.ru/news/2026/09/09/esche-odin-krupnyy-spetsialist-po-ii-uvolilsya-iz-za-opasnosti-apokalipsisa/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:43:48 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:28:26 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Еще один крупный специалист по ИИ уволился из-за опасности апокалипсиса"
+      "titleZh": "Видео. Песков заявил об отсутствии оформленных программ по урегулированию на Украине"
     },
     {
-      "title": "В Петропавловске-Камчатском объявили режим повышенной готовности из-за медведей",
-      "link": "https://www.vedomosti.ru/society/news/2026/09/09/1227393-petropavlovske-kamchatskom-obyavili",
+      "title": "Песков указал на невозможность для ЕС наполнить газовые хранилища до зимы",
+      "link": "https://iz.ru/2163898/v-kremle-ukazali-na-otsutstvie-vozmozhnosti-napolnit-gazovye-khranilishche-do-zimy-u-es",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:28:15 +0300",
+      "summary": "<p>Даже при максимальных темпах закачки европейцы не сумеют наполнить газовые хранилища до зимы. Об этом 9 сентября заявил официальный представитель Кремля Дмитрий Песков.</p> <p>«Европейцы находятся сейчас в очень сложн",
+      "tags": [],
+      "titleZh": "Песков указал на невозможность для ЕС наполнить газовые хранилища до зимы"
+    },
+    {
+      "title": "В Кремле заявили о продолжении контактов по обменам военнопленными с Украиной",
+      "link": "https://iz.ru/2163896/peskov-zaiavil-o-prodolzhenii-kontaktov-po-obmenam-voennoplennymi-s-ukrainoi-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:27:10 +0300",
+      "summary": "<p>Российская сторона продолжает работу по обменам военнопленными с <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украиной</a> и заключенными с <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a>. Об этом 9 се",
+      "tags": [],
+      "titleZh": "В Кремле заявили о продолжении контактов по обменам военнопленными с Украиной"
+    },
+    {
+      "title": "Путин обсуждал с Трампом трехсторонний саммит России, США и Китая",
+      "link": "https://iz.ru/2163897/putin-obsuzhdal-s-trampom-trekhstoronnii-sammit-rossii-ssha-i-kitaia-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:26:51 +0300",
+      "summary": "<p>Президенты России и <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> и <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дон",
+      "tags": [],
+      "titleZh": "Путин обсуждал с Трампом трехсторонний саммит России, США и Китая"
+    },
+    {
+      "title": "В Госдуме оценили шансы Валиевой выиграть дело в ЕСПЧ",
+      "link": "https://lenta.ru/news/2026/09/09/v-gosdume-otsenili-shansy-valievoy-vyigrat-delo-v-espch/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:26:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Госдуме оценили шансы Валиевой выиграть дело в ЕСПЧ"
+    },
+    {
+      "title": "Песков пообещал не оставлять без ответа действия Венгрии против России",
+      "link": "https://iz.ru/2163895/2026-09-09/peskov-poobeshchal-ne-ostavliat-bez-otveta-deistviia-vengrii-protiv-rossii",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:25:50 +0300",
+      "summary": "<p>Официальный представитель Кремля Дмитрий Песков 9 сентября заявил, что недружественные действия Венгрии по высылке 10 российских дипломатов не останутся без ответа.</p> <p>«Отразятся они [действия Венгрии] негативно. ",
+      "tags": [],
+      "titleZh": "Песков пообещал не оставлять без ответа действия Венгрии против России"
+    },
+    {
+      "title": "WADA побоялось проводить очный аудит РУСАДА в России",
+      "link": "https://lenta.ru/news/2026/09/09/wada-poboyalos-provodit-ochnyy-audit-rusada-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:25:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "WADA побоялось проводить очный аудит РУСАДА в России"
+    },
+    {
+      "title": "Песков заявил об отсутствии оформленных программ по урегулированию на Украине",
+      "link": "https://iz.ru/2163884/2026-09-09/peskov-zaiavil-ob-otsutstvii-oformlennykh-programm-po-uregulirovaniiu-na-ukraine",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:25:00 +0300",
+      "summary": "<p>На данный момент оформленные программы по урегулированию украинского конфликта отсутствуют. Об этом 9 сентября заявил официальный представитель Кремля Дмитрий Песков.</p>",
+      "tags": [],
+      "titleZh": "Песков заявил об отсутствии оформленных программ по урегулированию на Украине"
+    },
+    {
+      "title": "Захарова предупредила об угрозах России из-за активности НАТО в одном регионе",
+      "link": "https://lenta.ru/news/2026/09/09/zaharova-predupredila-ob-ugrozah-rossii-iz-za-aktivnosti-nato-v-odnom-regione/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:24:54 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова предупредила об угрозах России из-за активности НАТО в одном регионе"
+    },
+    {
+      "title": "На Украине испугались остановки «золотого дождя» после победы АдГ",
+      "link": "https://lenta.ru/news/2026/09/09/na-ukraine-ispugalis-ostanovki-zolotogo-dozhdya-posle-pobedy-adg/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:24:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "На Украине испугались остановки «золотого дождя» после победы АдГ"
+    },
+    {
+      "title": "77-летняя россиянка выкупила у террористов британского морского офицера",
+      "link": "https://lenta.ru/news/2026/09/09/77-letnyaya-rossiyanka-vykupila-u-terroristov-britanskogo-morskogo-ofitsera/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:23:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "77-летняя россиянка выкупила у террористов британского морского офицера"
+    },
+    {
+      "title": "Потери ВСУ в районе котла в Харьковской области составили до 35 военных",
+      "link": "https://iz.ru/2163891/2026-09-09/poteri-vsu-v-raione-kotla-v-kharkovskoi-oblasti-sostavili-do-35-voennykh",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:22:30 +0300",
+      "summary": "<p>Подразделения Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) за сутки потеряли в районе котла в Харьковской области до 35 военнослужащих. Об этом 9 сентября сообщили в Минобороны",
+      "tags": [],
+      "titleZh": "Потери ВСУ в районе котла в Харьковской области составили до 35 военных"
+    },
+    {
+      "title": "Вучич распустил парламент Сербии и назначил выборы на 25 октября",
+      "link": "https://iz.ru/2163892/2026-09-09/vuchich-raspustil-parlament-serbii-i-naznachil-vybory-na-25-oktiabria",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:22:02 +0300",
+      "summary": "<p>Президент Сербии Александр Вучич подписал указы о роспуске скупщины (парламента) и назначении даты новых выборов в правительство на 25 октября. Трансляцию в ночь на среду, 9 сентября, вело агентство <a href=\"https://w",
+      "tags": [],
+      "titleZh": "Вучич распустил парламент Сербии и назначил выборы на 25 октября"
+    },
+    {
+      "title": "Вучич распустил парламент",
+      "link": "https://lenta.ru/news/2026/09/09/vuchich-raspustil-parlament/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Вучич распустил парламент"
+    },
+    {
+      "title": "Захарова осудила высказывание президента Молдавии",
+      "link": "https://lenta.ru/news/2026/09/09/zaharova-osudila-vyskazyvanie-prezidenta-moldavii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова осудила высказывание президента Молдавии"
+    },
+    {
+      "title": "В Новороссийске ввели режим чрезвычайной ситуации после атаки БПЛА",
+      "link": "https://iz.ru/2163880/2026-09-09/v-novorossiiske-vveli-rezhim-chrezvychainoi-situatcii-posle-ataki-bpla",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:19:43 +0300",
+      "summary": "<p>В Новороссийске после ночной атаки беспилотников Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) ввели режим чрезвычайной ситуации. Глава города Андрей Кравченко 9 сентября заявил",
+      "tags": [],
+      "titleZh": "В Новороссийске ввели режим чрезвычайной ситуации после атаки БПЛА"
+    },
+    {
+      "title": "Филипп Киркоров открывает памятник родителям",
+      "link": "https://iz.ru/2163886/video/filipp-kirkorov-otkryvaet-pamiatnik-roditeliam",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:19:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Филипп Киркоров открывает памятник родителям"
+    },
+    {
+      "title": "Фермеры постсоветской страны задумались о протестах из-за повышения налогов",
+      "link": "https://lenta.ru/news/2026/09/09/fermery-postsovetskoy-strany-zadumalis-nad-protestami-iz-za-povysheniya-nalogov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:18:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Фермеры постсоветской страны задумались о протестах из-за повышения налогов"
+    },
+    {
+      "title": "Алькарас проиграл Шелтону и не защитил титул",
+      "link": "https://lenta.ru/news/2026/09/09/alkaras-proigral-sheltonu-i-ne-zaschitil-titul/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:17:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Алькарас проиграл Шелтону и не защитил титул"
+    },
+    {
+      "title": "Захарова об активности НАТО в Арктике",
+      "link": "https://iz.ru/2163882/video/zakharova-ob-aktivnosti-nato-v-arktike",
+      "source": "Izvestia",
+      "pubDate": "Wed, 09 Sep 2026 13:14:37 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Захарова об активности НАТО в Арктике"
+    },
+    {
+      "title": "На гидроэлектростанции в Швейцарии произошел взрыв",
+      "link": "https://lenta.ru/news/2026/09/09/na-gidroelektrostantsii-v-shveytsarii-proizoshel-vzryv/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:12:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "На гидроэлектростанции в Швейцарии произошел взрыв"
+    },
+    {
+      "title": "ЦИК ликвидировала зарубежный избирательный участок в Бонне",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227487-tsik-likvidirovala",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 08:43:24 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:11:17 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В Петропавловске-Камчатском объявили режим повышенной готовности из-за медведей"
+      "titleZh": "ЦИК ликвидировала зарубежный избирательный участок в Бонне"
     },
     {
-      "title": "Россиянам назвали самый выгодный вид вкладов",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyanam-nazvali-samyy-vygodnyy-vid-vkladov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:42:31 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Россиянам назвали самый выгодный вид вкладов"
-    },
-    {
-      "title": "Раскрыт возраст самых старых жителей Москвы",
-      "link": "https://lenta.ru/news/2026/09/09/raskryt-vozrast-samyh-staryh-zhiteley-moskvy/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:42:16 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Раскрыт возраст самых старых жителей Москвы"
-    },
-    {
-      "title": "Захарова оценила развитие туризма в Коми",
-      "link": "https://ria.ru/20260909/zaharova-2116479993.html",
-      "source": "RIA",
-      "pubDate": "Wed, 09 Sep 2026 08:41:12 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Захарова оценила развитие туризма в Коми"
-    },
-    {
-      "title": "Армения обратилась в ЕАЭС в связи с ограничениями на ввоз продукции в Россию",
-      "link": "https://iz.ru/2163720/2026-09-09/armeniia-obratilas-v-eaes-v-sviazi-s-ogranicheniiami-na-vvoz-produktcii-v-rf",
+      "title": "В Грузии обвинили ЕС в поддержке госпереворота в стране в 2025-м",
+      "link": "https://iz.ru/2163875/v-gruzii-ukazali-na-odobrenie-es-popytok-perevorota-v-strane-izi",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:39:49 +0300",
-      "summary": "<p>Армения обратилась в Евразийский экономический союз (ЕАЭС) из-за ограничений на ввоз армянской продукции, введенных Россией. Об этом 8 сентября сообщил на брифинге заместитель министра экономики Республики Армения Тиг",
+      "pubDate": "Wed, 09 Sep 2026 13:09:56 +0300",
+      "summary": "<p>Попытка свержения власти в Грузии 4 октября 2025 года была предпринята после «зеленого света» из Брюсселя. Об этом 9 сентября заявил спикер парламента Шалва Папуашвили.</p><p>«Именно после виртуального зеленого света ",
       "tags": [],
-      "titleZh": "Армения обратилась в ЕАЭС в связи с ограничениями на ввоз продукции в Россию"
+      "titleZh": "В Грузии обвинили ЕС в поддержке госпереворота в стране в 2025-м"
     },
     {
-      "title": "Глушенков опроверг слухи о рыбалке вместо продления контракта",
-      "link": "https://lenta.ru/news/2026/09/09/glushenkov-oproverg-sluhi-o-rybalke-vmesto-prodleniya-kontrakta/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:37:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Глушенков опроверг слухи о рыбалке вместо продления контракта"
-    },
-    {
-      "title": "В России обвинили Эстонию в разрыве отношений с РПЦ",
-      "link": "https://lenta.ru/news/2026/09/09/v-rossii-obvinili-estoniyu-v-razryve-otnosheniy-s-rpts/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:37:23 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В России обвинили Эстонию в разрыве отношений с РПЦ"
-    },
-    {
-      "title": "Слуцкий отказался считать «Спартак» претендентом на победу в чемпионате России",
-      "link": "https://lenta.ru/news/2026/09/09/slutskiy-otkazalsya-schitat-spartak-pretendentom-na-pobedu-v-chempionate-rossii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:35:45 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Слуцкий отказался считать «Спартак» претендентом на победу в чемпионате России"
-    },
-    {
-      "title": "В районе извержения вулкана Анак-Кракатау пропал катер с журналистами",
-      "link": "https://lenta.ru/news/2026/09/09/v-rayone-izverzheniya-vulkana-anak-krakatau-propal-kater-s-zhurnalistami/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:30:26 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В районе извержения вулкана Анак-Кракатау пропал катер с журналистами"
-    },
-    {
-      "title": "Эксперт назвал способ подготовить дачу к зиме",
-      "link": "https://iz.ru/2163096/2026-09-09/ekspert-nazval-sposob-podgotovit-dachu-k-zime",
+      "title": "Ученые проверили главную теорию о темной энергии",
+      "link": "https://iz.ru/2163872/uchenye-proverili-glavnuiu-teoriiu-o-temnoi-energii-izi",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:30:00 +0300",
-      "summary": "<p>До наступления первых заморозков на даче стоит проверить состояние дома, устранить небольшие повреждения и подготовить помещения к зимнему периоду. В первую очередь внимания требуют фасад, кровля, окна, двери и систем",
+      "pubDate": "Wed, 09 Sep 2026 13:08:36 +0300",
+      "summary": "<p dir=\"ltr\">Темная энергия уже долгое время считается главным объяснением ускоренного расширения Вселенной. Однако новое международное исследование, основанное на крупнейшем и наиболее однородном каталоге сверхновых тип",
       "tags": [],
-      "titleZh": "Эксперт назвал способ подготовить дачу к зиме"
+      "titleZh": "Ученые проверили главную теорию о темной энергии"
     },
     {
-      "title": "В Европе испугались военного союза России и КНДР",
-      "link": "https://lenta.ru/news/2026/09/09/v-evrope-ispugalis-voennogo-soyuza-rossii-i-kndr/",
+      "title": "Россия нанесла удар по израильским «ушам» ВСУ",
+      "link": "https://lenta.ru/news/2026/09/09/rossiya-nanesla-udar-po-izrailskim-usham-vsu/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:28:37 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:07:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В Европе испугались военного союза России и КНДР"
+      "titleZh": "Россия нанесла удар по израильским «ушам» ВСУ"
     },
     {
-      "title": "Журналисты пропали без вести у вулкана Анак-Кракатау в Индонезии",
-      "link": "https://iz.ru/2163716/2026-09-09/zhurnalisty-propali-bez-vesti-u-vulkana-anak-krakatau-v-indonezii",
+      "title": "Сегодня Apple представит первый складной iPhone. Что об этом нужно знать?",
+      "link": "https://lenta.ru/news/2026/09/09/long-iphone/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:06:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Сегодня Apple представит первый складной iPhone. Что об этом нужно знать?"
+    },
+    {
+      "title": "Эффективность дальнобойного КВН оценили",
+      "link": "https://lenta.ru/news/2026/09/09/effektivnost-dalnoboynogo-kvn-otsenili/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:04:39 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Эффективность дальнобойного КВН оценили"
+    },
+    {
+      "title": "Бундестаг загудел во время выступления Фридриха Мерца",
+      "link": "https://iz.ru/2163877/video/bundestag-zagudel-vo-vremia-vystupleniia-fridrikha-mertca",
       "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:27:14 +0300",
-      "summary": "<p>Пять журналистов и двое неизвестных пропали без вести у вулкана Анак-Кракатау в Индонезии. Об этом 9 сентября сообщило агентство <a href=\"https://en.antaranews.com/news/430591/sar-expands-search-for-seven-missing-near",
-      "tags": [],
-      "titleZh": "Журналисты пропали без вести у вулкана Анак-Кракатау в Индонезии"
-    },
-    {
-      "title": "КПП на границе Украины и Молдавии закрыли после ночных взрывов",
-      "link": "https://lenta.ru/news/2026/09/09/kpp-na-granitse-ukrainy-i-moldavii-zakryli-posle-nochnyh-vzryvov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:27:00 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:04:05 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "КПП на границе Украины и Молдавии закрыли после ночных взрывов"
+      "titleZh": "Бундестаг загудел во время выступления Фридриха Мерца"
     },
     {
-      "title": "Назван возраст самого старого жителя Москвы",
-      "link": "https://iz.ru/2163718/2026-09-09/nazvan-vozrast-samogo-starogo-zhitelia-moskvy",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:26:34 +0300",
-      "summary": "<p>Самой пожилой жительнице <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> сейчас 108 лет, а самому старшему мужчине в столице — 105 лет. Об этом в среду, 9 сентября, сообщили в пресс-службе столичного деп",
-      "tags": [],
-      "titleZh": "Назван возраст самого старого жителя Москвы"
-    },
-    {
-      "title": "«Мосбилет» составил подборку главных театральных премьер сентября в столице",
-      "link": "https://iz.ru/2163717/2026-09-09/mosbilet-sostavil-podborku-glavnykh-teatralnykh-premer-sentiabria-v-stolitce",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:25:04 +0300",
-      "summary": "<p>Сервис «Мосбилет» составил подборку главных театральных премьер сентября в <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a>. В список вошли новые постановки по произведениям классиков и современных драмат",
-      "tags": [],
-      "titleZh": "«Мосбилет» составил подборку главных театральных премьер сентября в столице"
-    },
-    {
-      "title": "Российский военный обвинил ВСУ в намеренных ударах по гражданским целям",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyskiy-voennyy-obvinil-vsu-v-namerennyh-udarah-po-grazhdanskim-tselyam/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:24:51 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Российский военный обвинил ВСУ в намеренных ударах по гражданским целям"
-    },
-    {
-      "title": "В Москве началось бабье лето",
-      "link": "https://lenta.ru/news/2026/09/09/v-moskve-nachalos-babie-leto/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:23:41 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Москве началось бабье лето"
-    },
-    {
-      "title": "Министр финансов США сравнил Украину с проигравшей во Второй мировой войне Германией",
-      "link": "https://lenta.ru/news/2026/09/09/ministr-finansov-ssha-sravnil-ukrainu-s-proigravshey-vo-vtoroy-mirovoy-voyne-germaniey/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:21:50 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Министр финансов США сравнил Украину с проигравшей во Второй мировой войне Германией"
-    },
-    {
-      "title": "Путин поздравил Ким Чен Ына с годовщиной образования Северной Кореи",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227390-putin-pozdravil",
+      "title": "При атаке БПЛА три предприятия Новороссийска получили повреждения",
+      "link": "https://www.vedomosti.ru/society/news/2026/09/09/1227486-pri-atake-bpla",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 08:20:56 +0300",
+      "pubDate": "Wed, 09 Sep 2026 13:03:25 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Путин поздравил Ким Чен Ына с годовщиной образования Северной Кореи"
+      "titleZh": "При атаке БПЛА три предприятия Новороссийска получили повреждения"
     },
     {
-      "title": "Дмитриев: Россия предложит провести совместный бизнес-форум с Германией и США",
-      "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227391-dmitriev-rossiya-predlozhit",
+      "title": "Полковник рассказал о завершении подготовки к штурму Краматорска",
+      "link": "https://lenta.ru/news/2026/09/09/polkovnik-rasskazal-o-zavershenii-podgotovki-k-shturmu-kramatorska/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 13:03:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Полковник рассказал о завершении подготовки к штурму Краматорска"
+    },
+    {
+      "title": "Премьер Испании назвал себя собакой",
+      "link": "https://lenta.ru/news/2026/09/09/premier-ispanii-nazval-sebya-sobakoy/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:57:18 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Премьер Испании назвал себя собакой"
+    },
+    {
+      "title": "Бессент предсказал крах ОПЕК",
+      "link": "https://lenta.ru/news/2026/09/09/bessent-predskazal-krah-opek/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:57:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Бессент предсказал крах ОПЕК"
+    },
+    {
+      "title": "Венгрия проиграла суд по использованию российских активов",
+      "link": "https://lenta.ru/news/2026/09/09/vengriya-proigrala-sud-po-ispolzovaniyu-rossiyskih-aktivov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:52:55 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Венгрия проиграла суд по использованию российских активов"
+    },
+    {
+      "title": "Месси договорился о покупке футбольного клуба",
+      "link": "https://lenta.ru/news/2026/09/09/messi-dogovorilsya-o-pokupke-futbolnogo-kluba/",
+      "source": "Lenta",
+      "pubDate": "Wed, 09 Sep 2026 12:50:21 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Месси договорился о покупке футбольного клуба"
+    },
+    {
+      "title": "ХМАО проведет сбор заявок на выпуск трехлетних облигаций 23 сентября",
+      "link": "https://www.vedomosti.ru/investments/news/2026/09/09/1227481-hmao-obligatsii",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 08:19:59 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:48:56 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Дмитриев: Россия предложит провести совместный бизнес-форум с Германией и США"
+      "titleZh": "ХМАО проведет сбор заявок на выпуск трехлетних облигаций 23 сентября"
     },
     {
-      "title": "На Алтае после нападения на туристку ликвидировали 55 медведей",
-      "link": "https://lenta.ru/news/2026/09/09/na-altae-posle-napadeniya-na-turistku-likvidirovali-55-medvedey/",
+      "title": "Появилось видео разрушений в крупнейшем портовом городе России после атаки ВСУ",
+      "link": "https://lenta.ru/news/2026/09/09/poyavilos-video-razrusheniy-v-krupneyshem-portovom-gorode-rossii-posle-ataki-vsu/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:17:00 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:48:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "На Алтае после нападения на туристку ликвидировали 55 медведей"
+      "titleZh": "Появилось видео разрушений в крупнейшем портовом городе России после атаки ВСУ"
     },
     {
-      "title": "Исследователь Anthropic ушел из индустрии из-за опасений о конце света",
-      "link": "https://iz.ru/2163701/2026-09-09/issledovatel-anthropic-ushel-iz-industrii-iz-za-opasenii-o-kontce-sveta",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:15:09 +0300",
-      "summary": "<p>Исследователь Anthropic Джейкоб Коксон решил покинуть сферу искусственного интеллекта (ИИ) из-за опасений, что стремительное соперничество крупных технологических компаний может приблизить человечество к «точке невозв",
-      "tags": [],
-      "titleZh": "Исследователь Anthropic ушел из индустрии из-за опасений о конце света"
-    },
-    {
-      "title": "Глава МИД Германии сделал заявление о переговорах с Россией",
-      "link": "https://lenta.ru/news/2026/09/09/glava-mid-germanii-sdelal-zayavlenie-o-peregovorah-s-rossiey/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:14:14 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Глава МИД Германии сделал заявление о переговорах с Россией"
-    },
-    {
-      "title": "Глава МИД Польши увидел угрозу Европе в успехе АдГ",
-      "link": "https://lenta.ru/news/2026/09/09/glava-mid-polshi-uvidel-ugrozu-evrope-v-uspehe-adg/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:13:25 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Глава МИД Польши увидел угрозу Европе в успехе АдГ"
-    },
-    {
-      "title": "OpenAI объявила о решении ее моделью ИИ одной из семи задач тысячелетия",
-      "link": "https://iz.ru/2163714/openai-obiavila-o-reshenii-ee-modeliu-ii-odnoi-iz-semi-zadach-tysiacheletiia-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:11:36 +0300",
-      "summary": "<p>Компания <a href=\"https://openai.com/index/navier-stokes-solution/\">OpenAI</a> 8 сентября объявила о решении одной из семи «задач тысячелетия» — проблемы существования и гладкости решений уравнений Навье – Стокса. Док",
-      "tags": [],
-      "titleZh": "OpenAI объявила о решении ее моделью ИИ одной из семи задач тысячелетия"
-    },
-    {
-      "title": "Жизнь российской школьницы и ее соседки оценили в суде",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyskogo-podrostka-osudili-za-dvoynoe-ubiystvo-iz-revnosti/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:11:11 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Жизнь российской школьницы и ее соседки оценили в суде"
-    },
-    {
-      "title": "Россияне стали чаще интересоваться онлайн-кредитами",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyane-stali-chasche-interesovatsya-onlayn-kreditami/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:00:18 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Россияне стали чаще интересоваться онлайн-кредитами"
-    },
-    {
-      "title": "Ключевая проблема",
-      "link": "https://iz.ru/2163223/pavel-burov/kliuchevaia-problema",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:00:01 +0300",
-      "summary": "Финансист Павел Буров — о том, какие варианты для получения денег на развитие остаются у бизнеса в условиях высокой ставки",
-      "tags": [],
-      "titleZh": "Ключевая проблема"
-    },
-    {
-      "title": "Одержимый молодостью миллионер похвастался эрекцией перед инопланетянами",
-      "link": "https://lenta.ru/news/2026/09/09/oderzhimyy-molodostyu-millioner-pohvastalsya-erektsiey-pered-inoplanetyanami/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 08:00:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Одержимый молодостью миллионер похвастался эрекцией перед инопланетянами"
-    },
-    {
-      "title": "Волчанский рубеж",
-      "link": "https://iz.ru/2163267/dmitrii-kornev/volchanskii-rubezh",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:00:00 +0300",
-      "summary": "Редактор портала Militaryrussia Дмитрий Корнев — о том, как закрывается новый котел для ВСУ в Харьковской области",
-      "tags": [],
-      "titleZh": "Волчанский рубеж"
-    },
-    {
-      "title": "Эксперт раскрыл главные отличия iPhone 18 от прошлой модели",
-      "link": "https://iz.ru/2163166/2026-09-09/ekspert-raskryl-glavnye-otlichiia-iphone-18-ot-proshloi-modeli",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 08:00:00 +0300",
-      "summary": "<p>Новый iPhone 18, по предварительным данным, получит ряд технических улучшений по сравнению с iPhone 17, однако изменения не будут настолько масштабными, как при переходе между предыдущими поколениями. Основными отличи",
-      "tags": [],
-      "titleZh": "Эксперт раскрыл главные отличия iPhone 18 от прошлой модели"
-    },
-    {
-      "title": "Во Франции осудили Германию за поддержку Украины",
-      "link": "https://lenta.ru/news/2026/09/09/vo-frantsii-osudili-germaniyu-za-podderzhku-ukrainy/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:52:13 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Во Франции осудили Германию за поддержку Украины"
-    },
-    {
-      "title": "«Реал» переиграл «Интер» в первом туре группового этапа Лиги чемпионов",
-      "link": "https://iz.ru/2163713/2026-09-09/real-pereigral-inter-v-pervom-ture-gruppovogo-etapa-ligi-chempionov",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:52:12 +0300",
-      "summary": "<p>Мадридский «Реал» обыграл миланский «Интер» в матче первого тура общего этапа Лиги чемпионов. Встреча на «Сантьяго Бернабеу» состоялась 8 сентября и завершилась со счетом 2:1 в пользу испанского клуба.</p><p>У хозяев ",
-      "tags": [],
-      "titleZh": "«Реал» переиграл «Интер» в первом туре группового этапа Лиги чемпионов"
-    },
-    {
-      "title": "В Москве работает 19 спортивных площадок для занятий современным пятиборьем",
-      "link": "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:50:37 +0300",
-      "summary": "<p>В <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> работают 19 спортивных площадок для занятий современным пятиборьем, где тренируются более 3,7 тыс. детей и взрослых. Об этом 9 сентября сообщил портал мэ",
-      "tags": [],
-      "titleZh": "В Москве работает 19 спортивных площадок для занятий современным пятиборьем"
-    },
-    {
-      "title": "Около 15 беспилотников было уничтожено над Ростовской областью",
-      "link": "https://iz.ru/2163710/2026-09-09/okolo-15-bespilotnikov-bylo-unichtozheno-nad-rostovskoi-oblastiu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:49:58 +0300",
-      "summary": "<p>В результате воздушной атаки на Ростовскую область было уничтожено около 15 беспилотных летательных аппаратов (БПЛА). Об этом 9 сентября сообщил губернатор региона Юрий Слюсарь.</p><p>«Минувшей ночью в ходе отражения ",
-      "tags": [],
-      "titleZh": "Около 15 беспилотников было уничтожено над Ростовской областью"
-    },
-    {
-      "title": "Режим беспилотной опасности ввели в Свердловской области",
-      "link": "https://iz.ru/2163712/2026-09-09/rezhim-bespilotnoi-opasnosti-vveli-v-sverdlovskoi-oblasti",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:49:09 +0300",
-      "summary": "<p>В Свердловской области объявили режим беспилотной опасности. Об этом 9 сентября сообщил губернатор региона Денис Паслер.</p><p>«Внимание! В регионе объявлен режим беспилотной опасности», — написал он в Telegram-канале",
-      "tags": [],
-      "titleZh": "Режим беспилотной опасности ввели в Свердловской области"
-    },
-    {
-      "title": "В регионах России нашли устойчивый к антибиотикам штамм туберкулеза",
-      "link": "https://www.vedomosti.ru/society/news/2026/09/09/1227388-regionah-rossii-nashli",
+      "title": "Palantir и Nebius объявили о партнерстве в сфере ИИ-инфраструктуры",
+      "link": "https://www.vedomosti.ru/business/news/2026/09/09/1227480-palantir-i-nebius",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 07:46:27 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:47:39 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "В регионах России нашли устойчивый к антибиотикам штамм туберкулеза"
+      "titleZh": "Palantir и Nebius объявили о партнерстве в сфере ИИ-инфраструктуры"
     },
     {
-      "title": "Пленный из ВСУ рассказал об отсутствии необходимой униформы",
-      "link": "https://lenta.ru/news/2026/09/09/plennyy-iz-vsu-rasskazal-ob-otsutstvii-neobhodimoy-uniformy/",
+      "title": "Бывшая жена экс-главы Банка Москвы в боди и блестящих чулках приехала в Венецию",
+      "link": "https://lenta.ru/news/2026/09/09/byvshaya-zhena-eks-glavy-banka-moskvy-v-bodi-i-blestyaschih-chulkah-priehala-v-venetsiyu/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:46:01 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:47:00 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Пленный из ВСУ рассказал об отсутствии необходимой униформы"
+      "titleZh": "Бывшая жена экс-главы Банка Москвы в боди и блестящих чулках приехала в Венецию"
     },
     {
-      "title": "Средства ПВО сбили один украинский БПЛА над Тульской областью",
-      "link": "https://iz.ru/2163709/2026-09-09/sredstva-pvo-sbili-odin-ukrainskii-bpla-nad-tulskoi-oblastiu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:43:10 +0300",
-      "summary": "<p>Средства противовоздушной обороны ликвидировали один украинский беспилотник в небе над Тульской областью. Об этом 9 сентября сообщил губернатор региона Дмитрий Миляев.</p><p>«Один украинский беспилотник уничтожен подр",
-      "tags": [],
-      "titleZh": "Средства ПВО сбили один украинский БПЛА над Тульской областью"
-    },
-    {
-      "title": "Адвокат на своей машине протаранил тюремщика",
-      "link": "https://lenta.ru/news/2026/09/09/advokat-na-svoey-mashine-protaranil-tyuremschika/",
+      "title": "Найдена египетская гробница возрастом четыре тысячи лет",
+      "link": "https://lenta.ru/news/2026/09/09/naydena-egipetskaya-grobnitsa-vozrastom-chetyre-tysyachi-let/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:37:00 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:46:26 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Адвокат на своей машине протаранил тюремщика"
+      "titleZh": "Найдена египетская гробница возрастом четыре тысячи лет"
     },
     {
-      "title": "Назван способ изменить состав тела за 4 недели",
-      "link": "https://lenta.ru/news/2026/09/09/nazvan-sposob-izmenit-sostav-tela-za-4-nedeli/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:35:16 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Назван способ изменить состав тела за 4 недели"
-    },
-    {
-      "title": "Режим беспилотной опасности ввели в регионе в 1800 километрах от границы с Украиной",
-      "link": "https://lenta.ru/news/2026/09/09/rezhim-bespilotnoy-opasnosti-vveli-v-regione-v-1800-kilometrah-ot-granitsy-s-ukrainoy/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:32:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Режим беспилотной опасности ввели в регионе в 1800 километрах от границы с Украиной"
-    },
-    {
-      "title": "Листья привычного растения оказались защитниками мозга от повреждений",
-      "link": "https://lenta.ru/news/2026/09/09/listya-privychnogo-rasteniya-okazalis-zaschitnikami-mozga-ot-povrezhdeniy/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:30:14 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Листья привычного растения оказались защитниками мозга от повреждений"
-    },
-    {
-      "title": "Мужчина с непереносимостью лактозы попытался быть милым с коллегой и «отравил ее газами»",
-      "link": "https://lenta.ru/news/2026/09/09/muzhchina-s-neperenosimostyu-laktozy-popytalsya-byt-milym-s-kollegoy-i-otravil-ee-gazami/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:30:08 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Мужчина с непереносимостью лактозы попытался быть милым с коллегой и «отравил ее газами»"
-    },
-    {
-      "title": "Блогерша описала женщин в Азии фразой «не представляю, чтобы в России выглядели так же»",
-      "link": "https://lenta.ru/news/2026/09/09/blogersha-opisala-zhenschin-v-azii-frazoy-ne-predstavlyayu-chtoby-v-rossii-vylyadeli-tak-zhe/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Блогерша описала женщин в Азии фразой «не представляю, чтобы в России выглядели так же»"
-    },
-    {
-      "title": "Объявлено о мощном пожаре на складе в Подмосковье",
-      "link": "https://lenta.ru/news/2026/09/09/ob-yavleno-o-moschnom-pozhare-na-sklade-v-podmoskovie/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:30:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Объявлено о мощном пожаре на складе в Подмосковье"
-    },
-    {
-      "title": "Аналитики назвали самый выгодный способ поездки к морю осенью",
-      "link": "https://iz.ru/2163071/2026-09-09/analitiki-nazvali-samyi-vygodnyi-sposob-poezdki-k-moriu-oseniu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:30:00 +0300",
-      "summary": "<p>Поездка на южные курорты России на автомобиле в бархатный сезон 2026 года чаще оказывается дороже, чем путешествие на поезде или самолете без багажа. К такому выводу пришли аналитики издания «Просто.», с данными ознак",
-      "tags": [],
-      "titleZh": "Аналитики назвали самый выгодный способ поездки к морю осенью"
-    },
-    {
-      "title": "Режим повышенной готовности ввели в Петропавловске-Камчатском из-за медведей",
-      "link": "https://iz.ru/2163704/2026-09-09/rezhim-povyshennoi-gotovnosti-vveli-v-petropavlovske-kamchatskom-iz-za-medvedei",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:24:27 +0300",
-      "summary": "<p>В Петропавловске-Камчатском с 18:00 9 сентября вводится режим повышенной готовности из-за участившихся случаев появления медведей в городе. Об этом сообщили в мэрии.</p><p>«Главная цель — предупредить горожан о потенц",
-      "tags": [],
-      "titleZh": "Режим повышенной готовности ввели в Петропавловске-Камчатском из-за медведей"
-    },
-    {
-      "title": "Силы ПВО за ночь перехватили четыре дрона над Калужской областью",
-      "link": "https://iz.ru/2163703/2026-09-09/sily-pvo-za-noch-perekhvatili-chetyre-drona-nad-kaluzhskoi-oblastiu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:21:57 +0300",
-      "summary": "<p>Силы противовоздушной обороны (ПВО) за ночь ликвидировали четыре украинских беспилотных летательных аппарата (БПЛА) над Калужской областью. Об этом 9 сентября сообщил губернатор Владислав Шапша.</p><p>«Уничтожены четы",
-      "tags": [],
-      "titleZh": "Силы ПВО за ночь перехватили четыре дрона над Калужской областью"
-    },
-    {
-      "title": "Силы ПВО уничтожили четыре беспилотника над Калужской областью",
-      "link": "https://lenta.ru/news/2026/09/09/sily-pvo-unichtozhili-chetyre-bespilotnika-nad-kaluzhskoy-oblastyu/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:21:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Силы ПВО уничтожили четыре беспилотника над Калужской областью"
-    },
-    {
-      "title": "Что произошло за ночь 9 сентября. Главное",
-      "link": "https://iz.ru/2163699/2026-09-09/chto-proizoshlo-za-noch-9-sentiabria-glavnoe",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:20:00 +0300",
-      "summary": "<p>В Донецкой Народной Республике (ДНР) от атак беспилотников погиб один человек, еще 13 получили ранения. <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> и Иран обменялись ударами в акватории Персидского залива",
-      "tags": [],
-      "titleZh": "Что произошло за ночь 9 сентября. Главное"
-    },
-    {
-      "title": "В РПЦ рассказали о росте числа венчаний в России",
-      "link": "https://lenta.ru/news/2026/09/09/v-rpts-rasskazali-o-roste-chisla-venchaniy-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:07:24 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В РПЦ рассказали о росте числа венчаний в России"
-    },
-    {
-      "title": "Ушедший из России автопроизводитель объявил отзыв сотен тысяч машин",
-      "link": "https://lenta.ru/news/2026/09/09/ushedshiy-iz-rossii-avtoproizvoditel-ob-yavil-otzyv-soten-tysyach-mashin/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:01:01 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Ушедший из России автопроизводитель объявил отзыв сотен тысяч машин"
-    },
-    {
-      "title": "Атеистка пережила клиническую смерть и поверила в Бога",
-      "link": "https://lenta.ru/news/2026/09/09/ateistka-perezhila-klinicheskuyu-smert-i-poverila-v-boga/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:00:55 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Атеистка пережила клиническую смерть и поверила в Бога"
-    },
-    {
-      "title": "Сексологи объяснили мужской фетиш на унижение из-за маленького пениса",
-      "link": "https://lenta.ru/news/2026/09/09/seksologi-ob-yasnili-muzhskoy-fetish-na-unizhenie-iz-za-malenkogo-penisa/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:00:49 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Сексологи объяснили мужской фетиш на унижение из-за маленького пениса"
-    },
-    {
-      "title": "Внешность классного руководителя из России взорвала соцсети",
-      "link": "https://lenta.ru/news/2026/09/09/vneshnost-klassnogo-rukovoditelya-iz-rossii-vzorvala-sotsseti/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 07:00:44 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Внешность классного руководителя из России взорвала соцсети"
-    },
-    {
-      "title": "В России хотят узаконить передачу акций работникам компаний. Что нужно знать",
-      "link": "https://iz.ru/2163560/2026-09-09/v-rossii-khotiat-uzakonit-peredachu-aktcii-rabotnikam-kompanii-chto-nuzhno-znat",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0300",
-      "summary": "<p>Законопроект о премировании работников ценными бумагами должен привести существующую практику к единому стандарту. Тем самым компании смогут мотивировать топ-менеджмент в условиях жесткой конкуренции и ограниченных фи",
-      "tags": [],
-      "titleZh": "В России хотят узаконить передачу акций работникам компаний. Что нужно знать"
-    },
-    {
-      "title": "На Украине назвали смех Зеленского и его команды на переговорах «оскалом партии войны»",
-      "link": "https://lenta.ru/news/2026/09/09/na-ukraine-nazvali-smeh-zelenskogo-i-ego-komandy-na-peregovorah-oskalom-partii-voyny/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:57:39 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "На Украине назвали смех Зеленского и его команды на переговорах «оскалом партии войны»"
-    },
-    {
-      "title": "Политолог уличил Зеленского в неготовности к сделке по урегулированию конфликта",
-      "link": "https://iz.ru/2163702/2026-09-09/politolog-ulichil-zelenskogo-v-negotovnosti-k-sdelke-po-uregulirovaniiu-konflikta",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:57:21 +0300",
-      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимир Зеленский</a> не заинтересован в заключении соглашений для урегулирован",
-      "tags": [],
-      "titleZh": "Политолог уличил Зеленского в неготовности к сделке по урегулированию конфликта"
-    },
-    {
-      "title": "Трамп объяснил успех АдГ на выборах в Саксонии",
-      "link": "https://lenta.ru/news/2026/09/09/tramp-vyskazalsya-o-pobede-adg-na-vyborah-v-saksonii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:57:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Трамп объяснил успех АдГ на выборах в Саксонии"
-    },
-    {
-      "title": "Трамп отметил триумф АдГ в Германии",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227386-tramp-otmetil",
+      "title": "Захарова: инцидент в Лейпциге был заранее спланированным эскалационным маневром",
+      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227478-intsident-v-leiptsige",
       "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 06:53:54 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:45:45 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Трамп отметил триумф АдГ в Германии"
+      "titleZh": "Захарова: инцидент в Лейпциге был заранее спланированным эскалационным маневром"
     },
     {
-      "title": "Вечерняя программа Джимми Киммела может закрыться в 2027 году",
-      "link": "https://iz.ru/2163694/2026-09-09/vecherniaia-programma-dzhimmi-kimmela-mozhet-zakrytsia-v-2027-godu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:53:00 +0300",
-      "summary": "<p>Вечернее шоу Jimmy Kimmel Live! на телеканале ABC может завершиться в 2027 году после 24 лет выхода в эфир. Об этом 8 сентября сообщило издание <a href=\"https://pagesix.com/2026/09/08/entertainment/jimmy-kimmels-late-",
-      "tags": [],
-      "titleZh": "Вечерняя программа Джимми Киммела может закрыться в 2027 году"
-    },
-    {
-      "title": "Глава МИД Германии предложил помочь Украине вернуть мужчин призывного возраста",
-      "link": "https://lenta.ru/news/2026/09/09/glava-mid-germanii-predlozhil-pomoch-ukraine-vernut-muzhchin-prizyvnogo-vozrasta/",
+      "title": "Российским пенсионерам раскрыли способ сэкономить на ЖКУ",
+      "link": "https://lenta.ru/news/2026/09/09/rossiyskim-pensioneram-raskryli-sposob-sekonomit-na-zhku/",
       "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:52:00 +0300",
+      "pubDate": "Wed, 09 Sep 2026 12:44:27 +0300",
       "summary": "",
       "tags": [],
-      "titleZh": "Глава МИД Германии предложил помочь Украине вернуть мужчин призывного возраста"
-    },
-    {
-      "title": "На Украине рассказали о бегстве населения из Киева",
-      "link": "https://lenta.ru/news/2026/09/09/na-ukraine-rasskazali-o-begstve-naseleniya-iz-kieva/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:48:29 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "На Украине рассказали о бегстве населения из Киева"
-    },
-    {
-      "title": "В Щелково произошел пожар в складском здании на площади 1,8 тыс. кв. м",
-      "link": "https://iz.ru/2163698/2026-09-09/v-shchelkovo-proizoshel-pozhar-v-skladskom-zdanii-na-ploshchadi-18-tys-kv-m",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:44:18 +0300",
-      "summary": "<p>В подмосковном Щелково произошел пожар в складском здании, где хранилась пластиковая продукция. Предварительно, площадь возгорания составляет 1,8 тыс. кв. м. Об этом 9 сентября сообщили в пресс-службе МЧС России.</p> ",
-      "tags": [],
-      "titleZh": "В Щелково произошел пожар в складском здании на площади 1,8 тыс. кв. м"
-    },
-    {
-      "title": "Спасатели раскрыли детали поисков пропавшей в Бурятии туристки",
-      "link": "https://lenta.ru/news/2026/09/09/spasateli-raskryli-detali-poiskov-propavshey-v-buryatii-turistki/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:41:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Спасатели раскрыли детали поисков пропавшей в Бурятии туристки"
-    },
-    {
-      "title": "В РАН призвали россиян выбирать отдых в РФ из-за инфекционных рисков за рубежом",
-      "link": "https://iz.ru/2163691/2026-09-09/v-ran-prizvali-rossiian-vybirat-otdykh-v-rf-iz-za-infektcionnykh-riskov-za-rubezhom",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:40:00 +0300",
-      "summary": "<p>Академик РАН, заместитель президента Российской академии образования Геннадий Онищенко 9 сентября призвал россиян проводить отпуск в России, чтобы снизить возможные риски для здоровья во время зарубежных поездок.</p><",
-      "tags": [],
-      "titleZh": "В РАН призвали россиян выбирать отдых в РФ из-за инфекционных рисков за рубежом"
-    },
-    {
-      "title": "ВСУ попытались атаковать российский регион",
-      "link": "https://lenta.ru/news/2026/09/09/vsu-popytalis-atakovat-rossiyskiy-region/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:39:32 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "ВСУ попытались атаковать российский регион"
-    },
-    {
-      "title": "SNN: Иран атаковал авиабазы США в Иордании",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227385-snn-iran-atakoval",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 06:36:30 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "SNN: Иран атаковал авиабазы США в Иордании"
-    },
-    {
-      "title": "Пожар на складе произошел в подмосковном Щелкове",
-      "link": "https://iz.ru/2163697/video/pozhar-na-sklade-proizoshel-v-podmoskovnom-shchelkove",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:35:55 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Пожар на складе произошел в подмосковном Щелкове"
-    },
-    {
-      "title": "Украинские мошенники начали обманывать живущих в Польше сограждан",
-      "link": "https://lenta.ru/news/2026/09/09/ukrainskie-moshenniki-nachali-obmanyvat-zhivuschih-v-polshe-sograzhdan/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:35:50 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Украинские мошенники начали обманывать живущих в Польше сограждан"
-    },
-    {
-      "title": "В России высказались о готовности к переговорам по Украине",
-      "link": "https://lenta.ru/news/2026/09/09/v-rossii-vyskazalis-o-gotovnosti-k-peregovoram-po-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:30:51 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В России высказались о готовности к переговорам по Украине"
-    },
-    {
-      "title": "В зоне СВО заметили «замангаленную» «Акацию»",
-      "link": "https://lenta.ru/news/2026/09/09/v-zone-svo-zametili-zamangalennuyu-akatsiyu/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:30:46 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В зоне СВО заметили «замангаленную» «Акацию»"
-    },
-    {
-      "title": "СМИ сообщили об активизации расследования сговора разведки против Трампа",
-      "link": "https://iz.ru/2163688/2026-09-09/smi-soobshchili-ob-aktivizatcii-rassledovaniia-sgovora-razvedki-protiv-trampa",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:27:00 +0300",
-      "summary": "<p>Американский минюст вызвал на допрос перед большим жюри во Флориде нескольких экс-чиновников в рамках расследования предполагаемого заговора представителей разведсообщества против президента <a href=\"https://iz.ru/tag",
-      "tags": [],
-      "titleZh": "СМИ сообщили об активизации расследования сговора разведки против Трампа"
-    },
-    {
-      "title": "Глава МИД Германии раскритиковал Зеленского",
-      "link": "https://lenta.ru/news/2026/09/09/glava-mid-germanii-raskritikoval-zelenskogo/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:21:13 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Глава МИД Германии раскритиковал Зеленского"
-    },
-    {
-      "title": "Норвегия скрыла визит Зеленского от прессы",
-      "link": "https://www.vedomosti.ru/politics/news/2026/09/09/1227384-norvegiya-skrila",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 09 Sep 2026 06:17:09 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Норвегия скрыла визит Зеленского от прессы"
-    },
-    {
-      "title": "В России обнаружили устойчивый к антибиотикам штамм туберкулеза",
-      "link": "https://lenta.ru/news/2026/09/09/v-rossii-obnaruzhili-ustoychivyy-k-antibiotikam-shtamm-tuberkuleza/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:17:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В России обнаружили устойчивый к антибиотикам штамм туберкулеза"
-    },
-    {
-      "title": "Дмитриев предложил провести бизнес-форум между Россией, Германией и США",
-      "link": "https://iz.ru/2163692/2026-09-09/dmitriev-predlozhil-provesti-biznes-forum-mezhdu-rossiei-germaniei-i-ssha",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:13:39 +0300",
-      "summary": "<p>Глава Российского фонда прямых инвестиций (РФПИ) Кирилл Дмитриев 9 сентября заявил, что Россия совместно с партией «Альтернатива для Германии» (АдГ) предложит провести бизнес-форум между РФ, ФРГ и <a href=\"https://iz.",
-      "tags": [],
-      "titleZh": "Дмитриев предложил провести бизнес-форум между Россией, Германией и США"
-    },
-    {
-      "title": "Захарова указала на одну деталь в поведении западных послов после возвращения из России",
-      "link": "https://lenta.ru/news/2026/09/09/zaharova-ukazala-na-odnu-detal-v-povedenii-zapadnyh-poslov-posle-vozvrascheniya-iz-rossii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:12:34 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Захарова указала на одну деталь в поведении западных послов после возвращения из России"
-    },
-    {
-      "title": "В Норвегии сообщили о попытке местных властей скрыть визит Зеленского в Осло",
-      "link": "https://iz.ru/2163693/2026-09-09/v-norvegii-soobshchili-o-popytke-mestnykh-vlastei-skryt-vizit-zelenskogo-v-oslo",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 06:06:30 +0300",
-      "summary": "<p>В Норвегии до последнего момента скрывали от общественности планы президента <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимира Зел",
-      "tags": [],
-      "titleZh": "В Норвегии сообщили о попытке местных властей скрыть визит Зеленского в Осло"
-    },
-    {
-      "title": "Зеленскому предрекли потерю ключевых союзников в течение полугода",
-      "link": "https://lenta.ru/news/2026/09/09/zelenskomu-predrekli-poteryu-klyuchevyh-soyuznikov-v-techenie-polugoda/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:03:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Зеленскому предрекли потерю ключевых союзников в течение полугода"
-    },
-    {
-      "title": "Футболист отравил одноклубника из-за ревности",
-      "link": "https://lenta.ru/news/2026/09/09/futbolist-otravil-odnoklubnika-iz-za-revnosti/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:00:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Футболист отравил одноклубника из-за ревности"
-    },
-    {
-      "title": "Жительница одного из самых мрачных городов мира пожаловалась на безнаказанность мужчин",
-      "link": "https://lenta.ru/news/2026/09/09/zhitelnitsa-odnogo-iz-samyh-mrachnyh-gorodov-mira-pozhalovalas-na-beznakazannost-muzhchin/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:00:19 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Жительница одного из самых мрачных городов мира пожаловалась на безнаказанность мужчин"
-    },
-    {
-      "title": "Россиян предупредили о сокращающей жизнь еде",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyanam-rasskazali-o-sokraschayuschey-zhizn-ede/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 06:00:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Россиян предупредили о сокращающей жизнь еде"
-    },
-    {
-      "title": "Марочко рассказал об ожесточенных боях у Славянска и Краматорска",
-      "link": "https://lenta.ru/news/2026/09/09/marochko-rasskazal-ob-ozhestochennyh-boyah-u-slavyanska-i-kramatorska/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:57:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Марочко рассказал об ожесточенных боях у Славянска и Краматорска"
-    },
-    {
-      "title": "Хоккеист Самсонов подписал контракт с «Сан-Хосе Шаркс»",
-      "link": "https://iz.ru/2163686/2026-09-09/khokkeist-samsonov-podpisal-kontrakt-s-san-khose-sharks",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:56:00 +0300",
-      "summary": "<p>Российский вратарь Илья Самсонов стал игроком клуба Национальной хоккейной лиги (НХЛ) «Сан-Хосе Шаркс». Соглашение с 29-летним голкипером рассчитано на один сезон и имеет двусторонний статус, сообщили 8 сентября на <a",
-      "tags": [],
-      "titleZh": "Хоккеист Самсонов подписал контракт с «Сан-Хосе Шаркс»"
-    },
-    {
-      "title": "КСИР заявил об обстреле двух судов и восьми танкеров США в Ормузском проливе",
-      "link": "https://iz.ru/2163689/2026-09-09/ksir-zaiavil-ob-obstrele-dvukh-sudov-i-vosmi-tankerov-ssha-v-ormuzskom-prolive",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:52:30 +0300",
-      "summary": "<p>Корпус стражей исламской революции (КСИР) нанес удары по двум американским судам, восьми танкерам и 10 судам-нарушителям в районе Ормузского пролива. Об этом 9 сентября сообщило агентство Tasnim со ссылкой на заявлени",
-      "tags": [],
-      "titleZh": "КСИР заявил об обстреле двух судов и восьми танкеров США в Ормузском проливе"
-    },
-    {
-      "title": "В Роспотребнадзоре назвали сроки начала роста заболеваемости ОРВИ в России",
-      "link": "https://iz.ru/2163690/v-rospotrebnadzore-nazvali-sroki-nachala-rosta-zabolevaemosti-orvi-v-rossii-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:42:39 +0300",
-      "summary": "<p>Рост заболеваемости острыми респираторными вирусными инфекциями (ОРВИ) в России ожидается к середине сентября. Об этом 9 сентября сообщила глава Роспотребнадзора Анна Попова.</p><p>По словам главы ведомства, увеличени",
-      "tags": [],
-      "titleZh": "В Роспотребнадзоре назвали сроки начала роста заболеваемости ОРВИ в России"
-    },
-    {
-      "title": "Россиян призвали отдыхать в стране ради здоровья",
-      "link": "https://lenta.ru/news/2026/09/09/rossiyan-prizvali-otdyhat-v-strane-radi-zdorovya/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:36:45 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Россиян призвали отдыхать в стране ради здоровья"
-    },
-    {
-      "title": "Рубио исключил вину США в кризисе на Кубе",
-      "link": "https://iz.ru/2163685/2026-09-09/rubio-iskliuchil-vinu-ssha-v-krizise-na-kube",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:35:26 +0300",
-      "summary": "<p>Госсекретарь <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> Марко Рубио 8 сентября отверг обвинения в том, что Вашингтон причастен к возможному кризису на Кубе, несмотря на введенные Соединенными Штатами эко",
-      "tags": [],
-      "titleZh": "Рубио исключил вину США в кризисе на Кубе"
-    },
-    {
-      "title": "Умение убеждать помогло преступнику угнать несколько дорогих машин без взлома",
-      "link": "https://lenta.ru/news/2026/09/09/umenie-ubezhdat-pomoglo-prestupniku-ugnat-neskolko-dorogih-mashin-bez-vzloma/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:30:19 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Умение убеждать помогло преступнику угнать несколько дорогих машин без взлома"
-    },
-    {
-      "title": "Врач рассказал о лучшем завтраке для школьников",
-      "link": "https://lenta.ru/news/2026/09/09/vrach-rasskazal-o-luchshem-zavtrake-dlya-shkolnikov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:30:12 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Врач рассказал о лучшем завтраке для школьников"
-    },
-    {
-      "title": "Голландец описал встречу с жителем Дагестана фразой «не могу забыть до сих пор»",
-      "link": "https://lenta.ru/news/2026/09/09/gollandets-opisal-vstrechu-s-zhitelem-dagestana-frazoy-ne-mogu-zabyt-do-sih-por/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:30:07 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Голландец описал встречу с жителем Дагестана фразой «не могу забыть до сих пор»"
-    },
-    {
-      "title": "Президент Кубы исключил возвращение страны к колониальной зависимости",
-      "link": "https://iz.ru/2163683/2026-09-09/prezident-kuby-iskliuchil-vozvrashchenie-strany-k-kolonialnoi-zavisimosti",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:30:00 +0300",
-      "summary": "<p>Президент Республики Куба Мигель Диас-Канель 8 сентября заявил, что страна никогда больше не станет чьей-либо колонией.</p><p>«Куба, не понаслышке знающая, что значит быть колонией и неоколонией двух империй, твердо о",
-      "tags": [],
-      "titleZh": "Президент Кубы исключил возвращение страны к колониальной зависимости"
-    },
-    {
-      "title": "В Норвегии осудили власти за попытку скрыть визит Зеленского",
-      "link": "https://lenta.ru/news/2026/09/09/v-norvegii-osudili-vlasti-za-popytku-skryt-vizit-zelenskogo/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:29:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Норвегии осудили власти за попытку скрыть визит Зеленского"
-    },
-    {
-      "title": "«Россия побеждает, а Запад в отчаянии». В США объяснили желание союзников Киева добиться перемирия",
-      "link": "https://lenta.ru/news/2026/09/09/long-rossiya-pobezhdaet-a-zapad-v-otchayanii-v-ssha-ob-yasnili-zhelanie-soyuznikov-kieva-dobitsya-peremiriya/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:21:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "«Россия побеждает, а Запад в отчаянии». В США объяснили желание союзников Киева добиться перемирия"
-    },
-    {
-      "title": "Саперы группировки войск «Центр» уничтожили более 40 FPV-дронов «ждунов» ВСУ",
-      "link": "https://iz.ru/2163666/2026-09-09/sapery-gruppirovki-voisk-tcentr-unichtozhili-bolee-40-fpv-dronov-zhdunov-vsu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 09 Sep 2026 05:15:00 +0300",
-      "summary": "<p>Военнослужащие инженерно-саперного подразделения группировки войск «Центр» уничтожили более 40 FPV-дронов «ждунов» Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> при разминировании мар",
-      "tags": [],
-      "titleZh": "Саперы группировки войск «Центр» уничтожили более 40 FPV-дронов «ждунов» ВСУ"
-    },
-    {
-      "title": "В России предложили провести бизнес-форум с участием Германии и США",
-      "link": "https://lenta.ru/news/2026/09/09/spetspredstavitel-putina-predlozhil-provesti-biznes-forum-mezhdu-rossiey-germaniey-i-ssha/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:14:04 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В России предложили провести бизнес-форум с участием Германии и США"
-    },
-    {
-      "title": "Сексолог объяснила разницу между сквиртом и женской эякуляцией",
-      "link": "https://lenta.ru/news/2026/09/09/seksolog-ob-yasnila-raznitsu-mezhdu-skvirtom-i-zhenskoy-eyakulyatsiey/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:12:38 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Сексолог объяснила разницу между сквиртом и женской эякуляцией"
-    },
-    {
-      "title": "Ученые предупредили о глобальном расширении засушливых территорий",
-      "link": "https://lenta.ru/news/2026/09/09/uchenye-predupredili-o-globalnom-rasshirenii-zasushlivyh-territoriy/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:12:29 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Ученые предупредили о глобальном расширении засушливых территорий"
-    },
-    {
-      "title": "Рокерша в оголяющем тело платье предстала перед фотографами в Венеции",
-      "link": "https://lenta.ru/news/2026/09/09/rokersha-v-ogolyayuschem-telo-platie-predstala-pered-fotografami-v-venetsii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:12:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Рокерша в оголяющем тело платье предстала перед фотографами в Венеции"
-    },
-    {
-      "title": "Академик назвал Луну седьмым континентом Земли",
-      "link": "https://lenta.ru/news/2026/09/09/akademik-nazval-lunu-sedmym-kontinentom-zemli/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 05:07:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Академик назвал Луну седьмым континентом Земли"
-    },
-    {
-      "title": "Эксперт заявил о продвижении российских войск широким фронтом в Харьковской области",
-      "link": "https://lenta.ru/news/2026/09/09/ekspert-zayavil-o-prodvizhenii-rossiyskih-voysk-shirokim-frontom-v-harkovskoy-oblasti/",
-      "source": "Lenta",
-      "pubDate": "Wed, 09 Sep 2026 04:34:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Эксперт заявил о продвижении российских войск широким фронтом в Харьковской области"
+      "titleZh": "Российским пенсионерам раскрыли способ сэкономить на ЖКУ"
     }
   ]
 }
