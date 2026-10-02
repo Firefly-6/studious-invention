@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-02T19:35:29.581Z",
+  "updated": "2026-10-02T23:14:00.394Z",
   "count": 200,
   "items": [
-    {
-      "title": "В Японии сообщили о пробных закупках украинских БПЛА",
-      "link": "https://iz.ru/2177681/v-iaponii-soobshchili-o-probnykh-zakupkakh-ukrainskikh-bpla",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:05:00 +0300",
-      "summary": "<p>Япония на пробной основе закупит беспилотные летательные аппараты (БПЛА) украинского производства. Об этом 2 октября сообщает агентство <a href=\"https://www.47news.jp/15027575.html\">Kyodo</a>, ссылаясь на бывшего мини",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "В Японии сообщили о пробных закупках украинских БПЛА"
-    },
     {
       "title": "Цена на нефть Brent упала более чем на 3% на фоне переговоров о поставках дизеля",
       "link": "https://www.vedomosti.ru/investments/news/2026/10/02/1233856-tsena-na-neft",
@@ -39,15 +27,114 @@
       "titleZh": "Центробанк снизил курс доллара до 83,25 рубля"
     },
     {
-      "title": "Военно-транспортный самолет ВВС США подал сигнал бедствия над Канадой",
-      "link": "https://iz.ru/2177741/2026-10-02/voenno-transportnyi-samolet-vvs-ssha-podal-signal-bedstviia-nad-kanadoi-izi",
+      "title": "СМИ: санкции США против МУС могут привести к прекращению его существования",
+      "link": "https://ria.ru/20261003/sanktsii-2121939596.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 02:00:27 +0300",
+      "summary": "",
+      "tags": [
+        "制裁"
+      ],
+      "titleZh": "СМИ: санкции США против МУС могут привести к прекращению его существования"
+    },
+    {
+      "title": "На Украине сообщили о резком снижении экспорта зерновых на 63%",
+      "link": "https://iz.ru/2177807/2026-10-03/na-ukraine-soobshchili-o-rezkom-snizhenii-eksporta-zernovykh-na-63",
       "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:05:27 +0300",
-      "summary": "<p>Американский военно-транспортный самолет Lockheed C-130H Hercules передал сигнал аварийной ситуации во время полета над восточной частью Канады. Об 2 октября этом свидетельствуют данные отслеживания воздушных судов.</",
+      "pubDate": "Sat, 03 Oct 2026 01:57:22 +0300",
+      "summary": "<p>Экспорт зерновых культур с <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> в августе снизился на 63,3% по сравнению с тем же месяцем прошлого года. Об этом 3 октября сообщил Национальный банк Украины (",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "На Украине сообщили о резком снижении экспорта зерновых на 63%"
+    },
+    {
+      "title": "Самая высокая средняя зарплата в июле зафиксирована на Чукотке",
+      "link": "https://iz.ru/2177799/samaia-vysokaia-sredniaia-zarplata-v-iiule-zafiksirovana-na-chukotke-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:20:17 +0300",
+      "summary": "<p>Самая высокая средняя заработная плата в июле 2026 года была зафиксирована на Чукотке — 243 670 рублей. Об этом стало известно 3 октября из данных Росстата, которые были опубликованы на <a href=\"https://rosstat.gov.ru",
+      "tags": [
+        "汇率"
+      ],
+      "titleZh": "Самая высокая средняя зарплата в июле зафиксирована на Чукотке"
+    },
+    {
+      "title": "Россиян предупредили о новой схеме мошенников с предложениями от операторов",
+      "link": "https://ria.ru/20261003/den-2121937040.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:05:55 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Россиян предупредили о новой схеме мошенников с предложениями от операторов"
+    },
+    {
+      "title": "И ты, брутто: как развивать общественный транспорт в российских городах",
+      "link": "https://iz.ru/2177629/sergei-gurianov/i-ty-brutto-kak-razvivat-obshchestvennyi-transport-v-rossiiskikh-gorodakh",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Сразу в нескольких регионах частично остановилось движение автобусов, трамваев и поездов из-за долгов",
       "tags": [
         "物流"
       ],
-      "titleZh": "Военно-транспортный самолет ВВС США подал сигнал бедствия над Канадой"
+      "titleZh": "И ты, брутто: как развивать общественный транспорт в российских городах"
+    },
+    {
+      "title": "Спасение утопающих: сможет ли ЕС избежать дефицита газа этой зимой",
+      "link": "https://iz.ru/2176319/dmitrii-migunov/spasenie-utopaiushchikh-smozhet-li-es-izbezhat-defitcita-gaza-etoi-zimoi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Какими методами Брюссель намерен выходить из энергетического кризиса",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Спасение утопающих: сможет ли ЕС избежать дефицита газа этой зимой"
+    },
+    {
+      "title": "Переправила игры: как Россия ответила на атаки ВСУ новой тактикой ударов",
+      "link": "https://iz.ru/2177702/aleksandr-terentev-iuliia-leonova-anatolii-goldman/kak-rossiya-otvetila-na-ataki-vsu-novoy-taktikoy-udarov",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Мосты через Днепр и дата-центры стали ключевыми целями для ослабления логистики и экономики Киева",
+      "tags": [
+        "物流"
+      ],
+      "titleZh": "Переправила игры: как Россия ответила на атаки ВСУ новой тактикой ударов"
+    },
+    {
+      "title": "Трамп отказался от запрета на экспорт дизельного топлива",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233953-tramp-otkazalsya",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 02 Oct 2026 23:58:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Трамп отказался от запрета на экспорт дизельного топлива"
+    },
+    {
+      "title": "Трамп высказался о запрете на экспорт дизеля",
+      "link": "https://lenta.ru/news/2026/10/03/tramp-vyskazalsya-o-zaprete-na-eksport-dizelya/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:40:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Трамп высказался о запрете на экспорт дизеля"
+    },
+    {
+      "title": "Reuters узнало об отказе Трампа вводить запрет на экспорт дизельного топлива",
+      "link": "https://iz.ru/2177767/reuters-uznalo-ob-otkaze-trampa-vvodit-zapret-na-eksport-dizelnogo-topliva-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:16:56 +0300",
+      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональд Трамп</a> заявил, что не станет вводить запрет на экспорт дизельного топлива. Об этом",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Reuters узнало об отказе Трампа вводить запрет на экспорт дизельного топлива"
     },
     {
       "title": "Лукашенко: сотрудничество России и Белоруссии помогло нивелировать санкции",
@@ -61,17 +148,6 @@
       "titleZh": "Лукашенко: сотрудничество России и Белоруссии помогло нивелировать санкции"
     },
     {
-      "title": "Суд взыскал с Полонского 25 млн рублей по иску Дерипаски о защите репутации",
-      "link": "https://iz.ru/2177733/2026-10-02/sud-vzyskal-s-polonskogo-25-mln-rublei-po-isku-deripaski-o-zashchite-reputatcii",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:37:43 +0300",
-      "summary": "<p>Симоновский суд <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> удовлетворил иск на 25 млн рублей о защите чести, достоинства и деловой репутации бизнесмена Олега Дерипаски к предпринимателю Сергею Полон",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "Суд взыскал с Полонского 25 млн рублей по иску Дерипаски о защите репутации"
-    },
-    {
       "title": "Сотрудники Минфина России впервые получили зарплату в цифровых рублях",
       "link": "https://lenta.ru/news/2026/10/02/sotrudniki-minfina-rossii-vpervye-poluchili-zarplatu-v-tsifrovyh-rublyah/",
       "source": "Lenta",
@@ -81,17 +157,6 @@
         "汇率"
       ],
       "titleZh": "Сотрудники Минфина России впервые получили зарплату в цифровых рублях"
-    },
-    {
-      "title": "Что произошло за день 2 октября. Главное",
-      "link": "https://iz.ru/2177716/2026-10-02/chto-proizoshlo-za-den-2-oktiabria-glavnoe",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:15:00 +0300",
-      "summary": "<p>Вооруженные силы России <a href=\"https://iz.ru/2176649/ukrainskie-smi-soobshchili-ob-udare-armii-rf-po-strategicheski-vazhnomu-mostu-v-kieve-izi\">нанесли удар</a> по Южному мосту в Киеве, что привело к транспортному к",
-      "tags": [
-        "物流"
-      ],
-      "titleZh": "Что произошло за день 2 октября. Главное"
     },
     {
       "title": "Врач предостерег от использования популярного лайфхака с солью для быстрого засыпания",
@@ -171,17 +236,6 @@
       "titleZh": "Биржевая цена на сахар обновила рекорд из-за Эль-Ниньо"
     },
     {
-      "title": "Войска ВДВ на учениях «Центр-2026» впервые десантировали НРТК из самолетов",
-      "link": "https://iz.ru/2177678/voiska-vdv-na-ucheniiakh-tcentr-2026-vpervye-desantirovali-nrtk-iz-samoletov-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:51:34 +0300",
-      "summary": "<p>Подразделения Воздушно-десантных войск (ВДВ) России впервые десантировали наземные робототехнические комплексы (НРТК) различного назначения с военно-транспортных самолетов Ил-76 в ходе стратегического командно-штабног",
-      "tags": [
-        "物流"
-      ],
-      "titleZh": "Войска ВДВ на учениях «Центр-2026» впервые десантировали НРТК из самолетов"
-    },
-    {
       "title": "Новак высказался о стоимости топлива на независимых АЗС",
       "link": "https://lenta.ru/news/2026/10/02/nova-vyskazalsya-o-tsena/",
       "source": "Lenta",
@@ -191,17 +245,6 @@
         "价格"
       ],
       "titleZh": "Новак высказался о стоимости топлива на независимых АЗС"
-    },
-    {
-      "title": "В Минфине стартовали выплаты зарплаты сотрудникам в цифровых рублях",
-      "link": "https://iz.ru/2177674/2026-10-02/v-minfine-startovali-vyplaty-zarplaty-sotrudnikam-v-tcifrovykh-rubliakh",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:39:10 +0300",
-      "summary": "<p>С 1 октября ряд сотрудников Минфина России впервые получил заработную плату в цифровых рублях. Об этом 2 октября сообщили на <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40662-v_minfine_rossii_nachalas_vyplata",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "В Минфине стартовали выплаты зарплаты сотрудникам в цифровых рублях"
     },
     {
       "title": "Российские войска ударили по судну с военными грузами для ВСУ в момент их доставки",
@@ -358,28 +401,6 @@
       "titleZh": "Стоимость барреля нефти упала ниже 100 долларов"
     },
     {
-      "title": "Мировые цены на продовольствие выросли",
-      "link": "https://lenta.ru/news/2026/10/02/mirovye-tseny-na-edu-vyrosli-esche-silnee/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 16:06:00 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "Мировые цены на продовольствие выросли"
-    },
-    {
-      "title": "Крупная немецкая сеть продуктовых закроет магазины в соседней с Россией стране",
-      "link": "https://lenta.ru/news/2026/10/02/krupnaya-evropeyskaya-set-produktovyh-zakroet-magaziny-v-kazahstane/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 15:53:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Крупная немецкая сеть продуктовых закроет магазины в соседней с Россией стране"
-    },
-    {
       "title": "ЕС опроверг заявление Украины о нехватке финансирования",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233851-o-nehvatke-finansirovaniya",
       "source": "Vedomosti",
@@ -402,17 +423,6 @@
       "titleZh": "Оверчук: товарооборот России и Белоруссии в 2026 году превысит $70 млрд"
     },
     {
-      "title": "ФАС отреагировала на резкое подорожание рыбы в России",
-      "link": "https://lenta.ru/news/2026/10/02/fas-otreagirovala-na-rezkoe-podorozhanie-ryby-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 15:42:36 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "ФАС отреагировала на резкое подорожание рыбы в России"
-    },
-    {
       "title": "ЕК: цены на газ в Евросоюзе выросли на 140% с начала года",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233832-tseni-na-gaz-v-evrosoyuze",
       "source": "Vedomosti",
@@ -422,17 +432,6 @@
         "价格"
       ],
       "titleZh": "ЕК: цены на газ в Евросоюзе выросли на 140% с начала года"
-    },
-    {
-      "title": "Дизель в Британии подорожал до очередного рекорда",
-      "link": "https://lenta.ru/news/2026/10/02/dizel-v-britanii-podorozhal-do-ocherednogo-rekorda/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 15:39:00 +0300",
-      "summary": "",
-      "tags": [
-        "价格"
-      ],
-      "titleZh": "Дизель в Британии подорожал до очередного рекорда"
     },
     {
       "title": "Мировые цены на продовольствие достигли максимума почти за четыре года",
@@ -710,62 +709,929 @@
       "titleZh": "В сентябре клиенты «Сбера» оформили семейную ипотеку на 302,8 млрд рублей"
     },
     {
-      "title": "Польша предложила США разместить у себя производство ракет Patriot",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/01/1233503-polsha-predlozhila",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 01 Oct 2026 17:25:14 +0300",
+      "title": "Гросси пообещал действовать независимо на посту генсека ООН",
+      "link": "https://ria.ru/20261003/oon-2121939933.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 02:08:02 +0300",
       "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Польша предложила США разместить у себя производство ракет Patriot"
+      "tags": [],
+      "titleZh": "Гросси пообещал действовать независимо на посту генсека ООН"
     },
     {
-      "title": "Импортозамещение в нефтегазовом машиностроении превысит 90% к 2030 году",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/01/1233505-importozameschenie-previsit",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 01 Oct 2026 17:20:56 +0300",
+      "title": "Посол назвала цель спора вокруг российской недвижимости в Чехии",
+      "link": "https://lenta.ru/news/2026/10/03/posol-nazvala-tsel-spora-vokrug-rossiyskoy-nedvizhimosti-v-chehii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 02:07:34 +0300",
       "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Импортозамещение в нефтегазовом машиностроении превысит 90% к 2030 году"
+      "tags": [],
+      "titleZh": "Посол назвала цель спора вокруг российской недвижимости в Чехии"
     },
     {
-      "title": "«Полюс» доразместит флоатер ПБО-12 еще на 20 млрд рублей",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/01/1233498-polyus-dorazmestit-floater",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 01 Oct 2026 17:06:53 +0300",
+      "title": "Карлсон оценил возможности Британии противостоять России",
+      "link": "https://lenta.ru/news/2026/10/03/karlson-otsenil-vozmozhnosti-britanii-protivostoyat-rossii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 01:58:00 +0300",
       "summary": "",
-      "tags": [
-        "汇率"
-      ],
-      "titleZh": "«Полюс» доразместит флоатер ПБО-12 еще на 20 млрд рублей"
+      "tags": [],
+      "titleZh": "Карлсон оценил возможности Британии противостоять России"
+    },
+    {
+      "title": "Россиянам напомнили о сроках уплаты налогов за 2025 год",
+      "link": "https://ria.ru/20261003/nalogi-2121939447.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:56:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Россиянам напомнили о сроках уплаты налогов за 2025 год"
+    },
+    {
+      "title": "КНДР выпустила баллистическую ракету из Вонсана, утверждает Reuters",
+      "link": "https://ria.ru/20261003/kndr-2121939300.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:55:24 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "КНДР выпустила баллистическую ракету из Вонсана, утверждает Reuters"
+    },
+    {
+      "title": "Опубликованы первые кадры поезда Владикавказ — Адлер после ЧП за заключенными",
+      "link": "https://lenta.ru/news/2026/10/03/opublikovany-pervye-kadry-poezda-vladikavkaz-adler-posle-chp-za-zaklyuchennymi/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 01:46:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Опубликованы первые кадры поезда Владикавказ — Адлер после ЧП за заключенными"
+    },
+    {
+      "title": "Эксперт рассказал, чем опасны медведи-шатуны",
+      "link": "https://ria.ru/20261003/medvedi-2121938984.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:45:46 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Эксперт рассказал, чем опасны медведи-шатуны"
+    },
+    {
+      "title": "В Сирии произошла перестрелка между отрядами друзов и силами безопасности страны",
+      "link": "https://iz.ru/2177804/2026-10-03/v-sirii-proizoshla-perestrelka-mezhdu-otriadami-druzov-i-silami-bezopasnosti-strany",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:45:00 +0300",
+      "summary": "<p>В сирийской провинции Эс-Сувейда произошла перестрелка между отрядами самообороны друзов и силами внутренней безопасности Сирии, один человек был ранен. Об этом 2 октября сообщила телевизионная сеть <a href=\"https://w",
+      "tags": [],
+      "titleZh": "В Сирии произошла перестрелка между отрядами друзов и силами безопасности страны"
+    },
+    {
+      "title": "Депутат Госдумы назвал Украину крупнейшим центром контрабанды оружия в Европе",
+      "link": "https://lenta.ru/news/2026/10/03/deputat-gosdumy-nazval-ukrainu-krupneyshim-tsentrom-kontrabandy-oruzhiya-v-evrope/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 01:39:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Депутат Госдумы назвал Украину крупнейшим центром контрабанды оружия в Европе"
+    },
+    {
+      "title": "Врач рассказала, кто чаще болеет ОРВИ",
+      "link": "https://ria.ru/20261003/epidemiolog-2121938826.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:38:19 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Врач рассказала, кто чаще болеет ОРВИ"
+    },
+    {
+      "title": "Власти США заявили, что нашли возбудителя \"взрывной диареи\" в Мексике",
+      "link": "https://ria.ru/20261003/meksika-2121938645.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:36:33 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Власти США заявили, что нашли возбудителя \"взрывной диареи\" в Мексике"
+    },
+    {
+      "title": "FT узнала о возможном уголовном деле против Орбана из-за задержания инкассаторов",
+      "link": "https://iz.ru/2177797/ft-uznala-o-vozmozhnom-ugolovnom-dele-protiv-orbana-iz-za-zaderzhaniia-inkassatorov-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:33:31 +0300",
+      "summary": "<p>Против экс-премьера Венгрии Виктора Орбана может быть возбуждено уголовное дело, если подтвердится его участие в планировании операции по задержанию украинских инкассаторов. Об этом сообщила газета Financial Times (<a",
+      "tags": [],
+      "titleZh": "FT узнала о возможном уголовном деле против Орбана из-за задержания инкассаторов"
+    },
+    {
+      "title": "Челябинские ученые создали новую технологию сварки металлов",
+      "link": "https://ria.ru/20261003/cheljabinsk-2121938288.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:28:01 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Челябинские ученые создали новую технологию сварки металлов"
+    },
+    {
+      "title": "Посол РФ Грозов заявил об отходе Австрии от принципа нейтралитета",
+      "link": "https://iz.ru/2177801/2026-10-03/posol-rf-grozov-zaiavil-ob-otkhode-avstrii-ot-printcipa-neitraliteta",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:27:24 +0300",
+      "summary": "<p>Посол России в Австрии Андрей Грозов 2 октября заявил, что австрийские власти целенаправленно меняют трактовку нейтралитета — теперь он сводится лишь к военной составляющей.</p><p>«Сегодня мы с сожалением вынуждены ко",
+      "tags": [],
+      "titleZh": "Посол РФ Грозов заявил об отходе Австрии от принципа нейтралитета"
+    },
+    {
+      "title": "Карлсон: если бы у Киева было ядерное оружие, он бы его продал",
+      "link": "https://ria.ru/20261003/kiev-2121938115.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:21:44 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Карлсон: если бы у Киева было ядерное оружие, он бы его продал"
+    },
+    {
+      "title": "Welt am Sonntag сообщила о критике премьером Албании обещаний ЕС Украине",
+      "link": "https://iz.ru/2177800/2026-10-03/welt-am-sonntag-soobshchila-o-kritike-premerom-albanii-obeshchanii-es-ukraine",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:21:18 +0300",
+      "summary": "<p>Премьер-министр Албании Эди Рама 2 октября заявил, что обещания Брюсселя о вступлении <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> в Евросоюз не соответствуют реальным перспективам страны. Его слова",
+      "tags": [],
+      "titleZh": "Welt am Sonntag сообщила о критике премьером Албании обещаний ЕС Украине"
+    },
+    {
+      "title": "Евросоюз обвинили во лжи насчет вступления Украины в объединение",
+      "link": "https://lenta.ru/news/2026/10/03/bryussel-obvinili-vo-lzhi-o-chlenstve-ukrainy-v-es/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 01:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Евросоюз обвинили во лжи насчет вступления Украины в объединение"
+    },
+    {
+      "title": "Посол рассказала, зачем Чехия нацелилась на российскую недвижимость",
+      "link": "https://ria.ru/20261003/chehija-2121937903.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:19:22 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Посол рассказала, зачем Чехия нацелилась на российскую недвижимость"
+    },
+    {
+      "title": "\"Надвигающаяся угроза\": в Британии запаниковали из-за ситуации в Киеве",
+      "link": "https://ria.ru/20261003/ukraina-2121937730.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:17:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "\"Надвигающаяся угроза\": в Британии запаниковали из-за ситуации в Киеве"
+    },
+    {
+      "title": "Британия не способна противостоять России в военном плане, заявил Карлсон",
+      "link": "https://ria.ru/20261003/britanija-2121937569.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:16:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Британия не способна противостоять России в военном плане, заявил Карлсон"
+    },
+    {
+      "title": "Мендель призвала власти пойти на деэскалацию в конфликте с Россией",
+      "link": "https://ria.ru/20261003/kiev-2121937406.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:15:29 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Мендель призвала власти пойти на деэскалацию в конфликте с Россией"
+    },
+    {
+      "title": "Франция и Италия сыграли вничью в матче третьего тура Лиги наций",
+      "link": "https://iz.ru/2177798/2026-10-03/frantciia-i-italiia-sygrali-vnichiu-v-matche-tretego-tura-ligi-natcii",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:15:00 +0300",
+      "summary": "<p>Сборные Франции и Италии завершили встречу третьего тура Лиги наций со счетом 1:1. Матч 2 октября прошел на поле французов.</p><p>Хозяева открыли счет на 55-й минуте: Майкл Олисе забил прямым ударом со штрафного. На 6",
+      "tags": [],
+      "titleZh": "Франция и Италия сыграли вничью в матче третьего тура Лиги наций"
+    },
+    {
+      "title": "СМИ: при крушении самолета в США погиб известный израильский актер",
+      "link": "https://ria.ru/20261003/akter-2121937260.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:09:03 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "СМИ: при крушении самолета в США погиб известный израильский актер"
+    },
+    {
+      "title": "Австрию обвинили в искажении статуса нейтралитета",
+      "link": "https://lenta.ru/news/2026/10/03/avstriyu-obvinili-v-iskazhenii-statusa-neytraliteta/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 01:08:12 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Австрию обвинили в искажении статуса нейтралитета"
+    },
+    {
+      "title": "Премьер Албании обвинил Брюссель во лжи о членстве Украины в ЕС",
+      "link": "https://ria.ru/20261003/premer-2121936869.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 01:02:56 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Премьер Албании обвинил Брюссель во лжи о членстве Украины в ЕС"
+    },
+    {
+      "title": "КНДР выпустила неопознанную ракету в сторону Японского моря",
+      "link": "https://iz.ru/2177795/2026-10-03/kndr-vypustila-neopoznannuiu-raketu-v-storonu-iaponskogo-moria",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 01:00:00 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/kndr\" target=\"_blank\">КНДР</a> выпустила неопознанную ракету в сторону Японского моря. Об этом 3 октября сообщает агентство <a href=\"https://en.yna.co.kr/view/AEN20260930004900315?section=na",
+      "tags": [],
+      "titleZh": "КНДР выпустила неопознанную ракету в сторону Японского моря"
+    },
+    {
+      "title": "Посол: восстановление отношений России с ЕС в прежнем формате невозможно",
+      "link": "https://ria.ru/20261003/posol-2121936511.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 00:59:40 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Посол: восстановление отношений России с ЕС в прежнем формате невозможно"
+    },
+    {
+      "title": "Посольство: Россия ответит, если Австралия попробует изъять активы",
+      "link": "https://ria.ru/20261003/rossija-2121936271.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 00:56:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Посольство: Россия ответит, если Австралия попробует изъять активы"
+    },
+    {
+      "title": "Минздрав разработал новый порядок медосвидетельствования водителей",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/03/1233956-minzdrav-razrabotal-poryadok",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 03 Oct 2026 00:55:39 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Минздрав разработал новый порядок медосвидетельствования водителей"
+    },
+    {
+      "title": "В Федерации футбола Португалии захотели вернуть Роналду в сборную",
+      "link": "https://lenta.ru/news/2026/10/02/v-federatsii-futbola-portugalii-zahoteli-vernut-ronaldu-v-sbornuyu/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:55:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В Федерации футбола Португалии захотели вернуть Роналду в сборную"
+    },
+    {
+      "title": "Ренхап утверждает, что КНДР выпустила ракету в сторону Японского моря",
+      "link": "https://ria.ru/20261003/kndr-2121936038.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 00:49:31 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Ренхап утверждает, что КНДР выпустила ракету в сторону Японского моря"
+    },
+    {
+      "title": "Власти Подмосковья рассказали, как вести себя при встрече с медведем",
+      "link": "https://ria.ru/20261003/podmoskove-2121935884.html",
+      "source": "RIA",
+      "pubDate": "Sat, 03 Oct 2026 00:47:38 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Власти Подмосковья рассказали, как вести себя при встрече с медведем"
+    },
+    {
+      "title": "Известный израильский актер Капульник разбился на самолете в США",
+      "link": "https://iz.ru/2177787/2026-10-03/izvestnyi-izrailskii-akter-kapulnik-razbilsia-na-samolete-v-ssha",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:45:22 +0300",
+      "summary": "<p>Известный израильский актер Ги Капульник погиб в результате падения легкомоторного самолета на поле. Об этом стало известно 30 сентября.</p><p>«46-летний Ги Капульник управлял одномоторным самолетом, когда тот разбилс",
+      "tags": [],
+      "titleZh": "Известный израильский актер Капульник разбился на самолете в США"
+    },
+    {
+      "title": "Израиль открыл огонь по демилитаризованной зоне на юге Сирии",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/03/1233955-izrail-otkril-ogon",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 03 Oct 2026 00:43:16 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Израиль открыл огонь по демилитаризованной зоне на юге Сирии"
+    },
+    {
+      "title": "Раскрыто состояние выжившей после казни в США заключенной",
+      "link": "https://lenta.ru/news/2026/10/03/cnn-raskryl-sostoyanie-vyzhivshey-posle-kazni-v-ssha-zaklyuchennoy/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:37:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Раскрыто состояние выжившей после казни в США заключенной"
+    },
+    {
+      "title": "ФСИН России отреагировала на гибель сотрудника во время ЧП с заключенными в поезде",
+      "link": "https://lenta.ru/news/2026/10/03/fsin-rossii-otreagirovala-na-gibel-sotrudnika-vo-vremya-chp-s-zaklyuchennymi-v-poezde/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:31:25 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "ФСИН России отреагировала на гибель сотрудника во время ЧП с заключенными в поезде"
+    },
+    {
+      "title": "Заключенный на этапе убил сотрудника ФСИН в поезде. Что известно",
+      "link": "https://iz.ru/2177785/2026-10-03/zakliuchennyi-na-etape-ubil-sotrudnika-fsin-v-poezde-chto-izvestno",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:30:34 +0300",
+      "summary": "<p>Вечером в вагоне поезда с этапируемыми заключенными Владикавказ – Адлер в районе станции Муртазово сорвали стоп-кран, после чего один из арестантов <a href=\"https://iz.ru/2177758/2026-10-02/zakliuchennye-ustroili-bunt",
+      "tags": [],
+      "titleZh": "Заключенный на этапе убил сотрудника ФСИН в поезде. Что известно"
+    },
+    {
+      "title": "Стали известны подробности о состоянии сотрудников ФСИН после ЧП под Владикавказом",
+      "link": "https://lenta.ru/news/2026/10/03/stali-izvestny-podrobnosti-o-sostoyanii-sotrudnikov-fsin-posle-chp-pod-vladikavkazom/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:25:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Стали известны подробности о состоянии сотрудников ФСИН после ЧП под Владикавказом"
+    },
+    {
+      "title": "В МИД РФ заявили о целях украинских атак во время выборов в Госдуму",
+      "link": "https://iz.ru/2177759/2026-10-03/v-mid-rf-zaiavili-o-tceliakh-ukrainskikh-atak-vo-vremia-vyborov-v-gosdumu",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:25:00 +0300",
+      "summary": "<p>Последние атаки Киева были направлены на подрыв легитимности выборов в Госдуму, заявил «Известиям» посол по особым поручениям МИД РФ Родион Мирошник.</p>",
+      "tags": [],
+      "titleZh": "В МИД РФ заявили о целях украинских атак во время выборов в Госдуму"
+    },
+    {
+      "title": "Трамп сделал заявление о своем импичменте",
+      "link": "https://lenta.ru/news/2026/10/03/tramp-sdelal-zayavlenie-o-svoem-impichmente/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:24:35 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Трамп сделал заявление о своем импичменте"
+    },
+    {
+      "title": "Первые кадры вокзала рядом с которым заключенный напал на сотрудников ФСИН",
+      "link": "https://iz.ru/2177783/video/pervye-kadry-vokzala-riadom-s-kotorym-zakliuchennyi-napal-na-sotrudnikov-fsin",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:21:18 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Первые кадры вокзала рядом с которым заключенный напал на сотрудников ФСИН"
+    },
+    {
+      "title": "Прокуратура подтвердила ликвидацию заключенного во время ЧП в поезде Владикавказ — Адлер",
+      "link": "https://lenta.ru/news/2026/10/03/prokuratura-podtverdila-likvidatsiyu-zaklyuchennogo-vo-vremya-chp-v-poezde-vladikavkaz-adler/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:20:51 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Прокуратура подтвердила ликвидацию заключенного во время ЧП в поезде Владикавказ — Адлер"
+    },
+    {
+      "title": "ФСИН поддержит семью погибшего при нападении во время конвоирования",
+      "link": "https://iz.ru/2177782/2026-10-03/fsin-podderzhit-semiu-pogibshego-pri-napadenii-vo-vremia-konvoirovaniia",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:20:32 +0300",
+      "summary": "<p>Федеральная служба исполнения наказаний (ФСИН) окажет всю необходимую помощь семье погибшего сотрудника и пострадавшим при нападении осужденного во время конвоирования в районе станции Муртазово. Об этом 3 октября зая",
+      "tags": [],
+      "titleZh": "ФСИН поддержит семью погибшего при нападении во время конвоирования"
+    },
+    {
+      "title": "Россия пообещала ответ на возможную конфискацию активов в Австралии",
+      "link": "https://iz.ru/2177748/2026-10-03/rossiia-poobeshchala-otvet-na-vozmozhnuiu-konfiskatciiu-aktivov-v-avstralii",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:20:00 +0300",
+      "summary": "<p>Россия примет ответные меры, если Австралия создаст механизм конфискации замороженных российских активов и их передачи <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a>. Об этом «Известиям» сообщили в по",
+      "tags": [],
+      "titleZh": "Россия пообещала ответ на возможную конфискацию активов в Австралии"
+    },
+    {
+      "title": "СК возбудил дело после нападения заключенного на конвоиров в Кабардино-Балкарии",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/03/1233954-sk-vozbudil-delo",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 03 Oct 2026 00:18:42 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "СК возбудил дело после нападения заключенного на конвоиров в Кабардино-Балкарии"
+    },
+    {
+      "title": "Народные приметы на 3 октября: что можно и нельзя делать",
+      "link": "https://iz.ru/2177575/narodnye-primety-na-3-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:10:00 +0300",
+      "summary": "<p>На Руси приметам издревле придавали особое значение. По ним судили о погоде, о том, когда сеять и собирать урожай, чего ожидать в будущем. Поэтому каждый день народного календаря был насыщен обрядами и суевериями. «Из",
+      "tags": [],
+      "titleZh": "Народные приметы на 3 октября: что можно и нельзя делать"
+    },
+    {
+      "title": "Фонд США и Украины начал реализацию проекта по добыче минералов",
+      "link": "https://iz.ru/2177779/fond-ssha-i-ukrainy-nachal-realizatciiu-proekta-po-dobyche-mineralov-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:07:13 +0300",
+      "summary": "<p>Совместный инвестиционный фонд <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> и <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> заключил первую сделку в сфере добычи важнейших полезных ископа",
+      "tags": [],
+      "titleZh": "Фонд США и Украины начал реализацию проекта по добыче минералов"
+    },
+    {
+      "title": "3 октября: какой праздник отмечают в России и мире",
+      "link": "https://lenta.ru/news/2026/10/03/3-oktyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:05:08 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "3 октября: какой праздник отмечают в России и мире"
+    },
+    {
+      "title": "Российский посол рассказал о планах Австрии по НАТО",
+      "link": "https://lenta.ru/news/2026/10/02/rossiyskiy-posol-rasskazal-o-planah-avstrii-po-nato/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:05:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Российский посол рассказал о планах Австрии по НАТО"
+    },
+    {
+      "title": "Алое солнце пустыни: стоит ли ждать эскалации американо-иранского вооруженного конфликта",
+      "link": "https://iz.ru/2177624/kseniia-makushnikova/aloe-solntce-pustyni-stoit-li-zhdat-eskalatcii-amerikano-iranskogo-vooruzhennogo-konflikta",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "США перебрасывают на Ближний Восток третью авианосную группу",
+      "tags": [],
+      "titleZh": "Алое солнце пустыни: стоит ли ждать эскалации американо-иранского вооруженного конфликта"
+    },
+    {
+      "title": "Сетевой максимум: к концу 2029 года газификация российских регионов превысит 80%",
+      "link": "https://iz.ru/2177307/liubov-lezhneva/setevoi-maksimum-k-kontcu-2029-goda-gazifikatciia-rossiiskikh-regionov-prevysit-80",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Как меняется газовая инфраструктура в России",
+      "tags": [],
+      "titleZh": "Сетевой максимум: к концу 2029 года газификация российских регионов превысит 80%"
+    },
+    {
+      "title": "Капустный бум: как локальное блюдо стало точкой роста гастрономического туризма",
+      "link": "https://iz.ru/2176485/georgii-kesoian/kapustnyi-bum-kak-lokalnoe-bliudo-stalo-tochkoi-rosta-gastronomicheskogo-turizma",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Ежегодно тысячи людей едут на Новгородчину за серыми щами",
+      "tags": [],
+      "titleZh": "Капустный бум: как локальное блюдо стало точкой роста гастрономического туризма"
+    },
+    {
+      "title": "Красавица и чудовище: почему нельзя переделать «плохого парня»",
+      "link": "https://iz.ru/2174939/evgeniia-borodina/krasavitca-i-chudovishche-pochemu-nelzia-peredelat-plokhogo-parnia",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Психологи рассказали, как отличить надежного мужчину от манипулятора и абьюзера",
+      "tags": [],
+      "titleZh": "Красавица и чудовище: почему нельзя переделать «плохого парня»"
+    },
+    {
+      "title": "В стальных грезах: Accept и Хелависа празднуют юбилеи",
+      "link": "https://iz.ru/2166646/vladislav-krylov/v-stalnykh-grezakh-accept-i-khelavisa-prazdnuiut-iubilei",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:02:00 +0300",
+      "summary": "Самые интересные музыкальные альбомы сентября",
+      "tags": [],
+      "titleZh": "В стальных грезах: Accept и Хелависа празднуют юбилеи"
+    },
+    {
+      "title": "Охотники за Ноевым ковчегом уверены, что наконец нашли его. Какие доказательства они приводят?",
+      "link": "https://lenta.ru/news/2026/10/03/long-ark/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:01:15 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Охотники за Ноевым ковчегом уверены, что наконец нашли его. Какие доказательства они приводят?"
+    },
+    {
+      "title": "«Нравится играть в регионах — там всегда аншлаги»",
+      "link": "https://iz.ru/2177744/aleksei-fomin/nravitsia-igrat-v-regionakh-tam-vsegda-anshlagi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Футболист сборной России Илья Вахания — о предстоящем матче с Намибией в Екатеринбурге, победе над Ираном и долгих сборах",
+      "tags": [],
+      "titleZh": "«Нравится играть в регионах — там всегда аншлаги»"
+    },
+    {
+      "title": "Не НАТО ответили: Запад проигнорировал призывы Путина не допустить эскалации",
+      "link": "https://iz.ru/2177672/vladimir-sevriuk/zapad-proignoriroval-prizyvy-putina-ne-dopustit-eskalatcii",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Почему слова президента на «Валдае» связали с угрозой нового витка конфронтации",
+      "tags": [],
+      "titleZh": "Не НАТО ответили: Запад проигнорировал призывы Путина не допустить эскалации"
+    },
+    {
+      "title": "Рецепт на счастье: россиянам стали чаще прописывать антидепрессанты",
+      "link": "https://iz.ru/2177625/irina-ionina/retcept-na-schaste-rossiianam-stali-chashche-propisyvat-antidepressanty",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Около 40% клиентов жалуются психологам на тревогу и стресс, 38% — на депрессию",
+      "tags": [],
+      "titleZh": "Рецепт на счастье: россиянам стали чаще прописывать антидепрессанты"
+    },
+    {
+      "title": "Человек просроченный: «Очередной театр» открылся драмой о борьбе с Системой",
+      "link": "https://iz.ru/2177621/ivetta-nevinnaia/ocherednoj-teatr-otkrylsya-dramoj-o-borbe-s-sistemoj",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Вдова Игоря Золотовицкого в спектакле сына играет пенсионерку, которая пытается доказать чиновникам, что она жива",
+      "tags": [],
+      "titleZh": "Человек просроченный: «Очередной театр» открылся драмой о борьбе с Системой"
+    },
+    {
+      "title": "Обратная сторона металла: Россия ответит Австралии на попытки изъятия активов",
+      "link": "https://iz.ru/2177616/daniil-sechkin/rossiia-otvetit-avstralii-na-popytki-iziatiia-aktivov",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Что осталось от экономических связей Москвы и Канберры",
+      "tags": [],
+      "titleZh": "Обратная сторона металла: Россия ответит Австралии на попытки изъятия активов"
+    },
+    {
+      "title": "Выгодная экспозиция: что Россия и другие страны показали на ADEX 2026",
+      "link": "https://iz.ru/2177528/roman-kretcul-dmitrii-kornev/chto-rossiya-i-drugie-strany-pokazali-na-adex-2026",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Беспилотники, средства ПВО и дальнобойные ракеты стали главными премьерами оружейного форума в Баку",
+      "tags": [],
+      "titleZh": "Выгодная экспозиция: что Россия и другие страны показали на ADEX 2026"
+    },
+    {
+      "title": "Ставка на сдачу: симуляторы российских киосков стали мировым трендом",
+      "link": "https://iz.ru/2176697/anton-belyi/simulyatory-rossijskih-kioskov-stali-mirovym-trendom",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:01:00 +0300",
+      "summary": "Иностранные разработчики начали копировать идеи проектов «Ларек на улице Ленина» и «Размена не будет»",
+      "tags": [],
+      "titleZh": "Ставка на сдачу: симуляторы российских киосков стали мировым трендом"
+    },
+    {
+      "title": "ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям",
+      "link": "https://lenta.ru/news/2026/10/02/chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom-kvalifitsirovali-po-trem-statyam/",
+      "source": "Lenta",
+      "pubDate": "Sat, 03 Oct 2026 00:00:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "ЧП в поезде с заключенными под Владикавказом квалифицировали по трем статьям"
+    },
+    {
+      "title": "Ефрейтор Салимов спас раненых под минометным обстрелом в зоне СВО",
+      "link": "https://iz.ru/2177762/efreitor-salimov-spas-ranenykh-pod-minometnym-obstrelom-v-zone-svo-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:00:00 +0300",
+      "summary": "<p>Ефрейтор Эдуард Салимов оказал помощь раненым военнослужащим и организовал их эвакуацию с линии боевого соприкосновения. О подвигах российских военнослужащих в зоне проведения специальной военной операции 3 октября со",
+      "tags": [],
+      "titleZh": "Ефрейтор Салимов спас раненых под минометным обстрелом в зоне СВО"
+    },
+    {
+      "title": "В Роскачестве рассказали о полезных свойствах капусты и правилах ее выбора",
+      "link": "https://iz.ru/2177474/2026-10-03/v-roskachestve-rasskazali-o-poleznykh-svoistvakh-kapusty-i-pravilakh-ee-vybora",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:00:00 +0300",
+      "summary": "<p>Капуста содержит витамины и минералы, которые необходимы для нормальной работы организма. Овощ может поддерживать здоровье сердечно-сосудистой системы, помогать контролировать давление и уровень «плохого» холестерина,",
+      "tags": [],
+      "titleZh": "В Роскачестве рассказали о полезных свойствах капусты и правилах ее выбора"
+    },
+    {
+      "title": "Особый народный праздник 4 октября — Кондрат да Ипат: история, традиции, приметы",
+      "link": "https://iz.ru/2177288/2026-10-03/osobyi-narodnyi-prazdnik-4-oktiabria-kondrat-da-ipat-istoriia-traditcii-primety",
+      "source": "Izvestia",
+      "pubDate": "Sat, 03 Oct 2026 00:00:00 +0300",
+      "summary": "<p>Ежегодно 4 октября православные верующие чтят память апостола от семидесяти Кодрата Афинского, одного из ранних христианских проповедников и апологетов, а также священномучеников Ипатия епископа и Андрея, пострадавших",
+      "tags": [],
+      "titleZh": "Особый народный праздник 4 октября — Кондрат да Ипат: история, традиции, приметы"
+    },
+    {
+      "title": "Кличко заявил об очень драматичной ситуации в Киеве",
+      "link": "https://lenta.ru/news/2026/10/02/klichko-zayavil-ob-ochen-dramatichnoy-situatsii-v-kieve/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:59:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Кличко заявил об очень драматичной ситуации в Киеве"
+    },
+    {
+      "title": "Уголовное дело возбудили по факту нападения на конвоиров в Кабардино-Балкарии",
+      "link": "https://iz.ru/2177776/2026-10-02/ugolovnoe-delo-vozbudili-po-faktu-napadeniia-na-konvoirov-v-kabardino-balkarii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:53:48 +0300",
+      "summary": "<p>Уголовное дело возбудили по факту нападения заключенного на конвоиров в Кабардино-Балкарии. Об этом 2 октября сообщили в СК России по Кабардино-Балкарской Республике.</p><p>«По версии следствия, 2 октября 2026 года в ",
+      "tags": [],
+      "titleZh": "Уголовное дело возбудили по факту нападения на конвоиров в Кабардино-Балкарии"
+    },
+    {
+      "title": "Франция впервые потеряла очки при Зидане",
+      "link": "https://lenta.ru/news/2026/10/02/frantsiya-vpervye-poteryala-ochki-pri-zidane/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:51:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Франция впервые потеряла очки при Зидане"
+    },
+    {
+      "title": "Заключенный убил сотрудника ФСИН в поезде «Владикавказ – Адлер»",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/02/1233952-zaklyuchennii-ubil-sotrudnika",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 02 Oct 2026 23:48:27 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Заключенный убил сотрудника ФСИН в поезде «Владикавказ – Адлер»"
+    },
+    {
+      "title": "Сотрудники ФСИН получили тяжелые ранения при нападении арестанта в поезде",
+      "link": "https://iz.ru/2177775/2026-10-02/sotrudniki-fsin-poluchili-tiazhelye-raneniia-pri-napadenii-arestanta-v-poezde",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:48:11 +0300",
+      "summary": "<p>Трое сотрудников Федеральной службы исполнения наказаний (ФСИН) получили огнестрельные ранения шеи и груди при нападении осужденного в поезде Владикавказ – Адлер. Один из пострадавших находится в реанимации в тяжелом ",
+      "tags": [],
+      "titleZh": "Сотрудники ФСИН получили тяжелые ранения при нападении арестанта в поезде"
+    },
+    {
+      "title": "Бывший министр экономики России подтвердил госпитализацию",
+      "link": "https://lenta.ru/news/2026/10/02/byvshiy-ministr-ekonomiki-rossii-podtverdil-gospitalizatsiyu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:47:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Бывший министр экономики России подтвердил госпитализацию"
+    },
+    {
+      "title": "Во ФСИН России сделали заявление после ЧП в поезде с заключенными",
+      "link": "https://lenta.ru/news/2026/10/02/vo-fsin-rossii-sdelali-zayavlenie-posle-chp-v-poezde-s-zaklyuchennymi/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:46:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Во ФСИН России сделали заявление после ЧП в поезде с заключенными"
+    },
+    {
+      "title": "В Минздраве рассказали про проекты об обязательном медосвидетельствовании водителей",
+      "link": "https://iz.ru/2177774/2026-10-02/v-minzdrave-rasskazali-pro-proekty-ob-obiazatelnom-medosvidetelstvovanii-voditelei",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:40:23 +0300",
+      "summary": "<p>В пресс‑службе Минздрава России 2 октября рассказали о разработке проектов, регламентирующих проведение обязательного и внеочередного медицинского освидетельствования водителей.</p><p>«Минздрав России разработал проек",
+      "tags": [],
+      "titleZh": "В Минздраве рассказали про проекты об обязательном медосвидетельствовании водителей"
+    },
+    {
+      "title": "Во ФСИН сообщили об отсутствии пострадавших среди гражданских в ходе инцидента в КБР",
+      "link": "https://iz.ru/2177773/2026-10-02/vo-fsin-soobshchili-ob-otsutstvii-postradavshikh-sredi-grazhdanskikh-v-khode-intcidenta-v-kbr",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:39:03 +0300",
+      "summary": "<p>Пострадавших среди гражданского населения в ходе инцидента с этапируемыми заключенными поезда Владикавказ – Адлер в Кабардино-Балкарии нет. Об этом 2 октября рассказал источник «Известий» в Федеральной службе исполнен",
+      "tags": [],
+      "titleZh": "Во ФСИН сообщили об отсутствии пострадавших среди гражданских в ходе инцидента в КБР"
+    },
+    {
+      "title": "Стало известно о пострадавших в поезде с заключенными после ЧП под Владикавказом",
+      "link": "https://lenta.ru/news/2026/10/02/stalo-izvestno-o-postradavshih-v-poezde-s-zaklyuchennymi-posle-chp-pod-vladikavkazom/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:37:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Стало известно о пострадавших в поезде с заключенными после ЧП под Владикавказом"
+    },
+    {
+      "title": "Спецпосланник президента США опроверг сообщения об инвестициях в оборону Израиля",
+      "link": "https://lenta.ru/news/2026/10/02/spetsposlannik-prezidenta-ssha-oproverg-soobscheniya-ob-investitsiyah-v-oboronu-izrailya/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:37:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Спецпосланник президента США опроверг сообщения об инвестициях в оборону Израиля"
+    },
+    {
+      "title": "Аргентина начнет выдавать гражданство за инвестиции",
+      "link": "https://lenta.ru/news/2026/10/02/argentina-nachnet-vydavat-grazhdanstvo-za-investitsii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:35:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Аргентина начнет выдавать гражданство за инвестиции"
+    },
+    {
+      "title": "Аргентина запустит программу получения гражданства в обмен на инвестиции",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233951-argentina-zapustit-programmu",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 02 Oct 2026 23:33:50 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Аргентина запустит программу получения гражданства в обмен на инвестиции"
+    },
+    {
+      "title": "Журналист Карлсон оценил масштабы коррупции на Украине",
+      "link": "https://iz.ru/2177772/2026-10-02/zhurnalist-karlson-otcenil-masshtaby-korruptcii-na-ukraine",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:33:26 +0300",
+      "summary": "<p>Американский журналист Такер Карлсон 2 октября высказал жесткую оценку уровня коррупции на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a>.</p><p>«Украина, будучи самой коррумпированной страной в Европ",
+      "tags": [],
+      "titleZh": "Журналист Карлсон оценил масштабы коррупции на Украине"
+    },
+    {
+      "title": "Кравцов обозначил главный педагогический вызов при внедрении ИИ в школы",
+      "link": "https://iz.ru/2177771/kravtcov-oboznachil-glavnyi-pedagogicheskii-vyzov-pri-vnedrenii-ii-v-shkoly-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:32:18 +0300",
+      "summary": "<p>Главной педагогической задачей при использовании искусственного интеллекта (ИИ) в школах остается сохранение способности учеников самостоятельно мыслить. Об этом 2 октября сообщили в пресс-службе Минпросвещения России",
+      "tags": [],
+      "titleZh": "Кравцов обозначил главный педагогический вызов при внедрении ИИ в школы"
+    },
+    {
+      "title": "Жена Сафонова рассказала об отношении к брачному контракту",
+      "link": "https://lenta.ru/news/2026/10/02/zhena-safonova-rasskazala-ob-otnoshenii-k-brachnomu-kontraktu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:32:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Жена Сафонова рассказала об отношении к брачному контракту"
+    },
+    {
+      "title": "В России изменится порядок медосвидетельствования водителей",
+      "link": "https://lenta.ru/news/2026/10/02/v-rossii-izmenitsya-poryadok-medosvidetelstvovaniya-voditeley/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:30:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В России изменится порядок медосвидетельствования водителей"
+    },
+    {
+      "title": "Сотрудник ФСИН погиб при нападении арестантов в поезде",
+      "link": "https://iz.ru/2177769/2026-10-02/sotrudnik-fsin-pogib-pri-napadenii-arestantov-v-poezde",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:23:38 +0300",
+      "summary": "<p>Этапированные арестанты напали на сотрудника Федеральной службы исполнения наказаний (ФСИН) в поезде Владикавказ — Адлер. В результате нападения он погиб. Об этом 2 октября сообщил источник «Известий».</p><p>Также пос",
+      "tags": [],
+      "titleZh": "Сотрудник ФСИН погиб при нападении арестантов в поезде"
+    },
+    {
+      "title": "Спецпредставитель Путина призвал НАТО прекратить разжигание войны",
+      "link": "https://lenta.ru/news/2026/10/02/spetspredstavitel-putina-prizval-nato-prekratit-razzhiganie-voyny/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:21:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Спецпредставитель Путина призвал НАТО прекратить разжигание войны"
+    },
+    {
+      "title": "Появились подробности о ЧП в поезде с заключенными под Владикавказом",
+      "link": "https://lenta.ru/news/2026/10/02/poyavilis-podrobnosti-o-chp-v-poezde-s-zaklyuchennymi-pod-vladikavkazom/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:20:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Появились подробности о ЧП в поезде с заключенными под Владикавказом"
+    },
+    {
+      "title": "Во ФСИН подтвердили происшествие с заключенными в поезде в Кабардино-Балкарии",
+      "link": "https://iz.ru/2177766/2026-10-02/vo-fsin-podtverdili-proisshestvie-s-zakliuchennymi-v-poezde-v-kabardino-balkarii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:18:07 +0300",
+      "summary": "<p>В управлении Федеральной службы исполнения наказаний (ФСИН) по Республике Северная Осетия — Алания 2 октября подтвердили сведения о происшествии с заключенными в поезде на территории Кабардино‑Балкарии.</p><p>«Вот тол",
+      "tags": [],
+      "titleZh": "Во ФСИН подтвердили происшествие с заключенными в поезде в Кабардино-Балкарии"
+    },
+    {
+      "title": "В России завершилась активная фаза учений ОДКБ",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233950-zavershilas-faza",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 02 Oct 2026 23:14:25 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В России завершилась активная фаза учений ОДКБ"
+    },
+    {
+      "title": "Дмитриев прокомментировал скандал на вручении НАТО «премии мира» в Мюнстере",
+      "link": "https://iz.ru/2177763/2026-10-02/dmitriev-prokommentiroval-skandal-na-vruchenii-nato-premii-mira-v-miunstere",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:09:31 +0300",
+      "summary": "<p>Глава Российского фонда прямых инвестиций (РФПИ) Кирилл Дмитриев 2 октября прокомментировал скандал на вручении НАТО «премии мира» в Мюнстере, призвав канцлера ФРГ Мерца уйти в отставку.</p><p>«Вручение НАТО «премии м",
+      "tags": [],
+      "titleZh": "Дмитриев прокомментировал скандал на вручении НАТО «премии мира» в Мюнстере"
+    },
+    {
+      "title": "В поезде Владикавказ — Адлер заключенные напали на конвой, погиб сотрудник ФСИН. Что известно к этой минуте?",
+      "link": "https://lenta.ru/news/2026/10/02/long-v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh-pogib-sotrudnik-fsin-chto-izvestno-k-etoy-minute/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:03:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В поезде Владикавказ — Адлер заключенные напали на конвой, погиб сотрудник ФСИН. Что известно к этой минуте?"
+    },
+    {
+      "title": "Одного из участников бунта в поезде Владикавказ — Адлер ликвидировали",
+      "link": "https://iz.ru/2177764/2026-10-02/odnogo-iz-uchastnikov-bunta-v-poezde-vladikavkaz-adler-likvidirovali",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 23:00:26 +0300",
+      "summary": "<p>Одного из заключенных, устроивших бунт в поезде Владикавказ — Адлер, ликвидировали. Во время происшествия пострадали еще четыре человека. Об этом 2 октября сообщил источник «Известий».</p><p>Как уточняется, вагон с эт",
+      "tags": [],
+      "titleZh": "Одного из участников бунта в поезде Владикавказ — Адлер ликвидировали"
+    },
+    {
+      "title": "Россиянам назвали способы усилить защиту банковского приложения",
+      "link": "https://lenta.ru/news/2026/10/03/rossiyanam-nazvali-sposoby-usilit-zaschitu-bankovskogo-prilozheniya/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 23:00:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Россиянам назвали способы усилить защиту банковского приложения"
+    },
+    {
+      "title": "Такер Карлсон высказался о ядерном оружии и коррупции на Украине",
+      "link": "https://lenta.ru/news/2026/10/02/taker-karlson-vyskazalsya-o-yadernom-oruzhii-i-korruptsii-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:59:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Такер Карлсон высказался о ядерном оружии и коррупции на Украине"
+    },
+    {
+      "title": "Сына Роналду не вызвали в сборную Португалии",
+      "link": "https://lenta.ru/news/2026/10/02/syna-ronaldu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:58:29 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Сына Роналду не вызвали в сборную Португалии"
+    },
+    {
+      "title": "Американо-украинский фонд заключил первую сделку по добыче полезных ископаемых",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233949-amerikano-ukrainskii-fond",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 02 Oct 2026 22:56:12 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Американо-украинский фонд заключил первую сделку по добыче полезных ископаемых"
+    },
+    {
+      "title": "Один заключенный был ликвидирован при бунте в поезде Владикавказ — Адлер",
+      "link": "https://lenta.ru/news/2026/10/02/odin-zaklyuchennyy-byl-likvidirovan-pri-bunte-v-poezde-vladikavkaz-adler/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:54:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Один заключенный был ликвидирован при бунте в поезде Владикавказ — Адлер"
+    },
+    {
+      "title": "При атаке беспилотников на российский регион пострадал ребенок",
+      "link": "https://lenta.ru/news/2026/10/02/pri-atake-bespilotnikov-na-rossiyskiy-region-postradal-rebenok/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:52:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "При атаке беспилотников на российский регион пострадал ребенок"
+    },
+    {
+      "title": "Пожарный погиб при тушении пожара в частном доме в Химках",
+      "link": "https://iz.ru/2177761/2026-10-02/pozharnyi-pogib-pri-tushenii-pozhara-v-chastnom-dome-v-khimkakh",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 22:45:09 +0300",
+      "summary": "<p>Во время ликвидации возгорания в частном доме в деревне Брехово (городской округ Химки) произошла трагедия — погиб пожарный. Об этом 2 октября сообщили в ГУ МЧС России по Московской области.</p><p>«При тушении пожара ",
+      "tags": [],
+      "titleZh": "Пожарный погиб при тушении пожара в частном доме в Химках"
+    },
+    {
+      "title": "В поезде Владикавказ — Адлер произошел бунт заключенных",
+      "link": "https://lenta.ru/news/2026/10/02/v-poezde-vladikavkaz-adler-proizoshel-bunt-zaklyuchennyh/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:39:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "В поезде Владикавказ — Адлер произошел бунт заключенных"
+    },
+    {
+      "title": "Глава Челябинской области рассказал о восстановлении объектов в ДНР",
+      "link": "https://lenta.ru/news/2026/10/02/v-chelyabinskoy-oblasti-rasskazali-o-vosstanovlenii-ob-ektov-na-podshefnyh-territoriyah-v-dnr/",
+      "source": "Lenta",
+      "pubDate": "Fri, 02 Oct 2026 22:37:00 +0300",
+      "summary": "",
+      "tags": [],
+      "titleZh": "Глава Челябинской области рассказал о восстановлении объектов в ДНР"
+    },
+    {
+      "title": "Заключенные устроили бунт в поезде Владикавказ — Адлер в Кабардино-Балкарии",
+      "link": "https://iz.ru/2177758/2026-10-02/zakliuchennye-ustroili-bunt-v-poezde-vladikavkaz-adler-v-kabardino-balkarii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 02 Oct 2026 22:36:54 +0300",
+      "summary": "<p>Заключенные устроили бунт в поезде Владикавказ — Адлер в Кабардино-Балкарии. Об этом 2 октября сообщил источник «Известий».</p><p>Как сообщается вечером в вагоне поезда с этапируемыми заключенными в районе станции Мур",
+      "tags": [],
+      "titleZh": "Заключенные устроили бунт в поезде Владикавказ — Адлер в Кабардино-Балкарии"
     },
     {
       "title": "Путин рассказал о главной цели учений «Центр-2026»",
       "link": "https://iz.ru/2177751/2026-10-02/putin-rasskazal-o-glavnoi-tceli-uchenii-tcentr-2026",
       "source": "Izvestia",
       "pubDate": "Fri, 02 Oct 2026 22:32:38 +0300",
-      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> заявил, что главной целью учений «Центр-2026» является совершенствование навыков в управлении войсками при отражении внешн",
+      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> 2 октября заявил, что главной целью учений «Центр-2026» является совершенствование навыков руководящего состава штабов все",
       "tags": [],
       "titleZh": "Путин рассказал о главной цели учений «Центр-2026»"
-    },
-    {
-      "title": "Дмитриев призвал НАТО прекратить разжигание войны",
-      "link": "https://ria.ru/20261002/nato-2121923737.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:32:23 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Дмитриев призвал НАТО прекратить разжигание войны"
     },
     {
       "title": "Первый министр экономики РФ Нечаев упал в обморок в центре Москвы",
       "link": "https://iz.ru/2177755/2026-10-02/pervyi-ministr-ekonomiki-rf-nechaev-upal-v-obmorok-v-tcentre-moskvy",
       "source": "Izvestia",
       "pubDate": "Fri, 02 Oct 2026 22:30:51 +0300",
-      "summary": "<p>Первый министр экономики России Андрей Нечаев упал в обморок в центре столицы. Об этом 2 октября сообщил источник «Известий».</p><p><em>Новость дополняется</em></p>",
+      "summary": "<p>Первый министр экономики России Андрей Нечаев упал в обморок в центре столицы. Об этом 2 октября сообщил источник «Известий».</p><p>Как сообщается, 73-летнему Нечаеву стало плохо в здании в Крапивенском переулке в цен",
       "tags": [],
       "titleZh": "Первый министр экономики РФ Нечаев упал в обморок в центре Москвы"
     },
@@ -773,19 +1639,10 @@
       "title": "Ветеран ГРУ рассказал о наращивании активности украинской военной разведки в Африке",
       "link": "https://lenta.ru/news/2026/10/02/veteran-gru-rasskazal-o-naraschivanii-aktivnosti-ukrainskoy-voennoy-razvedki-v-afrike/",
       "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 22:30:14 +0300",
+      "pubDate": "Fri, 02 Oct 2026 22:30:00 +0300",
       "summary": "",
       "tags": [],
       "titleZh": "Ветеран ГРУ рассказал о наращивании активности украинской военной разведки в Африке"
-    },
-    {
-      "title": "Кушнер опроверг сообщения СМИ об инвестициях в оборонные компании Израиля",
-      "link": "https://ria.ru/20261002/kushner-2121923420.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:28:46 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Кушнер опроверг сообщения СМИ об инвестициях в оборонные компании Израиля"
     },
     {
       "title": "FT: Орбану может грозить уголовное дело из-за задержания украинских инкассаторов",
@@ -797,15 +1654,6 @@
       "titleZh": "FT: Орбану может грозить уголовное дело из-за задержания украинских инкассаторов"
     },
     {
-      "title": "США и Украина заключили первую сделку по добыче критически важных минералов",
-      "link": "https://ria.ru/20261002/sdelka-2121923246.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:27:16 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "США и Украина заключили первую сделку по добыче критически важных минералов"
-    },
-    {
       "title": "Прощание с Мариной Влади прошло в коммуне Аркёй под Парижем",
       "link": "https://iz.ru/2177735/2026-10-02/proshchanie-s-marinoi-vladi-proshlo-v-kommune-arkei-pod-parizhem",
       "source": "Izvestia",
@@ -813,15 +1661,6 @@
       "summary": "<p>Прощание с французской актрисой русского происхождения, последней женой Владимира Высоцкого <a href=\"https://iz.ru/2173019/2026-09-24/frantcuzskaia-aktrisa-marina-vladi-biografiia\">Мариной Влади</a> прошло в коммуне А",
       "tags": [],
       "titleZh": "Прощание с Мариной Влади прошло в коммуне Аркёй под Парижем"
-    },
-    {
-      "title": "Фигурист Угожаев завоевал серебро на турнире в Грузии",
-      "link": "https://iz.ru/2177732/figurist-ugozhaev-zavoeval-serebro-na-turnire-v-gruzii-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:27:00 +0300",
-      "summary": "<p>Российский фигурист Николай Угожаев 2 октября завоевал серебро на турнире серии «Челленджер» в Батуми.</p><p>По итогам двух прокатов он набрал 236,41 балла. Короткую программу судьи оценили в 82,96 балла, произвольную",
-      "tags": [],
-      "titleZh": "Фигурист Угожаев завоевал серебро на турнире в Грузии"
     },
     {
       "title": "У Бьянки нашли трехэтажный дом и квартиру с видом на Кремль",
@@ -833,60 +1672,6 @@
       "titleZh": "У Бьянки нашли трехэтажный дом и квартиру с видом на Кремль"
     },
     {
-      "title": "В Запорожской области ВСУ повредили здание избиркома",
-      "link": "https://ria.ru/20261002/vsu-2121923117.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:23:02 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Запорожской области ВСУ повредили здание избиркома"
-    },
-    {
-      "title": "Фигурист Угожаев завоевал серебро турнира серии «Челленджер» в Батуми",
-      "link": "https://iz.ru/2177749/2026-10-02/figurist-ugozhaev-zavoeval-serebro-turnira-serii-chellendzher-v-batumi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:23:01 +0300",
-      "summary": "<p>Российский фигурист Николай Угожаев стал серебряным призером соревнований серии «Челленджер» в Батуми. По сумме короткой и произвольной программ он получил 236,41 балла.</p><p>Победителем турнира стал представитель Гр",
-      "tags": [],
-      "titleZh": "Фигурист Угожаев завоевал серебро турнира серии «Челленджер» в Батуми"
-    },
-    {
-      "title": "Почти все мосты в Киеве находятся в аварийном состоянии, заявил эксперт",
-      "link": "https://ria.ru/20261002/mosty-2121922946.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:20:18 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Почти все мосты в Киеве находятся в аварийном состоянии, заявил эксперт"
-    },
-    {
-      "title": "Смена Тардифа: поможет ли новый глава ИИХФ вернуть Россию на международный лед",
-      "link": "https://iz.ru/2177737/dmitrii-garin/pomozhet-li-novyi-glava-iikhf-vernut-rossiiu-na-mezhdunarodnyi-led",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:20:00 +0300",
-      "summary": "В ФХР рассчитывают на плодотворное сотрудничество с Францем Райндлем и скорое участие сборной в крупнейших турнирах",
-      "tags": [],
-      "titleZh": "Смена Тардифа: поможет ли новый глава ИИХФ вернуть Россию на международный лед"
-    },
-    {
-      "title": "Оверчук заявил об ощутимой выгоде Армении от членства в ЕАЭС",
-      "link": "https://ria.ru/20261002/armeniya-2121922177.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:15:55 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Оверчук заявил об ощутимой выгоде Армении от членства в ЕАЭС"
-    },
-    {
-      "title": "Школьник из Чечни полечил премию Кеосаяна за спасение ребенка",
-      "link": "https://iz.ru/2177747/2026-10-02/shkolnik-iz-chechni-polechil-premiiu-keosaiana-za-spasenie-rebenka",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:15:36 +0300",
-      "summary": "<p>Пятиклассник Якуб Альвиев из Чечни получил премию имени Тиграна Кеосаяна за спасение провалившегося в яму ребенка. Об этом 2 октября сообщает <a href=\"https://russian.rt.com/russia/news/1689818-rebenok-spasenie-premiy",
-      "tags": [],
-      "titleZh": "Школьник из Чечни полечил премию Кеосаяна за спасение ребенка"
-    },
-    {
       "title": "В российском регионе машинист выпрыгнул из кабины падающего башенного крана",
       "link": "https://lenta.ru/news/2026/10/02/v-rossiyskom-regione-mashinist-vyprygnul-iz-kabiny-padayuschego-bashennogo-krana/",
       "source": "Lenta",
@@ -896,42 +1681,6 @@
       "titleZh": "В российском регионе машинист выпрыгнул из кабины падающего башенного крана"
     },
     {
-      "title": "Ребенок пострадал при атаке ВСУ в Белгородской области",
-      "link": "https://iz.ru/2177746/2026-10-02/rebenok-postradal-pri-atake-vsu-v-belgorodskoi-oblasti",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:14:39 +0300",
-      "summary": "<p>Двухлетний мальчик получил ранения в результате атаки беспилотника на поселок Томаровка в Белгородской области. Об этом 2 октября сообщили в оперативном штабе региона.</p><p>«В Яковлевском округе в поселке Томаровка в",
-      "tags": [],
-      "titleZh": "Ребенок пострадал при атаке ВСУ в Белгородской области"
-    },
-    {
-      "title": "Мирный житель пострадал в Донецке в результате атаки беспилотника ВСУ",
-      "link": "https://iz.ru/2177731/mirnyi-zhitel-postradal-v-donetcke-v-rezultate-ataki-bespilotnika-vsu-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:13:00 +0300",
-      "summary": "<p>В Киевском районе Донецка мужчина получил ранения при ударе украинского беспилотника. Об этом 2 октября сообщил мэр города Алексей Кулемзин.</p><p>«В результате вражеской атаки БПЛА получил ранения мужчина 1999 года р",
-      "tags": [],
-      "titleZh": "Мирный житель пострадал в Донецке в результате атаки беспилотника ВСУ"
-    },
-    {
-      "title": "В Белгородской области при атаке дрона пострадал ребенок",
-      "link": "https://ria.ru/20261002/bpla-2121921874.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:10:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Белгородской области при атаке дрона пострадал ребенок"
-    },
-    {
-      "title": "Минздрав разработал проект обязательного медосвидетельствования водителей",
-      "link": "https://ria.ru/20261002/voditel-2121921700.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:08:34 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Минздрав разработал проект обязательного медосвидетельствования водителей"
-    },
-    {
       "title": "Президент Бразилии Лула да Силва рассказал о своих планах на ближайшие 40 лет",
       "link": "https://lenta.ru/news/2026/10/02/prezident-brazilii-lula-da-silva-rasskazal-o-planah-dozhit-do-120-let/",
       "source": "Lenta",
@@ -939,15 +1688,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Президент Бразилии Лула да Силва рассказал о своих планах на ближайшие 40 лет"
-    },
-    {
-      "title": "На внутренней стороне МКАД столкнулись несколько автомобилей",
-      "link": "https://ria.ru/20261002/dtp-2121921538.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:04:39 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "На внутренней стороне МКАД столкнулись несколько автомобилей"
     },
     {
       "title": "Анфиса Чехова похвасталась огородом и садом с «Эйвой»",
@@ -968,51 +1708,6 @@
       "titleZh": "Назван изъян возвращения Маска в Белый дом"
     },
     {
-      "title": "Международный нефтетрейдер Gunvor сменил название на Centalion",
-      "link": "https://iz.ru/2177736/mezhdunarodnyi-neftetreider-gunvor-smenil-nazvanie-na-centalion-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 22:00:49 +0300",
-      "summary": "<p>Международный нефтетрейдер Gunvor сменил название на Centalion Group и принял решение перенести штаб-квартиру с Кипра в Сингапур. О смене наименования и юридической регистрации 2 октября сообщили в пресс-релизе компан",
-      "tags": [],
-      "titleZh": "Международный нефтетрейдер Gunvor сменил название на Centalion"
-    },
-    {
-      "title": "Западники, \"обеспокоенные\" об Алешках, не знают, где это, заявил Мирошник",
-      "link": "https://ria.ru/20261002/zapad-2121921045.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 22:00:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Западники, \"обеспокоенные\" об Алешках, не знают, где это, заявил Мирошник"
-    },
-    {
-      "title": "При тушении пожара в частном доме в Химках погиб пожарный",
-      "link": "https://ria.ru/20261002/pozharnyy-2121920751.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:59:50 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "При тушении пожара в частном доме в Химках погиб пожарный"
-    },
-    {
-      "title": "На учениях «Центр-2026» были отработаны ракетные стрельбы по морским целям",
-      "link": "https://iz.ru/2177725/na-ucheniiakh-tcentr-2026-byli-otrabotany-raketnye-strelby-po-morskim-tceliam",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:59:00 +0300",
-      "summary": "<p>В ходе учений «Центр-2026» на Каспийской флотилии экипаж корабля «Татарстан» и расчет комплекса «Бал» выполнили стрельбу по морской цели. Об этом 2 октября сообщает Минобороны РФ.</p><p>«Корабельные боевые расчеты вып",
-      "tags": [],
-      "titleZh": "На учениях «Центр-2026» были отработаны ракетные стрельбы по морским целям"
-    },
-    {
-      "title": "Британского блогера чуть не забрали сотрудники военкомата на Украине",
-      "link": "https://ria.ru/20261002/sotrudniki-2121920563.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:57:43 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Британского блогера чуть не забрали сотрудники военкомата на Украине"
-    },
-    {
       "title": "В российском регионе зафиксировали сильное землетрясение",
       "link": "https://lenta.ru/news/2026/10/02/v-rossiyskom-regione-zafiksirovali-silnoe-zemletryasenie/",
       "source": "Lenta",
@@ -1020,15 +1715,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "В российском регионе зафиксировали сильное землетрясение"
-    },
-    {
-      "title": "Учений рассвет: Путин проверил боевую выучку объединенных сил",
-      "link": "https://iz.ru/2177720/alena-nefedova-roman-kretcul/putin-proveril-boevuyu-vyuchku-obedinennyh-sil",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:55:00 +0300",
-      "summary": "Президент лично проинспектировал ключевой этап «Центра-2026» и проверил слаженность иностранных контингентов",
-      "tags": [],
-      "titleZh": "Учений рассвет: Путин проверил боевую выучку объединенных сил"
     },
     {
       "title": "Глава Минпросвещения обосновал введение оценок за поведение в школах",
@@ -1040,15 +1726,6 @@
       "titleZh": "Глава Минпросвещения обосновал введение оценок за поведение в школах"
     },
     {
-      "title": "Преображенский кадетский корпус отметил 25-летие",
-      "link": "https://iz.ru/2177734/preobrazhenskii-kadetskii-korpus-otmetil-25-letie-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:53:36 +0300",
-      "summary": "<p>Преображенский кадетский корпус 2 октября отметил 25 лет со дня своего основания. В честь юбилея в образовательном учреждении прошли торжественные мероприятия, включая выступления духовых оркестров, марши и показатель",
-      "tags": [],
-      "titleZh": "Преображенский кадетский корпус отметил 25-летие"
-    },
-    {
       "title": "В России прокомментировали сообщения об эвакуации посольств из Киева фразой из КВН",
       "link": "https://lenta.ru/news/2026/10/02/v-rossii-prokommentirovali-soobscheniya-ob-evakuatsii-posolstv-iz-kieva-frazoy-iz-kvn/",
       "source": "Lenta",
@@ -1056,24 +1733,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "В России прокомментировали сообщения об эвакуации посольств из Киева фразой из КВН"
-    },
-    {
-      "title": "В Петербурге начался ремонт дома, примыкающего к особняку Миллера",
-      "link": "https://ria.ru/20261002/peterburg-2121920093.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:49:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Петербурге начался ремонт дома, примыкающего к особняку Миллера"
-    },
-    {
-      "title": "Движение по мостам в Киеве будут перекрывать во время воздушной тревоги",
-      "link": "https://ria.ru/20261002/kiev-2121919923.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:48:24 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Движение по мостам в Киеве будут перекрывать во время воздушной тревоги"
     },
     {
       "title": "Рианна в откровенной позе снялась для собственного бренда нижнего белья",
@@ -1085,24 +1744,6 @@
       "titleZh": "Рианна в откровенной позе снялась для собственного бренда нижнего белья"
     },
     {
-      "title": "Футболисты Головин и Воробьев покинули расположение сборной России",
-      "link": "https://iz.ru/2177729/2026-10-02/futbolisty-golovin-i-vorobev-pokinuli-raspolozhenie-sbornoi-rossii",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:45:00 +0300",
-      "summary": "<p>Футболисты Александр Головин и Дмитрий Воробьев покинули расположение сборной России. Об этом 2 октября сообщил главный тренер национальной команды Валерий Карпин.</p><p>«Воробьев уехал. Ждем Данилова, когда он сможет",
-      "tags": [],
-      "titleZh": "Футболисты Головин и Воробьев покинули расположение сборной России"
-    },
-    {
-      "title": "Такер Карлсон сделал заявление о ядерном оружии у Киева",
-      "link": "https://ria.ru/20261002/ukraina-2121919752.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:44:48 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Такер Карлсон сделал заявление о ядерном оружии у Киева"
-    },
-    {
       "title": "Глава российского региона раскрыл темы беседы с Путиным",
       "link": "https://lenta.ru/news/2026/10/02/glava-rossiyskogo-regiona-raskryl-temy-besedy-s-putinym/",
       "source": "Lenta",
@@ -1110,15 +1751,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Глава российского региона раскрыл темы беседы с Путиным"
-    },
-    {
-      "title": "В учениях \"Центр-2026\" участвовали солдаты с опытом СВО",
-      "link": "https://ria.ru/20261002/uchenija-2121919331.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:38:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В учениях \"Центр-2026\" участвовали солдаты с опытом СВО"
     },
     {
       "title": "В Минпросвещения рассказали о главном педагогическом вызове",
@@ -1130,15 +1762,6 @@
       "titleZh": "В Минпросвещения рассказали о главном педагогическом вызове"
     },
     {
-      "title": "В аэропорту Геленджика ввели дополнительные временные ограничения",
-      "link": "https://ria.ru/20261002/gelendzhik-2121918860.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:34:51 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В аэропорту Геленджика ввели дополнительные временные ограничения"
-    },
-    {
       "title": "Военный самолет США подал сигнал тревоги над Канадой",
       "link": "https://lenta.ru/news/2026/10/02/voennyy-samolet-ssha-podal-signal-trevogi-nad-kanadoy/",
       "source": "Lenta",
@@ -1146,15 +1769,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Военный самолет США подал сигнал тревоги над Канадой"
-    },
-    {
-      "title": "Цивилев рассказал об экономическом сотрудничестве России и Нигера",
-      "link": "https://ria.ru/20261002/tsivilev-2121918765.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:32:57 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Цивилев рассказал об экономическом сотрудничестве России и Нигера"
     },
     {
       "title": "В возвращении Маска в Белый дом увидели долгосрочную цель",
@@ -1166,24 +1780,6 @@
       "titleZh": "В возвращении Маска в Белый дом увидели долгосрочную цель"
     },
     {
-      "title": "Ученый РАН объяснил появление «тарелок» в небе над Подмосковьем",
-      "link": "https://iz.ru/2177711/2026-10-02/uchenyi-ran-obiasnil-poiavlenie-tarelok-v-nebe-nad-podmoskovem",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:30:00 +0300",
-      "summary": "<p class=\"news-site--common-blockblock-3u\">Необычные, похожие на «летающие тарелки» светящиеся объекты, которые два дня наблюдали в небе над деревней Ожогино в Солнечногорском районе Московской области, являются просто о",
-      "tags": [],
-      "titleZh": "Ученый РАН объяснил появление «тарелок» в небе над Подмосковьем"
-    },
-    {
-      "title": "В Калининграде разыскивают пропавшую школьницу",
-      "link": "https://ria.ru/20261002/kaliningrad-2121918191.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:29:47 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Калининграде разыскивают пропавшую школьницу"
-    },
-    {
       "title": "Карпин оценил скандальный уход Роналду из сборной Португалии",
       "link": "https://lenta.ru/news/2026/10/02/karpin-otsenil-skandalnyy-uhod-ronaldu-iz-sbornoy-portugalii/",
       "source": "Lenta",
@@ -1191,15 +1787,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Карпин оценил скандальный уход Роналду из сборной Португалии"
-    },
-    {
-      "title": "На Алтае машинист выпрыгнул из кабины падающего башенного крана",
-      "link": "https://ria.ru/20261002/mashinist-2121917454.html",
-      "source": "RIA",
-      "pubDate": "Fri, 02 Oct 2026 21:25:11 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "На Алтае машинист выпрыгнул из кабины падающего башенного крана"
     },
     {
       "title": "Россиян предупредили о схеме мошенничества с налоговыми уведомлениями",
@@ -1247,15 +1834,6 @@
       "titleZh": "Маск вернулся в Белый дом после ссоры с Трампом. Какую должность он получил и как это назначение повлияет на участие США в войнах?"
     },
     {
-      "title": "25-летие Преображенского кадетского корпуса",
-      "link": "https://iz.ru/2177730/video/25-letie-preobrazhenskogo-kadetskogo-korpusa",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:08:55 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "25-летие Преображенского кадетского корпуса"
-    },
-    {
       "title": "Силы ПВО сбили девять украинских беспилотников над Тульской областью",
       "link": "https://lenta.ru/news/2026/10/02/sily-pvo-sbili-devyat-ukrainskih-bespilotnikov-nad-tulskoy-oblastyu/",
       "source": "Lenta",
@@ -1283,15 +1861,6 @@
       "titleZh": "Силы ПВО за день сбили 209 украинских БПЛА над российскими регионами"
     },
     {
-      "title": "The Guardian сообщила о планах Запада перенести посольства из Киева в Польшу",
-      "link": "https://iz.ru/2177721/guardian-soobshchila-o-planakh-zapada-perenesti-posolstva-iz-kieva-v-polshu-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:04:02 +0300",
-      "summary": "<p>Западные страны разработали резервные планы по переносу своих дипломатических представительств из Киева на случай дальнейшего обострения ситуации в украинской столице. Об этом 2 октября сообщила газета <a href=\"https:",
-      "tags": [],
-      "titleZh": "The Guardian сообщила о планах Запада перенести посольства из Киева в Польшу"
-    },
-    {
       "title": "Один российский регион первым получил отечественную вакцину против ВПЧ",
       "link": "https://lenta.ru/news/2026/10/02/odin-rossiyskiy-region-pervym-poluchil-otechestvennuyu-vaktsinu-protiv-vpch/",
       "source": "Lenta",
@@ -1299,15 +1868,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Один российский регион первым получил отечественную вакцину против ВПЧ"
-    },
-    {
-      "title": "Хоккеист Кузнецов приостановил карьеру после ухода из «Сибири»",
-      "link": "https://iz.ru/2177709/2026-10-02/khokkeist-kuznetcov-priostanovil-kareru-posle-ukhoda-iz-sibiri",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 21:00:00 +0300",
-      "summary": "<p>Обладатель Кубка Стэнли, российский нападающий Евгений Кузнецов принял решение приостановить профессиональную хоккейную карьеру после ухода из новосибирской «Сибири». Об этом 2 октября на пресс-конференции сообщил гла",
-      "tags": [],
-      "titleZh": "Хоккеист Кузнецов приостановил карьеру после ухода из «Сибири»"
     },
     {
       "title": "Путин дал оценку проходящим в регионе России военным учениям",
@@ -1319,15 +1879,6 @@
       "titleZh": "Путин дал оценку проходящим в регионе России военным учениям"
     },
     {
-      "title": "Путин положительно оценил результаты учений «Центр-2026»",
-      "link": "https://iz.ru/2177727/2026-10-02/putin-polozhitelno-otcenil-rezultaty-uchenii-tcentr-2026",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:56:37 +0300",
-      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> положительно оценил результаты стратегических учений «Центр-2026». Об этом 2 октября сообщил официальный представитель Кре",
-      "tags": [],
-      "titleZh": "Путин положительно оценил результаты учений «Центр-2026»"
-    },
-    {
       "title": "Раскрыт срок для автора «Масяни»",
       "link": "https://lenta.ru/news/2026/10/02/raskryt-srok-dlya-avtora-masyani/",
       "source": "Lenta",
@@ -1335,24 +1886,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Раскрыт срок для автора «Масяни»"
-    },
-    {
-      "title": "Песков заявил об открытости РФ к диалогу по безопасности в Черном море",
-      "link": "https://iz.ru/2177723/peskov-zaiavil-ob-otkrytosti-rf-k-dialogu-po-bezopasnosti-v-chernom-more-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:51:28 +0300",
-      "summary": "<p>Россия сохраняет открытость для обсуждения вопросов безопасности в Черном море со всеми заинтересованными государствами. Об этом 2 октября сообщил пресс-секретарь президента РФ Дмитрий Песков.</p><p>«Смотря какие [дву",
-      "tags": [],
-      "titleZh": "Песков заявил об открытости РФ к диалогу по безопасности в Черном море"
-    },
-    {
-      "title": "В Пятигорске сотрудник Росгвардии спас ребенка от падения из окна",
-      "link": "https://iz.ru/2177691/v-piatigorske-sotrudnik-rosgvardii-spas-rebenka-ot-padeniia-iz-okna",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:50:47 +0300",
-      "summary": "<p>Сотрудник Росгвардии спас ребенка, который чуть не выпал из окна в Пятигорске. Об этом 2 октября сообщается на <a href=\"https://rosguard.gov.ru/News/Article/v-pyatigorske-voennosluzhashhij-rosgvardii-pomog-spasti-rebe",
-      "tags": [],
-      "titleZh": "В Пятигорске сотрудник Росгвардии спас ребенка от падения из окна"
     },
     {
       "title": "На Украине признали уязвимость в важной сфере боевых действий",
@@ -1382,15 +1915,6 @@
       "titleZh": "65-летняя Джулианна Мур впервые за долгое время вышла в свет с 24-летней дочерью"
     },
     {
-      "title": "Экипажи Су-30СМ прикрыли ракетоносец Ту-160 на учениях «Центр-2026»",
-      "link": "https://iz.ru/2177692/ekipazhi-su-30sm-prikryli-raketonosetc-tu-160-na-ucheniiakh-tcentr-2026-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:46:00 +0300",
-      "summary": "<p>Экипажи многофункциональных истребителей Су-30СМ Воздушно-космических сил (ВКС) России обеспечили прикрытие стратегического ракетоносца Ту-160 над акваторией Каспийского моря. Вылеты состоялись в рамках стратегических",
-      "tags": [],
-      "titleZh": "Экипажи Су-30СМ прикрыли ракетоносец Ту-160 на учениях «Центр-2026»"
-    },
-    {
       "title": "У журналиста Парфенова лопнули глаза",
       "link": "https://lenta.ru/news/2026/10/02/u-zhurnalista-parfenova-lopnuli-glaza/",
       "source": "Lenta",
@@ -1407,537 +1931,6 @@
       "summary": "",
       "tags": [],
       "titleZh": "Во Владивостоке назвали самого большого тунца в истории России"
-    },
-    {
-      "title": "Умер бывший тренер женской сборной России по баскетболу Николай Башкиров",
-      "link": "https://iz.ru/2177710/eks-trener-zhenskoi-sbornoi-rossii-po-basketbolu-nikolai-bashkirov-umer-v-82-goda-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:37:41 +0300",
-      "summary": "<p>Бывший главный тренер женской сборной РФ по баскетболу Николай Башкиров умер на 83-м году жизни. Об этом 2 октября сообщила пресс-служба Российской федерации баскетбола (РФБ) в Telegram-канале.</p><p>«Скончался заслуж",
-      "tags": [],
-      "titleZh": "Умер бывший тренер женской сборной России по баскетболу Николай Башкиров"
-    },
-    {
-      "title": "Спасение ребенка, стоявшего на краю подоконника третьего этажа в Пятигорске",
-      "link": "https://iz.ru/2177719/video/spasenie-rebenka-stoiavshego-na-kraiu-podokonnika-tretego-etazha-v-piatigorske",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:36:35 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Спасение ребенка, стоявшего на краю подоконника третьего этажа в Пятигорске"
-    },
-    {
-      "title": "Представившийся министром туризма россиянин устроил скандал в полиции",
-      "link": "https://lenta.ru/news/2026/10/02/predstavivshiysya-ministrom-turizma-rossiyanin-ustroil-skandal-v-politsii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:35:20 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Представившийся министром туризма россиянин устроил скандал в полиции"
-    },
-    {
-      "title": "В Минобороны сделали заявление после массированной атаки ВСУ на Россию",
-      "link": "https://lenta.ru/news/2026/10/02/v-minoborony-sdelali-zayavlenie-posle-massirovannoy-ataki-vsu-na-rossiyu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:35:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В Минобороны сделали заявление после массированной атаки ВСУ на Россию"
-    },
-    {
-      "title": "Гериатр призвал не определять старость только по возрасту",
-      "link": "https://iz.ru/2177679/2026-10-02/geriatr-prizval-ne-opredeliat-starost-tolko-po-vozrastu",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:33:00 +0300",
-      "summary": "<p>Врач-гериатр Красногорской клинической больницы Артем Абраамян в пятницу, 2 октября, рассказал, что самочувствие человека гораздо важнее цифр в паспорте.</p>",
-      "tags": [],
-      "titleZh": "Гериатр призвал не определять старость только по возрасту"
-    },
-    {
-      "title": "Врач оценила вероятность заразиться венерическими заболеваниями в общественном туалете",
-      "link": "https://lenta.ru/news/2026/10/02/sifilis-hlamidii-i-vich-v-basseyne/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:32:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Врач оценила вероятность заразиться венерическими заболеваниями в общественном туалете"
-    },
-    {
-      "title": "Силы ПВО за день сбили 209 беспилотников ВСУ над регионами России",
-      "link": "https://iz.ru/2177717/2026-10-02/sily-pvo-za-den-sbili-209-bespilotnikov-vsu-nad-regionami-rossii",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:31:05 +0300",
-      "summary": "<p>Силы противовоздушной обороны (ПВО) за день перехватили 209 украинских беспилотников над территорией России и акваторией Черного моря. Об этом 2 октября сообщило Минобороны РФ.</p><p>Отмечается, что дроны Вооруженных ",
-      "tags": [],
-      "titleZh": "Силы ПВО за день сбили 209 беспилотников ВСУ над регионами России"
-    },
-    {
-      "title": "Путину показали безэкипажные танки",
-      "link": "https://lenta.ru/news/2026/10/02/putinu-pokazali-bezekipazhnye-tanki/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:26:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Путину показали безэкипажные танки"
-    },
-    {
-      "title": "Флоренс Пью в прозрачной майке снялась для журнала Netflix",
-      "link": "https://lenta.ru/news/2026/10/02/florens-pyu-v-prozrachnoy-mayke-snyalas-dlya-zhurnala-netflix/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:24:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Флоренс Пью в прозрачной майке снялась для журнала Netflix"
-    },
-    {
-      "title": "Медведь раскопал могилы и вынудил россиян молиться",
-      "link": "https://lenta.ru/news/2026/10/02/medvedik/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:23:42 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Медведь раскопал могилы и вынудил россиян молиться"
-    },
-    {
-      "title": "Пожар в особняке Миллера в Санкт-Петербурге потушен",
-      "link": "https://www.vedomosti.ru/society/news/2026/10/02/1233940-pozhar-potushen",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 02 Oct 2026 20:23:37 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Пожар в особняке Миллера в Санкт-Петербурге потушен"
-    },
-    {
-      "title": "В российской акватории обнаружили необычные водоросли",
-      "link": "https://lenta.ru/news/2026/10/02/v-rossiyskoy-akvatorii-obnaruzhili-neobychnye-vodorosli/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:20:20 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "В российской акватории обнаружили необычные водоросли"
-    },
-    {
-      "title": "Жители Украины начали считать Киев менее безопасным городом",
-      "link": "https://lenta.ru/news/2026/10/02/zhiteli-ukrainy-nachali-schitat-kiev-menee-bezopasnym-gorodom/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:19:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Жители Украины начали считать Киев менее безопасным городом"
-    },
-    {
-      "title": "Обвинение запросило почти шесть лет колонии создателю мультсериала «Масяня»",
-      "link": "https://iz.ru/2177683/obvinenie-zaprosilo-pochti-shest-let-kolonii-sozdateliu-masiani-kuvaevu-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:19:00 +0300",
-      "summary": "<p>Гособвинение запросило пять лет и 11 месяцев лишения свободы для создателя мультсериала «Масяня» Олега Куваева (признан в РФ иноагентом) по делу о нарушении порядка деятельности иностранного агента и публичных призыва",
-      "tags": [],
-      "titleZh": "Обвинение запросило почти шесть лет колонии создателю мультсериала «Масяня»"
-    },
-    {
-      "title": "Минобрнауки предложило принимать участников СВО на платное обучение вне лимитов",
-      "link": "https://iz.ru/2177701/2026-10-02/minobrnauki-predlozhilo-prinimat-uchastnikov-svo-na-platnoe-obuchenie-vne-limitov",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:18:02 +0300",
-      "summary": "<p>Минобрнауки России предложило разрешить вузам принимать участников специальной военной операции (СВО) и их детей на платное обучение сверх установленного предельного числа мест. Об этом 2 октября сообщила пресс-служба",
-      "tags": [],
-      "titleZh": "Минобрнауки предложило принимать участников СВО на платное обучение вне лимитов"
-    },
-    {
-      "title": "Минобороны России раскрыло состав вооружения на учениях «Центр-2026»",
-      "link": "https://iz.ru/2177705/minoborony-rossii-raskrylo-sostav-vooruzheniia-na-ucheniiakh-tcentr-2026-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:15:10 +0300",
-      "summary": "<p>На основном этапе стратегических командно-штабных учений «Центр-2026» российские военные применили лазерный комплекс «Заря», танки Т-14 «Армата» и Т-90М «Прорыв», истребители Су-57, а также безэкипажную и роботизирова",
-      "tags": [],
-      "titleZh": "Минобороны России раскрыло состав вооружения на учениях «Центр-2026»"
-    },
-    {
-      "title": "«Северный полюс» появится в Новосибирске",
-      "link": "https://lenta.ru/news/2026/10/02/severnyy-polyus-poyavitsya-v-novosibirske/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:13:04 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "«Северный полюс» появится в Новосибирске"
-    },
-    {
-      "title": "Словакия показала дистанционно управляемый миномет в Баку",
-      "link": "https://lenta.ru/news/2026/10/02/slovakiya-pokazala-distantsionno-upravlyaemyy-minomet-v-baku/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:11:53 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Словакия показала дистанционно управляемый миномет в Баку"
-    },
-    {
-      "title": "Жители российского города с головой ушли под воду во время ливня",
-      "link": "https://lenta.ru/news/2026/10/02/zhiteli-rossiyskogo-goroda-s-golovoy-ushli-pod-vodu-vo-vremya-livnya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:10:32 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Жители российского города с головой ушли под воду во время ливня"
-    },
-    {
-      "title": "Янковский высказался о работе с Юрой Борисовым",
-      "link": "https://lenta.ru/news/2026/10/02/yankovskiy-vyskazalsya-o-rabote-s-yuroy-borisovym/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:10:02 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Янковский высказался о работе с Юрой Борисовым"
-    },
-    {
-      "title": "Мерца и Рютте освистали после вручения премии в Мюнстере",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233938-mertsa-i-ryutte-osvistali",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 02 Oct 2026 20:08:57 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Мерца и Рютте освистали после вручения премии в Мюнстере"
-    },
-    {
-      "title": "Столетняя женщина раскрыла секрет долголетия",
-      "link": "https://lenta.ru/news/2026/10/02/100-letnyaya-zhenschina-raskryla-sekret-dolgoletiya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:08:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Столетняя женщина раскрыла секрет долголетия"
-    },
-    {
-      "title": "Экс-чиновник в российском регионе построил бизнес и дом на детях-сиротах",
-      "link": "https://lenta.ru/news/2026/10/02/eks-chinovnik-v-rossiyskom-regione-postroil-biznes-i-dom-na-detyah-sirotah/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:05:34 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Экс-чиновник в российском регионе построил бизнес и дом на детях-сиротах"
-    },
-    {
-      "title": "Двое футболистов покинули расположение сборной России",
-      "link": "https://lenta.ru/news/2026/10/02/dvoe-futbolistov-pokinuli-raspolozhenie-sbornoy-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:04:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Двое футболистов покинули расположение сборной России"
-    },
-    {
-      "title": "Еще четыре страны Европы перестали признавать пятилетние загранпаспорта россиян",
-      "link": "https://lenta.ru/news/2026/10/02/esche-chetyre-strany-evropy-perestali-priznavat-pyatiletnie-zagranpasporta-rossiyan/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:02:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Еще четыре страны Европы перестали признавать пятилетние загранпаспорта россиян"
-    },
-    {
-      "title": "Пожар в особняке Миллера в центре Санкт-Петербурга ликвидировали",
-      "link": "https://iz.ru/2177700/pozhar-v-osobniake-millera-v-tcentra-sankt-peterburga-likvidirovali-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 20:01:50 +0300",
-      "summary": "<p>Пожар в особняке Миллера на Исаакиевской площади в Санкт-Петербурге полностью ликвидировали. Об этом 2 октября сообщили в городском МЧС России.</p><p>«В неэксплуатируемом здании размером 60х33 м происходило горение на",
-      "tags": [],
-      "titleZh": "Пожар в особняке Миллера в центре Санкт-Петербурга ликвидировали"
-    },
-    {
-      "title": "Путину показали обновленные беспилотники «Герань» с реактивными двигателями",
-      "link": "https://lenta.ru/news/2026/10/02/putinu-pokazali-obnovlennye-bespilotniki-geran-s-reaktivnymi-dvigatelyami/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:00:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Путину показали обновленные беспилотники «Герань» с реактивными двигателями"
-    },
-    {
-      "title": "Воина-всадника с золотой монетой под челюстью нашли на юге России",
-      "link": "https://lenta.ru/news/2026/10/02/voina-vsadnika-s-zolotoy-monetoy-pod-chelyustyu-nashli-na-yuge-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 20:00:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Воина-всадника с золотой монетой под челюстью нашли на юге России"
-    },
-    {
-      "title": "Запад подготовил планы эвакуации посольств из Киева",
-      "link": "https://lenta.ru/news/2026/10/02/zapad-podgotovil-plany-evakuatsii-posolstv-iz-kieva/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:57:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Запад подготовил планы эвакуации посольств из Киева"
-    },
-    {
-      "title": "Сотрудник Росгвардии спас ребенка",
-      "link": "https://iz.ru/2177699/video/sotrudnik-rosgvardii-spas-rebenka",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:52:39 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Сотрудник Росгвардии спас ребенка"
-    },
-    {
-      "title": "Самые громкие происшествия 2 октября. Главное",
-      "link": "https://iz.ru/2177693/2026-10-02/samye-gromkie-proisshestviia-2-oktiabria-glavnoe",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:48:43 +0300",
-      "summary": "<p dir=\"ltr\">В Подмосковье при задержании предполагаемых организаторов нарколаборатории застрелили сотрудника полиции, а в Зеленограде при взрыве в квартире погиб 80-летний мужчина. В Бурятии пьяная автомобилистка насмер",
-      "tags": [],
-      "titleZh": "Самые громкие происшествия 2 октября. Главное"
-    },
-    {
-      "title": "27-летний сын Дэвида Бекхэма появился на публике с седыми волосами",
-      "link": "https://lenta.ru/news/2026/10/02/27-letniy-syn-devida-bekhema-poyavilsya-na-publike-s-sedymi-volosami/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:47:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "27-летний сын Дэвида Бекхэма появился на публике с седыми волосами"
-    },
-    {
-      "title": "Звезду «Универа» заподозрили в сокрытии доходов ради низких алиментов",
-      "link": "https://lenta.ru/news/2026/10/02/zvezdu-univera-zapodozrili-v-sokrytii-dohodov-radi-nizkih-alimentov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:47:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Звезду «Универа» заподозрили в сокрытии доходов ради низких алиментов"
-    },
-    {
-      "title": "Минобороны рассказало, какое вооружение применили на учениях «Центр-2026»",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233932-minoboroni-rasskazalo",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 02 Oct 2026 19:44:26 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Минобороны рассказало, какое вооружение применили на учениях «Центр-2026»"
-    },
-    {
-      "title": "Более 47 тыс. человек приняли участие в стратегических учениях «Центр-2026»",
-      "link": "https://iz.ru/2177677/bolee-47-tys-chelovek-priniali-uchastie-v-strategicheskikh-ucheniiakh-tcentr-2026-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:43:53 +0300",
-      "summary": "<p>В России проходит завершающий этап подготовки Вооруженных сил 2026 года — стратегическое командно-штабное учение «Центр-2026». Об этом 2 октября сообщили в Минобороны РФ.</p><p>В ведомстве рассказали, что в учениях бы",
-      "tags": [],
-      "titleZh": "Более 47 тыс. человек приняли участие в стратегических учениях «Центр-2026»"
-    },
-    {
-      "title": "Путин посетил выставку военной техники",
-      "link": "https://iz.ru/2177696/video/putin-posetil-vystavku-voennoi-tekhniki",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:43:45 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Путин посетил выставку военной техники"
-    },
-    {
-      "title": "Участившиеся нападения медведей на людей в России объяснили",
-      "link": "https://lenta.ru/news/2026/10/02/uchastivshiesya-napadeniya-na-lyudey-v-rossii-ob-yasnili/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:42:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Участившиеся нападения медведей на людей в России объяснили"
-    },
-    {
-      "title": "У Бони резко упало зрение",
-      "link": "https://lenta.ru/news/2026/10/02/u-boni-rezko-upalo-zrenie/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:40:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "У Бони резко упало зрение"
-    },
-    {
-      "title": "Путин встретился с военными атташе иностранных государств",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233930-putin-vstretilsya",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 02 Oct 2026 19:39:49 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Путин встретился с военными атташе иностранных государств"
-    },
-    {
-      "title": "Зоолог привел пример ошибочного отношения к медведям",
-      "link": "https://lenta.ru/news/2026/10/02/medved/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:36:48 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Зоолог привел пример ошибочного отношения к медведям"
-    },
-    {
-      "title": "Минобрнауки предложило ввести еще одну льготу для участников СВО",
-      "link": "https://lenta.ru/news/2026/10/02/minobrnauki-predlozhilo-vvesti-esche-odnu-lgotu-dlya-uchastnikov-svo/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:36:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Минобрнауки предложило ввести еще одну льготу для участников СВО"
-    },
-    {
-      "title": "Открытие вокзала \"Москва-Сити",
-      "link": "https://iz.ru/2177688/video/otkrytie-vokzala-moskva-siti",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:32:30 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Открытие вокзала \"Москва-Сити"
-    },
-    {
-      "title": "Госавтоинспекция проведет массовые проверки в первые выходные октября",
-      "link": "https://iz.ru/2177606/2026-10-02/gosavtoinspektciia-provedet-massovye-proverki-v-pervye-vykhodnye-oktiabria",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:30:00 +0300",
-      "summary": "<p>В пятницу и первые выходные октября сотрудники Госавтоинспекции проведут массовые и сплошные проверки на дорогах страны, особое внимание будет уделено поиску нетрезвых водителей. О проведении рейдов объявили региональ",
-      "tags": [],
-      "titleZh": "Госавтоинспекция проведет массовые проверки в первые выходные октября"
-    },
-    {
-      "title": "Путину в Челябинской области продемонстрировали реактивные «Герани»",
-      "link": "https://iz.ru/2177684/putinu-v-cheliabinskoi-oblasti-prodemonstrirovali-reaktivnye-gerani-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:28:15 +0300",
-      "summary": "<p>Президенту России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимиру Путину</a> 2 октября в Челябинской области продемонстрировали реактивные беспилотные летательные аппараты «Герань».</p> <p>«Вашему",
-      "tags": [],
-      "titleZh": "Путину в Челябинской области продемонстрировали реактивные «Герани»"
-    },
-    {
-      "title": "Российские военные ударили по хранившему данные для ВСУ дата-центру на Украине",
-      "link": "https://lenta.ru/news/2026/10/02/rossiyskie-voennye-udarili-po-hranivshemu-dannye-dlya-vsu-data-tsentru-na-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:23:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Российские военные ударили по хранившему данные для ВСУ дата-центру на Украине"
-    },
-    {
-      "title": "Экс-депутат рады оценил вероятность эвакуации Зеленского из Киева",
-      "link": "https://iz.ru/2177666/2026-10-02/eks-deputat-rady-otcenil-veroiatnost-evakuatcii-zelenskogo-iz-kieva",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:22:35 +0300",
-      "summary": "<p>Бывший депутат Верховной рады Владимир Олейник в пятницу, 2 октября, рассказал, эвакуируют ли президента <a href=\"https://iz.ru/tag/ukraina\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">В",
-      "tags": [],
-      "titleZh": "Экс-депутат рады оценил вероятность эвакуации Зеленского из Киева"
-    },
-    {
-      "title": "Путин поговорил с военными атташе иностранных государств",
-      "link": "https://lenta.ru/news/2026/10/02/putin-pogovoril-s-voennymi-attashe-inostrannyh-gosudarstv/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:22:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Путин поговорил с военными атташе иностранных государств"
-    },
-    {
-      "title": "Информация о запрете рекламы не с многодетными семьями оказалась фейком",
-      "link": "https://lenta.ru/news/2026/10/02/informatsiya-o-zaprete-reklamy-ne-s-mnogodetnymi-semyami-okazalas-feykom/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:20:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Информация о запрете рекламы не с многодетными семьями оказалась фейком"
-    },
-    {
-      "title": "У берегов Великобритании поймали голубого тунца с рекордным весом 282 кг",
-      "link": "https://iz.ru/2177653/2026-10-02/u-beregov-velikobritanii-poimali-golubogo-tuntca-s-rekordnym-vesom-v-282-kg",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:17:48 +0300",
-      "summary": "<p>На рыбном рынке Бриксама в Великобритании установили новый рекорд после вылова гигантского тунца длиной 2,7 м и весом 282 кг. Об этом 30 сентября сообщила газета <a href=\"https://www.dailymail.com/news/article-1617335",
-      "tags": [],
-      "titleZh": "У берегов Великобритании поймали голубого тунца с рекордным весом 282 кг"
-    },
-    {
-      "title": "Евкуров рассказал об иностранных контингентах на учениях «Центр-2026»",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/02/1233928-evkurov-rasskazal",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 02 Oct 2026 19:17:06 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Евкуров рассказал об иностранных контингентах на учениях «Центр-2026»"
-    },
-    {
-      "title": "Дэвис и Смолкин выиграли турнир в Грузии",
-      "link": "https://lenta.ru/news/2026/10/02/devis-i-smolkin-vyigrali-turnir-v-gruzii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:16:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Дэвис и Смолкин выиграли турнир в Грузии"
-    },
-    {
-      "title": "Видео Оксаны Самойловой в откровенном купальнике оценили в сети фразой «козы в шоке»",
-      "link": "https://lenta.ru/news/2026/10/02/video-oksany-samoylovoy-v-otkrovennom-kupalnike-otsenili-v-seti-frazoy-kozy-v-shoke/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:12:06 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Видео Оксаны Самойловой в откровенном купальнике оценили в сети фразой «козы в шоке»"
-    },
-    {
-      "title": "Женщина уволилась из больницы и стала ухаживать за надгробиями",
-      "link": "https://lenta.ru/news/2026/10/02/zhenschina-uvolilas-iz-bolnitsy-i-stala-uhazhivat-za-nadgrobiyami/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:12:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Женщина уволилась из больницы и стала ухаживать за надгробиями"
-    },
-    {
-      "title": "Стали известны подробности о пожаре в особняке Миллера в центре Петербурга",
-      "link": "https://lenta.ru/news/2026/10/02/stali-izvestny-podrobnosti-o-pozhare-v-osobnyake-millera-v-tsentre-peterburga/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:11:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Стали известны подробности о пожаре в особняке Миллера в центре Петербурга"
-    },
-    {
-      "title": "Пентагон направит пехотинцев в Финляндию для поддержки миссии НАТО на Балтике",
-      "link": "https://iz.ru/2177631/2026-10-02/pentagon-napravit-pekhotintcev-v-finliandiiu-dlia-podderzhki-missii-nato-na-baltike",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:06:20 +0300",
-      "summary": "<p>Американских морских пехотинцев направят в Финляндию для участия в миссии НАТО «Балтийский часовой». Об этом 1 октября сообщили на <a href=\"https://www.war.gov/News/News-Stories/Article/Article/4616721/marines-to-supp",
-      "tags": [],
-      "titleZh": "Пентагон направит пехотинцев в Финляндию для поддержки миссии НАТО на Балтике"
-    },
-    {
-      "title": "Появление неопознанных объектов под Москвой объяснили",
-      "link": "https://lenta.ru/news/2026/10/02/poyavlenie-neopoznannyh-ob-ektov-pod-moskvoy-ob-yasnili/",
-      "source": "Lenta",
-      "pubDate": "Fri, 02 Oct 2026 19:05:00 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Появление неопознанных объектов под Москвой объяснили"
-    },
-    {
-      "title": "Кинолог рассказал о защите питомца после смерти хозяина",
-      "link": "https://iz.ru/2177669/2026-10-02/kinolog-rasskazal-o-zashchite-pitomtca-posle-smerti-khoziaina",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:04:49 +0300",
-      "summary": "<p>Президент Российской кинологической федерации Владимир Голубев рассказал, как защитить питомца после смерти хозяина. В беседе с <a href=\"https://radio1.ru/articles/obschestvo/rezkii-stress-kinolog-rasskazal-kak-zaschi",
-      "tags": [],
-      "titleZh": "Кинолог рассказал о защите питомца после смерти хозяина"
-    },
-    {
-      "title": "Ту-22М3 поражают корабли в Каспийском море",
-      "link": "https://iz.ru/2177671/video/tu-22m3-porazhaiut-korabli-v-kaspiiskom-more",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:04:43 +0300",
-      "summary": "",
-      "tags": [],
-      "titleZh": "Ту-22М3 поражают корабли в Каспийском море"
-    },
-    {
-      "title": "Россиянам перечислили признаки и симптомы неправильного прикуса",
-      "link": "https://iz.ru/2177579/2026-10-02/rossiianam-perechislili-priznaki-i-simptomy-nepravilnogo-prikusa",
-      "source": "Izvestia",
-      "pubDate": "Fri, 02 Oct 2026 19:04:31 +0300",
-      "summary": "<p>Неправильный прикус влияет не только на зубы, но и на работу височно-нижнечелюстного сустава, может вызывать головные боли и дискомфорт в шее. При этом вокруг темы много мифов: прикусу приписывают сколиоз и перекос пл",
-      "tags": [],
-      "titleZh": "Россиянам перечислили признаки и симптомы неправильного прикуса"
     }
   ]
 }
