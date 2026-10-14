@@ -346,10 +346,12 @@
       </div>
       <div class="row wrap" id="rnFilterBar" style="gap:6px; margin:8px 0;">
         <button class="chip rn-filter active" data-f="all">全部</button>
-        <button class="chip rn-filter" data-f="demand">仅需求</button>
-        <button class="chip rn-filter" data-f="supply">仅供给</button>
-        <button class="chip rn-filter" data-f="tagged">已分类</button>
-        <button class="chip rn-filter" data-f="notag">仅未分类</button>
+        <button class="chip rn-filter" data-f="demand">需求</button>
+        <button class="chip rn-filter" data-f="supply">供给</button>
+        <button class="chip rn-filter" data-f="ozon">OZON</button>
+        <button class="chip rn-filter" data-f="wb">Wildberries</button>
+        <button class="chip rn-filter" data-f="cnru">中俄贸易</button>
+        <button class="chip rn-filter" data-f="platform">其它平台</button>
       </div>
       <div id="russianList" class="scroll-y"></div>
     </section>
@@ -1063,14 +1065,16 @@
   $rnUrl.value = state.russianWorkerUrl || '';
   let workerItems = [];      // 数据源返回的新闻（打开即见，无需现场刮）
   let workerUpdated = null;  // KV 最后更新时间
-  let rnFilter = 'all';       // 俄国新闻筛选：all / demand / supply / tagged / notag
+  let rnFilter = 'all';       // 俄国新闻筛选：all / demand / supply / ozon / wb / cnru / platform
   function renderRussian(){
     let list = workerItems.concat(state.russianNews || []);
     if(!list.length){ $('#russianList').innerHTML = '<div class="card mini center">还没有新闻。填上方数据源 URL 拉取，或手动添加一条。</div>'; return; }
-    if (rnFilter === 'demand')      list = list.filter(n => (n.tags||[]).some(t => /需求/.test(t)));
-    else if (rnFilter === 'supply') list = list.filter(n => (n.tags||[]).some(t => /供给|进口|出口|生产/.test(t)));
-    else if (rnFilter === 'tagged') list = list.filter(n => (n.tags||[]).length > 0);
-    else if (rnFilter === 'notag')  list = list.filter(n => (n.tags||[]).length === 0);
+    if (rnFilter === 'demand')        list = list.filter(n => (n.tags||[]).some(t => /需求/.test(t)));
+    else if (rnFilter === 'supply')   list = list.filter(n => (n.tags||[]).some(t => /供给|进口|出口|生产/.test(t)));
+    else if (rnFilter === 'ozon')     list = list.filter(n => (n.tags||[]).some(t => /ozon|озон/i.test(t)));
+    else if (rnFilter === 'wb')       list = list.filter(n => (n.tags||[]).some(t => /wildberries|вайлдберриз/i.test(t)));
+    else if (rnFilter === 'cnru')     list = list.filter(n => (n.tags||[]).some(t => /中俄贸易/.test(t)));
+    else if (rnFilter === 'platform') list = list.filter(n => (n.tags||[]).some(t => /平台/.test(t)));
     if(!list.length){ $('#russianList').innerHTML = '<div class="card mini center">当前筛选条件下没有匹配的新闻。</div>'; return; }
     $('#russianList').innerHTML = list.map(n => `
       <div class="card" style="margin-bottom:8px;">
