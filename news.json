@@ -1,18 +1,337 @@
 {
-  "updated": "2026-10-15T05:21:07.622Z",
-  "count": 21,
+  "updated": "2026-10-15T10:07:30.868Z",
+  "count": 43,
   "items": [
     {
-      "title": "Спрос на российскую нефть снизился",
-      "link": "https://lenta.ru/news/2026/10/14/ne-tak-nuzhna/",
-      "source": "Lenta",
-      "pubDate": "Wed, 14 Oct 2026 20:37:00 +0300",
-      "summary": "",
+      "title": "Эксперты заявили о росте спроса на новые авто за счет снижения ставки ЦБ",
+      "link": "https://iz.ru/2184577/2026-10-15/eksperty-zaiavili-o-roste-sprosa-na-novye-avto-za-schet-snizheniia-stavki-tcb",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 +0300",
+      "summary": "<p>Спрос на новые автомобили в России в III квартале 2026 года вырос на 8,5% год к году. Одним из факторов роста стало снижение ключевой ставки Банка России с 17% до 14% за год, которое повысило доступность автокредитов.",
       "tags": [
         "需求↑",
         "供给↓"
       ],
-      "titleZh": "俄罗斯石油需求下降"
+      "titleZh": "专家宣布，由于央行利率下降，对新车的需求增加"
+    },
+    {
+      "title": "В Саратовской области клиент маркетплейса угрожал ножницами сотруднице ПВЗ",
+      "link": "https://ria.ru/20261015/saratov-2124660463.html",
+      "source": "RIA",
+      "pubDate": "Thu, 15 Oct 2026 13:03:02 +0300",
+      "summary": "",
+      "tags": [
+        "平台"
+      ],
+      "titleZh": "在萨拉托夫地区，一个市场客户用剪刀威胁一名PvZ员工"
+    },
+    {
+      "title": "В России исключили прекращение импорта бензина до конца года",
+      "link": "https://lenta.ru/news/2026/10/15/ne-perestanem/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 12:57:18 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在俄罗斯，在年底之前停止汽油进口被排除在外"
+    },
+    {
+      "title": "Evolute и Voyah сообщили о росте продаж электромобилей в России",
+      "link": "https://lenta.ru/news/2026/10/15/evolute-i-voyah-soobschili-o-roste-prodazh-elektromobiley-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 12:56:21 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Evolute和Voyah报告称，俄罗斯的电动汽车销量有所增长"
+    },
+    {
+      "title": "В Кремле указали на противоречие ударов Киева мирным инициативам США",
+      "link": "https://iz.ru/2184586/2026-10-15/v-kremle-ukazali-na-protivorechie-udarov-kieva-mirnym-initciativam-ssha",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 12:55:00 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украина</a> продолжает наносить удары по российским нефтеперерабатывающим заводам (НПЗ) и тем самым вступает в серьезное противоречие с усилиями, которые прикладываю",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "克里姆林宫指出基辅对美国和平倡议的打击是矛盾的"
+    },
+    {
+      "title": "Песков оценил влияние сделки с США по дизелю на топливный рынок",
+      "link": "https://iz.ru/2184585/2026-10-15/peskov-otcenil-vliianie-sdelki-s-ssha-po-dizeliu-na-toplivnyi-rynok",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 12:55:00 +0300",
+      "summary": "<p>Сделка по поставкам российского дизельного топлива в <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> может положительно повлиять на ситуацию на топливном рынке, однако не приведет к его полной стабилизации. О",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "佩斯科夫评估了与美国达成的柴油协议对燃料市场的影响"
+    },
+    {
+      "title": "Новак заявил о востребованности российского дизтоплива",
+      "link": "https://ria.ru/20261015/diztoplivo-2124657142.html",
+      "source": "RIA",
+      "pubDate": "Thu, 15 Oct 2026 12:51:01 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "诺瓦克宣布对俄罗斯柴油的需求"
+    },
+    {
+      "title": "Зеленский заявил о готовности прекратить удары по НПЗ в обмен на Patriot",
+      "link": "https://iz.ru/2184583/2026-10-15/zelenskii-zaiavil-o-gotovnosti-prekratit-udary-po-npz-v-obmen-na-patriot",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 12:46:35 +0300",
+      "summary": "<p>Киев может прекратить удары по российским нефтеперерабатывающим заводам (НПЗ), если получит от <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> дополнительные ракеты для комплексов Patriot. Об этом 15 октября ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "泽伦斯基表示，他准备停止对炼油厂的罢工，以换取爱国者"
+    },
+    {
+      "title": "Премьер Латвии призвал европейцев отказаться от бокала пива в год ради Украины",
+      "link": "https://iz.ru/2184578/premer-latvii-prizval-evropeitcev-otkazatsia-ot-bokala-piva-v-god-radi-ukrainy-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 12:41:43 +0300",
+      "summary": "<p>Премьер-министр Латвии Андрис Кулбергс 15 октября призвал жителей Европы отказаться от употребления одного бокала пива в год, чтобы направить сэкономленные средства на помощь <a href=\"https://iz.ru/tag/ukraina\" target",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "拉脱维亚总理敦促欧洲人为了乌克兰每年放弃一杯啤酒"
+    },
+    {
+      "title": "Новак: продажу топлива низких экоклассов могут перевести только на биржу",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237291-novak-prodazhu",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 12:28:41 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "诺瓦克：低环保级别燃料的销售只能转移到交易所"
+    },
+    {
+      "title": "В России назвали отрасли с самым стремительным ростом зарплатных предложений",
+      "link": "https://lenta.ru/news/2026/10/15/v-rossii-nazvali-otrasli-s-samym-stremitelnym-rostom-zarplatnyh-predlozheniy/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 12:24:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在俄罗斯，薪酬增长最快的行业被评为"
+    },
+    {
+      "title": "В России задумались о запрете экспорта сжиженного газа",
+      "link": "https://lenta.ru/news/2026/10/15/zapreshchay/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 12:20:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在俄罗斯，他们正在考虑禁止出口液化气"
+    },
+    {
+      "title": "Новак: российские компании продолжат импортировать бензин до конца 2026 года",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237288-importirovat-benzin",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 12:17:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "诺瓦克：俄罗斯公司将继续进口汽油，直到2026年底"
+    },
+    {
+      "title": "Новак сообщил о рассмотрении запрета на экспорт СУГ",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237276-zapreta-sug",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 12:03:11 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "诺瓦克报告了考虑禁止出口液化石油气的情况"
+    },
+    {
+      "title": "Geely объявила о выходе китайского бестселлера EX2 на рынок России",
+      "link": "https://iz.ru/2184560/2026-10-15/geely-obiavila-o-vykhode-kitaiskogo-bestsellera-ex2-na-rynok-rossii",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 12:02:46 +0300",
+      "summary": "<p>Компания Geely в ближайшее время официально представит на российском рынке новую <a href=\"https://iz.ru/2180769/2026-10-08/populiarnyi-v-kitae-khetchbek-geely-ex2-mozhet-vyiti-na-rynok-rossii\">модель EX2</a>, которая ",
+      "tags": [
+        "中俄贸易"
+      ],
+      "titleZh": "吉利宣布向俄罗斯市场发布中国畅销书EX2"
+    },
+    {
+      "title": "Новак допустил начало поставок в США дизеля из России через две-три недели",
+      "link": "https://iz.ru/2184556/novak-dopustil-nachalo-postavok-rossiiskogo-diztopliva-v-ssha-cherez-dve-nedeli-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 11:58:22 +0300",
+      "summary": "<p>Первые поставки российского дизельного топлива в <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> возможны минимум через две–три недели. Об этом 15 октября сообщил вице-премьер РФ Александр Новак.</p><p>По сло",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "诺瓦克允许在两到三周内从俄罗斯开始向美国交付柴油"
+    },
+    {
+      "title": "На Сахалине доставляют икру при помощи дронов",
+      "link": "https://iz.ru/2184548/video/na-sakhaline-dostavliaiut-ikru-pri-pomoshchi-dronov",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 11:45:01 +0300",
+      "summary": "<p>Сахалин стал первым регионом России, где икру с места добычи доставили дроном на рыбоводный завод. Рейс состоялся на беспилотнике «Бражник», созданном сахалинским кондуктором Эдуардом Абрамовым, сообщает <a href=\"http",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "鱼子酱通过无人机送到萨哈林"
+    },
+    {
+      "title": "Новак: нефтяные компании готовы начать экспорт дизеля через две-три недели",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237267-eksport-dizelya",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 11:41:32 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "诺瓦克：石油公司准备在两到三周内开始出口柴油"
+    },
+    {
+      "title": "Tenet объявил цену и старт продаж семиместного кроссовера",
+      "link": "https://lenta.ru/news/2026/10/15/tenet-ob-yavil-tsenu-i-start-prodazh-semimestnogo-krossovera/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 11:38:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "特尼特宣布了七座跨界车的价格和销售开始"
+    },
+    {
+      "title": "WP узнала об угрозе США не давать Украине разведданные из-за ударов по НПЗ",
+      "link": "https://iz.ru/2184532/wp-uznala-ob-ugroze-ssha-ne-davat-ukraine-razveddannye-iz-za-udarov-po-npz-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 11:27:33 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> пригрозили украинской стороне, что в случае продолжения ударов по российским нефтеперерабатывающим заводам Вашингтон немедленно прекратит обмен разведывательной",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "WP了解到，由于对炼油厂的攻击，美国威胁要向乌克兰隐瞒情报"
+    },
+    {
+      "title": "Минобороны России раскрыло детали массовой атаки ВСУ на Рязанский НПЗ",
+      "link": "https://iz.ru/2184538/2026-10-15/minoborony-rossii-raskrylo-detali-massovoi-ataki-vsu-na-riazanskii-npz",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 11:26:58 +0300",
+      "summary": "<p>Бойцы Вооруженных сил России сбили четыре крылатые ракеты большой дальности, предотвращая крупную атаку украинских боевиков на нефтеперерабатывающий завод (НПЗ) в Рязани. Об этом 15 октября сообщили в Министерстве обо",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯国防部透露了乌克兰武装部队对梁赞炼油厂进行大规模袭击的细节"
+    },
+    {
+      "title": "Поездки в сервисе Whoosh снизились на 5% за девять месяцев",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/15/1237239-poezdki-v-whoosh",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 11:24:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Whoosh在九个月内下降了5 ％"
+    },
+    {
+      "title": "Зеленский заявил о возобновлении ударов по российским НПЗ",
+      "link": "https://iz.ru/2184530/zelenskii-zaiavil-o-vozobnovlenii-udarov-po-rossiiskim-npz-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 11:16:21 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украина</a> возобновит удары по российским нефтеперерабатывающим заводам (НПЗ). Об этом 15 октября заявил президент Украины <a href=\"https://iz.ru/tag/vladimir-zelen",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "泽伦斯基宣布恢复对俄罗斯炼油厂的罢工"
+    },
+    {
+      "title": "Российский бизнес перестал ждать снижения ставки",
+      "link": "https://lenta.ru/news/2026/10/15/perestal-zhdat/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 10:52:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯企业停止等待降息"
+    },
+    {
+      "title": "Зеленский отверг предложенное Трампом прекращение ударов по НПЗ",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/15/1237232-zelenskii-otverg",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 10:36:49 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "泽伦斯基拒绝了特朗普提出的停止对炼油厂罢工的提议"
+    },
+    {
+      "title": "В России зафиксировали замедление спроса на новые машины",
+      "link": "https://lenta.ru/news/2026/10/15/v-rossii-zafiksirovali-zamedlenie-sprosa-na-novye-mashiny/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 10:35:27 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯对新车的需求放缓"
+    },
+    {
+      "title": "Вылов рыбы в России снизился почти на 3%",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237230-vilov-ribi",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 10:31:03 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯渔获量下降近3%"
+    },
+    {
+      "title": "Атаки ВСУ обрушили экспорт российского зерна",
+      "link": "https://lenta.ru/news/2026/10/15/ataki-vsu-obrushili-eksport-rossiyskogo-zerna/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 09:46:45 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "APU袭击削弱了俄罗斯谷物出口"
+    },
+    {
+      "title": "Пентагон захотел развернуть массовое производство дронов",
+      "link": "https://lenta.ru/news/2026/10/15/pentagon-zahotel-razvernut-massovoe-proizvodstvo-dronov/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 09:28:48 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "五角大楼希望大规模生产无人机"
+    },
+    {
+      "title": "Директор российского НИИ дважды похитил сотни миллионов на поставках фармацевтики",
+      "link": "https://lenta.ru/news/2026/10/15/afera-v-farme/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 09:26:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯研究所所长两次窃取了数亿美元的药品供应"
     },
     {
       "title": "Тимошенко обвинила действующие власти в продаже Украины глобальной олигархии",
@@ -24,50 +343,6 @@
         "需求↑"
       ],
       "titleZh": "季莫申科指责现任当局向全球寡头集团出售乌克兰"
-    },
-    {
-      "title": "Ученые связали условия жизни с психическим здоровьем детей с инвалидностью",
-      "link": "https://iz.ru/2183972/uchenye-sviazali-usloviia-zhizni-s-psikhicheskim-zdorovem-detei-s-invalidnostiu-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 05:30:00 +0300",
-      "summary": "<p dir=\"ltr\">Дети с интеллектуальными нарушениями развития из социально неблагополучных семей чаще сталкиваются с эмоциональными и поведенческими трудностями. Ученые также обнаружили у них более высокую распространенност",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "科学家将生活条件与残疾儿童的心理健康联系起来"
-    },
-    {
-      "title": "FT узнала о предложении США разморозить часть российских активов",
-      "link": "https://iz.ru/2184440/ft-uznala-o-predlozhenii-ssha-razmorozit-chast-rossiiskikh-aktivov-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 04:02:07 +0300",
-      "summary": "<p>Спецпосланник <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> Стивен Уиткофф и предприниматель Джаред Кушнер выдвинули представителям Евросоюза предложение о частичной разморозке российских активов — эта мера",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "英国《金融时报》获悉美国提议解冻部分俄罗斯资产"
-    },
-    {
-      "title": "США выдвинули предложение по замороженным российским активам",
-      "link": "https://lenta.ru/news/2026/10/15/ssha-vydvinuli-predlozhenie-po-zamorozhennym-rossiyskim-aktivam/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 03:41:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "美国提出冻结俄罗斯资产的提案"
-    },
-    {
-      "title": "Сенатор назвал экономическую выгоду для России от ограничения продажи вейпов",
-      "link": "https://lenta.ru/news/2026/10/15/senator-nazval-ekonomicheskuyu-vygodu-dlya-rossii-ot-ogranicheniya-prodazhi-veypov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 01:10:34 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "这位参议员称限制电子烟的销售给俄罗斯带来了经济利益"
     },
     {
       "title": "Бундестаг одобрил закупку дронов с сеткометами для защиты объектов бундесвера",
@@ -90,17 +365,6 @@
         "供给↓"
       ],
       "titleZh": "Netflix计划裁员约1000人"
-    },
-    {
-      "title": "Ценовые ожидания бизнеса в России снизились",
-      "link": "https://lenta.ru/news/2026/10/14/nizhe/",
-      "source": "Lenta",
-      "pubDate": "Wed, 14 Oct 2026 20:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯业务的价格预期下降"
     },
     {
       "title": "«Росатом» объяснил, почему продолжает поставки для атомной энергетики Запада",
@@ -211,28 +475,6 @@
         "供给↓"
       ],
       "titleZh": "伦敦将加快向基辅交付1300万美元的LMM导弹"
-    },
-    {
-      "title": "Минэнерго Казахстана: авария на газопроводе в РФ не затронула поставки газа",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/13/1236733-avariya-na-gazoprovode",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 13 Oct 2026 17:10:37 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "哈萨克斯坦能源部：俄罗斯联邦天然气管道事故未影响天然气供应"
-    },
-    {
-      "title": "Минфин Амурской области соберет заявки на второй выпуск народных облигаций",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/13/1236739-vtoroi-vipusk-narodnih-obligatsii",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 13 Oct 2026 17:09:50 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "阿穆尔州财政部将收集第二次发行国债的申请"
     }
   ]
 }
