@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-15T14:55:38.102Z",
-  "count": 37,
+  "updated": "2026-10-15T18:46:13.147Z",
+  "count": 41,
   "items": [
+    {
+      "title": "Оценено снижение реального курса рубля в 2026 году",
+      "link": "https://lenta.ru/news/2026/10/15/otseneno-snizhenie-realnogo-kursa-rublya-v-2026-godu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 20:12:15 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "预计2026年实际卢布汇率贬值"
+    },
+    {
+      "title": "Wildberries зарегистрирует товарный знак с розовым медведем",
+      "link": "https://lenta.ru/news/2026/10/15/wildberries-zaregistriruet-tovarnyy-znak-s-rozovym-medvedem/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:15:52 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "Wildberries"
+      ],
+      "titleZh": "野莓注册粉熊商标"
+    },
+    {
+      "title": "Медведев и Рублев проведут товарищеский матч в Москве",
+      "link": "https://lenta.ru/news/2026/10/15/medvedev-i-rublev-provedut-tovarischeskiy-match-v-moskve/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:06:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "汇率"
+      ],
+      "titleZh": "梅德韦杰夫和鲁布列夫将在莫斯科进行友谊赛"
+    },
     {
       "title": "Официальный курс доллара снижен до 83,76 рубля",
       "link": "https://www.vedomosti.ru/finance/news/2026/10/15/1237443-ofitsialnii-kurs",
@@ -15,109 +51,191 @@
       "titleZh": "官方美元汇率降至83.76卢布"
     },
     {
-      "title": "Wildberries зарегистрировала товарный знак Wibe до 2034 года",
-      "link": "https://ria.ru/20261015/wildberries-2124749229.html",
-      "source": "RIA",
-      "pubDate": "Thu, 15 Oct 2026 17:32:52 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "Wildberries"
-      ],
-      "titleZh": "Wildberries在2034年之前已注册Wibe商标"
-    },
-    {
-      "title": "Кнайсль увидела в сделке по дизелю пересмотр санкционной политики США",
-      "link": "https://iz.ru/2184819/2026-10-15/knaisl-uvidela-v-sdelke-po-dizeliu-peresmotr-sanktcionnoi-politiki-ssha",
+      "title": "Сибирский крем и восточные духи соседствуют на выставке InterCHARM",
+      "link": "https://iz.ru/2184996/2026-10-15/sibirskii-krem-i-vostochnye-dukhi-sosedstvuiut-na-vystavke-intercharm",
       "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 17:28:00 +0300",
-      "summary": "<p>Соглашение России и <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> по поставкам дизельного топлива свидетельствует о прагматичном пересмотре Вашингтоном санкционной политики. Об этом 15 октября заявила «Изве",
+      "pubDate": "Thu, 15 Oct 2026 21:28:50 +0300",
+      "summary": "<p>Выпуск отечественной парфюмерии вырос сразу на 80%, подтверждением этому стала международная выставка InterCHARM<strong>.</strong> Об этом 15 октября рассказал корреспондент «Известий» Кристина Морозова. Она отметила,",
       "tags": [
-        "供给↓",
-        "制裁"
-      ],
-      "titleZh": "克奈斯将柴油交易视为美国制裁政策的修订"
-    },
-    {
-      "title": "Продажи автомобилей марки Wey упали на 40% в России",
-      "link": "https://iz.ru/2184804/2026-10-15/prodazhi-avtomobilei-marki-wey-upali-na-40-v-rossii",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 17:03:57 +0300",
-      "summary": "<p>Продажи автомобилей китайской марки Wey в России в 2026 году снизились на 40%, несмотря на рост реализации в 2025-м. Об этом в своем Telegram-канале 15 октября рассказал директор аналитического агентства «Автостат» Се",
-      "tags": [
-        "需求↑",
         "供给↓"
       ],
-      "titleZh": "俄罗斯Wey汽车销量下降40%"
+      "titleZh": "InterCHARM展览中西伯利亚奶油和东方香水并存"
     },
     {
-      "title": "Лавров сообщил об отсутствии РФ среди участников «Маршрута Трампа» на Кавказе",
-      "link": "https://iz.ru/2184790/2026-10-15/lavrov-soobshchil-ob-otsutstvii-rf-sredi-uchastnikov-marshruta-trampa-na-kavkaze",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 16:59:47 +0300",
-      "summary": "<p class=\"news-site--common-blockblock-3u\">К <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> не обращались с предложениями принять участие в транспортном проекте «Маршрут Трампа», разрабатываемом на Кавказе",
-      "tags": [
-        "供给↓",
-        "物流"
-      ],
-      "titleZh": "拉夫罗夫报告高加索“特朗普路线”参与者中没有俄罗斯联邦"
-    },
-    {
-      "title": "Один из импортеров российского газа снизил его закупки",
-      "link": "https://lenta.ru/news/2026/10/15/odin-iz-importerov-rossiyskogo-gaza-snizil-ego-zakupki/",
+      "title": "На Украине обратились к России с предложением о перемирии",
+      "link": "https://lenta.ru/news/2026/10/15/na-ukraine-obratilis-k-rossii-s-predlozheniem-o-peremirii/",
       "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 15:13:00 +0300",
+      "pubDate": "Thu, 15 Oct 2026 21:28:00 +0300",
       "summary": "",
       "tags": [
-        "需求↑",
         "供给↓"
       ],
-      "titleZh": "俄罗斯天然气进口商之一减少了采购量"
+      "titleZh": "乌克兰向俄罗斯提出休战建议"
     },
     {
-      "title": "Обрушились мировые поставки одного из самых популярных девайсов",
-      "link": "https://lenta.ru/news/2026/10/15/obrushilis-mirovye-postavki-odnogo-iz-samyh-populyarnyh-devaysov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 13:39:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "最流行设备之一的全球供应量已经崩溃"
-    },
-    {
-      "title": "Мурашко сообщил о ежегодном снижении мертворождаемости в России",
-      "link": "https://ria.ru/20261015/murashko-2124753474.html",
+      "title": "Москва и Улан-Батор обсудили расширение экспорта электроэнергии из России",
+      "link": "https://ria.ru/20261015/elektroenergiya-2124791595.html",
       "source": "RIA",
-      "pubDate": "Thu, 15 Oct 2026 17:46:28 +0300",
+      "pubDate": "Thu, 15 Oct 2026 21:06:50 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Murashko报告称，俄罗斯的死产率逐年下降"
+      "titleZh": "莫斯科和乌兰巴托讨论扩大俄罗斯电力出口"
     },
     {
-      "title": "Кардиолог предупредил об опасности тренда на низкий пульс",
-      "link": "https://iz.ru/2184745/2026-10-15/kardiolog-predupredil-ob-opasnosti-trenda-na-nizkii-puls",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 17:41:52 +0300",
-      "summary": "<p>В последнее время низкий пульс в покое стал популярным трендом: его показатели демонстрируют даже в социальных сетях. У любителей фитнеса всё чаще можно увидеть показатели пульса 49–62 удара в минуту. О том, когда ред",
+      "title": "Индийская фармотрасль расширяет производство лекарств в России",
+      "link": "https://ria.ru/20261015/indiya-2124790948.html",
+      "source": "RIA",
+      "pubDate": "Thu, 15 Oct 2026 21:00:09 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "印度制药业扩大俄罗斯药品生产"
+    },
+    {
+      "title": "Продажи билетов на шоу Navai в Москве приостановили",
+      "link": "https://lenta.ru/news/2026/10/15/prodazhi-biletov-na-shou-navai-v-moskve-priostanovili/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 20:06:00 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "心脏病专家警告低心率趋势的危险"
+      "titleZh": "莫斯科 Nawai 演出门票已暂停销售"
     },
     {
-      "title": "Младенческая смертность в России снизилась до исторического минимума",
-      "link": "https://ria.ru/20261015/smertnost-2124750536.html",
-      "source": "RIA",
-      "pubDate": "Thu, 15 Oct 2026 17:35:49 +0300",
+      "title": "Путин: Киеву до ударов по маркетплейсам стоило подумать над последствиями",
+      "link": "https://iz.ru/2184922/putin-prizval-kiev-dumat-o-posledstviiakh-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 19:28:31 +0300",
+      "summary": "<p>Киеву следовало бы учитывать возможные последствия ударов по маркетплейсам и другим объектам. Об этом 15 октября заявил президент России Владимир <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Путин</a>.</",
+      "tags": [
+        "平台"
+      ],
+      "titleZh": "普京：基辅在冲击市场之前应该考虑后果"
+    },
+    {
+      "title": "Инфантино извинился за продажу прав на проведение чемпионата мира",
+      "link": "https://lenta.ru/news/2026/10/15/infantino-izvinilsya-za-prodazhu-prav-na-provedenie-chempionata-mira/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:28:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "因凡蒂诺为出售世界杯主办权而道歉"
+    },
+    {
+      "title": "У популярного препарата обнаружили неожиданное полезное свойство",
+      "link": "https://lenta.ru/news/2026/10/15/u-populyarnogo-preparata-obnaruzhili-neozhidannoe-poleznoe-svoystvo/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:13:41 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一种流行的药物具有意想不到的有益特性"
+    },
+    {
+      "title": "Путин оценил российские успехи в сфере продовольственного экспорта",
+      "link": "https://lenta.ru/news/2026/10/15/putin-otsenil-rossiyskie-uspehi-v-sfere-prodovolstvennogo-eksporta/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:11:31 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯婴儿死亡率降至历史最低水平"
+      "titleZh": "普京称赞俄罗斯食品出口取得的成功"
+    },
+    {
+      "title": "Раскрыты планы Британии по поставкам ракет Storm Shadow Украине",
+      "link": "https://lenta.ru/news/2026/10/15/raskryty-plany-britanii-po-postavkam-raket-storm-shadow-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:11:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "英国计划向乌克兰供应“风暴之影”导弹"
+    },
+    {
+      "title": "В Москве выставили на продажу уникальный и очень дорогой BMW",
+      "link": "https://lenta.ru/news/2026/10/15/v-moskve-vystavili-na-prodazhu-unikalnyy-i-ochen-dorogoy-bmw/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 19:07:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一辆独特且非常昂贵的宝马在莫斯科出售"
+    },
+    {
+      "title": "Путин заявил о росте экспорта продовольствия из России в 2,5 раза за десять лет",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237472-o-roste-eksporta",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 18:52:57 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京宣布十年内俄罗斯食品出口增长2.5倍"
+    },
+    {
+      "title": "Путин предупредил об ответе Москвы на удары ВСУ по российским НПЗ",
+      "link": "https://iz.ru/2184893/2026-10-15/putin-predupredil-ob-otvete-moskvy-na-udary-vsu-po-rossiiskim-npz",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 18:51:00 +0300",
+      "summary": "<p>Российские военные будут отвечать <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a> на удары по нефтеперерабатывающим заводам (НПЗ), логистическим и энергообъектам. Об этом 15 октября заявил президент РФ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京警告莫斯科对乌克兰武装部队袭击俄罗斯炼油厂的反应"
+    },
+    {
+      "title": "Силуанов призвал G20 сокращать бюджетные дефициты для роста мировой экономики",
+      "link": "https://www.vedomosti.ru/economics/news/2026/10/15/1237468-siluanov-prizval",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 15 Oct 2026 18:49:44 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "西卢安诺夫呼吁二十国集团减少预算赤字以促进全球经济增长"
+    },
+    {
+      "title": "Путин заявил об отсутствии существенного ущерба от попаданий по НПЗ",
+      "link": "https://iz.ru/2184892/2026-10-15/putin-zaiavil-ob-otsutstvii-sushchestvennogo-ushcherba-ot-popadanii-po-npz",
+      "source": "Izvestia",
+      "pubDate": "Thu, 15 Oct 2026 18:49:26 +0300",
+      "summary": "<p>Существенного ущерба от недавних попаданий по нефтеперерабатывающим заводам нет. Об этом 15 октября заявил президент России Владимир <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Путин</a> на форуме-съезд",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京表示，炼油厂的袭击没有造成重大损失"
+    },
+    {
+      "title": "Популярных российских блогеров обокрали в Европе",
+      "link": "https://lenta.ru/news/2026/10/15/populyarnyh-rossiyskih-blogerov-obokrali-v-evrope/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 18:09:43 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯热门博主在欧洲遭抢劫"
+    },
+    {
+      "title": "Бывшая участница «Фабрики звезд» рассказала о неожиданных последствиях уколов красоты",
+      "link": "https://lenta.ru/news/2026/10/15/eks-uchastnitsa-fabriki-zvezd-rasskazala-o-neozhidannyh-posledstviyah-ukolov-krasoty/",
+      "source": "Lenta",
+      "pubDate": "Thu, 15 Oct 2026 18:03:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "前《明星工厂》参与者讲述美容注射的意外后果"
     },
     {
       "title": "У «Русала» могут забрать часть алюминия с Богучанского завода",
@@ -128,29 +246,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "博古昌斯基工厂的部分铝可能会从俄铝运走"
-    },
-    {
-      "title": "«Кордиант» сообщил о модернизации Ярославского шинного завода",
-      "link": "https://iz.ru/2184808/2026-10-15/kordiant-soobshchil-o-modernizatcii-iaroslavskogo-shinnogo-zavoda",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 17:06:19 +0300",
-      "summary": "<p>Холдинг «Кордиант» ввел в опытную эксплуатацию две новые сборочные линии в цехе легковых шин Ярославского шинного завода. Оборудование запустили в сентябре в рамках масштабной программы модернизации предприятия. Общий",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "“Cordiant”宣布雅罗斯拉夫尔轮胎厂现代化改造"
-    },
-    {
-      "title": "Ученые сообщили о снижении физических возможностей до 40 лет",
-      "link": "https://iz.ru/2184740/uchenye-soobshchili-o-snizhenii-fizicheskikh-vozmozhnostei-do-40-let-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 15 Oct 2026 16:16:35 +0300",
-      "summary": "<p>Физическая выносливость может начинать снижаться еще до 40 лет, однако это не означает утраты способности улучшать форму. Шведское исследование, охватившее 47 лет, показало, что разные физические качества достигают ма",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "科学家报告称，40 岁之前身体机能都会下降"
+      "titleZh": "部分铝可能取自Boguchany工厂的俄铝"
     },
     {
       "title": "На «АвтоВАЗе» стартовало производство машины для экстремального бездорожья",
@@ -183,7 +279,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "在ACRA之后， NKR降低了“飞机”的评级"
+      "titleZh": "NKR 根据 ACRA 下调飞机评级"
     },
     {
       "title": "Ямпольская поддержала сокращение олимпиад для поступления в вузы",
@@ -197,28 +293,6 @@
       "titleZh": "亚姆波尔斯卡娅支持减少大学入学竞争"
     },
     {
-      "title": "Мерц резко отверг предложение США по российским активам",
-      "link": "https://lenta.ru/news/2026/10/15/merts-rezko-otverg-predlozhenie-ssha-po-rossiyskim-aktivam/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 14:59:31 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "默兹强烈反对美国对俄罗斯资产的提议"
-    },
-    {
-      "title": "Названа самая популярная машина у россиян в 2026 году",
-      "link": "https://lenta.ru/news/2026/10/15/nazvana-samaya-populyarnaya-mashina-u-rossiyan-v-2026-godu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 14:25:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "2026年最受俄罗斯人欢迎的汽车已被评选"
-    },
-    {
       "title": "Минэнерго сообщило о снижении добычи угля в России за восемь месяцев",
       "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237298-o-snizhenii-dobichi",
       "source": "Vedomosti",
@@ -227,29 +301,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "能源部报告称，俄罗斯煤炭产量连续八个月下降"
-    },
-    {
-      "title": "В России исключили прекращение импорта бензина до конца года",
-      "link": "https://lenta.ru/news/2026/10/15/ne-perestanem/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 12:57:18 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在俄罗斯，在年底之前停止汽油进口被排除在外"
-    },
-    {
-      "title": "Evolute и Voyah сообщили о росте продаж электромобилей в России",
-      "link": "https://lenta.ru/news/2026/10/15/evolute-i-voyah-soobschili-o-roste-prodazh-elektromobiley-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Thu, 15 Oct 2026 12:56:21 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Evolute和Voyah报告称，俄罗斯的电动汽车销量有所增长"
+      "titleZh": "能源部报告称，俄罗斯煤炭产量在八个月内下降"
     },
     {
       "title": "Новак: продажу топлива низких экоклассов могут перевести только на биржу",
@@ -260,7 +312,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "诺瓦克：低环保级别燃料的销售只能转移到交易所"
+      "titleZh": "诺瓦克：低生态级燃料的销售只能转移到证券交易所"
     },
     {
       "title": "Новак: российские компании продолжат импортировать бензин до конца 2026 года",
@@ -271,7 +323,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：俄罗斯公司将继续进口汽油，直到2026年底"
+      "titleZh": "诺瓦克：俄罗斯企业将继续进口汽油至2026年底"
     },
     {
       "title": "Новак сообщил о рассмотрении запрета на экспорт СУГ",
@@ -282,7 +334,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克报告了考虑禁止出口液化石油气的情况"
+      "titleZh": "诺瓦克宣布考虑禁止液化石油气出口"
     },
     {
       "title": "Новак: нефтяные компании готовы начать экспорт дизеля через две-три недели",
@@ -304,7 +356,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Whoosh在九个月内下降了5 ％"
+      "titleZh": "Whoosh 九个月内下跌 5%"
     },
     {
       "title": "Зеленский отверг предложенное Трампом прекращение ударов по НПЗ",
@@ -315,7 +367,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "泽伦斯基拒绝了特朗普提出的停止对炼油厂罢工的提议"
+      "titleZh": "泽连斯基拒绝特朗普停止袭击炼油厂的提议"
     },
     {
       "title": "Вылов рыбы в России снизился почти на 3%",
@@ -348,7 +400,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Netflix计划裁员约1000名员工"
+      "titleZh": "Netflix计划裁员约1000人"
     },
     {
       "title": "«Росатом» объяснил, почему продолжает поставки для атомной энергетики Запада",
@@ -359,7 +411,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯原子能公司解释为何继续向西方供应核电"
+      "titleZh": "Rosatom解释了它为什么继续向西方供应核电"
     },
     {
       "title": "Лавров ожидает нового рекорда товарооборота России и Китая в 2026 году",
@@ -370,7 +422,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "拉夫罗夫预计2026年俄中贸易额将再创新高"
+      "titleZh": "拉夫罗夫预计俄罗斯和中国之间的贸易额将在2026年创下新纪录"
     },
     {
       "title": "Новак: пик падения энергопотребления в России пройден",
@@ -403,18 +455,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "德米特里耶夫：向美国供应柴油的合同将在未来几天签署"
-    },
-    {
-      "title": "МЭА ухудшило прогноз падения мирового спроса на нефть в 2026 году",
-      "link": "https://www.vedomosti.ru/economics/news/2026/10/14/1236943-padeniya-mirovogo-sprosa",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 14 Oct 2026 12:28:56 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "国际能源署下调了对2026年全球石油需求下降的预测"
+      "titleZh": "德米特里耶夫：未来几天将签署向美国供应柴油的合同"
     }
   ]
 }
