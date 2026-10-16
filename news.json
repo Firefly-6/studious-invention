@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-16T19:48:09.955Z",
-  "count": 37,
+  "updated": "2026-10-16T22:13:52.784Z",
+  "count": 38,
   "items": [
+    {
+      "title": "Ты жалеешь мне рубля: банки сократили выдачу карт и лимиты по кредиткам",
+      "link": "https://iz.ru/2185600/oksana-belkina/ty-zhaleesh-mne-rublia-banki-sokratili-vydachu-kart-i-limity-po-kreditkam",
+      "source": "Izvestia",
+      "pubDate": "Sat, 17 Oct 2026 00:02:00 +0300",
+      "summary": "«Отказникам» предлагают брать займы в дочерних МФО",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "你给我一卢布：银行减少了发卡量和信用卡限额"
+    },
     {
       "title": "Банк России снизил курсы доллара и евро",
       "link": "https://lenta.ru/news/2026/10/16/bank-rossii-snizil-kursy-dollara-i-evro/",
@@ -27,6 +39,83 @@
       "titleZh": "官方美元汇率降至83.76卢布"
     },
     {
+      "title": "Ряд стран ЕС захотел сократить военные расходы",
+      "link": "https://lenta.ru/news/2026/10/17/ryad-stran-es-zahotel-sokratit-voennye-rashody/",
+      "source": "Lenta",
+      "pubDate": "Sat, 17 Oct 2026 00:42:19 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "欧盟多国希望削减军费开支"
+    },
+    {
+      "title": "Захарова заявила о падении авторитета МУС как судебного органа",
+      "link": "https://iz.ru/2185660/2026-10-17/zakharova-zaiavila-o-padenii-avtoriteta-mus-kak-sudebnogo-organa",
+      "source": "Izvestia",
+      "pubDate": "Sat, 17 Oct 2026 00:35:00 +0300",
+      "summary": "<p>Международный уголовный суд (МУС) стал квазисудебным органом, который занимается отработкой политических заказов, заявила «Известиям» официальный представитель МИД РФ Мария Захарова.</p>",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "扎哈罗娃宣布削弱国际刑事法院作为司法机构的权威"
+    },
+    {
+      "title": "Свои люди — не сочтутся: Вашингтон приостановил продажу боеприпасов союзникам",
+      "link": "https://iz.ru/2185515/kseniia-loginova/svoi-liudi-ne-sochtutsia-vashington-priostanovil-prodazhu-boepripasov-soiuznikam",
+      "source": "Izvestia",
+      "pubDate": "Sat, 17 Oct 2026 00:02:00 +0300",
+      "summary": "США нужно пополнить израсходованные в войне с Ираном арсеналы",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "你自己的人不会被计算在内：华盛顿已暂停向盟友出售弹药"
+    },
+    {
+      "title": "Наказать в пример: РФ собирает досье для трибунала над киевскими главарями",
+      "link": "https://iz.ru/2185420/fedor-rublev-semen-boikov/rf-sobiraet-dose-dlya-tribunala-nad-kievskimi-glavaryami",
+      "source": "Izvestia",
+      "pubDate": "Sat, 17 Oct 2026 00:01:00 +0300",
+      "summary": "Главная преграда для правосудия — дефицит беспристрастных институтов уровня Нюрнберга",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "以惩罚为例：俄罗斯联邦正在为基辅领导人法庭收集一份卷宗"
+    },
+    {
+      "title": "Ряд стран Евросоюза хочет сократить военные расходы, заявил Туск",
+      "link": "https://ria.ru/20261016/es-2125064991.html",
+      "source": "RIA",
+      "pubDate": "Fri, 16 Oct 2026 23:58:06 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "图斯克表示，一些欧盟国家希望减少军费开支"
+    },
+    {
+      "title": "The Telegraph узнала о предложении Маска ограничить работу Starlink на Украине",
+      "link": "https://iz.ru/2185670/2026-10-16/telegraph-uznala-o-predlozhenii-maska-ogranichit-rabotu-starlink-na-ukraine",
+      "source": "Izvestia",
+      "pubDate": "Fri, 16 Oct 2026 23:48:08 +0300",
+      "summary": "<p>Основатель SpaceX Илон Маск предложил президенту <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональду Трампу</a> ограничить использование спутников",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "《每日电讯报》获悉马斯克提出限制星链在乌克兰运营的提议"
+    },
+    {
+      "title": "Доктор Мясников поразил американцев во время еды одной распространенной в России привычкой",
+      "link": "https://lenta.ru/news/2026/10/16/doktor-myasnikov-porazil-amerikantsev-vo-vremya-edy-odnoy-rasprostranennoy-v-rossii-privychkoy/",
+      "source": "Lenta",
+      "pubDate": "Fri, 16 Oct 2026 23:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "米亚斯尼科夫博士让美国人惊讶于俄罗斯人吃饭时的一个常见习惯。"
+    },
+    {
       "title": "ВС России нанесли удар по немецкому заводу в Луцке",
       "link": "https://lenta.ru/news/2026/10/16/vs-rossii-nanesli-udar-po-nemetskomu-zavodu-v-lutske/",
       "source": "Lenta",
@@ -49,17 +138,6 @@
       "titleZh": "由于担心柴油短缺加剧，布伦特原油价格逼近每桶 110 美元"
     },
     {
-      "title": "Лидеры ЕС поручили подготовить предложения по финансовым нуждам Украины",
-      "link": "https://ria.ru/20261016/es-2125056107.html",
-      "source": "RIA",
-      "pubDate": "Fri, 16 Oct 2026 22:09:15 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "欧盟领导人指示为乌克兰的金融需求准备提案"
-    },
-    {
       "title": "Популярный российский блогер рассказал о тяжелых психологических проблемах",
       "link": "https://lenta.ru/news/2026/10/16/populyarnyy-rossiyskiy-bloger-rasskazal-o-tyazhelyh-psihologicheskih-problemah/",
       "source": "Lenta",
@@ -80,39 +158,6 @@
         "供给↓"
       ],
       "titleZh": "向俄罗斯军队供应腐烂炖菜案涉案人员将在审前拘留中心过年"
-    },
-    {
-      "title": "Певица Валерия рассказала о психологическом насилии в браке с Шульгиным",
-      "link": "https://iz.ru/2185593/pevitca-valeriia-rasskazala-o-psikhologicheskom-nasilii-v-brake-s-shulginym/ize",
-      "source": "Izvestia",
-      "pubDate": "Fri, 16 Oct 2026 19:51:48 +0300",
-      "summary": "<p>Певица Валерия в новом выпуске шоу «Ой, Мамочки» на VK Видео поделилась подробностями жизни в браке с композитором Александром Шульгиным. Артистка рассказала о жестком контроле и странных запретах, с которыми сталкива",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "歌手瓦莱里娅谈到她与舒尔金婚姻中的心理暴力"
-    },
-    {
-      "title": "Суд продлил арест двум фигурантам дела о поставке некачественной тушенки на СВО",
-      "link": "https://iz.ru/2185555/sud-prodlil-arest-dvum-figurantam-dela-o-postavke-nekachestvennoi-tushenki-na-svo-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 16 Oct 2026 19:45:00 +0300",
-      "summary": "<p>Военный суд в <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> до февраля продлил арест бывшему начальнику управления департамента ресурсного обеспечения Минобороны России Виктору Таразевичу по делу о хищ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "向SVO供应劣质炖菜案，法院延长对两名被告的逮捕期限"
-    },
-    {
-      "title": "Лут сообщила о полном обеспечении продбезопасности России по зерну",
-      "link": "https://iz.ru/2185504/2026-10-16/lut-soobshchila-ob-obespechenii-polnoi-prodbezopasnosti-rossii-po-zernu",
-      "source": "Izvestia",
-      "pubDate": "Fri, 16 Oct 2026 19:23:16 +0300",
-      "summary": "<p>Продовольственная безопасность России по зерну в 2026 году полностью обеспечена, видна хорошая база для сохранения высокого экспортного потенциала. Об этом 16 октября сообщила глава Минсельхоза России Оксана Лут во вр",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "卢特宣布全面保障俄罗斯粮食安全"
     },
     {
       "title": "Названые самые популярные у российских туристов страны в ноябре",
@@ -247,28 +292,6 @@
       "titleZh": "复兴保险前9个月利润下降36%"
     },
     {
-      "title": "В России ответили на предложение Зеленского об ударах по НПЗ",
-      "link": "https://lenta.ru/news/2026/10/16/v-rossii-otvetili-na-predlozhenie-zelenskogo-ob-udarah-po-npz/",
-      "source": "Lenta",
-      "pubDate": "Fri, 16 Oct 2026 16:26:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯回应泽连斯基袭击炼油厂的提议"
-    },
-    {
-      "title": "Россия согласовала первые в мире международные поставки с плавучих атомных энергоблоков",
-      "link": "https://lenta.ru/news/2026/10/16/rossiya-soglasovala-pervye-v-mire-mezhdunarodnye-postavki-s-plavuchih-atomnyh-energoblokov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 16 Oct 2026 16:19:12 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯已就全球首批浮动核电机组国际供应达成一致"
-    },
-    {
       "title": "Новак: мощности по производству дизеля в РФ вдвое превышают потребности рынка",
       "link": "https://www.vedomosti.ru/business/news/2026/10/16/1237716-moschnosti-po-proizvodstvu-dizelya",
       "source": "Vedomosti",
@@ -399,17 +422,6 @@
         "需求↑"
       ],
       "titleZh": "西卢安诺夫呼吁二十国集团减少预算赤字以促进全球经济增长"
-    },
-    {
-      "title": "У «Русала» могут забрать часть алюминия с Богучанского завода",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/15/1237419-chast-alyuminiya",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 15 Oct 2026 17:11:09 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "博古昌斯基工厂的部分铝可能会从俄铝运走"
     }
   ]
 }
