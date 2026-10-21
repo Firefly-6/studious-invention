@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-21T05:36:12.651Z",
-  "count": 32,
+  "updated": "2026-10-21T10:34:29.229Z",
+  "count": 34,
   "items": [
+    {
+      "title": "Российский министр рассказал о работе над поставками в Китай древесных гранул",
+      "link": "https://lenta.ru/news/2026/10/21/rossiyskiy-ministr-rasskazal-o-rabote-nad-postavkami-v-kitay-drevesnyh-granul/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 13:21:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "俄罗斯部长谈到向中国供应木屑颗粒的工作"
+    },
+    {
+      "title": "Названы самые популярные китайские б/у автомобили в России",
+      "link": "https://iz.ru/2187846/nazvany-samye-populiarnye-kitaiskie-bu-avtomobili-v-rossii-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 12:29:40 +0300",
+      "summary": "<p>Самыми популярными моделями на вторичном рынке среди китайских автомобилей в России в III квартале текущего года стали кроссоверы Geely Monjaro, Haval Jolion и Geely Coolray, а средняя стоимость авто составила 2 млн р",
+      "tags": [
+        "需求↑",
+        "价格"
+      ],
+      "titleZh": "被评为俄罗斯最受欢迎的中国二手车"
+    },
+    {
+      "title": "Популярную привычку связали со снижением риска заболеваний сердца и сосудов",
+      "link": "https://lenta.ru/news/2026/10/21/populyarnuyu-privychku-svyazali-so-snizheniem-riska-zabolevaniy-serdtsa-i-sosudov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 11:44:34 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "一种流行的习惯与降低心脏病和血管疾病的风险有关"
+    },
+    {
+      "title": "Мишустин: РФ и Китай почти полностью перешли на торговлю в нацвалютах",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/21/1238757-mishustin-rf-i-kitai",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 21 Oct 2026 09:52:20 +0300",
+      "summary": "",
+      "tags": [
+        "中俄贸易",
+        "汇率"
+      ],
+      "titleZh": "米舒斯京：俄罗斯和中国几乎完全转向以本国货币进行交易"
+    },
     {
       "title": "Цены на нефть снизились после подъема до максимума с середины мая",
       "link": "https://www.vedomosti.ru/investments/news/2026/10/20/1238661-tseni-na-neft",
@@ -51,127 +99,158 @@
       "titleZh": "亚美尼亚离开欧亚经济联盟时的天然气进口价格将上涨69%"
     },
     {
-      "title": "Мишустин заявил о росте товарооборота России и Ирана вопреки санкциям",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/19/1238263-o-roste-tovarooborota",
+      "title": "Путин изучит предложения, привезенные Уиткоффом после встречи с Зеленским",
+      "link": "https://ria.ru/20261021/putin-2125885081.html",
+      "source": "RIA",
+      "pubDate": "Wed, 21 Oct 2026 13:29:38 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京将在与泽伦斯基会晤后研究惠特科夫提出的建议"
+    },
+    {
+      "title": "Захарова пообещала жесткий ответ Москвы на выпады Токио",
+      "link": "https://iz.ru/2187847/2026-10-21/zakharova-poobeshchala-zhestkii-otvet-moskvy-na-vypady-tokio",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 13:14:54 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москва</a> расценивает применение боевиками военными дронов японского производства в зоне боев как враждебный выпад Японии в адрес России, и данные действия получат ж",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "扎哈罗娃承诺莫斯科将对东京的袭击做出强硬回应"
+    },
+    {
+      "title": "Украина бросила против России редкую технику из секретной поставки",
+      "link": "https://lenta.ru/news/2026/10/21/ukraina-brosila-protiv-rossii-redkuyu-tehniku-iz-sekretnoy-postavki/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 13:11:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰向俄罗斯投掷秘密供应的稀有设备"
+    },
+    {
+      "title": "Путин о поставке удобрений на рынок США",
+      "link": "https://iz.ru/2187878/video/putin-o-postavke-udobrenii-na-rynok-ssha",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 13:05:42 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京谈向美国市场供应化肥"
+    },
+    {
+      "title": "Продажи подержанных японских авто в РФ превысили 1,2 млн с начала года",
+      "link": "https://iz.ru/2187862/2026-10-21/prodazhi-poderzhannykh-iaponskikh-avto-v-rf-prevysili-12-mln-s-nachala-goda",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 13:02:26 +0300",
+      "summary": "<p>За январь-сентябрь 2026 года в России было реализовано 1,22 млн подержанных легковых автомобилей японских марок — это на 8,3% больше, чем за аналогичный период прошлого года, когда показатель составил 1,13 млн машин. ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "自年初以来，俄罗斯联邦的二手日本汽车销量超过120万辆"
+    },
+    {
+      "title": "Путин оценил снижение цен после сделки по дизелю с США",
+      "link": "https://lenta.ru/news/2026/10/21/putin-otsenil-snizhenie-tsen-posle-sdelki-po-dizelyu-s-ssha/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 12:38:44 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京估计与美国达成柴油协议后价格下跌"
+    },
+    {
+      "title": "Марка «АвтоВАЗа» установила рекорд продаж в России",
+      "link": "https://lenta.ru/news/2026/10/21/marka-avtovaza-ustanovila-rekord-prodazh-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 12:09:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "AvtoVAZ品牌在俄罗斯创造了销售记录"
+    },
+    {
+      "title": "Раскрыты уловки мошенников в популярных у туристов странах",
+      "link": "https://lenta.ru/news/2026/10/21/raskryty-ulovki-moshennikov-v-populyarnyh-u-turistov-stranah/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 12:05:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "欺诈者的伎俩在热门旅游国家被揭露"
+    },
+    {
+      "title": "В российском регионе на продажу выставили «Газель» 1997 года с маленьким пробегом",
+      "link": "https://lenta.ru/news/2026/10/21/v-rossiyskom-regione-na-prodazhu-vystavili-gazel-1997-goda-s-malenkim-probegom/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 11:36:05 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在俄罗斯地区， 1997年的低里程瞪羚被出售"
+    },
+    {
+      "title": "В России случился бум продаж одного вида машин",
+      "link": "https://lenta.ru/news/2026/10/21/v-rossii-sluchilsya-bum-prodazh-odnogo-vida-mashin/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 11:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在俄罗斯，有一种类型的汽车的销量激增"
+    },
+    {
+      "title": "Производство пасты оказалось под угрозой",
+      "link": "https://lenta.ru/news/2026/10/21/mamma-mia/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 11:12:02 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "糊剂的生产受到威胁"
+    },
+    {
+      "title": "Мишустин: товарооборот АПК России и Китая вырос более чем на треть",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/21/1238777-tovarooborot-apk",
       "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 16:47:44 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "制裁"
-      ],
-      "titleZh": "米舒斯京宣布尽管受到制裁，但俄罗斯和伊朗之间的贸易仍有所增加"
-    },
-    {
-      "title": "Китай ужесточит экспортный контроль на дальнобойные беспилотники",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/19/1238270-kitai-uzhestochit",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 16:45:38 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓",
-        "中俄贸易"
-      ],
-      "titleZh": "中国将加强对远程无人机的出口管制"
-    },
-    {
-      "title": "В балансе",
-      "link": "https://iz.ru/2187348/mariya-matveeva/v-balanse",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 08:01:00 +0300",
-      "summary": "Врач-эндокринолог Мария Матвеева — о том, чем опасен дефицит йода и какие продукты помогают его восполнить",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "总的来说"
-    },
-    {
-      "title": "WSJ узнала о планах Anthropic потратить $750 млрд на вычислительные ресурсы",
-      "link": "https://iz.ru/2187731/wsj-uznala-o-planakh-anthropic-potratit-750-mlrd-na-vychislitelnye-resursy-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 07:48:00 +0300",
-      "summary": "<p>Американская технологическая компания Anthropic может потратить до $750 млрд в ближайшие годы на расширение вычислительных мощностей. Об этом 20 октября сообщила газета The Wall Street Journal (<a href=\"https://www.ws",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "《华尔街日报》了解到， Anthropic计划在计算资源上花费7500亿美元"
-    },
-    {
-      "title": "СМИ сообщили о гибели четырех рабочих при строительстве завода TSMC на Тайване",
-      "link": "https://iz.ru/2187721/2026-10-21/smi-soobshchili-o-gibeli-chetyrekh-rabochikh-pri-stroitelstve-zavoda-tsmc-na-taivane",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 06:46:04 +0300",
-      "summary": "<p>Четверо рабочих погибли на строительной площадке нового завода Taiwan Semiconductor Manufacturing Company (TSMC) на юге Тайваня. После происшествия часть строительных работ была приостановлена, сообщает 21 октября аге",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "媒体报道台积电台湾工厂建设期间四名工人死亡"
-    },
-    {
-      "title": "NYT узнала о предложении Трампа убрать журналистов из Белого дома ради бассейна",
-      "link": "https://iz.ru/2187711/tramp-predlozhil-vernut-bassein-v-zal-dlia-brifingov-belogo-doma-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 06:40:00 +0300",
-      "summary": "<p>Глава Белого дома <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональд Трамп</a> неоднократно предлагал освободить зал для брифингов в Белом доме от журналистов и восстановить на его месте крытый бассейн. ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "纽约时报了解到特朗普为了游泳池而将记者从白宫撤职的提议"
-    },
-    {
-      "title": "Трамп сообщил об инвестициях Пентагона в производство чипов в Северной Каролине",
-      "link": "https://iz.ru/2187710/2026-10-21/tramp-soobshchil-ob-investitciiakh-pentagona-v-proizvodstvo-chipov-v-severnoi-karoline",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 06:27:00 +0300",
-      "summary": "<p>Пентагон направит $1,5 млрд на развитие производства передовых полупроводниковых чипов в американском штате Северная Каролина. Об этом 20 октября заявил президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "特朗普宣布五角大楼在北卡罗来纳州投资芯片制造业"
-    },
-    {
-      "title": "Врач развеял распространенный миф об алкоголе",
-      "link": "https://lenta.ru/news/2026/10/21/vrach-razveyal-rasprostranennyy-mif-ob-alkogole/",
-      "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 06:00:37 +0300",
+      "pubDate": "Wed, 21 Oct 2026 10:56:44 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "医生打破了一个关于酒精的普遍误解"
+      "titleZh": "Mishustin ：俄罗斯和中国农工业综合体的贸易额增长超过"
     },
     {
-      "title": "В Германии призвали возобновить импорт газа из России",
-      "link": "https://lenta.ru/news/2026/10/21/v-germanii-prizvali-vozobnovit-import-gaza-iz-rossii/",
+      "title": "Китай ускорил закупку российского угля",
+      "link": "https://lenta.ru/news/2026/10/21/kitay-uskoril/",
       "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 06:00:27 +0300",
+      "pubDate": "Wed, 21 Oct 2026 09:03:00 +0300",
       "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "德国呼吁恢复从俄罗斯进口天然气"
-    },
-    {
-      "title": "Стало известно о сокращении обороны ВСУ у Орехова",
-      "link": "https://lenta.ru/news/2026/10/21/marochko-rasskazal-o-sokraschenii-oborony-vsu-u-orehova/",
-      "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 04:43:58 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "众所周知，奥列霍夫减少了APU的防御"
-    },
-    {
-      "title": "Ученые указали на пользу ходьбы при болезни Альцгеймера",
-      "link": "https://iz.ru/2187203/uchenye-ukazali-na-polzu-khodby-pri-bolezni-altcgeimera-izi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 04:30:00 +0300",
-      "summary": "<p dir=\"ltr\">Физическая активность может быть связана с изменениями в мозге даже у людей, у которых уже появились ранние признаки болезни Альцгеймера. При этом не обязательно стремиться к популярной цели в 10 тыс. шагов ",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "科学家们已经指出在阿尔茨海默病中行走的好处"
+      "titleZh": "中国加快购买俄罗斯煤炭"
+    },
+    {
+      "title": "Россиянин развращал малолетних девочек и распространял интимные видео с ними",
+      "link": "https://lenta.ru/news/2026/10/21/rossiyanin-razvraschal-maloletnih-devochek-i-rasprostranyal-s-nimi-intimnye-video/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 08:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯堕落的年轻女孩并与她们一起分发亲密视频"
     },
     {
       "title": "«Катюша» запустила производство картриджей в Ленинградской области",
@@ -185,17 +264,6 @@
       "titleZh": "“喀秋莎”在列宁格勒地区推出墨盒生产"
     },
     {
-      "title": "Мишустин сообщил о значительном увеличении товарооборота со странами ШОС",
-      "link": "https://lenta.ru/news/2026/10/20/mishustin-soobschil-o-znachitelnom-uvelichenii-tovarooborota-so-stranami-shos/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 22:11:44 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "米舒斯廷报告说，与上合组织国家的贸易大幅增加"
-    },
-    {
       "title": "Лавров исключил политические уступки в ходе переговоров по Украине",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/20/1238683-lavrov-isklyuchil-ustupki",
       "source": "Vedomosti",
@@ -205,17 +273,6 @@
         "供给↓"
       ],
       "titleZh": "拉夫罗夫在关于乌克兰的谈判中排除了政治让步"
-    },
-    {
-      "title": "Продажи жилья на популярном курорте резко упали из-за войны с Ираном",
-      "link": "https://lenta.ru/news/2026/10/20/prodazhi-zhilya-na-populyarnom-kurorte-rezko-upali-iz-za-voyny-s-irakom/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 21:38:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "由于与伊朗的战争，一家热门度假村的房屋销售暴跌"
     },
     {
       "title": "«Соллерс» начал серийное производство автомобилей SF7 в Елабуге",
@@ -326,39 +383,6 @@
         "供给↓"
       ],
       "titleZh": "美国不批准第三国向乌克兰供应爱国者导弹"
-    },
-    {
-      "title": "Чехия не поддержала предложение Финляндии о визовых ограничениях для россиян",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/19/1238376-chehiya-ne-podderzhala-predlozhenie",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 21:42:22 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "捷克共和国不支持芬兰关于限制俄罗斯人签证的提案"
-    },
-    {
-      "title": "Сазанов: Минфин обсудит с РСПП предложения по налогу на сверхприбыль",
-      "link": "https://www.vedomosti.ru/finance/news/2026/10/19/1238338-minfin-obsudit-predlozheniya",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 18:32:01 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "萨扎诺夫：财政部将与俄罗斯工业家和企业家联盟讨论超额利润税提案"
-    },
-    {
-      "title": "Ozon введет плату для владельцев ПВЗ за пользование услугами агента",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/19/1238259-ozon-vvedet-platu",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 16:26:29 +0300",
-      "summary": "",
-      "tags": [
-        "OZON"
-      ],
-      "titleZh": "Ozon将对使用代理服务的PvZ持有人收取费用"
     }
   ]
 }
