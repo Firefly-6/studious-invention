@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:57:13.920Z",
+  "updated": "2026-10-21T05:36:12.651Z",
   "count": 32,
   "items": [
     {
@@ -13,18 +13,6 @@
         "价格"
       ],
       "titleZh": "油价在升至5月中旬以来的最高水平后下跌"
-    },
-    {
-      "title": "Мировые цены на нефть перешли к снижению",
-      "link": "https://lenta.ru/news/2026/10/20/mirovye-tseny-na-neft-pereshli-k-snizheniyu/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 18:56:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓",
-        "价格"
-      ],
-      "titleZh": "世界油价下跌"
     },
     {
       "title": "В Нижнем Новгороде построят производство имплантов и филлеров за 2,5 млрд рублей",
@@ -87,49 +75,103 @@
       "titleZh": "中国将加强对远程无人机的出口管制"
     },
     {
-      "title": "Еврокомиссия отвергла предложение США о закупках российского газа",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/19/1238216-evrokomissiya-otvergla-predlozhenie",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 19 Oct 2026 14:45:48 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "欧盟委员会拒绝了美国购买俄罗斯天然气的提议"
-    },
-    {
-      "title": "Россия сократила экспорт замороженной рыбы в ЕС до минимума с 2016 года",
-      "link": "https://ria.ru/20261021/eksport-2125771617.html",
-      "source": "RIA",
-      "pubDate": "Wed, 21 Oct 2026 02:53:04 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯将冷冻鱼出口降至2016年以来的最低水平"
-    },
-    {
-      "title": "Мошенники начали продавать россиянам поддельные ж/д билеты со скидкой",
-      "link": "https://iz.ru/2187679/moshenniki-nachali-prodavat-rossiianam-poddelnye-zhd-bilety-so-skidkoi-izi",
+      "title": "В балансе",
+      "link": "https://iz.ru/2187348/mariya-matveeva/v-balanse",
       "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 02:50:00 +0300",
-      "summary": "<p>Мошенники начали создавать сайты-клоны сервисов продажи железнодорожных билетов и заманивать россиян скидками до 20%. При попытке оформить билет пользователь попадает на фишинговую страницу, после чего с его карты мог",
+      "pubDate": "Wed, 21 Oct 2026 08:01:00 +0300",
+      "summary": "Врач-эндокринолог Мария Матвеева — о том, чем опасен дефицит йода и какие продукты помогают его восполнить",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "欺诈者开始以折扣价向俄罗斯人出售假火车票"
+      "titleZh": "总的来说"
     },
     {
-      "title": "Складной iPhone Duo оказался практически невостребованным в РФ",
-      "link": "https://iz.ru/2187625/2026-10-21/skladnoi-iphone-duo-okazalsia-prakticheski-nevostrebovannym-v-rf",
+      "title": "WSJ узнала о планах Anthropic потратить $750 млрд на вычислительные ресурсы",
+      "link": "https://iz.ru/2187731/wsj-uznala-o-planakh-anthropic-potratit-750-mlrd-na-vychislitelnye-resursy-izi",
       "source": "Izvestia",
-      "pubDate": "Wed, 21 Oct 2026 00:40:00 +0300",
-      "summary": "<p>Первый складной смартфон Apple — iPhone Duo — пока решили приобрести единичные покупатели, рассказали «Известиям» продавцы электроники и эксперты. Обычно розничные сети открывают предзаказ на новые модели компании пос",
+      "pubDate": "Wed, 21 Oct 2026 07:48:00 +0300",
+      "summary": "<p>Американская технологическая компания Anthropic может потратить до $750 млрд в ближайшие годы на расширение вычислительных мощностей. Об этом 20 октября сообщила газета The Wall Street Journal (<a href=\"https://www.ws",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "《华尔街日报》了解到， Anthropic计划在计算资源上花费7500亿美元"
+    },
+    {
+      "title": "СМИ сообщили о гибели четырех рабочих при строительстве завода TSMC на Тайване",
+      "link": "https://iz.ru/2187721/2026-10-21/smi-soobshchili-o-gibeli-chetyrekh-rabochikh-pri-stroitelstve-zavoda-tsmc-na-taivane",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 06:46:04 +0300",
+      "summary": "<p>Четверо рабочих погибли на строительной площадке нового завода Taiwan Semiconductor Manufacturing Company (TSMC) на юге Тайваня. После происшествия часть строительных работ была приостановлена, сообщает 21 октября аге",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "媒体报道台积电台湾工厂建设期间四名工人死亡"
+    },
+    {
+      "title": "NYT узнала о предложении Трампа убрать журналистов из Белого дома ради бассейна",
+      "link": "https://iz.ru/2187711/tramp-predlozhil-vernut-bassein-v-zal-dlia-brifingov-belogo-doma-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 06:40:00 +0300",
+      "summary": "<p>Глава Белого дома <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональд Трамп</a> неоднократно предлагал освободить зал для брифингов в Белом доме от журналистов и восстановить на его месте крытый бассейн. ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "纽约时报了解到特朗普为了游泳池而将记者从白宫撤职的提议"
+    },
+    {
+      "title": "Трамп сообщил об инвестициях Пентагона в производство чипов в Северной Каролине",
+      "link": "https://iz.ru/2187710/2026-10-21/tramp-soobshchil-ob-investitciiakh-pentagona-v-proizvodstvo-chipov-v-severnoi-karoline",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 06:27:00 +0300",
+      "summary": "<p>Пентагон направит $1,5 млрд на развитие производства передовых полупроводниковых чипов в американском штате Северная Каролина. Об этом 20 октября заявил президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "特朗普宣布五角大楼在北卡罗来纳州投资芯片制造业"
+    },
+    {
+      "title": "Врач развеял распространенный миф об алкоголе",
+      "link": "https://lenta.ru/news/2026/10/21/vrach-razveyal-rasprostranennyy-mif-ob-alkogole/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 06:00:37 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "可折叠的iPhone Duo在俄罗斯联邦几乎无人认领"
+      "titleZh": "医生打破了一个关于酒精的普遍误解"
+    },
+    {
+      "title": "В Германии призвали возобновить импорт газа из России",
+      "link": "https://lenta.ru/news/2026/10/21/v-germanii-prizvali-vozobnovit-import-gaza-iz-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 06:00:27 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "德国呼吁恢复从俄罗斯进口天然气"
+    },
+    {
+      "title": "Стало известно о сокращении обороны ВСУ у Орехова",
+      "link": "https://lenta.ru/news/2026/10/21/marochko-rasskazal-o-sokraschenii-oborony-vsu-u-orehova/",
+      "source": "Lenta",
+      "pubDate": "Wed, 21 Oct 2026 04:43:58 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "众所周知，奥列霍夫减少了APU的防御"
+    },
+    {
+      "title": "Ученые указали на пользу ходьбы при болезни Альцгеймера",
+      "link": "https://iz.ru/2187203/uchenye-ukazali-na-polzu-khodby-pri-bolezni-altcgeimera-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 21 Oct 2026 04:30:00 +0300",
+      "summary": "<p dir=\"ltr\">Физическая активность может быть связана с изменениями в мозге даже у людей, у которых уже появились ранние признаки болезни Альцгеймера. При этом не обязательно стремиться к популярной цели в 10 тыс. шагов ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "科学家们已经指出在阿尔茨海默病中行走的好处"
     },
     {
       "title": "«Катюша» запустила производство картриджей в Ленинградской области",
@@ -176,28 +218,6 @@
       "titleZh": "由于与伊朗的战争，一家热门度假村的房屋销售暴跌"
     },
     {
-      "title": "В Приднестровье сделали заявление о предложении вывести российских миротворцев",
-      "link": "https://lenta.ru/news/2026/10/20/v-pridnestrovie-sdelali-zayavlenie-o-predlozhenii-vyvesti-rossiyskih-mirotvortsev/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 19:19:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在普里德涅斯特罗维就撤出俄罗斯维和部队的提议发表声明"
-    },
-    {
-      "title": "Названы средства для снижения жесткости сосудов",
-      "link": "https://lenta.ru/news/2026/10/20/nazvany-sredstva-dlya-snizheniya-zhestkosti-sosudov/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 19:04:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "降低血管僵硬度的命名方法"
-    },
-    {
       "title": "«Соллерс» начал серийное производство автомобилей SF7 в Елабуге",
       "link": "https://www.vedomosti.ru/auto/news/2026/10/20/1238644-seriinoe-proizvodstvo",
       "source": "Vedomosti",
@@ -207,28 +227,6 @@
         "供给↓"
       ],
       "titleZh": "Sollers开始在Yelabuga批量生产SF7汽车"
-    },
-    {
-      "title": "Одну группу людей призвали ограничить потребление бананов",
-      "link": "https://lenta.ru/news/2026/10/20/odnu-gruppu-lyudey-poprosili-ogranichit-potreblenie-bananov/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 18:34:24 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一组人被敦促限制香蕉的消费"
-    },
-    {
-      "title": "«Соллерс» запустил серийное производство новых коммерческих автомобилей",
-      "link": "https://lenta.ru/news/2026/10/20/sollers-zapustil-seriynoe-proizvodstvo-novyh-kommercheskih-avtomobiley/",
-      "source": "Lenta",
-      "pubDate": "Tue, 20 Oct 2026 18:26:51 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Sollers开始批量生产新型商用车"
     },
     {
       "title": "Мантуров и Новак обсудили импортозамещение нефтегазового оборудования",
