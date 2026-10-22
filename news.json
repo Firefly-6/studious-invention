@@ -1,68 +1,7 @@
 {
-  "updated": "2026-10-22T15:34:12.867Z",
-  "count": 40,
+  "updated": "2026-10-22T19:27:42.398Z",
+  "count": 23,
   "items": [
-    {
-      "title": "ФАС потребовала пересмотреть закупку Tank 500 для чиновников за 52 млн рублей",
-      "link": "https://iz.ru/2188792/2026-10-22/fas-potrebovala-peresmotret-zakupku-tank-500-dlia-chinovnikov-za-52-mln-rublei",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 17:29:27 +0300",
-      "summary": "<p>Управление Федеральной антимонопольной службы (УФАС) по Свердловской области признало обоснованными жалобы на закупку шести китайских внедорожников Tank 500 для нужд регионального правительства. Начальная цена контрак",
-      "tags": [
-        "需求↑",
-        "价格",
-        "汇率"
-      ],
-      "titleZh": "FAS要求重新考虑以5200万卢布为官员购买Tank 500"
-    },
-    {
-      "title": "ЕК подтвердила необходимость приостановки санкций на импорт соболя из РФ",
-      "link": "https://iz.ru/2188834/ek-podtverdila-neobkhodimost-priostanovki-sanktcii-na-import-sobolia-iz-rf-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 18:25:54 +0300",
-      "summary": "<p>Еврокомиссия (ЕК) считает необходимым сохранить исключение из санкционных ограничений Евросоюза (ЕС) на импорт российского соболиного меха. Об этом 22 октября заявил еврокомиссар по международному партнерству Джозеф С",
-      "tags": [
-        "供给↓",
-        "制裁"
-      ],
-      "titleZh": "欧盟确认需要暂停对俄罗斯联邦进口紫貂的制裁"
-    },
-    {
-      "title": "ЕЭК повысила ставки ввозных пошлин на ряд импортных товаров",
-      "link": "https://iz.ru/2188825/2026-10-22/eek-povysila-stavki-vvoznykh-poshlin-na-riad-importnykh-tovarov",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 18:07:57 +0300",
-      "summary": "<p>Совет Евразийской экономической комиссии (ЕЭК) принял решение увеличить ставки ввозных таможенных пошлин на отдельные категории товаров из-за роста объемов их импорта на фоне значительного снижения цен. Об этом 22 окт",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "欧洲经济共同体提高了一些进口商品的进口关税"
-    },
-    {
-      "title": "Минпромторг спрогнозировал снижение продаж и производства «АвтоВАЗа»",
-      "link": "https://lenta.ru/news/2026/10/22/minpromtorg-sprognoziroval-snizhenie-prodazh-i-proizvodstva-avtovaza/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 14:35:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "工贸部预测AvtoVAZ销量和产量下降"
-    },
-    {
-      "title": "Поставки товаров из Армении в Европу взлетели",
-      "link": "https://lenta.ru/news/2026/10/22/postavki-tovarov-iz-armenii-v-evropu-vzleteli/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 14:05:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "亚美尼亚对欧洲的货物供应猛增"
-    },
     {
       "title": "Боломатова: экспортеры зерна прорабатывают транзит через Китай",
       "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239149-bolomatova-eksporteri",
@@ -73,73 +12,84 @@
         "供给↓",
         "中俄贸易"
       ],
-      "titleZh": "博洛马托娃：粮食出口商正在努力通过中国过境"
+      "titleZh": "博洛马托娃：谷物出口商正在努力通过中国过境"
     },
     {
-      "title": "Лонгслив из скандального клипа Крида сняли с продажи",
-      "link": "https://ria.ru/20261022/krid-2126335303.html",
+      "title": "Минэнерго сообщило о снижении потребности в импортном бензине",
+      "link": "https://ria.ru/20261022/minenergo-2126380416.html",
       "source": "RIA",
-      "pubDate": "Thu, 22 Oct 2026 18:28:03 +0300",
+      "pubDate": "Thu, 22 Oct 2026 22:10:56 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "能源部报告对进口汽油的需求减少"
+    },
+    {
+      "title": "Британский пенсионер стал миллионером благодаря карточкам с покемонами",
+      "link": "https://iz.ru/2188960/britanskii-pensioner-stal-millionerom-blagodaria-kartochkam-s-pokemonami-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 21:44:00 +0300",
+      "summary": "<p dir=\"ltr\">В Великобритании пенсионер стал миллионером после продажи коллекции карточек с покемонами, которые хранились у него на чердаке 15 лет, за £1,56 млн. Об этом 22 октября сообщило агентство <a href=\"https://dis",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "英国养老金领取者凭借精灵卡成为百万富翁"
+    },
+    {
+      "title": "«Массандра» представила коллекционные вина на форуме в Геленджике",
+      "link": "https://iz.ru/2188966/2026-10-22/massandra-predstavila-kollektcionnye-vina-na-forume-v-gelendzhike",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 21:23:35 +0300",
+      "summary": "<p dir=\"ltr\">Винзавод «Массандра» представил коллекционные вина на V Российском винодельческом форуме в Геленджике. Об этом «Известиям» 22 октября рассказала главный эксперт по коллекционным винам предприятия Елена Батра",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Massandra在Gelendzhik的论坛上展示了可收藏的葡萄酒"
+    },
+    {
+      "title": "Врач рассказал об изменениях в организме при употреблении одного яблока в день",
+      "link": "https://lenta.ru/news/2026/10/22/vrach-rasskazal-ob-izmeneniyah-v-organizme-pri-upotreblenii-odnogo-yabloka-v-den/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 21:01:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "克里德丑闻视频中的长袖已下架"
+      "titleZh": "医生每天吃一个苹果时告诉身体的变化"
     },
     {
-      "title": "В Совфеде предупредили о возможных рисках в сезон распродаж",
-      "link": "https://iz.ru/2188840/2026-10-22/v-sovfede-predupredili-o-vozmozhnykh-riskakh-v-sezon-rasprodazh",
+      "title": "Путин предложил законодательно закрепить особый статус творческих союзов",
+      "link": "https://iz.ru/2188928/2026-10-22/putin-predlozhil-zakonodatelno-zakrepit-osobyi-status-tvorcheskikh-soiuzov",
       "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 18:23:08 +0300",
-      "summary": "<p>Член комитета Совета Федерации по экономической политике Александр Волошин рассказал, что во время так называемого Киберпонедельника продавцы нередко используют психологические уловки, чтобы создать иллюзию выгодной п",
+      "pubDate": "Thu, 22 Oct 2026 20:20:55 +0300",
+      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> 22 октября предложил законодательно закрепить особый статус творческих союзов, обозначив возможности их участия в госзаказ",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "联邦委员会警告销售旺季可能存在的风险"
+      "titleZh": "普京提议立法规定创意工会的特殊地位"
     },
     {
-      "title": "Глава «Новатэка» Михельсон пообещал найти новые рынки сбыта СПГ вместо Евросоюза",
-      "link": "https://iz.ru/2188836/glava-novateka-mikhelson-poobeshchal-naiti-novye-rynki-sbyta-spg-vmesto-evrosoiuza-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 18:19:35 +0300",
-      "summary": "<p>«Новатэк» сможет перенаправить поставки сжиженного природного газа (СПГ) из Европы на другие рынки после вступления в силу запрета Европейского союза (ЕС) на импорт российского топлива. Об этом 22 октября заявил глава",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Novatek Mikhelson 负责人承诺将为液化天然气寻找新市场，而不是欧盟"
-    },
-    {
-      "title": "Депутат Журавлев обвинил Зеленского в попытке затянуть переговоры",
-      "link": "https://iz.ru/2188796/deputat-zhuravlev-obvinil-zelenskogo-v-popytke-zatianut-peregovory-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 18:02:00 +0300",
-      "summary": "<p>Публичные предложения украинского лидера <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимира Зеленского</a> о заморозке конфликта по линии боевого соприкосновения вредят реальному переговорному пр",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "朱拉夫列夫议员指责泽伦斯基试图推迟谈判"
-    },
-    {
-      "title": "Дмитриев допустил поставки дизтоплива в Европу при наличии запроса",
-      "link": "https://iz.ru/2188763/2026-10-22/dmitriev-dopustil-postavki-diztopliva-v-evropu-pri-nalichii-zaprosa",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 17:41:41 +0300",
-      "summary": "<p>Российское дизельное топливо возможно продавать европейским странам, если от них поступят такие запросы. Об этом 22 октября заявил спецпредставитель президента России по инвестиционно-экономическому сотрудничеству с з",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "德米特里耶夫允许根据要求向欧洲供应柴油"
-    },
-    {
-      "title": "Букетный период: новые «Герани» разрывают ПВО Украины",
-      "link": "https://iz.ru/2188708/bogdan-stepovoi/novye-gerani-razryvayut-pvo-ukrainy",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 17:16:03 +0300",
-      "summary": "Нехватка зенитных ракет у ВСУ позволяет нашим баллистическим ракетам и дальнобойным дронам выжигать тылы боевиков",
+      "title": "Популярная российская блогерша впервые стала матерью",
+      "link": "https://lenta.ru/news/2026/10/22/populyarnaya-rossiyskaya-blogersha-vpervye-stala-materyu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 20:19:00 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "花束期：新“天竺葵”撕裂乌克兰防空"
+      "titleZh": "一位受欢迎的俄罗斯博主首次成为母亲"
+    },
+    {
+      "title": "Определена скрытая опасность распространенного вируса",
+      "link": "https://lenta.ru/news/2026/10/22/opredelena-skrytaya-opasnost-rasprostranennogo-virusa/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 19:10:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "常见病毒的潜在危险已被识别"
     },
     {
       "title": "Врач предупредил об опасности ощущения нехватки воздуха в покое",
@@ -150,7 +100,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "医生警告休息时感到气短的危险"
+      "titleZh": "医生警告休息时感到空气短缺的危险"
     },
     {
       "title": "В России спрогнозировали падение продаж одежды и обуви",
@@ -161,7 +111,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "在俄罗斯，预计服装和鞋类销量将下降"
+      "titleZh": "俄罗斯预测服装和鞋类销售下降"
     },
     {
       "title": "«Ozon банк» планирует запустить ЦФА для индивидуальных предпринимателей",
@@ -172,7 +122,7 @@
       "tags": [
         "OZON"
       ],
-      "titleZh": "Ozon Bank计划为个人企业家推出数字金融服务"
+      "titleZh": "Ozon Bank计划为个人创业者推出CFA"
     },
     {
       "title": "В российском регионе пресекли продажу поддельных запчастей на популярные иномарки",
@@ -183,7 +133,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯地区已停止销售假冒外国流行汽车零配件"
+      "titleZh": "在俄罗斯地区，停止销售流行外国汽车的假冒备件"
     },
     {
       "title": "В Россию завезли партию популярных кроссоверов Kia китайской сборки",
@@ -194,51 +144,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "一批中国组装的畅销起亚跨界车发往俄罗斯"
-    },
-    {
-      "title": "В Госдуме одобрили продажу вина на «Почте России»",
-      "link": "https://lenta.ru/news/2026/10/22/alcopochta/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 15:07:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "国家杜马批准俄罗斯邮政出售葡萄酒"
-    },
-    {
-      "title": "ЦБ Турции снизил ключевую ставку",
-      "link": "https://lenta.ru/news/2026/10/22/tsb-turtsii-snizil-klyuchevuyu-stavku/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 14:57:46 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "土耳其央行下调关键利率"
-    },
-    {
-      "title": "Продажи новых пикапов в России резко пошли вверх",
-      "link": "https://lenta.ru/news/2026/10/22/prodazhi-novyh-pikapov-v-rossii-rezko-poshli-vverh/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 14:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯新款皮卡销量大幅增长"
-    },
-    {
-      "title": "ИИ без спроса забрался в банковские счета американцев",
-      "link": "https://lenta.ru/news/2026/10/22/ii-bez-sprosa-zabralsya-v-scheta-klientov-veduschih-amerikanskih-bankov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 14:27:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "AI未经询问就进入美国银行账户"
+      "titleZh": "一批受欢迎的中国制造起亚跨界车交付俄罗斯"
     },
     {
       "title": "Центробанк Турции снизил ключевую ставку до 36%",
@@ -252,17 +158,6 @@
       "titleZh": "土耳其央行将关键利率下调至36%"
     },
     {
-      "title": "Российскому депутату приписали фейковое заявление о трудностях с продажей урожая",
-      "link": "https://lenta.ru/news/2026/10/22/rossiyskomu-deputatu-pripisali-feykovoe-zayavlenie-o-trudnostyah-s-prodazhey-urozhaya/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 13:41:01 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一名俄罗斯议员因就农作物销售困难发表虚假声明而受到赞誉"
-    },
-    {
       "title": "Песков: детали предложений США по Украине не стоит обсуждать публично",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/22/1239236-peskov-detali-predlozhenii",
       "source": "Vedomosti",
@@ -274,17 +169,6 @@
       "titleZh": "佩斯科夫：美国关于乌克兰提案的细节不应公开讨论"
     },
     {
-      "title": "Обнаружен способ снижения риска проявления депрессии без лекарств",
-      "link": "https://lenta.ru/news/2026/10/22/obnaruzhen-sposob-snizheniya-riska-proyavleniya-depressii-bez-lekarstv/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 13:07:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "发现了一种无需药物即可降低抑郁症风险的方法"
-    },
-    {
       "title": "В Якутии запретили розничную продажу вейпов с марта 2027 года",
       "link": "https://www.vedomosti.ru/society/news/2026/10/22/1239177-yakutii-zapretili",
       "source": "Vedomosti",
@@ -293,7 +177,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "自 2027 年 3 月起，雅库特禁止电子烟零售"
+      "titleZh": "自2027年3月以来，雅库特已禁止零售电子烟"
     },
     {
       "title": "SimpleWine: продажи вин Нового Света выросли на 34% за два года",
@@ -304,7 +188,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "SimpleWine：新世界葡萄酒销量两年增长34%"
+      "titleZh": "SimpleWine ：两年内新世界葡萄酒销售额增长34%"
     },
     {
       "title": "Группа ММК нарастила производство стали за девять месяцев на 7,4%",
@@ -315,7 +199,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "MMK 集团在九个月内将钢铁产量增加了 7.4%"
+      "titleZh": "MMK集团9个月钢铁产量增长7.4%"
     },
     {
       "title": "«Новатэк» готов перенаправить СПГ из Европы в случае запрета на импорт",
@@ -326,7 +210,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦泰克准备在进口禁令的情况下将液化天然气从欧洲转移"
+      "titleZh": "Novatek准备在进口禁令的情况下从欧洲转移液化天然气"
     },
     {
       "title": "Выжившая после смертельной инъекции Криста Пайк начала говорить предложениями",
@@ -337,7 +221,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "注射死刑幸存者克里斯塔·派克开始用句子说话"
+      "titleZh": "致命注射幸存者克里斯塔·派克（ Krista Pike ）开始量刑"
     },
     {
       "title": "США продлили лицензию для продажи зарубежных активов «Лукойла» до 21 ноября",
@@ -348,7 +232,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "美国将出售卢克石油公司海外资产的许可期限延长至11月21日"
+      "titleZh": "美国将出售卢克石油海外资产的许可证延长至11月21日"
     },
     {
       "title": "Новак: поставки дизеля США не повлияют на внутренний рынок России",
@@ -359,7 +243,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：美国柴油供应不会影响俄罗斯国内市场"
+      "titleZh": "诺瓦克：美国柴油发货不会影响俄罗斯国内市场"
     },
     {
       "title": "ЦБ: инфляционные ожидания населения в октябре снизились до 13,2%",
@@ -370,84 +254,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "央行：10月人口通胀预期降至13.2%"
-    },
-    {
-      "title": "Патрушев: 70% потребляемого россиянами игристого вина – отечественного производства",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/21/1238907-patrushev-70-potreblyaemogo",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 14:59:31 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "帕特鲁舍夫：俄罗斯人消费的起泡酒70%是国产的"
-    },
-    {
-      "title": "Производство вина в России в 2026 году ожидается на уровне 64 млн декалитров",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/21/1238899-proizvodstvo-vina",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 14:49:46 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "2026年俄罗斯葡萄酒产量预计将达到6400万分升"
-    },
-    {
-      "title": "В РСТ ожидают сокращения турпотока из России в Черногорию на 25–35% из-за виз",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/21/1238892-v-rst-ozhidayut",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 14:35:58 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "PCT 预计，由于签证问题，从俄罗斯前往黑山的游客流量将减少 25-35%"
-    },
-    {
-      "title": "«Сбер» разместит выпуск ЦФА «Росатома»",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/21/1238801-tsfa-rosatoma",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 14:35:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Sber 将发布 Rosatom 的数字数据版本"
-    },
-    {
-      "title": "MOL опровергла слова вице-премьера Сербии о продаже доли «Газпрома» в NIS",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/21/1238886-mol-oprovergla",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 14:19:11 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "MOL否认塞尔维亚副总理关于出售俄罗斯天然气工业股份公司NIS股份的言论"
-    },
-    {
-      "title": "Песков: Путин изучит предложения Уиткоффа",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/21/1238865-putin-izuchit",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 13:41:55 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "佩斯科夫：普京将研究维特科夫的建议"
-    },
-    {
-      "title": "Акции «Фосагро» подскочили на фоне заявления Путина о поставках удобрений в США",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/21/1238858-aktsii-fosagro",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 13:32:25 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京宣布向美国供应化肥后 Phosagro 股价上涨"
+      "titleZh": "CB ： 10月人口通胀预期降至13.2%"
     }
   ]
 }
