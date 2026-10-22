@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-22T19:27:42.398Z",
-  "count": 23,
+  "updated": "2026-10-22T22:35:51.047Z",
+  "count": 26,
   "items": [
+    {
+      "title": "Средние зарплатные предложения в России за год выросли на 20%",
+      "link": "https://iz.ru/2189049/srednie-zarplatnye-predlozheniia-v-rossii-za-god-vyrosli-na-20-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 01:30:00 +0300",
+      "summary": "<p>Средняя предлагаемая работодателями зарплата в России за январь–сентябрь 2026 года достигла 84 590 рублей в месяц, увеличившись за год на 20%. Об этом говорится в исследовании «Авито Работы», с которым 23 октября озна",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "全年俄罗斯平均工资报价增长20%"
+    },
+    {
+      "title": "Поставки нефти через Ормуз сократились до половины довоенного уровня",
+      "link": "https://iz.ru/2189002/2026-10-23/postavki-nefti-cherez-ormuz-sokratilis-do-poloviny-dovoennogo-urovnia",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:40:00 +0300",
+      "summary": "<p>Объем транспортировки нефти и газового конденсата через Ормузский пролив за неделю с 10 по 16 октября сократился до 7,2 млн баррелей в сутки. Об этом говорится в обзоре аналитической компании «Эйлер», подготовленном н",
+      "tags": [
+        "供给↓",
+        "物流"
+      ],
+      "titleZh": "通过霍尔木兹的石油供应减少到战前水平的一半"
+    },
+    {
+      "title": "Персидский недолив: поставки нефти через Ормуз вновь резко сократились",
+      "link": "https://iz.ru/2188934/lina-magomedova/postavki-nefti-cherez-ormuz-vnov-rezko-sokratilis",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:01:00 +0300",
+      "summary": "Как подрывы танкеров влияют на стоимость этих ресурсов",
+      "tags": [
+        "供给↓",
+        "价格"
+      ],
+      "titleZh": "波斯填充不足：通过霍尔木兹的石油供应再次大幅减少"
+    },
     {
       "title": "Боломатова: экспортеры зерна прорабатывают транзит через Китай",
       "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239149-bolomatova-eksporteri",
@@ -15,37 +51,92 @@
       "titleZh": "博洛马托娃：谷物出口商正在努力通过中国过境"
     },
     {
-      "title": "Минэнерго сообщило о снижении потребности в импортном бензине",
-      "link": "https://ria.ru/20261022/minenergo-2126380416.html",
-      "source": "RIA",
-      "pubDate": "Thu, 22 Oct 2026 22:10:56 +0300",
+      "title": "Мошенники обещают россиянам активировать в iPhone Duo недоступные функции",
+      "link": "https://iz.ru/2189010/2026-10-23/moshenniki-obeshchaiut-rossiianam-aktivirovat-v-iphone-duo-nedostupnye-funktcii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 01:30:00 +0300",
+      "summary": "<p>В преддверии старта продаж складного iPhone Duo мошенники обновили схемы обмана россиян. Они предлагают за отдельную плату включить функции, ограниченные в России, в том числе 5G и Apple Pay. Для этого пользователей м",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "欺诈者承诺俄罗斯人在iPhone Duo中激活无法访问的功能"
+    },
+    {
+      "title": "Популярная певица в нижнем белье снялась в рекламе водки",
+      "link": "https://lenta.ru/news/2026/10/23/populyarnaya-pevitsa-v-nizhnem-belie-snyalas-v-reklame-vodki/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 01:01:50 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位穿着内衣的流行歌手在伏特加广告中出演"
+    },
+    {
+      "title": "Минэнерго: потребность в импортном бензине снижается, его объем в России мал",
+      "link": "https://iz.ru/2189048/minenergo-potrebnost-v-importnom-benzine-snizhaetsia-ego-obem-v-rossii-mal-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:52:24 +0300",
+      "summary": "<p>Потребность России в импортном бензине снижается, а его объем на внутреннем рынке остается небольшим. Об этом 22 октября говорится в сообщении Минэнерго.</p><p>«Министерство энергетики сообщает, что объем импортного б",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "能源部：对进口汽油的需求正在减少，其在俄罗斯的销量很小"
+    },
+    {
+      "title": "Покупателей больших телевизоров предупредили об опасности",
+      "link": "https://lenta.ru/news/2026/10/23/danger-tv/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 00:30:18 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "大型电视的购买者已收到有关危险的警告"
+    },
+    {
+      "title": "Reuters сообщило об увеличении поставок нефти странами Ближнего Востока в Индию",
+      "link": "https://iz.ru/2189043/reuters-soobshchilo-ob-uvelichenii-postavok-nefti-stranami-blizhnego-vostoka-v-indiiu-izi",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:26:56 +0300",
+      "summary": "<p>В сентябре импорт сырой нефти из стран Ближнего Востока в Индию резко вырос, вернувшись к уровням, которые фиксировались до начала геополитического конфликта. Одновременно с этим местные нефтеперерабатывающие заводы (",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "据路透社报道，从中东到印度的石油供应量增加"
+    },
+    {
+      "title": "Дорого-чревато: в камчатской икре нашли стафилококк и плесень",
+      "link": "https://iz.ru/2188820/sergei-gurianov/dorogo-chrevato-v-kamchatskoi-ikre-nashli-stafilokokk-i-plesen",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:02:00 +0300",
+      "summary": "Специалисты Нацрыбы обнаружили более 200 нарушений в популярном новогоднем деликатесе",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "昂贵：在堪察加鱼子酱中发现了葡萄球菌和霉菌"
+    },
+    {
+      "title": "Назад в 1990-е: чем для России опасен новый азиатский кризис",
+      "link": "https://iz.ru/2188312/dmitrii-migunov/nazad-v-1990-e-chem-dlia-rossii-opasen-novyi-aziatskii-krizis",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 00:02:00 +0300",
+      "summary": "Охлаждение экономик региона грозит снижением экспортных цен на газ и падением объема отгрузок",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "回到20世纪90年代：为什么新的亚洲危机对俄罗斯来说是危险的"
+    },
+    {
+      "title": "Минэнерго сообщило о снижении потребности России в импортном бензине",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239460-minenergo-soobschilo",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 22:51:32 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "能源部报告对进口汽油的需求减少"
-    },
-    {
-      "title": "Британский пенсионер стал миллионером благодаря карточкам с покемонами",
-      "link": "https://iz.ru/2188960/britanskii-pensioner-stal-millionerom-blagodaria-kartochkam-s-pokemonami-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 21:44:00 +0300",
-      "summary": "<p dir=\"ltr\">В Великобритании пенсионер стал миллионером после продажи коллекции карточек с покемонами, которые хранились у него на чердаке 15 лет, за £1,56 млн. Об этом 22 октября сообщило агентство <a href=\"https://dis",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "英国养老金领取者凭借精灵卡成为百万富翁"
-    },
-    {
-      "title": "«Массандра» представила коллекционные вина на форуме в Геленджике",
-      "link": "https://iz.ru/2188966/2026-10-22/massandra-predstavila-kollektcionnye-vina-na-forume-v-gelendzhike",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 21:23:35 +0300",
-      "summary": "<p dir=\"ltr\">Винзавод «Массандра» представил коллекционные вина на V Российском винодельческом форуме в Геленджике. Об этом «Известиям» 22 октября рассказала главный эксперт по коллекционным винам предприятия Елена Батра",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Massandra在Gelendzhik的论坛上展示了可收藏的葡萄酒"
+      "titleZh": "能源部报告称，俄罗斯对进口汽油的需求减少"
     },
     {
       "title": "Врач рассказал об изменениях в организме при употреблении одного яблока в день",
@@ -57,17 +148,6 @@
         "需求↑"
       ],
       "titleZh": "医生每天吃一个苹果时告诉身体的变化"
-    },
-    {
-      "title": "Путин предложил законодательно закрепить особый статус творческих союзов",
-      "link": "https://iz.ru/2188928/2026-10-22/putin-predlozhil-zakonodatelno-zakrepit-osobyi-status-tvorcheskikh-soiuzov",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 20:20:55 +0300",
-      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> 22 октября предложил законодательно закрепить особый статус творческих союзов, обозначив возможности их участия в госзаказ",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京提议立法规定创意工会的特殊地位"
     },
     {
       "title": "Популярная российская блогерша впервые стала матерью",
@@ -92,28 +172,6 @@
       "titleZh": "常见病毒的潜在危险已被识别"
     },
     {
-      "title": "Врач предупредил об опасности ощущения нехватки воздуха в покое",
-      "link": "https://lenta.ru/news/2026/10/22/vrach-predupredil-ob-opasnosti-oschuscheniya-nehvatki-vozduha-v-pokoe/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 16:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医生警告休息时感到空气短缺的危险"
-    },
-    {
-      "title": "В России спрогнозировали падение продаж одежды и обуви",
-      "link": "https://lenta.ru/news/2026/10/22/v-rossii-sprognozirovali-padenie-prodazh-odezhdy-i-obuvi/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 16:09:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯预测服装和鞋类销售下降"
-    },
-    {
       "title": "«Ozon банк» планирует запустить ЦФА для индивидуальных предпринимателей",
       "link": "https://www.vedomosti.ru/finance/news/2026/10/22/1239317-ozon-bank",
       "source": "Vedomosti",
@@ -123,28 +181,6 @@
         "OZON"
       ],
       "titleZh": "Ozon Bank计划为个人创业者推出CFA"
-    },
-    {
-      "title": "В российском регионе пресекли продажу поддельных запчастей на популярные иномарки",
-      "link": "https://lenta.ru/news/2026/10/22/v-rossiyskom-regione-presekli-prodazhu-poddelnyh-zapchastey-na-populyarnye-inomarki/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 16:03:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在俄罗斯地区，停止销售流行外国汽车的假冒备件"
-    },
-    {
-      "title": "В Россию завезли партию популярных кроссоверов Kia китайской сборки",
-      "link": "https://lenta.ru/news/2026/10/22/v-rossiyu-zavezli-partiyu-populyarnyh-krossoverov-kia-kitayskoy-sborki/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 15:32:48 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一批受欢迎的中国制造起亚跨界车交付俄罗斯"
     },
     {
       "title": "Центробанк Турции снизил ключевую ставку до 36%",
