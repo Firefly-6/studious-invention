@@ -1,18 +1,42 @@
 {
-  "updated": "2026-10-22T05:33:18.624Z",
-  "count": 34,
+  "updated": "2026-10-22T10:33:28.740Z",
+  "count": 37,
   "items": [
     {
-      "title": "Экспорт одного российского товара в Грузию рекордно вырос",
-      "link": "https://lenta.ru/news/2026/10/22/eksport-odnogo-rossiyskogo-tovara-v-gruziyu-rekordno-vyros/",
+      "title": "Курс доллара к рублю снизился еще сильнее",
+      "link": "https://lenta.ru/news/2026/10/22/kurs-dollara-k-rublyu-snizilsya-esche-silnee/",
       "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 01:41:24 +0300",
+      "pubDate": "Thu, 22 Oct 2026 12:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "美元/卢布汇率跌幅更大"
+    },
+    {
+      "title": "Индия снизила закупку российской нефти",
+      "link": "https://lenta.ru/news/2026/10/22/vazhneyshiy-pokupatel-rossiyskoy-nefti-ohladel-k-ney/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 11:04:00 +0300",
       "summary": "",
       "tags": [
         "需求↑",
         "供给↓"
       ],
-      "titleZh": "俄罗斯一种产品对格鲁吉亚的出口创历史新高"
+      "titleZh": "印度减少购买俄罗斯石油"
+    },
+    {
+      "title": "Боломатова: экспортеры зерна прорабатывают транзит через Китай",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239149-bolomatova-eksporteri",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 10:48:56 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "博洛马托娃：粮食出口商正在努力通过中国过境"
     },
     {
       "title": "Мишустин: РФ и Китай почти полностью перешли на торговлю в нацвалютах",
@@ -27,40 +51,224 @@
       "titleZh": "米舒斯京：俄罗斯和中国几乎完全转向以本国货币进行交易"
     },
     {
-      "title": "Цены на нефть снизились после подъема до максимума с середины мая",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/20/1238661-tseni-na-neft",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 19:26:21 +0300",
+      "title": "В США препараты для похудения увеличили спрос на услуги портных, пишут СМИ",
+      "link": "https://ria.ru/20261022/portnye-2126208754.html",
+      "source": "RIA",
+      "pubDate": "Thu, 22 Oct 2026 13:30:16 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "价格"
+        "需求↑"
       ],
-      "titleZh": "油价升至5月中旬以来最高位后下跌"
+      "titleZh": "媒体写道，在美国，减肥药物增加了对定制服务的需求"
     },
     {
-      "title": "В Нижнем Новгороде построят производство имплантов и филлеров за 2,5 млрд рублей",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/20/1238642-nizhnem-novgorode-postroyat",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 18:30:35 +0300",
+      "title": "Спрос на газ в мире в будущем не покрыть без России, заявил Михельсон",
+      "link": "https://ria.ru/20261022/gaz-2126207987.html",
+      "source": "RIA",
+      "pubDate": "Thu, 22 Oct 2026 13:26:18 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "汇率"
+        "需求↑"
       ],
-      "titleZh": "投资 25 亿卢布将在下诺夫哥罗德建造植入物和填充物生产设施"
+      "titleZh": "米克尔森表示，如果没有俄罗斯，未来世界对天然气的需求就无法满足"
     },
     {
-      "title": "Ozon потратит более 10 млрд рублей на поддержку владельцев ПВЗ",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/20/1238615-ozon-potratit",
+      "title": "Досмотр грузов ускорят в пяти пунктах пропуска в ДФО",
+      "link": "https://iz.ru/2188581/2026-10-22/dosmotr-gruzov-uskoriat-v-piati-punktakh-propuska-v-dfo",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 13:24:36 +0300",
+      "summary": "<p>На Дальнем Востоке на пяти пунктах пропуска сократят время досмотра грузовиков. Соответствующее поручение ранее дал президент РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a>.</p><p>Об ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "远东联邦区五个检查站将加快货物检查"
+    },
+    {
+      "title": "Продажу вейпов запретят в Якутии",
+      "link": "https://iz.ru/2188565/2026-10-22/prodazhu-veipov-zapretiat-v-iakutii",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 13:16:53 +0300",
+      "summary": "<p>В Якутии введут запрет на продажу и провоз вейпов и электронных сигарет. Соответствующий законопроект приняло в первом и окончательном чтении государственной собрание. Во время обсуждения парламентарии поднимали вопро",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "雅库特将禁止销售电子烟"
+    },
+    {
+      "title": "Песков: детали предложений США по Украине не стоит обсуждать публично",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/22/1239236-peskov-detali-predlozhenii",
       "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 17:43:42 +0300",
+      "pubDate": "Thu, 22 Oct 2026 13:14:35 +0300",
       "summary": "",
       "tags": [
-        "OZON",
-        "汇率"
+        "供给↓"
       ],
-      "titleZh": "Ozon将斥资超过100亿卢布支持取货点业主"
+      "titleZh": "佩斯科夫：美国关于乌克兰提案的细节不应公开讨论"
+    },
+    {
+      "title": "Обнаружен способ снижения риска проявления депрессии без лекарств",
+      "link": "https://lenta.ru/news/2026/10/22/obnaruzhen-sposob-snizheniya-riska-proyavleniya-depressii-bez-lekarstv/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 13:07:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "发现了一种无需药物即可降低抑郁症风险的方法"
+    },
+    {
+      "title": "Новый российский автобренд Jeland продал более 10 тыс. автомобилей",
+      "link": "https://iz.ru/2188523/2026-10-22/novyi-rossiiskii-avtobrend-jeland-prodal-bolee-10-tys-avtomobilei",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 12:32:27 +0300",
+      "summary": "<p>Российский автомобильный бренд Jeland, созданный в рамках стратегического партнерства холдинга «АГР» и китайской фирмы Defetoo, с момента запуска продаж реализовал в стране 10 тыс. автомобилей. Об этом говорится в соо",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯新汽车品牌Jeland销量突破1万辆"
+    },
+    {
+      "title": "Дмитриев о поставке российских удобрений США",
+      "link": "https://iz.ru/2188532/video/dmitriev-o-postavke-rossiiskikh-udobrenii-ssha",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 12:31:06 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "德米特里耶夫谈俄罗斯向美国供应化肥"
+    },
+    {
+      "title": "Президент Чехии обвинил Трампа якобы в срыве прогресса по Украине сделкой с РФ",
+      "link": "https://iz.ru/2188510/prezident-chekhii-obvinil-trampa-v-sryve-sdelkoi-s-rf-iakoby-progressa-po-ukraine-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 12:23:20 +0300",
+      "summary": "<p>Президент Чехии Петр Павел 22 октября заявил, что договоренность администрации американского лидера <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональда Трампа</a> с Россией по поставкам дизельного топлив",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "捷克共和国总统指责特朗普涉嫌破坏与俄罗斯联邦达成协议的乌克兰问题进展"
+    },
+    {
+      "title": "В Европе нашли причину бума продаж машин",
+      "link": "https://lenta.ru/news/2026/10/22/v-evrope-nashli-prichinu-buma-prodazh-mashin/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 12:04:55 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在欧洲，他们找到了汽车销量繁荣的原因"
+    },
+    {
+      "title": "Компания Nestle перестала учитывать российские активы в отчетности",
+      "link": "https://iz.ru/2188512/kompaniia-nestle-perestala-uchityvat-rossiiskie-aktivy-v-otchetnosti",
+      "source": "Izvestia",
+      "pubDate": "Thu, 22 Oct 2026 12:01:03 +0300",
+      "summary": "<p>Швейцарская компания Nestle, специализирующаяся на производстве продуктов и напитков, перестала учитывать свои российские активы после того, как президент РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "雀巢已停止在其报告中考虑俄罗斯资产"
+    },
+    {
+      "title": "В Якутии запретили розничную продажу вейпов с марта 2027 года",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/22/1239177-yakutii-zapretili",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 11:54:08 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "自 2027 年 3 月起，雅库特禁止电子烟零售"
+    },
+    {
+      "title": "Продажи машин Volga в России стремительно выросли",
+      "link": "https://lenta.ru/news/2026/10/22/prodazhi-mashin-volga-v-rossii-stermitelno-rastut/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 11:30:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "伏尔加汽车在俄罗斯销量快速增长"
+    },
+    {
+      "title": "SimpleWine: продажи вин Нового Света выросли на 34% за два года",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239011-vin-novogo-sveta",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 11:00:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "SimpleWine：新世界葡萄酒销量两年增长34%"
+    },
+    {
+      "title": "В России начались продажи субкомпактного кроссовера Citroen",
+      "link": "https://lenta.ru/news/2026/10/22/v-rossii-nachalis-prodazhi-subkompaktnogo-krossovera-citroen/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 10:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "雪铁龙小型跨界车已开始在俄罗斯销售"
+    },
+    {
+      "title": "Группа ММК нарастила производство стали за девять месяцев на 7,4%",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239143-mmk-narastila",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 10:35:29 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "MMK 集团在九个月内将钢铁产量增加了 7.4%"
+    },
+    {
+      "title": "«Новатэк» готов перенаправить СПГ из Европы в случае запрета на импорт",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239139-novatek-gotov-perenapravit",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 22 Oct 2026 10:16:54 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "诺瓦泰克准备在进口禁令的情况下将液化天然气从欧洲转移"
+    },
+    {
+      "title": "Украина лишилась завода по производству крылатых ракет для ударов вглубь России",
+      "link": "https://lenta.ru/news/2026/10/22/ukraina-lishilas-zavoda-po-proizvodstvu/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 09:47:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰失去了一家生产巡航导弹的工厂，用于深入俄罗斯的袭击"
+    },
+    {
+      "title": "Россияне стали переходить с цельной рыбы на полуфабрикаты",
+      "link": "https://lenta.ru/news/2026/10/22/rossiyane-stali-perehodit-s-tselnoy-ryby-na-polufabrikaty/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 09:14:21 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯人开始从整鱼转向半成品"
+    },
+    {
+      "title": "Названы самые популярные у россиян продукты",
+      "link": "https://lenta.ru/news/2026/10/22/nazvany-samye-populyarnye-u-rossiyan-produkty/",
+      "source": "Lenta",
+      "pubDate": "Thu, 22 Oct 2026 08:43:50 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人最喜欢的产品被命名为"
     },
     {
       "title": "Выжившая после смертельной инъекции Криста Пайк начала говорить предложениями",
@@ -85,127 +293,6 @@
       "titleZh": "北约将降低成本并加快乌克兰采购武器"
     },
     {
-      "title": "Невостребованность iPhone Duo в России объяснили",
-      "link": "https://lenta.ru/news/2026/10/22/nevostrebovannost-iphone-duo-v-rossii-ob-yasnili/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 07:40:45 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯对 iPhone Duo 需求不足的解释"
-    },
-    {
-      "title": "Россиян предупредили о возможных рисках в сезон распродаж",
-      "link": "https://lenta.ru/news/2026/10/22/rossiyan-predupredili-o-vozmozhnyh-riskah-v-sezon-rasprodazh/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 07:31:39 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人被警告销售季节可能存在的风险"
-    },
-    {
-      "title": "Мошенники начали использовать беспорядки во Франции для обмана россиян",
-      "link": "https://iz.ru/2188408/moshenniki-nachali-ispolzovat-besporiadki-vo-frantcii-dlia-obmana-rossiian-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 06:45:00 +0300",
-      "summary": "<p>Мошенники могут использовать сообщения о беспорядках во Франции для создания фиктивных объявлений о продаже товаров из пострадавших магазинов. Об этом 22 октября сообщил глава регионального блока проекта «Народного фр",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "诈骗者开始利用法国骚乱来欺骗俄罗斯人"
-    },
-    {
-      "title": "СМИ сообщили о восстановлении у Кристы Пайк речи после неудачной казни в США",
-      "link": "https://iz.ru/2188416/2026-10-22/smi-soobshchili-o-vosstanovlenii-u-kristy-paik-rechi-posle-neudachnoi-kazni-v-ssha",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 06:42:05 +0300",
-      "summary": "<p>Американка Криста Пайк, выжившая после неудачной попытки казни в штате Теннесси, начала самостоятельно ходить и внятно говорить полными предложениями. Об этом 21 октября сообщил портал <a href=\"https://www.tmz.com/202",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "据媒体报道，克里斯塔·派克在美国执行死刑失败后重新获得了演讲权"
-    },
-    {
-      "title": "Россиян предупредили об опасной схеме заработка на маркетплейсах",
-      "link": "https://lenta.ru/news/2026/10/22/rossiyan-predupredili-ob-opasnoy-sheme-zarabotka-na-marketpleysah/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 06:09:00 +0300",
-      "summary": "",
-      "tags": [
-        "平台"
-      ],
-      "titleZh": "俄罗斯人被警告有关在市场上赚钱的危险计划"
-    },
-    {
-      "title": "Морпехи группировки войск «Восток» рассказали об освобождении Червоного Яра",
-      "link": "https://iz.ru/2188381/2026-10-22/morpekhi-gruppirovki-voisk-vostok-rasskazali-ob-osvobozhdenii-chervonogo-iara",
-      "source": "Izvestia",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0300",
-      "summary": "<p>Штурмовики 155-го полка 55-й дивизии морской пехоты 5-й общевойсковой армии группировки войск «Восток» поделились подробностями освобождения Червоного Яра в Запорожской области. Кадры 22 сентября распространило Минобо",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "东方集团海军陆战队队员谈论切尔沃尼亚尔的解放"
-    },
-    {
-      "title": "Предложена площадка для новых переговоров по Украине",
-      "link": "https://lenta.ru/news/2026/10/22/predlozhena-ploschadka-dlya-novyh-peregovorov-po-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 05:22:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌克兰问题新谈判平台已提出"
-    },
-    {
-      "title": "Женщинам объяснили опасность популярной секс-игрушки",
-      "link": "https://lenta.ru/news/2026/10/22/zhenschinam-ob-yasnili-opasnost-populyarnoy-seks-igrushki/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 03:09:13 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "女性解释流行性玩具的危险"
-    },
-    {
-      "title": "Обнаружено природное средство для снижения артериального давления",
-      "link": "https://lenta.ru/news/2026/10/22/obnaruzheno-prirodnoe-sredstvo-dlya-snizheniya-arterialnogo-davleniya/",
-      "source": "Lenta",
-      "pubDate": "Thu, 22 Oct 2026 00:29:54 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "发现降低血压的自然疗法"
-    },
-    {
-      "title": "ЦСКА объявил о распродаже билетов на матч со «Спартаком»",
-      "link": "https://lenta.ru/news/2026/10/21/tsska-ob-yavil-o-rasprodazhe-biletov-na-match-so-spartakom/",
-      "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 22:54:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "中央陆军宣布发售与斯巴达克队比赛门票"
-    },
-    {
-      "title": "Евросоюз уличили в попытках списать свою беспомощность на Россию",
-      "link": "https://lenta.ru/news/2026/10/21/evrosoyuz-ulichili-v-popytkah-spisat-svoyu-bespomoschnost-na-rossiyu/",
-      "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 21:40:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "欧盟试图将其无助归咎于俄罗斯"
-    },
-    {
       "title": "США продлили лицензию для продажи зарубежных активов «Лукойла» до 21 ноября",
       "link": "https://www.vedomosti.ru/business/news/2026/10/21/1239042-prodlili-litsenziyu",
       "source": "Vedomosti",
@@ -215,17 +302,6 @@
         "需求↑"
       ],
       "titleZh": "美国将出售卢克石油公司海外资产的许可期限延长至11月21日"
-    },
-    {
-      "title": "Власти США продлили лицензию на продажу зарубежного бизнеса «Лукойла»",
-      "link": "https://lenta.ru/news/2026/10/21/vlasti-ssha-prodlili-litsenziyu-na-prodazhu-zarubezhnogo-biznesa-lukoyla/",
-      "source": "Lenta",
-      "pubDate": "Wed, 21 Oct 2026 20:44:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "美国当局延长卢克石油公司海外业务出售许可"
     },
     {
       "title": "Новак: поставки дизеля США не повлияют на внутренний рынок России",
@@ -336,50 +412,6 @@
         "需求↑"
       ],
       "titleZh": "米舒斯京：俄中农产品贸易额增长三分之一以上"
-    },
-    {
-      "title": "«Катюша» запустила производство картриджей в Ленинградской области",
-      "link": "https://www.vedomosti.ru/technology/news/2026/10/21/1238619-katyusha-zapustila",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 21 Oct 2026 00:00:00 +0300",
-      "summary": "В 2026-2027 годы планируется произвести не менее 200 000 штук",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "喀秋莎在列宁格勒地区开始生产弹药筒"
-    },
-    {
-      "title": "Лавров исключил политические уступки в ходе переговоров по Украине",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/20/1238683-lavrov-isklyuchil-ustupki",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 21:53:54 +0300",
-      "summary": "При этом Россия изучит предложения американских переговорщиков, отметил министр",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "拉夫罗夫排除在乌克兰问题谈判中做出政治让步的可能性"
-    },
-    {
-      "title": "«Соллерс» начал серийное производство автомобилей SF7 в Елабуге",
-      "link": "https://www.vedomosti.ru/auto/news/2026/10/20/1238644-seriinoe-proizvodstvo",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 18:43:22 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "索勒斯开始在叶拉布加量产SF7汽车"
-    },
-    {
-      "title": "Мантуров и Новак обсудили импортозамещение нефтегазового оборудования",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/20/1238610-manturov-novak-obsudili",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 20 Oct 2026 17:21:15 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "曼图罗夫与诺瓦克讨论油气设备进口替代"
     }
   ]
 }
