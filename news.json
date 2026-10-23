@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T15:23:17.244Z",
-  "count": 37,
+  "updated": "2026-10-23T19:24:24.455Z",
+  "count": 38,
   "items": [
+    {
+      "title": "Популярная телезвезда вышла в свет в колье за миллионы рублей",
+      "link": "https://lenta.ru/news/2026/10/23/populyarnaya-telezvezda-vyshla-v-svet-v-kolie/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 19:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "汇率"
+      ],
+      "titleZh": "这位受欢迎的电视明星以数百万卢布的价格在项链中发布"
+    },
     {
       "title": "Оценена вероятность снижения стоимости одного типа жилья в России",
       "link": "https://lenta.ru/news/2026/10/23/otsenena-veroyatnost-snizheniya-stoimosti-odnogo-tipa-zhilya-v-rf/",
@@ -39,18 +51,6 @@
       "titleZh": "保留：俄罗斯在电动汽车分销中排名世界第11位"
     },
     {
-      "title": "Продажи одного вида транспортных средств в России достигли максмума",
-      "link": "https://lenta.ru/news/2026/10/23/prodazhi-odnogo-vida-transportnyh-sredstv-v-rossii-dostigli-maksmuma/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 13:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "物流"
-      ],
-      "titleZh": "一种车型在俄罗斯的销量达到最大值"
-    },
-    {
       "title": "Выручка от агроэкспорта России в Китай достигла около $7,8 млрд",
       "link": "https://www.vedomosti.ru/business/news/2026/10/23/1239518-agroeksporta-v-kitai",
       "source": "Vedomosti",
@@ -63,15 +63,147 @@
       "titleZh": "俄罗斯对华农产品出口收入约78亿美元"
     },
     {
-      "title": "В Свердловской области пресекли работу четырех псевдорелигиозных организаций",
-      "link": "https://iz.ru/2189537/2026-10-23/v-sverdlovskoi-oblasti-presekli-rabotu-chetyrekh-psevdoreligioznykh-organizatcii",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 18:03:32 +0300",
-      "summary": "<p>С конца 2025 года на территории Свердловской области была пресечена незаконная деятельность четырех псевдорелигиозных организаций, распространяющих идеи радикального ислама. Об этом 23 октября сообщил «Известиям» исто",
+      "title": "В Орле специалисты готовятся к разбору завалов на атакованном ВСУ заводе",
+      "link": "https://ria.ru/20261023/orel-2126659772.html",
+      "source": "RIA",
+      "pubDate": "Fri, 23 Oct 2026 22:00:12 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在奥廖尔，专家们正准备拆除被APU攻击的工厂的碎片"
+    },
+    {
+      "title": "WSJ: Трамп может отменить пошлины на товары из Канады из-за выборов",
+      "link": "https://ria.ru/20261023/ssha-2126658769.html",
+      "source": "RIA",
+      "pubDate": "Fri, 23 Oct 2026 21:48:01 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "在斯维尔德洛夫斯克地区，四个伪宗教组织的工作被停止"
+      "titleZh": "《华尔街日报》：由于选举，特朗普可能会取消加拿大商品的关税"
+    },
+    {
+      "title": "После ракетного удара на заводе в Орле произошло серьезное возгорание",
+      "link": "https://iz.ru/2189726/2026-10-23/posle-raketnogo-udara-na-zavode-v-orle-proizoshlo-sereznoe-vozgoranie",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 21:39:08 +0300",
+      "summary": "<p>После ракетного удара на заводе в Орле произошло серьезное возгорание, пожар потушен. Об этом 23 октября сообщил губернатор Андрей Клычков.</p><p>«Завод в Советском районе города Орла сегодня подвергся ракетному удару",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "导弹袭击后，奥廖尔工厂发生严重火灾"
+    },
+    {
+      "title": "В Орле ликвидировали возгорание на заводе после удара ВСУ",
+      "link": "https://ria.ru/20261023/orel-2126657802.html",
+      "source": "RIA",
+      "pubDate": "Fri, 23 Oct 2026 21:37:59 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在奥廖尔，工厂的火灾在APU撞击后被扑灭"
+    },
+    {
+      "title": "Путин поручил представить предложения по использованию \"Цифрового рудника\"",
+      "link": "https://ria.ru/20261023/putin-2126657285.html",
+      "source": "RIA",
+      "pubDate": "Fri, 23 Oct 2026 21:35:52 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京被指示提交使用数字地雷的提案"
+    },
+    {
+      "title": "\"Ашан\" снял с продажи батончики \"Рот Фронт\" в Химках до проверки",
+      "link": "https://ria.ru/20261023/ashan-2126656643.html",
+      "source": "RIA",
+      "pubDate": "Fri, 23 Oct 2026 21:32:12 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "“Auchan”在检查前从Khimki的“Roth Front”酒吧退出"
+    },
+    {
+      "title": "Гибель пожарного и смерть девочки после операции. Главные происшествия 23 октября",
+      "link": "https://iz.ru/2189713/2026-10-23/gibel-pozharnogo-i-smert-devochki-posle-operatcii-glavnye-proisshestviia-23-oktiabria",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 21:28:36 +0300",
+      "summary": "<p dir=\"ltr\">В Иванове при тушении крупного пожара на производстве погиб сотрудник МЧС, еще четверо пострадали, а в Череповце трехлетняя девочка скончалась после плановой операции по удалению аденоидов. В Екатеринбурге в",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "一名消防员死亡，一名女孩在手术后死亡。10月23日发生的重大事故"
+    },
+    {
+      "title": "Ушедший из России автопроизводитель объявил масштабный отзыв популярных машин",
+      "link": "https://lenta.ru/news/2026/10/23/ushedshiy-iz-rossii-avtoproizvoditel-ob-yavil-masshtabnyy-otzyv-populyarnyh-mashin/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 20:22:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "这家离开俄罗斯的汽车制造商宣布大规模召回受欢迎的汽车"
+    },
+    {
+      "title": "В Забайкалье предложили размер штрафа за торговлю вейпами",
+      "link": "https://iz.ru/2189672/2026-10-23/v-zabaikale-predlozhili-razmer-shtrafa-za-torgovliu-veipami",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 20:07:13 +0300",
+      "summary": "<p>В Забайкалье планируют ввести запрет на продажу вейпов. После вступления в силу соответствующего закона продолжающие торговлю предприниматели будут платить штрафы, сообщила замглавы регионального РСТ Ольга Макарова.</",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在Transbaikalia ，提出了电子烟罚款的规模"
+    },
+    {
+      "title": "В Бурятии построят комбинат по добыче сынныритов",
+      "link": "https://iz.ru/2189650/2026-10-23/v-buriatii-postroiat-kombinat-po-dobyche-synnyritov",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 19:23:22 +0300",
+      "summary": "<p>В Бурятии в 2028 году начнется строительство Новоуоянского калийного комбината. Предприятие выйдет на проектную мощность в 2030–2031 годах, сообщает пресс-служба регионального минпромторга.</p><p>Сырьевой базой объект",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "将在布里亚特建造一个提取合成石的工厂"
+    },
+    {
+      "title": "В Красноярском крае медведь убил сторожа производственной базы",
+      "link": "https://iz.ru/2189634/v-krasnoiarskom-krae-medved-ubil-storozha-proizvodstvennoi-bazy/ize",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 19:22:08 +0300",
+      "summary": "<p>В Богучанском округе Красноярского края медведь напал на сторожа производственной базы, в результате полученных травм мужчина скончался. Об этом в пятницу, 23 октября, сообщает <a href=\"https://ria.ru/20261023/sk-2126",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在克拉斯诺亚尔斯克领地，一只熊杀死了生产基地的守卫"
+    },
+    {
+      "title": "Илон Маск открыл в Москве завод по производству российских электромобилей и аккумуляторов",
+      "link": "https://lenta.ru/news/2026/10/23/ilon-mask-otkryl-v-moskve-zavod-po-proizvodstvu-rossiyskih-elektromobiley/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 19:03:58 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "埃隆·马斯克（ Elon Musk ）在莫斯科开设了一家工厂，生产俄罗斯电动汽车和电池"
+    },
+    {
+      "title": "Названы распространенные ошибки в стирке зимней одежды",
+      "link": "https://lenta.ru/news/2026/10/23/nazvany-rasprostranennye-oshibki-v-stirke-zimney-odezhdy/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 18:50:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "冬衣洗涤常见错误命名"
     },
     {
       "title": "Во всех аэропортах Москвы вновь ограничили прием и выпуск самолетов",
@@ -85,17 +217,6 @@
       "titleZh": "所有莫斯科机场再次限制飞机的接收和放行"
     },
     {
-      "title": "Bloomberg рассказало о планах Германии закупить тысячи крылатых ракет",
-      "link": "https://iz.ru/2189547/2026-10-23/bloomberg-rasskazalo-o-planakh-germanii-zakupit-tysiachi-krylatykh-raket",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 17:40:12 +0300",
-      "summary": "<p>Германия намерена пополнить арсенал и ведет переговоры по закупке тысяч крылатых ракет. Среди возможных поставщиков — производители из США, Европы и <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>. Об ",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "彭博社透露德国计划购买数千枚巡航导弹"
-    },
-    {
       "title": "«Рособоронэкспорт» предложит антидроновые лазеры",
       "link": "https://lenta.ru/news/2026/10/23/rosoboroneksport-predlozhit-antidronovye-lazery/",
       "source": "Lenta",
@@ -105,28 +226,6 @@
         "供给↓"
       ],
       "titleZh": "Rosoboronexport提供反无人机激光器"
-    },
-    {
-      "title": "Экономист назвал приводящие к снижению пенсии ошибки",
-      "link": "https://iz.ru/2189540/2026-10-23/ekonomist-nazval-privodiashchie-k-snizheniiu-pensii-oshibki",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 17:31:48 +0300",
-      "summary": "<p>Профессор Финансового университета при правительстве РФ Сергей Толкачев рассказал, что даже при официальном трудоустройстве размер пенсии может оказаться ниже ожидаемого. Причинами становятся ошибки в расчете пенсионн",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "这位经济学家称导致养老金减少的错误"
-    },
-    {
-      "title": "Глава Минпромторга сообщил о росте выпуска авто в РФ на 27% с начала года",
-      "link": "https://iz.ru/2189526/2026-10-23/glava-minpromtorga-soobshchil-o-roste-vypuska-avto-v-rf-na-27-s-nachala-goda",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 17:18:43 +0300",
-      "summary": "<p>Производство легковых автомобилей в России за январь-–сентябрь 2026 года увеличилось более чем на 27%, почти до 660 тыс. машин. Об этом 23 октября сообщил глава Минпромторга Антон Алиханов в кулуарах форума-выставки «",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "工业和贸易部部长报告称，自今年年初以来，俄罗斯联邦的汽车产量增长了27%"
     },
     {
       "title": "Россиянам дали неочевидные советы сохранить деньги на распродажах",
@@ -239,17 +338,6 @@
       "titleZh": "稀有拉达在俄罗斯上市销售"
     },
     {
-      "title": "Украинские предприятия охватил дефицит кадров",
-      "link": "https://lenta.ru/news/2026/10/23/ukrainskie-predpriyatiya-ohvatil-defitsit-kadrov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 15:16:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "乌克兰企业受到人员短缺的打击"
-    },
-    {
       "title": "Bloomberg: Германия обсуждает закупку 1000 крылатых ракет Anthem за 1 млрд евро",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/23/1239649-zakupku-raket-anthem",
       "source": "Vedomosti",
@@ -272,39 +360,6 @@
       "titleZh": "教育和科学部将增加奥林匹克学生热门领域的预算名额"
     },
     {
-      "title": "В России начались продажи китайской версии популярного кроссовера Nissan",
-      "link": "https://lenta.ru/news/2026/10/23/v-rossii-nachalis-prodazhi-kitayskoy-versii-populyarnogo-krossovera-nissan/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 14:14:31 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "流行的日产跨界车中文版开始在俄罗斯销售"
-    },
-    {
-      "title": "Заказ на изготовление мебели привел россиянина в пыточный подвал",
-      "link": "https://lenta.ru/news/2026/10/23/zakaz-na-izgotovlenie-mebeli-privel-rossiyanina-v-pytochnyy-podval/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 14:12:52 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "制造家具的命令把俄国人带到了酷刑地下室"
-    },
-    {
-      "title": "ЦБ назвал одно из главных препятствий для снижения инфляции в России",
-      "link": "https://lenta.ru/news/2026/10/23/tsb-nazval-odno-iz-glavnyh-prepyatstviy-dlya-snizheniya-inflyatsii-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 13:59:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "中央银行列举了俄罗斯降低通货膨胀的主要障碍之一"
-    },
-    {
       "title": "Аксаков: основной потенциал снижения ключевой ставки реализуется в 2027 году",
       "link": "https://www.vedomosti.ru/economics/news/2026/10/23/1239628-snizheniya-klyuchevoi-stavki",
       "source": "Vedomosti",
@@ -314,39 +369,6 @@
         "供给↓"
       ],
       "titleZh": "阿克萨科夫： 2027年实现降低关键费率的主要潜力"
-    },
-    {
-      "title": "В Кремле анонсировали ритмичное продолжение экспорта дизеля",
-      "link": "https://lenta.ru/news/2026/10/23/v-kremle-anonsirovali-ritmichnoe-prodolzhenie-eksporta-dizelya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 13:20:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "克里姆林宫宣布继续有节奏地出口柴油"
-    },
-    {
-      "title": "Производство машин в России выросло почти на треть",
-      "link": "https://lenta.ru/news/2026/10/23/proizvodstvo-mashin-v-rossii-vyroslo-pochti-na-tret/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 12:57:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯的机器产量增加了近三分之一"
-    },
-    {
-      "title": "В цеху по производству еды напали на съемочную группу российского канала",
-      "link": "https://lenta.ru/news/2026/10/23/v-tsehu-po-proizvodstvu-edy-napali-na-s-emochnuyu-gruppu-rossiyskogo-kanala/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 12:46:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在食品生产车间，俄罗斯频道的摄制组遭到袭击"
     },
     {
       "title": "Песков: поставки дизеля в США будут ритмично продолжаться",
@@ -402,17 +424,6 @@
         "OZON"
       ],
       "titleZh": "Ozon Bank计划为个人创业者推出CFA"
-    },
-    {
-      "title": "Центробанк Турции снизил ключевую ставку до 36%",
-      "link": "https://www.vedomosti.ru/economics/news/2026/10/22/1239265-tsentrobank-turtsii",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 14:20:09 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "土耳其央行将关键利率下调至36%"
     }
   ]
 }
