@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-23T10:29:09.466Z",
-  "count": 32,
+  "updated": "2026-10-23T15:23:17.244Z",
+  "count": 37,
   "items": [
+    {
+      "title": "Оценена вероятность снижения стоимости одного типа жилья в России",
+      "link": "https://lenta.ru/news/2026/10/23/otsenena-veroyatnost-snizheniya-stoimosti-odnogo-tipa-zhilya-v-rf/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 18:06:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "价格"
+      ],
+      "titleZh": "俄罗斯某类住房成本下降的可能性"
+    },
+    {
+      "title": "Банк России снизил курс доллара до 80 рублей",
+      "link": "https://www.vedomosti.ru/finance/news/2026/10/23/1239747-bank-rossii-snizil-kurs",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 18:01:17 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "俄罗斯银行将美元汇率降至80卢布"
+    },
+    {
+      "title": "Kept: Россия заняла 11-е место в мире по распространению электротранспорта",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/23/1239604-rossiya-zanyala",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 13:28:43 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "物流"
+      ],
+      "titleZh": "保留：俄罗斯在电动汽车分销中排名世界第11位"
+    },
     {
       "title": "Продажи одного вида транспортных средств в России достигли максмума",
       "link": "https://lenta.ru/news/2026/10/23/prodazhi-odnogo-vida-transportnyh-sredstv-v-rossii-dostigli-maksmuma/",
@@ -13,18 +49,6 @@
         "物流"
       ],
       "titleZh": "一种车型在俄罗斯的销量达到最大值"
-    },
-    {
-      "title": "Выдача автокредитов в России сократилась на 14% в сентябре",
-      "link": "https://iz.ru/2189199/2026-10-23/vydacha-avtokreditov-v-rossii-sokratilas-na-14-v-sentiabre",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 12:16:17 +0300",
-      "summary": "<p>В сентябре 2026 года российские банки выдали 112,75 тыс. автокредитов на общую сумму 179,11 млрд рублей. Количество кредитов сократилось на 14% в годовом выражении и на 2% по сравнению с августом, объем выдач уменьшил",
-      "tags": [
-        "供给↓",
-        "汇率"
-      ],
-      "titleZh": "9月俄罗斯汽车贷款下降14%"
     },
     {
       "title": "Выручка от агроэкспорта России в Китай достигла около $7,8 млрд",
@@ -39,38 +63,268 @@
       "titleZh": "俄罗斯对华农产品出口收入约78亿美元"
     },
     {
-      "title": "Боломатова: экспортеры зерна прорабатывают транзит через Китай",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239149-bolomatova-eksporteri",
+      "title": "В Свердловской области пресекли работу четырех псевдорелигиозных организаций",
+      "link": "https://iz.ru/2189537/2026-10-23/v-sverdlovskoi-oblasti-presekli-rabotu-chetyrekh-psevdoreligioznykh-organizatcii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 18:03:32 +0300",
+      "summary": "<p>С конца 2025 года на территории Свердловской области была пресечена незаконная деятельность четырех псевдорелигиозных организаций, распространяющих идеи радикального ислама. Об этом 23 октября сообщил «Известиям» исто",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在斯维尔德洛夫斯克地区，四个伪宗教组织的工作被停止"
+    },
+    {
+      "title": "Во всех аэропортах Москвы вновь ограничили прием и выпуск самолетов",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/23/1239739-vnov-ogranichili-priem-samoletov",
       "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 10:48:56 +0300",
+      "pubDate": "Fri, 23 Oct 2026 17:48:52 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "中俄贸易"
+        "供给↓"
       ],
-      "titleZh": "博洛马托娃：谷物出口商正在努力通过中国过境"
+      "titleZh": "所有莫斯科机场再次限制飞机的接收和放行"
+    },
+    {
+      "title": "Bloomberg рассказало о планах Германии закупить тысячи крылатых ракет",
+      "link": "https://iz.ru/2189547/2026-10-23/bloomberg-rasskazalo-o-planakh-germanii-zakupit-tysiachi-krylatykh-raket",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 17:40:12 +0300",
+      "summary": "<p>Германия намерена пополнить арсенал и ведет переговоры по закупке тысяч крылатых ракет. Среди возможных поставщиков — производители из США, Европы и <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>. Об ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "彭博社透露德国计划购买数千枚巡航导弹"
+    },
+    {
+      "title": "«Рособоронэкспорт» предложит антидроновые лазеры",
+      "link": "https://lenta.ru/news/2026/10/23/rosoboroneksport-predlozhit-antidronovye-lazery/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 17:40:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Rosoboronexport提供反无人机激光器"
+    },
+    {
+      "title": "Экономист назвал приводящие к снижению пенсии ошибки",
+      "link": "https://iz.ru/2189540/2026-10-23/ekonomist-nazval-privodiashchie-k-snizheniiu-pensii-oshibki",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 17:31:48 +0300",
+      "summary": "<p>Профессор Финансового университета при правительстве РФ Сергей Толкачев рассказал, что даже при официальном трудоустройстве размер пенсии может оказаться ниже ожидаемого. Причинами становятся ошибки в расчете пенсионн",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "这位经济学家称导致养老金减少的错误"
+    },
+    {
+      "title": "Глава Минпромторга сообщил о росте выпуска авто в РФ на 27% с начала года",
+      "link": "https://iz.ru/2189526/2026-10-23/glava-minpromtorga-soobshchil-o-roste-vypuska-avto-v-rf-na-27-s-nachala-goda",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 17:18:43 +0300",
+      "summary": "<p>Производство легковых автомобилей в России за январь-–сентябрь 2026 года увеличилось более чем на 27%, почти до 660 тыс. машин. Об этом 23 октября сообщил глава Минпромторга Антон Алиханов в кулуарах форума-выставки «",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "工业和贸易部部长报告称，自今年年初以来，俄罗斯联邦的汽车产量增长了27%"
+    },
+    {
+      "title": "Россиянам дали неочевидные советы сохранить деньги на распродажах",
+      "link": "https://lenta.ru/news/2026/10/23/rossiyanam-dali-neochevidnye-sovety-sohranit-dengi-na-rasprodazhah/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 17:17:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人得到了不明显的建议，以节省销售成本"
+    },
+    {
+      "title": "Заявление о блокировке счетов россиян для покрытия дефицита бюджета оказалось фейком",
+      "link": "https://lenta.ru/news/2026/10/23/zayavlenie-o-blokirovke-schetov-rossiyan-dlya-pokrytiya-defitsita-byudzheta-okazalos-feykom/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 16:46:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "关于封锁俄罗斯账户以弥补预算赤字的声明被证明是虚假的"
+    },
+    {
+      "title": "«Газпром» в шесть раз сократил долю заимствований на иностранных рынках",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/23/1239691-gazprom-sokratil",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 16:28:34 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯天然气工业股份公司将借款在国外市场的份额降低了六倍"
+    },
+    {
+      "title": "В «ВИМ инвестициях» прокомментировали мнение о распродаже ОФЗ из-за налогообложения ИПИФов",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/23/1239703-v-vime-prokommentirovali",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 16:24:56 +0300",
+      "summary": "В УК назвали его позицией отдельного сотрудника",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "由于对IPIF征税， WIM Investments对出售OFZ的意见发表了评论"
+    },
+    {
+      "title": "Набиуллина оценила возможность экспорта дизеля из России",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/23/1239695-nabiullina-otsenila",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 16:14:22 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Nabiullina评估了从俄罗斯出口柴油的可能性"
+    },
+    {
+      "title": "ЦБ ожидает восстановления выбывших производственных мощностей в 2027 году",
+      "link": "https://www.vedomosti.ru/economics/news/2026/10/23/1239683-ozhidaet-vosstanovleniya",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 16:08:01 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "中央银行预计在2027年恢复退役的生产设施"
+    },
+    {
+      "title": "Выручка НМТП за девять месяцев снизилась на 13%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/23/1239682-viruchka-nmtp",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 16:05:05 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "九个月的NCSP收入下降了13%"
+    },
+    {
+      "title": "Набиуллина рассказала о предложениях повысить ставку",
+      "link": "https://lenta.ru/news/2026/10/23/nabiullina-rasskazala-o-predlozheniyah-povysit-stavku/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 15:48:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Nabiullina谈到了提高利率的建议"
+    },
+    {
+      "title": "Младенцы оказались под угрозой ежедневного потребления миллионов частиц микропластика",
+      "link": "https://lenta.ru/news/2026/10/23/mladentsy-okazalis-pod-ugrozoy-ezhednevnogo-potrebleniya-millionov-chastits-mikroplastika/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 15:29:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "婴儿受到日常消费数百万微塑料颗粒的威胁"
+    },
+    {
+      "title": "Редкая Lada поступила в продажу в России",
+      "link": "https://lenta.ru/news/2026/10/23/redkaya-lada-postupila-v-prodazhu-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 15:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "稀有拉达在俄罗斯上市销售"
+    },
+    {
+      "title": "Украинские предприятия охватил дефицит кадров",
+      "link": "https://lenta.ru/news/2026/10/23/ukrainskie-predpriyatiya-ohvatil-defitsit-kadrov/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 15:16:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "乌克兰企业受到人员短缺的打击"
+    },
+    {
+      "title": "Bloomberg: Германия обсуждает закупку 1000 крылатых ракет Anthem за 1 млрд евро",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/23/1239649-zakupku-raket-anthem",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 14:54:54 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "彭博社：德国讨论以10亿欧元购买1000枚“圣歌”巡航导弹"
+    },
+    {
+      "title": "Минобрнауки увеличит бюджетные места по популярным у олимпиадников направлениям",
+      "link": "https://www.vedomosti.ru/society/news/2026/10/23/1239639-minobrnauki-uvelichit",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 14:28:10 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "教育和科学部将增加奥林匹克学生热门领域的预算名额"
+    },
+    {
+      "title": "В России начались продажи китайской версии популярного кроссовера Nissan",
+      "link": "https://lenta.ru/news/2026/10/23/v-rossii-nachalis-prodazhi-kitayskoy-versii-populyarnogo-krossovera-nissan/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 14:14:31 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "流行的日产跨界车中文版开始在俄罗斯销售"
+    },
+    {
+      "title": "Заказ на изготовление мебели привел россиянина в пыточный подвал",
+      "link": "https://lenta.ru/news/2026/10/23/zakaz-na-izgotovlenie-mebeli-privel-rossiyanina-v-pytochnyy-podval/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 14:12:52 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "制造家具的命令把俄国人带到了酷刑地下室"
+    },
+    {
+      "title": "ЦБ назвал одно из главных препятствий для снижения инфляции в России",
+      "link": "https://lenta.ru/news/2026/10/23/tsb-nazval-odno-iz-glavnyh-prepyatstviy-dlya-snizheniya-inflyatsii-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 13:59:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "中央银行列举了俄罗斯降低通货膨胀的主要障碍之一"
+    },
+    {
+      "title": "Аксаков: основной потенциал снижения ключевой ставки реализуется в 2027 году",
+      "link": "https://www.vedomosti.ru/economics/news/2026/10/23/1239628-snizheniya-klyuchevoi-stavki",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 23 Oct 2026 13:57:07 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "阿克萨科夫： 2027年实现降低关键费率的主要潜力"
     },
     {
       "title": "В Кремле анонсировали ритмичное продолжение экспорта дизеля",
       "link": "https://lenta.ru/news/2026/10/23/v-kremle-anonsirovali-ritmichnoe-prodolzhenie-eksporta-dizelya/",
       "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 13:20:55 +0300",
+      "pubDate": "Fri, 23 Oct 2026 13:20:00 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
       "titleZh": "克里姆林宫宣布继续有节奏地出口柴油"
-    },
-    {
-      "title": "Лариса Долина подала иск после скандала с мошенническим магазином iPhone",
-      "link": "https://iz.ru/2189232/2026-10-23/larisa-dolina-podala-isk-posle-skandala-s-moshennicheskim-magazinom-iphone",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 13:12:38 +0300",
-      "summary": "<p>Певица Лариса Долина подала иск за незаконное использование своего имени после скандала с магазином техники, который оставил покупателей без денег и товаров. Об этом 23 октября «Известиям» заявил ее директор Сергей Пу",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Larisa Dolina在与欺诈性iPhone商店发生丑闻后提起诉讼"
     },
     {
       "title": "Производство машин в России выросло почти на треть",
@@ -82,28 +336,6 @@
         "供给↓"
       ],
       "titleZh": "俄罗斯的机器产量增加了近三分之一"
-    },
-    {
-      "title": "Фальков, заявил что количество вузовских олимпиад сократили с 83 до 60",
-      "link": "https://iz.ru/2189246/video/falkov-zaiavil-chto-kolichestvo-vuzovskikh-olimpiad-sokratili-s-83-do-60",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 12:54:09 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "法尔科夫说，大学奥运会的数量从83个减少到60个"
-    },
-    {
-      "title": "Блогер Wylsacom рассказал о работе фейковых магазинов под именами знаменитостей",
-      "link": "https://iz.ru/2189224/2026-10-23/bloger-wylsacom-rasskazal-o-rabote-feikovykh-magazinov-pod-imenami-znamenitostei",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 12:46:34 +0300",
-      "summary": "<p>Мошенники могут использовать имена известных людей, чтобы втираться в доверие к потенциальным жертвам и рекламировать свои услуги — в том числе речь идет о продаже техники с неправдоподобно большими скидками. Об этом ",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "博主Wylsacom以名人的名义谈到了假冒商店的工作"
     },
     {
       "title": "В цеху по производству еды напали на съемочную группу российского канала",
@@ -128,28 +360,6 @@
       "titleZh": "金沙：继续有节奏地向美国输送柴油"
     },
     {
-      "title": "Бизнес исключил скорый рост спроса на российские разработки",
-      "link": "https://lenta.ru/news/2026/10/23/spros/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 12:35:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "企业排除了对俄罗斯发展的需求快速增长的可能性"
-    },
-    {
-      "title": "Прохора Шаляпина и Ларису Долину вовлекли в мошенническую схему с продажей iPhone",
-      "link": "https://iz.ru/2189216/2026-10-23/prokhora-shaliapin-i-larisu-dolinu-vovlekli-v-moshennicheskuiu-skhemu-s-prodazhei-iphone",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 12:33:31 +0300",
-      "summary": "<p>Певец Прохор Шаляпин сообщил, что он, балерина Анастасия Волочкова и певица Лариса Долина стали жертвами обмана в схеме с iPhone. Об этом 23 октября рассказал сам певец.</p> <p>По словам Шаляпина, ему, Долиной и Волоч",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Prokhor Chaliapin和Larisa Dolina参与了一项销售iPhone的欺诈计划"
-    },
-    {
       "title": "Выпуск автомобилей в России вырос на 22,4% за девять месяцев",
       "link": "https://www.vedomosti.ru/auto/news/2026/10/23/1239585-vipusk-avtomobilei",
       "source": "Vedomosti",
@@ -170,105 +380,6 @@
         "供给↓"
       ],
       "titleZh": "Shokhin ：企业预计央行的关键利率不会下降"
-    },
-    {
-      "title": "Всплеск продаж машин в России в сентябре объяснили",
-      "link": "https://lenta.ru/news/2026/10/23/vsplesk-prodazh-mashin-v-rossii-v-sentyabre-ob-yasnili/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 11:50:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "9月份俄罗斯汽车销量激增的原因是"
-    },
-    {
-      "title": "Продажи товаров для ремонта в России упали",
-      "link": "https://lenta.ru/news/2026/10/23/upali/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 11:07:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯维修用品销售额下降"
-    },
-    {
-      "title": "Стали известны условия продажи Кисляка в Европу",
-      "link": "https://lenta.ru/news/2026/10/23/stali-izvestny-usloviya-prodazhi-kislyaka-v-evropu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 10:05:13 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Kislyak出售给欧洲的条件已经众所周知"
-    },
-    {
-      "title": "Пострадавшим продавцам Wildberries продлили кредитные каникулы",
-      "link": "https://lenta.ru/news/2026/10/23/postradavshim-prodavtsam-wildberries-prodlili-kreditnye-kanikuly/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 10:05:00 +0300",
-      "summary": "",
-      "tags": [
-        "Wildberries"
-      ],
-      "titleZh": "受影响的野莓商家延长信用假期"
-    },
-    {
-      "title": "Поставки нефти через Ормузский пролив резко упали",
-      "link": "https://lenta.ru/news/2026/10/23/postavki-nefti-cherez-ormuzskiy-proliv-rezko-upali/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 09:22:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "通过霍尔木兹海峡的石油供应暴跌"
-    },
-    {
-      "title": "Обвинившая популярного комика в насилии женщина раскрыла детали преступления",
-      "link": "https://lenta.ru/news/2026/10/23/obvinivshaya-populyarnogo-komika-v-nasilii-zhenschina-raskryla-detali-prestupleniya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 09:18:41 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一名指控流行喜剧演员实施暴力行为的女性透露了犯罪细节"
-    },
-    {
-      "title": "Популярная российская блогерша в откровенном образе снялась для рекламы нижнего белья",
-      "link": "https://lenta.ru/news/2026/10/23/populyarnaya-rossiyskaya-blogersha-v-otkrovennom-obraze-snyalas-dlya-reklamy-nizhnego-belya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 09:05:56 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位受欢迎的俄罗斯博主以直言不讳的方式为内衣做广告"
-    },
-    {
-      "title": "Сотрудница отеля рассказала о самом отвратительном предложении постояльца",
-      "link": "https://lenta.ru/news/2026/10/23/sotrudnitsa-otelya-rasskazala-o-samom-otvratitelnom-predlozhenii-postoyaltsa/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 07:30:48 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "酒店员工告诉房客最恶心的提议"
-    },
-    {
-      "title": "Самая популярная российская милфа в мире порно попала под уголовное дело",
-      "link": "https://lenta.ru/news/2026/10/23/samaya-populyarnaya-rossiyskaya-milfa-v-mire-porno-popala-pod-ugolovnoe-delo/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 07:14:35 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "色情领域最受欢迎的俄罗斯摩洛伊斯兰解放阵线陷入刑事案件"
     },
     {
       "title": "Минэнерго сообщило о снижении потребности России в импортном бензине",
@@ -302,61 +413,6 @@
         "供给↓"
       ],
       "titleZh": "土耳其央行将关键利率下调至36%"
-    },
-    {
-      "title": "Песков: детали предложений США по Украине не стоит обсуждать публично",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/22/1239236-peskov-detali-predlozhenii",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 13:14:35 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "佩斯科夫：美国关于乌克兰提案的细节不应公开讨论"
-    },
-    {
-      "title": "В Якутии запретили розничную продажу вейпов с марта 2027 года",
-      "link": "https://www.vedomosti.ru/society/news/2026/10/22/1239177-yakutii-zapretili",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 11:54:08 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "自2027年3月以来，雅库特已禁止零售电子烟"
-    },
-    {
-      "title": "SimpleWine: продажи вин Нового Света выросли на 34% за два года",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239011-vin-novogo-sveta",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 11:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "SimpleWine ：两年内新世界葡萄酒销售额增长34%"
-    },
-    {
-      "title": "Группа ММК нарастила производство стали за девять месяцев на 7,4%",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239143-mmk-narastila",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 10:35:29 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "MMK集团9个月钢铁产量增长7.4%"
-    },
-    {
-      "title": "«Новатэк» готов перенаправить СПГ из Европы в случае запрета на импорт",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/22/1239139-novatek-gotov-perenapravit",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 10:16:54 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Novatek准备在进口禁令的情况下从欧洲转移液化天然气"
     }
   ]
 }
