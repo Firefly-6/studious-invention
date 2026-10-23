@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T19:24:24.455Z",
-  "count": 38,
+  "updated": "2026-10-23T22:25:39.236Z",
+  "count": 35,
   "items": [
+    {
+      "title": "Минобрнауки предложило изменить порядок приема на платное обучение",
+      "link": "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 00:49:07 +0300",
+      "summary": "<p>Минобрнауки России предложило обновить правила определения количества платных мест в российских вузах с учетом качества подготовки и востребованности выпускников. Об этом 23 октября сообщили в ведомстве.</p><p>«Соглас",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "教育和科学部提议将录取程序改为有偿培训"
+    },
     {
       "title": "Популярная телезвезда вышла в свет в колье за миллионы рублей",
       "link": "https://lenta.ru/news/2026/10/23/populyarnaya-telezvezda-vyshla-v-svet-v-kolie/",
@@ -63,81 +75,114 @@
       "titleZh": "俄罗斯对华农产品出口收入约78亿美元"
     },
     {
-      "title": "В Орле специалисты готовятся к разбору завалов на атакованном ВСУ заводе",
-      "link": "https://ria.ru/20261023/orel-2126659772.html",
+      "title": "Telegraph может сократить около 15 процентов персонала, пишут СМИ",
+      "link": "https://ria.ru/20261024/telegraph-2126672376.html",
       "source": "RIA",
-      "pubDate": "Fri, 23 Oct 2026 22:00:12 +0300",
+      "pubDate": "Sat, 24 Oct 2026 01:01:39 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "在奥廖尔，专家们正准备拆除被APU攻击的工厂的碎片"
+      "titleZh": "《每日电讯报》可能会削减约15%的员工，媒体写道"
     },
     {
-      "title": "WSJ: Трамп может отменить пошлины на товары из Канады из-за выборов",
-      "link": "https://ria.ru/20261023/ssha-2126658769.html",
+      "title": "США не сократили передачу разведданных Украине, пишут СМИ",
+      "link": "https://ria.ru/20261024/ukraina-2126671855.html",
       "source": "RIA",
-      "pubDate": "Fri, 23 Oct 2026 21:48:01 +0300",
+      "pubDate": "Sat, 24 Oct 2026 00:52:31 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "媒体写道，美国没有减少向乌克兰的情报转移"
+    },
+    {
+      "title": "Россиянам назвали привычки для снижения риска деменции",
+      "link": "https://lenta.ru/news/2026/10/24/rossiyanam-nazvali-privychki-dlya-snizheniya-riska-dementsii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 24 Oct 2026 00:09:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯人被告知要养成降低痴呆风险的习惯"
+    },
+    {
+      "title": "25 октября — День работника таможенной службы: история, традиции, яркие поздравления",
+      "link": "https://iz.ru/2189456/2026-10-24/25-oktiabria-den-rabotnika-tamozhennoi-sluzhby-istoriia-traditcii-iarkie-pozdravleniia",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 00:00:00 +0300",
+      "summary": "<p>Ежегодно 25 октября в России отмечают День таможенника — профессиональный праздник сотрудников Федеральной таможенной службы (ФТС), которые контролируют перемещение людей и товаров через границу, обеспечивают поступле",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "10月25日—海关日：历史、传统、生动祝贺"
+    },
+    {
+      "title": "В США внесли изменения в список облагаемых пошлинами товаров из Канады",
+      "link": "https://iz.ru/2189765/2026-10-23/v-ssha-vnesli-izmeneniia-v-spisok-oblagaemykh-poshlinami-tovarov-iz-kanady",
+      "source": "Izvestia",
+      "pubDate": "Fri, 23 Oct 2026 23:39:08 +0300",
+      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дональд Трамп</a> внес изменения в перечень канадской продукции, на которую распространяются ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在美国，对来自加拿大的应税商品清单进行了更改"
+    },
+    {
+      "title": "Необходимость выселения арендаторов при продаже квартиры опровергли",
+      "link": "https://lenta.ru/news/2026/10/23/neobhodimost-vyseleniya-arendatorov-pri-prodazhe-kvartiry-oprovergli/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 23:04:10 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "《华尔街日报》：由于选举，特朗普可能会取消加拿大商品的关税"
+      "titleZh": "拒绝在出售公寓时驱逐租户的必要性"
     },
     {
-      "title": "После ракетного удара на заводе в Орле произошло серьезное возгорание",
-      "link": "https://iz.ru/2189726/2026-10-23/posle-raketnogo-udara-na-zavode-v-orle-proizoshlo-sereznoe-vozgoranie",
+      "title": "«Ашан» снял с продажи партию конфет «Рот Фронт» после жалобы на личинок",
+      "link": "https://iz.ru/2189747/ashan-snial-s-prodazhi-partiiu-konfet-rot-front-posle-zhaloby-na-lichinok-izi",
       "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 21:39:08 +0300",
-      "summary": "<p>После ракетного удара на заводе в Орле произошло серьезное возгорание, пожар потушен. Об этом 23 октября сообщил губернатор Андрей Клычков.</p><p>«Завод в Советском районе города Орла сегодня подвергся ракетному удару",
+      "pubDate": "Fri, 23 Oct 2026 22:38:44 +0300",
+      "summary": "<p>«Ашан» временно снял с продажи партию конфет «Рот Фронт» в магазине в Химках после сообщения покупательницы о якобы обнаруженных в продукции личинках. При проведенной санитарной проверке торговой точки несоответствий ",
       "tags": [
-        "供给↓"
+        "需求↑"
       ],
-      "titleZh": "导弹袭击后，奥廖尔工厂发生严重火灾"
+      "titleZh": "“欧尚”在投诉幼虫后退出了一批糖果“罗斯前线”的销售"
     },
     {
-      "title": "В Орле ликвидировали возгорание на заводе после удара ВСУ",
-      "link": "https://ria.ru/20261023/orel-2126657802.html",
-      "source": "RIA",
-      "pubDate": "Fri, 23 Oct 2026 21:37:59 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在奥廖尔，工厂的火灾在APU撞击后被扑灭"
-    },
-    {
-      "title": "Путин поручил представить предложения по использованию \"Цифрового рудника\"",
-      "link": "https://ria.ru/20261023/putin-2126657285.html",
-      "source": "RIA",
-      "pubDate": "Fri, 23 Oct 2026 21:35:52 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京被指示提交使用数字地雷的提案"
-    },
-    {
-      "title": "\"Ашан\" снял с продажи батончики \"Рот Фронт\" в Химках до проверки",
-      "link": "https://ria.ru/20261023/ashan-2126656643.html",
-      "source": "RIA",
-      "pubDate": "Fri, 23 Oct 2026 21:32:12 +0300",
+      "title": "Стало известно о планах Трампа отменить часть пошлин на товары из Канады",
+      "link": "https://lenta.ru/news/2026/10/23/stalo-izvestno-o-planah-trampa-otmenit-chast-poshlin-na-tovary-iz-kanady/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 22:31:23 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "“Auchan”在检查前从Khimki的“Roth Front”酒吧退出"
+      "titleZh": "众所周知，特朗普计划取消对加拿大商品的部分关税"
     },
     {
-      "title": "Гибель пожарного и смерть девочки после операции. Главные происшествия 23 октября",
-      "link": "https://iz.ru/2189713/2026-10-23/gibel-pozharnogo-i-smert-devochki-posle-operatcii-glavnye-proisshestviia-23-oktiabria",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 21:28:36 +0300",
-      "summary": "<p dir=\"ltr\">В Иванове при тушении крупного пожара на производстве погиб сотрудник МЧС, еще четверо пострадали, а в Череповце трехлетняя девочка скончалась после плановой операции по удалению аденоидов. В Екатеринбурге в",
+      "title": "Новак оценил возможности российских компаний по экспорту дизеля в октябре",
+      "link": "https://lenta.ru/news/2026/10/23/novak-otsenil-vozmozhnosti-rossiyskih-kompaniy-po-eksportu-dizelya-v-oktyabre/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 22:29:00 +0300",
+      "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "一名消防员死亡，一名女孩在手术后死亡。10月23日发生的重大事故"
+      "titleZh": "Novak在10月份评估了俄罗斯公司出口柴油的能力"
+    },
+    {
+      "title": "Восемь человек пострадали при ракетном ударе ВСУ по заводу в Орле",
+      "link": "https://lenta.ru/news/2026/10/23/vosem-chelovek-postradali-pri-raketnom-udare-po-zavodu-v-orle/",
+      "source": "Lenta",
+      "pubDate": "Fri, 23 Oct 2026 22:22:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在APU导弹袭击奥廖尔工厂时，有8人受伤"
     },
     {
       "title": "Ушедший из России автопроизводитель объявил масштабный отзыв популярных машин",
@@ -149,39 +194,6 @@
         "需求↑"
       ],
       "titleZh": "这家离开俄罗斯的汽车制造商宣布大规模召回受欢迎的汽车"
-    },
-    {
-      "title": "В Забайкалье предложили размер штрафа за торговлю вейпами",
-      "link": "https://iz.ru/2189672/2026-10-23/v-zabaikale-predlozhili-razmer-shtrafa-za-torgovliu-veipami",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 20:07:13 +0300",
-      "summary": "<p>В Забайкалье планируют ввести запрет на продажу вейпов. После вступления в силу соответствующего закона продолжающие торговлю предприниматели будут платить штрафы, сообщила замглавы регионального РСТ Ольга Макарова.</",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在Transbaikalia ，提出了电子烟罚款的规模"
-    },
-    {
-      "title": "В Бурятии построят комбинат по добыче сынныритов",
-      "link": "https://iz.ru/2189650/2026-10-23/v-buriatii-postroiat-kombinat-po-dobyche-synnyritov",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 19:23:22 +0300",
-      "summary": "<p>В Бурятии в 2028 году начнется строительство Новоуоянского калийного комбината. Предприятие выйдет на проектную мощность в 2030–2031 годах, сообщает пресс-служба регионального минпромторга.</p><p>Сырьевой базой объект",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "将在布里亚特建造一个提取合成石的工厂"
-    },
-    {
-      "title": "В Красноярском крае медведь убил сторожа производственной базы",
-      "link": "https://iz.ru/2189634/v-krasnoiarskom-krae-medved-ubil-storozha-proizvodstvennoi-bazy/ize",
-      "source": "Izvestia",
-      "pubDate": "Fri, 23 Oct 2026 19:22:08 +0300",
-      "summary": "<p>В Богучанском округе Красноярского края медведь напал на сторожа производственной базы, в результате полученных травм мужчина скончался. Об этом в пятницу, 23 октября, сообщает <a href=\"https://ria.ru/20261023/sk-2126",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在克拉斯诺亚尔斯克领地，一只熊杀死了生产基地的守卫"
     },
     {
       "title": "Илон Маск открыл в Москве завод по производству российских электромобилей и аккумуляторов",
@@ -305,39 +317,6 @@
       "titleZh": "九个月的NCSP收入下降了13%"
     },
     {
-      "title": "Набиуллина рассказала о предложениях повысить ставку",
-      "link": "https://lenta.ru/news/2026/10/23/nabiullina-rasskazala-o-predlozheniyah-povysit-stavku/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 15:48:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Nabiullina谈到了提高利率的建议"
-    },
-    {
-      "title": "Младенцы оказались под угрозой ежедневного потребления миллионов частиц микропластика",
-      "link": "https://lenta.ru/news/2026/10/23/mladentsy-okazalis-pod-ugrozoy-ezhednevnogo-potrebleniya-millionov-chastits-mikroplastika/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 15:29:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "婴儿受到日常消费数百万微塑料颗粒的威胁"
-    },
-    {
-      "title": "Редкая Lada поступила в продажу в России",
-      "link": "https://lenta.ru/news/2026/10/23/redkaya-lada-postupila-v-prodazhu-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 15:23:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "稀有拉达在俄罗斯上市销售"
-    },
-    {
       "title": "Bloomberg: Германия обсуждает закупку 1000 крылатых ракет Anthem за 1 млрд евро",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/23/1239649-zakupku-raket-anthem",
       "source": "Vedomosti",
@@ -413,17 +392,6 @@
         "供给↓"
       ],
       "titleZh": "能源部报告称，俄罗斯对进口汽油的需求减少"
-    },
-    {
-      "title": "«Ozon банк» планирует запустить ЦФА для индивидуальных предпринимателей",
-      "link": "https://www.vedomosti.ru/finance/news/2026/10/22/1239317-ozon-bank",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 22 Oct 2026 16:08:34 +0300",
-      "summary": "",
-      "tags": [
-        "OZON"
-      ],
-      "titleZh": "Ozon Bank计划为个人创业者推出CFA"
     }
   ]
 }
