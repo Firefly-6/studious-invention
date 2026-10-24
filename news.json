@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T09:31:30.237Z",
-  "count": 40,
+  "updated": "2026-10-24T13:32:18.650Z",
+  "count": 38,
   "items": [
+    {
+      "title": "В Крыму и новых регионах России возникли перебои с электроснабжением",
+      "link": "https://iz.ru/2190006/v-krymu-i-novykh-regionakh-rossii-voznikli-pereboi-s-elektrosnabzheniem-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 15:52:00 +0300",
+      "summary": "<p>В <a href=\"https://iz.ru/tag/krym\" target=\"_blank\">Крыму</a>, Донецкой и Луганской народных республиках, а также в Херсонской и Запорожской областях часть потребителей осталась без электроснабжения из-за воздействия н",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "克里米亚和俄罗斯新地区停电"
+    },
     {
       "title": "Банк России снизил курс доллара до 80 рублей",
       "link": "https://www.vedomosti.ru/finance/news/2026/10/23/1239747-bank-rossii-snizil-kurs",
@@ -39,15 +51,103 @@
       "titleZh": "俄罗斯对华农产品出口收入约78亿美元"
     },
     {
-      "title": "Прохор Шаляпин раскрыл подробности скандала с мошенническим магазином iPhone",
-      "link": "https://iz.ru/2189945/2026-10-24/prokhor-shaliapin-raskryl-podrobnosti-skandala-s-moshennicheskim-magazinom-iphone",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 11:28:58 +0300",
-      "summary": "<p>Певец Прохор Шаляпин получил предложение о бесплатном смартфоне от мошенников через помощницу балерины Анастасии Волочковой Лолу. Об этом он рассказал в беседе с «Известиями» 24 октября.</p> <p>После посещения салона,",
+      "title": "Ким Чен Ын побывал на автозаводе в Китае на фоне слухов о своем плохом состоянии",
+      "link": "https://lenta.ru/news/2026/10/24/kim-chen-yn-pobyval-na-avtozavode-v-kitae-na-fone-sluhov-o-svoem-plohom-sostoyanii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 24 Oct 2026 16:13:00 +0300",
+      "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Prokhor Chaliapin透露了欺诈性iPhone商店丑闻的细节"
+      "titleZh": "金正恩因传闻身体状况不佳而参观了中国的一家汽车工厂"
+    },
+    {
+      "title": "Украина захотела потратить миллион долларов на производство сериала",
+      "link": "https://lenta.ru/news/2026/10/24/ukraina-zahotela-potratit-million-dollarov-na-proizvodstvo-seriala/",
+      "source": "Lenta",
+      "pubDate": "Sat, 24 Oct 2026 15:29:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰想花一百万美元制作这个系列"
+    },
+    {
+      "title": "В КНР заявили о намерении расширять торгово-экономическое сотрудничество с КНДР",
+      "link": "https://iz.ru/2189994/2026-10-24/v-knr-zaiavili-o-namerenii-rasshiriat-torgovo-ekonomicheskoe-sotrudnichestvo-s-kndr",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 15:23:02 +0300",
+      "summary": "<p>Пекин намеревается продолжать развивать торгово-экономическое сотрудничество с Пхеньяном. Об этом 24 октября заявил председатель всекитайского комитета Народного политического консультативного совета Ван Хунин, приним",
+      "tags": [
+        "中俄贸易"
+      ],
+      "titleZh": "中国宣布有意扩大与朝鲜的贸易和经济合作"
+    },
+    {
+      "title": "Опубликованы фото ударивших по заводу в Орле ракет ВСУ",
+      "link": "https://lenta.ru/news/2026/10/24/opublikovany-foto-udarivshih-po-zavodu-v-orle-raket-vsu/",
+      "source": "Lenta",
+      "pubDate": "Sat, 24 Oct 2026 14:28:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "APU导弹击中奥廖尔工厂的照片已经公布"
+    },
+    {
+      "title": "Дмитриев перечислил признаки упадка Великобритании",
+      "link": "https://iz.ru/2189974/dmitriev-perechislil-priznaki-upadka-velikobritanii-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 13:56:47 +0300",
+      "summary": "<p>Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами Кирилл Дмитриев 24 октября связал ухудшение ситуации в Великобритании со снижением уровня выработки электроэнергии ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "德米特里耶夫列举了英国衰落的迹象"
+    },
+    {
+      "title": "Компания Lego продлила действие товарного знака в России до 2036 года",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/24/1239842-kompaniya-lego-prodlila",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 24 Oct 2026 13:43:38 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "乐高在俄罗斯的商标有效期延长至2036年"
+    },
+    {
+      "title": "В РАН допустили распространение хантавируса Андес по всему миру",
+      "link": "https://iz.ru/2189963/2026-10-24/v-ran-dopustili-rasprostranenie-khantavirusa-andes-po-vsemu-miru",
+      "source": "Izvestia",
+      "pubDate": "Sat, 24 Oct 2026 13:37:00 +0300",
+      "summary": "<p>Хантавирус Андес, вызвавший вспышку заболевания на круизном лайнере MV Hondius, способен распространиться по всему миру. Такое мнение 24 октября выразил вирусолог, заведующий лабораторией бионанотехнологии, микробиоло",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "RAS允许安第斯汉坦病毒在世界各地传播"
+    },
+    {
+      "title": "Президент Ирана поучаствует в саммите Форума стран – экспортеров газа 27 октября",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/24/1239840-prezident-irana-pouchastvuet",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 24 Oct 2026 13:16:32 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "伊朗总统将于10月27日参加天然气出口国论坛峰会"
+    },
+    {
+      "title": "Стало известно о продлении товарного знака Lego в России",
+      "link": "https://lenta.ru/news/2026/10/24/lego/",
+      "source": "Lenta",
+      "pubDate": "Sat, 24 Oct 2026 13:02:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "众所周知，乐高商标在俄罗斯的延伸"
     },
     {
       "title": "Зеленский посетовал на нехватку помощи США",
@@ -61,28 +161,6 @@
       "titleZh": "泽连斯基对美国缺乏援助表示遗憾"
     },
     {
-      "title": "ВС РФ сбили дроны Hornet американского производства над трассой «Новороссия»",
-      "link": "https://iz.ru/2189925/vs-rf-sbili-drony-hornet-amerikanskogo-proizvodstva-nad-trassoi-novorossiia-izi",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 11:01:00 +0300",
-      "summary": "<p>Расчеты отдельной бригады войск беспилотных систем «Варяг» уничтожили несколько украинских беспилотников над трассой «Новороссия». Об этом 24 октября сообщили в Минобороны РФ.</p> <p>По данным ведомства, российские во",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯武装部队在新罗西亚高速公路上击落美国制造的大黄蜂无人机"
-    },
-    {
-      "title": "Генетик рассказал о «гене Анджелины Джоли» у женщин",
-      "link": "https://iz.ru/2189625/2026-10-24/genetik-rasskazal-o-gene-andzheliny-dzholi-u-zhenshchin",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 10:10:00 +0300",
-      "summary": "<p>Мутация гена BRCA1, получившая условное название «ген Анджелины Джоли» после того, как у актрисы обнаружили такое изменение, встречается у одной женщины из 200. Об этом в новом выпуске подкаста «Известь» <a href=\"http",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "遗传学家谈到女性的“安吉丽娜朱莉基因”"
-    },
-    {
       "title": "Стало известно о риске распространения хантавируса по всему миру",
       "link": "https://lenta.ru/news/2026/10/24/stalo-izvestno-o-riske-rasprostraneniya-hantavirusa-andes-po-vsemu-miru/",
       "source": "Lenta",
@@ -92,28 +170,6 @@
         "需求↑"
       ],
       "titleZh": "汉坦病毒在全球传播的风险已经众所周知"
-    },
-    {
-      "title": "Лантратова сообщила о нехватке инсулина в Алешках",
-      "link": "https://iz.ru/2189922/lantratova-ukazala-na-nekhvatku-insulina-v-aleshkakh-izi",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 10:02:26 +0300",
-      "summary": "<p>В населенном пункте Алешки Херсонской области наблюдается нехватка инсулина. Об этом 24 октября сообщила уполномоченный по правам человека в РФ Яна Лантратова.</p><p>«Я знаю, что там есть нехватка инсулина», — указала",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Lantratova报告Aleshky缺乏胰岛素"
-    },
-    {
-      "title": "В ДНР намерены построить завод коммунальной техники",
-      "link": "https://iz.ru/2189890/pushilin-rasskazal-o-namerenii-vozvesti-v-dnr-zavod-kommunalnoi-tekhniki-izi",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 09:56:00 +0300",
-      "summary": "<p>В Харцызске Донецкой Народной Республики (ДНР) планируется построить предприятие по производству коммунальной техники. Об этом 24 октября сообщил глава субъекта Денис Пушилин.</p><p>«В Харцызске планируется строительс",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "DPR打算建造一个公共设备工厂"
     },
     {
       "title": "Ярушин раскрыл секрет популярности трека Zombie",
@@ -149,17 +205,6 @@
       "titleZh": "从中国到俄罗斯的一种水果交付量飙升"
     },
     {
-      "title": "КамАЗ увеличит поставки грузовиков в Африку в 2027 году",
-      "link": "https://iz.ru/2189873/2026-10-24/kamaz-uvelichit-postavki-gruzovikov-v-afriku-v-2027-godu",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 08:59:00 +0300",
-      "summary": "<p>Российский автоконцерн КамАЗ намерен нарастить объемы экспорта грузовой техники в страны Африки в 2027 году. Об этом 24 октября сообщили в пресс-службе компании.<br /><br />«Страны Центральной и Западной Африки», — ск",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Kamaz将在2027年增加向非洲的卡车交付量"
-    },
-    {
       "title": "Ряду российских школьников сократят каникулы",
       "link": "https://lenta.ru/news/2026/10/24/ryadu-rossiyskih-shkolnikov-sokratyat-kanikuly/",
       "source": "Lenta",
@@ -169,17 +214,6 @@
         "供给↓"
       ],
       "titleZh": "一些俄罗斯学童的假期将缩短"
-    },
-    {
-      "title": "ВС РФ поразили цех по производству безэкипажных катеров в порту Черноморска",
-      "link": "https://iz.ru/2189881/2026-10-24/vs-rf-porazili-tcekh-po-proizvodstvu-bezekipazhnykh-katerov-v-portu-chernomorska",
-      "source": "Izvestia",
-      "pubDate": "Sat, 24 Oct 2026 08:27:13 +0300",
-      "summary": "<p>Российские военнослужащие ударили по расположенному в порту Черноморска цеху, где производились безэкипажные катера (БЭК) для Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ). Об э",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯武装部队袭击了切尔诺莫尔斯克港的无人驾驶船只生产车间"
     },
     {
       "title": "Пушилин рассказал о планах строительства в ДНР завода",
@@ -246,61 +280,6 @@
         "供给↓"
       ],
       "titleZh": "俄罗斯人被告知要养成降低痴呆风险的习惯"
-    },
-    {
-      "title": "Необходимость выселения арендаторов при продаже квартиры опровергли",
-      "link": "https://lenta.ru/news/2026/10/23/neobhodimost-vyseleniya-arendatorov-pri-prodazhe-kvartiry-oprovergli/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 23:04:10 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "拒绝在出售公寓时驱逐租户的必要性"
-    },
-    {
-      "title": "Стало известно о планах Трампа отменить часть пошлин на товары из Канады",
-      "link": "https://lenta.ru/news/2026/10/23/stalo-izvestno-o-planah-trampa-otmenit-chast-poshlin-na-tovary-iz-kanady/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 22:31:23 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "众所周知，特朗普计划取消对加拿大商品的部分关税"
-    },
-    {
-      "title": "Новак оценил возможности российских компаний по экспорту дизеля в октябре",
-      "link": "https://lenta.ru/news/2026/10/23/novak-otsenil-vozmozhnosti-rossiyskih-kompaniy-po-eksportu-dizelya-v-oktyabre/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 22:29:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Novak在10月份评估了俄罗斯公司出口柴油的能力"
-    },
-    {
-      "title": "Восемь человек пострадали при ракетном ударе ВСУ по заводу в Орле",
-      "link": "https://lenta.ru/news/2026/10/23/vosem-chelovek-postradali-pri-raketnom-udare-po-zavodu-v-orle/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 22:22:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在APU导弹袭击奥廖尔工厂时，有8人受伤"
-    },
-    {
-      "title": "Ушедший из России автопроизводитель объявил масштабный отзыв популярных машин",
-      "link": "https://lenta.ru/news/2026/10/23/ushedshiy-iz-rossii-avtoproizvoditel-ob-yavil-masshtabnyy-otzyv-populyarnyh-mashin/",
-      "source": "Lenta",
-      "pubDate": "Fri, 23 Oct 2026 20:22:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "这家离开俄罗斯的汽车制造商宣布大规模召回受欢迎的汽车"
     },
     {
       "title": "Во всех аэропортах Москвы вновь ограничили прием и выпуск самолетов",
