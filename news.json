@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-25T16:06:11.891Z",
-  "count": 33,
+  "updated": "2026-10-25T18:58:47.904Z",
+  "count": 31,
   "items": [
+    {
+      "title": "Житель Самары в течение трех лет пытался вернуть угнанный BMW за 12 млн рублей",
+      "link": "https://iz.ru/2190400/zhitel-samary-v-techenie-trekh-let-pytalsia-vernut-ugnannyi-bmw-za-12-mln-rublei-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 25 Oct 2026 20:22:00 +0300",
+      "summary": "<p>В Самаре местный житель три года пытается вернуть автомобиль BMW X7 стоимостью 12 млн рублей, который был похищен после сдачи в аренду. Об этом 25 октября сообщил источник «Известий».</p><p>Иномарка 2020 года выпуска ",
+      "tags": [
+        "供给↓",
+        "价格",
+        "汇率"
+      ],
+      "titleZh": "萨马拉的一名居民三年来一直试图以1200万卢布的价格归还被盗的宝马"
+    },
     {
       "title": "Экспорт одного российского товара в Грузию достиг исторического максимума",
       "link": "https://lenta.ru/news/2026/10/25/eksport-odnogo-rossiyskogo-tovara-v-gruziyu-dostig-istoricheskogo-maksimuma/",
@@ -24,7 +37,7 @@
         "供给↓",
         "汇率"
       ],
-      "titleZh": "俄罗斯央行将美元汇率降至80卢布"
+      "titleZh": "俄罗斯银行将美元汇率降至80卢布"
     },
     {
       "title": "Kept: Россия заняла 11-е место в мире по распространению электротранспорта",
@@ -36,7 +49,51 @@
         "需求↑",
         "物流"
       ],
-      "titleZh": "保持：俄罗斯电动汽车分布全球第11位"
+      "titleZh": "保留：俄罗斯在电动汽车分销中排名世界第11位"
+    },
+    {
+      "title": "Audi вложит $4,2 млрд в постройку автозавода в американском штате Джорджия",
+      "link": "https://iz.ru/2190425/video/audi-vlozhit-42-mlrd-v-postroiku-avtozavoda-v-amerikanskom-shtate-dzhordzhiia",
+      "source": "Izvestia",
+      "pubDate": "Sun, 25 Oct 2026 21:36:47 +0300",
+      "summary": "<p class=\"MsoNoSpacing\">Audi вложит $4,2 млрд в строительство завода в Джорджии, анонсировал президент <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> <a href=\"https://iz.ru/tag/donald-tramp\" target=\"_blank\">Дон",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "奥迪将投资42亿美元在美国佐治亚州建设一家汽车工厂"
+    },
+    {
+      "title": "Politico: Еврокомиссия пытается покрыть дефицит бюджета Украины",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/25/1239954-evrokomissiya-pitaetsya",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 25 Oct 2026 21:19:20 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Politico ：欧盟委员会正试图弥补乌克兰的预算赤字"
+    },
+    {
+      "title": "Трамп назвал очень хорошей дизельную сделку с Россией",
+      "link": "https://iz.ru/2190409/2026-10-25/tramp-nazval-ochen-khoroshei-dizelnuiu-sdelku-s-rossiei",
+      "source": "Izvestia",
+      "pubDate": "Sun, 25 Oct 2026 19:58:18 +0300",
+      "summary": "<p>Сделка Вашингтона с <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвой</a> о поставках дизеля в <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> была правильным и очень хорошим решением. Об этом 25 окт",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "特朗普称与俄罗斯达成了非常好的柴油协议"
+    },
+    {
+      "title": "Politico узнала о дедлайне ЕК по решению проблемы финансирования Украины",
+      "link": "https://iz.ru/2190401/2026-10-25/politico-uznala-o-dedlaine-ek-po-resheniiu-problemy-finansirovaniia-ukrainy",
+      "source": "Izvestia",
+      "pubDate": "Sun, 25 Oct 2026 19:22:37 +0300",
+      "summary": "<p>Еврокомиссия хочет найти решение по покрытию дефицита бюджета <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> в размере €70 млрд до конца 2026 года. Об этом 22 октября сообщила газета <a href=\"https://",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Politico了解到解决乌克兰融资问题的EC截止日期"
     },
     {
       "title": "В России ответили на предложение европейской страны вступить в переговоры по Украине",
@@ -61,28 +118,6 @@
       "titleZh": "《卫报》赞赏特朗普与普京和习近平举行峰会的提议"
     },
     {
-      "title": "Около 200 человек находились на заводе в Орле в момент атаки ВСУ",
-      "link": "https://iz.ru/2190368/okolo-200-chelovek-nakhodilis-na-zavode-v-orle-v-moment-ataki-vsu-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 25 Oct 2026 17:05:34 +0300",
-      "summary": "<p>Около 200 человек находились на заводе в Орле в момент ракетной атаки ВСУ, больших жертв удалось избежать. Об этом 25 октября сообщил губернатор Орловской области Андрей Клычков.</p><p>«Я хочу поблагодарить Вячеслава ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在APU袭击发生时，大约有200人在奥廖尔的工厂"
-    },
-    {
-      "title": "В Британии почти 83 тыс. потребителей остались без электричества из-за шторма",
-      "link": "https://iz.ru/2190348/2026-10-25/v-britanii-pochti-83-tys-potrebitelei-ostalis-bez-elektrichestva-iz-za-shtorma",
-      "source": "Izvestia",
-      "pubDate": "Sun, 25 Oct 2026 16:52:00 +0300",
-      "summary": "<p>В результате двух штормов, накрывших Великобританию за два дня, около 82,6 тыс. потребителей остаются без электричества. Об этом 25 октября сообщила газета <a href=\"https://www.telegraph.co.uk/news/2026/10/25/storm-bo",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在英国，近 8.3 万名消费者因风暴而断电"
-    },
-    {
       "title": "В МВД объяснили популярность одного сервиса у мошенников",
       "link": "https://lenta.ru/news/2026/10/25/v-mvd-ob-yasnili-populyarnost-odnogo-servisa-u-moshennikov/",
       "source": "Lenta",
@@ -102,7 +137,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "乌克兰武装部队袭击俄罗斯工厂伤亡人数增加"
+      "titleZh": "APU袭击俄罗斯工厂后的受害者人数增加"
     },
     {
       "title": "В России высказались о полном запрете на продажу вейпов",
@@ -114,28 +149,6 @@
         "需求↑"
       ],
       "titleZh": "在俄罗斯，他们谈到全面禁止销售电子烟"
-    },
-    {
-      "title": "В ГД напомнили о сокращении предпраздничного рабочего дня при сменном графике",
-      "link": "https://iz.ru/2190342/2026-10-25/v-gd-napomnili-o-sokrashchenii-predprazdnichnogo-rabochego-dnia-pri-smennom-grafike",
-      "source": "Izvestia",
-      "pubDate": "Sun, 25 Oct 2026 16:01:12 +0300",
-      "summary": "<p>Смена перед праздничным днем сокращается на час, в том числе для работников со сменным графиком. Об этом 25 октября сообщила первый зампред комитета Госдумы по труду, социальной политике и делам ветеранов Светлана Бес",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "国家杜马回顾了通过轮班时间表减少假日前工作日的做法"
-    },
-    {
-      "title": "Число погибших при ракетном ударе ВСУ по заводу в Орле возросло до четырех",
-      "link": "https://iz.ru/2190334/2026-10-25/chislo-pogibshikh-pri-raketnom-udare-vsu-po-zavodu-v-orle-vozroslo-do-chetyrekh",
-      "source": "Izvestia",
-      "pubDate": "Sun, 25 Oct 2026 15:42:20 +0300",
-      "summary": "<p>Число погибших при ракетном ударе Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) по одному из предприятий в Орле возросло до четырех. Об этом 25 октября сообщил губернатор Орловс",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌克兰导弹袭击奥廖尔一家工厂造成的死亡人数已上升至四人。"
     },
     {
       "title": "Развенчан популярный миф про преступников в перчатках",
@@ -158,28 +171,6 @@
         "需求↑"
       ],
       "titleZh": "宜家扩展了宜家家族在俄罗斯的商标权"
-    },
-    {
-      "title": "Появилась информация о новом предложении Ирана к США",
-      "link": "https://lenta.ru/news/2026/10/25/poyavilas-informatsiya-o-novom-predlozhenii-irana-k-ssha/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 05:54:50 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "有关于伊朗向美国提出的新提案的信息"
-    },
-    {
-      "title": "В США взорвался завод овсяных хлопьев",
-      "link": "https://lenta.ru/news/2026/10/25/v-ssha-vzorvalsya-zavod-ovsyanyh-hlopiev/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 04:51:02 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "美国一家燕麦工厂发生爆炸"
     },
     {
       "title": "Логистический центр Ozon в Омске попал под атаку беспилотников",
@@ -356,17 +347,6 @@
         "供给↓"
       ],
       "titleZh": "俄罗斯的汽车产量在9个月内增长了22.4%"
-    },
-    {
-      "title": "Шохин: бизнес не ожидает снижения ключевой ставки ЦБ",
-      "link": "https://www.vedomosti.ru/economics/news/2026/10/23/1239554-biznes-ne-ozhidaet",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 23 Oct 2026 11:50:55 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Shokhin ：企业预计央行的关键利率不会下降"
     }
   ]
 }
