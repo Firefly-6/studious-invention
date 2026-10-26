@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-26T01:24:45.209Z",
-  "count": 34,
+  "updated": "2026-10-26T06:30:18.337Z",
+  "count": 35,
   "items": [
-    {
-      "title": "СМИ сообщили о падении капитализации крупнейших люксовых брендов на €251 млрд",
-      "link": "https://iz.ru/2190479/smi-soobshhili-o-padenii-kapitalizaczii-krupnejshikh-lyuksovykh-brendov-na-251-mlrd-izi",
-      "source": "Izvestia",
-      "pubDate": "Mon, 26 Oct 2026 02:32:00 +0300",
-      "summary": "<p>Крупнейшие европейские люксовые группы в 2026 году потеряли около €250 млрд рыночной стоимости. Основными причинами падения стали резкое сокращение расходов китайских потребителей и нестабильность на фондовых рынках. ",
-      "tags": [
-        "需求↑",
-        "供给↓",
-        "价格"
-      ],
-      "titleZh": "据媒体报道，最大的奢侈品牌的市值下降了2510亿欧元"
-    },
     {
       "title": "Банк России снизил курс доллара до 80 рублей",
       "link": "https://www.vedomosti.ru/finance/news/2026/10/23/1239747-bank-rossii-snizil-kurs",
@@ -40,15 +27,136 @@
       "titleZh": "保留：俄罗斯在电动汽车分销中排名世界第11位"
     },
     {
-      "title": "Ученые назвали причину снижения запасов трески в Баренцевом море",
-      "link": "https://ria.ru/20261026/treska-2126959193.html",
-      "source": "RIA",
-      "pubDate": "Mon, 26 Oct 2026 04:07:00 +0300",
+      "title": "Популярный российский блогер рассказал о неизлечимой болезни",
+      "link": "https://lenta.ru/news/2026/10/26/populyarnyy-rossiyskiy-bloger-rasskazal-o-neizlechimoy-bolezni/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 09:13:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位受欢迎的俄罗斯博客作者谈到了一种无法治愈的疾病"
+    },
+    {
+      "title": "Песков высказался о поставках российского газа в Европу",
+      "link": "https://lenta.ru/news/2026/10/26/peskov-vyskazalsya-o-postavkah-rossiyskogo-gaza-v-evropu/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 08:02:00 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "科学家们已经指出了巴伦支海鳕鱼种群减少的原因"
+      "titleZh": "佩斯科夫谈到俄罗斯向欧洲供应天然气"
+    },
+    {
+      "title": "Адвокат объяснил порядок действий при угрозе публикации переписки",
+      "link": "https://iz.ru/2188660/2026-10-26/advokat-obiasnil-poriadok-deistvii-pri-ugroze-publikatcii-perepiski",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 08:00:00 +0300",
+      "summary": "<p>Угроза бывшего партнера опубликовать личную переписку — это не просто конфликт после расставания, а ситуация, которая может повлечь юридическую ответственность. Распространение сведений о частной жизни без согласия за",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "律师解释了在威胁发布信函的情况下采取行动的程序"
+    },
+    {
+      "title": "Россияне стали покупать более дешевые товары",
+      "link": "https://lenta.ru/news/2026/10/26/rossiyane-stali-pokupat-bolee-deshevye-tovary/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 07:50:52 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人开始购买更便宜的商品"
+    },
+    {
+      "title": "Песков заявил о готовности России поставлять газ на заинтересованные рынки",
+      "link": "https://iz.ru/2190541/2026-10-26/peskov-zaiavil-o-gotovnosti-rossii-postavliat-gaz-na-zainteresovannye-rynki",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 07:19:34 +0300",
+      "summary": "<p>Россия заинтересована в поставках газа на все экономически выгодные для нее рынки, включая европейский. <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москва</a> готова обсуждать возобновление поставок в Европу пр",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "佩斯科夫宣布俄罗斯准备向感兴趣的市场供应天然气"
+    },
+    {
+      "title": "Юрист предупредил владельцев дач о штрафах за выращивание золотарника",
+      "link": "https://iz.ru/2190535/2026-10-26/iurist-predupredil-vladeltcev-dach-o-shtrafakh-za-vyrashchivanie-zolotarnika",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 06:53:02 +0300",
+      "summary": "<p>Канадский золотарник, который часто используют для украшения дачных участков, с 1 марта 2026 года оказался в числе чужеродных растений, распространение которых создает для владельцев земли правовые риски. За несоблюде",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "律师警告小屋业主不要因为种植金菊而被罚款"
+    },
+    {
+      "title": "В МВД предупредили о новой схеме мошенничества с оплатой заказа",
+      "link": "https://iz.ru/2190526/v-mvd-predupredili-o-novoi-skheme-moshennichestva-s-oplatoi-zakaza-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 06:46:00 +0300",
+      "summary": "<p>Злоумышленники начали использовать схему с якобы ошибочной оплатой заказа, чтобы получить доступ к банковским данным россиян. Об этом говорится в материалах МВД РФ, с которыми 26 октября ознакомился <a href=\"https://t",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "内政部对一项新的欺诈计划发出警告，并支付了订单费用"
+    },
+    {
+      "title": "Глава «Роскино» сообщила о планах по совместному кинопроизводству РФ и КНДР",
+      "link": "https://iz.ru/2190529/2026-10-26/glava-roskino-soobshchila-o-planakh-po-sovmestnomu-kinoproizvodstvu-rf-i-kndr",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 06:14:06 +0300",
+      "summary": "<p>Россия и <a href=\"https://iz.ru/tag/kndr\" target=\"_blank\">КНДР</a> рассматривают возможность создания совместных кинопроектов и организации съемок российских фильмов на территории народной республики. Об этом 26 октяб",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Roskino的负责人宣布了俄罗斯联邦和朝鲜联合制作电影的计划"
+    },
+    {
+      "title": "В Словакии назвали обмен военными атташе с Россией шагом к диалогу",
+      "link": "https://iz.ru/2190517/2026-10-26/v-slovakii-nazvali-obmen-voennymi-attashe-s-rossiei-shagom-k-dialogu",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 05:21:28 +0300",
+      "summary": "<p>Возобновление обмена военными атташе между Словакией и Россией стало практической мерой для сохранения прямых каналов связи и снижения риска эскалации. Об этом 26 октября заявил вице-спикер Национального совета Словак",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "斯洛伐克称与俄罗斯交换武官是迈向对话的一步"
+    },
+    {
+      "title": "ЕС обратился к Сербии с предложением после победы оппозиции на выборах",
+      "link": "https://lenta.ru/news/2026/10/26/es-obratilsya-k-serbii-s-predlozheniem-posle-pobedy-oppozitsii-na-vyborah/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 04:46:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在反对派在选举中获胜后，欧盟向塞尔维亚提出建议"
+    },
+    {
+      "title": "Россия обсудила совместное кинопроизводство с одной страной",
+      "link": "https://lenta.ru/news/2026/10/26/rossiya-obsudila-sovmestnoe-kinoproizvodstvo-s-odnoy-stranoy/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 04:36:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯讨论与一个国家合作制作"
+    },
+    {
+      "title": "Популярный заменитель сахара оказался вреден для печени",
+      "link": "https://lenta.ru/news/2026/10/26/populyarnyy-zamenitel-sahara-okazalsya-vreden-dlya-pecheni/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 04:24:41 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一种流行的糖替代品已被证明对肝脏有害"
     },
     {
       "title": "Песков сделал заявление о контактах России и Европы по поставкам газа",
@@ -62,28 +170,6 @@
       "titleZh": "佩斯科夫就俄罗斯和欧洲在天然气供应方面的联系发表声明"
     },
     {
-      "title": "В МИД заявили о востребованности канала связи Россия-НАТО",
-      "link": "https://ria.ru/20261026/svyaz-2126958624.html",
-      "source": "RIA",
-      "pubDate": "Mon, 26 Oct 2026 03:44:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "外交部表示对俄罗斯-北约通信渠道的需求"
-    },
-    {
-      "title": "Песков назвал условия для начала обсуждений по экспорту газа в Европу",
-      "link": "https://iz.ru/2190508/2026-10-26/peskov-nazval-usloviia-dlia-nachala-obsuzhdenii-po-eksportu-gaza-v-evropu",
-      "source": "Izvestia",
-      "pubDate": "Mon, 26 Oct 2026 03:42:38 +0300",
-      "summary": "<p><a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москва</a> готова вести переговоры о поставках газа в европейские страны при условии встречного интереса со стороны Запада и наличия свободных ресурсов. Об этом 26 ок",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "佩斯科夫称，开始讨论向欧洲出口天然气的条件"
-    },
-    {
       "title": "Взрыв и пожар произошли на заводе морепродуктов",
       "link": "https://lenta.ru/news/2026/10/26/vzryv-i-pozhar-proizoshli-na-zavode-moreproduktov/",
       "source": "Lenta",
@@ -93,17 +179,6 @@
         "供给↓"
       ],
       "titleZh": "海鲜工厂发生爆炸和火灾"
-    },
-    {
-      "title": "В американском Ньюпорте на заводе морепродуктов начался пожар с утечкой аммиака",
-      "link": "https://iz.ru/2190487/v-ssha-pri-vzryve-na-zavode-pacific-seafood-nachalsia-pozhar-s-utechkoi-ammiaka-izi",
-      "source": "Izvestia",
-      "pubDate": "Mon, 26 Oct 2026 02:46:00 +0300",
-      "summary": "<p>В американском Ньюпорте на рыбоперерабатывающем заводе Pacific Seafood произошли взрыв и пожар, сопровождавшиеся утечкой аммиака. Власти призвали к эвакуации жителей и предприятий в радиусе одной мили, сообщает 25 окт",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "纽波特一家海鲜工厂发生火灾，氨泄漏"
     },
     {
       "title": "Популярный блогер вспомнил ужаснувший его сюжет из «Секса с Анфисой Чеховой»",
@@ -128,17 +203,6 @@
       "titleZh": "揭示了一种意想不到的对抗维生素D缺乏症的方法"
     },
     {
-      "title": "Россияне увеличили покупки товаров повседневного спроса",
-      "link": "https://iz.ru/2190441/2026-10-26/rossiiane-uvelichili-pokupki-tovarov-povsednevnogo-sprosa",
-      "source": "Izvestia",
-      "pubDate": "Mon, 26 Oct 2026 00:20:00 +0300",
-      "summary": "<p>Продажи товаров повседневного спроса в России в январе–августе 2026 года выросли на 10,6% в денежном выражении год к году, причем большую часть прироста обеспечило увеличение физических объемов покупок, следует из дан",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人增加了日常用品的购买"
-    },
-    {
       "title": "Politico: Еврокомиссия пытается покрыть дефицит бюджета Украины",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/25/1239954-evrokomissiya-pitaetsya",
       "source": "Vedomosti",
@@ -159,50 +223,6 @@
         "供给↓"
       ],
       "titleZh": "俄罗斯回应了一个欧洲国家就乌克兰问题进行谈判的提议"
-    },
-    {
-      "title": "В МВД объяснили популярность одного сервиса у мошенников",
-      "link": "https://lenta.ru/news/2026/10/25/v-mvd-ob-yasnili-populyarnost-odnogo-servisa-u-moshennikov/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 16:21:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "内政部解释了一项服务在诈骗者中的受欢迎程度"
-    },
-    {
-      "title": "Число пострадавших после удара ВСУ по российскому заводу увеличилось",
-      "link": "https://lenta.ru/news/2026/10/25/chislo-postradavshih-posle-udara-vsu-po-rossiyskomu-zavodu-uvelichilos/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 16:09:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "APU袭击俄罗斯工厂后的受害者人数增加"
-    },
-    {
-      "title": "В России высказались о полном запрете на продажу вейпов",
-      "link": "https://lenta.ru/news/2026/10/25/v-rossii-vyskazalis-o-polnom-zaprete-na-prodazhu-veypov/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 16:06:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在俄罗斯，他们谈到全面禁止销售电子烟"
-    },
-    {
-      "title": "Развенчан популярный миф про преступников в перчатках",
-      "link": "https://lenta.ru/news/2026/10/25/razvenchan-populyarnyy-mif-pro-prestupnikov-v-perchatkah/",
-      "source": "Lenta",
-      "pubDate": "Sun, 25 Oct 2026 14:24:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "戴手套的罪犯的流行神话已被揭穿"
     },
     {
       "title": "IKEA продлила права на товарный знак IKEA Family в России",
@@ -368,17 +388,6 @@
         "供给↓"
       ],
       "titleZh": "阿克萨科夫： 2027年实现降低关键费率的主要潜力"
-    },
-    {
-      "title": "Песков: поставки дизеля в США будут ритмично продолжаться",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/23/1239595-postavki-dizelya",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 23 Oct 2026 12:43:10 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "金沙：继续有节奏地向美国输送柴油"
     }
   ]
 }
