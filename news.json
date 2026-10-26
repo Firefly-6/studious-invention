@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-25T23:24:04.530Z",
-  "count": 29,
+  "updated": "2026-10-26T01:24:45.209Z",
+  "count": 34,
   "items": [
+    {
+      "title": "СМИ сообщили о падении капитализации крупнейших люксовых брендов на €251 млрд",
+      "link": "https://iz.ru/2190479/smi-soobshhili-o-padenii-kapitalizaczii-krupnejshikh-lyuksovykh-brendov-na-251-mlrd-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 02:32:00 +0300",
+      "summary": "<p>Крупнейшие европейские люксовые группы в 2026 году потеряли около €250 млрд рыночной стоимости. Основными причинами падения стали резкое сокращение расходов китайских потребителей и нестабильность на фондовых рынках. ",
+      "tags": [
+        "需求↑",
+        "供给↓",
+        "价格"
+      ],
+      "titleZh": "据媒体报道，最大的奢侈品牌的市值下降了2510亿欧元"
+    },
     {
       "title": "Банк России снизил курс доллара до 80 рублей",
       "link": "https://www.vedomosti.ru/finance/news/2026/10/23/1239747-bank-rossii-snizil-kurs",
@@ -25,6 +38,72 @@
         "物流"
       ],
       "titleZh": "保留：俄罗斯在电动汽车分销中排名世界第11位"
+    },
+    {
+      "title": "Ученые назвали причину снижения запасов трески в Баренцевом море",
+      "link": "https://ria.ru/20261026/treska-2126959193.html",
+      "source": "RIA",
+      "pubDate": "Mon, 26 Oct 2026 04:07:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "科学家们已经指出了巴伦支海鳕鱼种群减少的原因"
+    },
+    {
+      "title": "Песков сделал заявление о контактах России и Европы по поставкам газа",
+      "link": "https://lenta.ru/news/2026/10/26/peskov-sdelal-zayavlenie-o-vozmozhnosti-kontaktov-rossii-i-evropy-po-postavkam-gaza/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 03:47:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "佩斯科夫就俄罗斯和欧洲在天然气供应方面的联系发表声明"
+    },
+    {
+      "title": "В МИД заявили о востребованности канала связи Россия-НАТО",
+      "link": "https://ria.ru/20261026/svyaz-2126958624.html",
+      "source": "RIA",
+      "pubDate": "Mon, 26 Oct 2026 03:44:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "外交部表示对俄罗斯-北约通信渠道的需求"
+    },
+    {
+      "title": "Песков назвал условия для начала обсуждений по экспорту газа в Европу",
+      "link": "https://iz.ru/2190508/2026-10-26/peskov-nazval-usloviia-dlia-nachala-obsuzhdenii-po-eksportu-gaza-v-evropu",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 03:42:38 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москва</a> готова вести переговоры о поставках газа в европейские страны при условии встречного интереса со стороны Запада и наличия свободных ресурсов. Об этом 26 ок",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "佩斯科夫称，开始讨论向欧洲出口天然气的条件"
+    },
+    {
+      "title": "Взрыв и пожар произошли на заводе морепродуктов",
+      "link": "https://lenta.ru/news/2026/10/26/vzryv-i-pozhar-proizoshli-na-zavode-moreproduktov/",
+      "source": "Lenta",
+      "pubDate": "Mon, 26 Oct 2026 03:13:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "海鲜工厂发生爆炸和火灾"
+    },
+    {
+      "title": "В американском Ньюпорте на заводе морепродуктов начался пожар с утечкой аммиака",
+      "link": "https://iz.ru/2190487/v-ssha-pri-vzryve-na-zavode-pacific-seafood-nachalsia-pozhar-s-utechkoi-ammiaka-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 26 Oct 2026 02:46:00 +0300",
+      "summary": "<p>В американском Ньюпорте на рыбоперерабатывающем заводе Pacific Seafood произошли взрыв и пожар, сопровождавшиеся утечкой аммиака. Власти призвали к эвакуации жителей и предприятий в радиусе одной мили, сообщает 25 окт",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "纽波特一家海鲜工厂发生火灾，氨泄漏"
     },
     {
       "title": "Популярный блогер вспомнил ужаснувший его сюжет из «Секса с Анфисой Чеховой»",
@@ -58,28 +137,6 @@
         "需求↑"
       ],
       "titleZh": "俄罗斯人增加了日常用品的购买"
-    },
-    {
-      "title": "Штучный рост: россияне стали покупать больше, но дешевле",
-      "link": "https://iz.ru/2189553/denis-kuznetcov-evgenii-grachev/rossiyane-stali-pokupat-bolshe-no-deshevle",
-      "source": "Izvestia",
-      "pubDate": "Mon, 26 Oct 2026 00:01:00 +0300",
-      "summary": "Почему рост рынка товаров повседневного спроса стал меньше зависеть от повышения цен",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "人工增长：俄罗斯人开始购买更多，但更便宜"
-    },
-    {
-      "title": "Суд Москвы запретил продажу шприц-ручек для диабетиков через интернет",
-      "link": "https://iz.ru/2190443/2026-10-25/sud-moskvy-zapretil-prodazhu-shpritc-ruchek-dlia-diabetikov-cherez-internet",
-      "source": "Izvestia",
-      "pubDate": "Sun, 25 Oct 2026 23:52:00 +0300",
-      "summary": "<p>Суд в <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> признал запрещенной в России информацию о продаже в интернете шприц-ручек DiaMicroPen для людей с сахарным диабетом. Об этом 25 октября стало известн",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "莫斯科法院禁止通过互联网为糖尿病患者销售注射笔"
     },
     {
       "title": "Politico: Еврокомиссия пытается покрыть дефицит бюджета Украины",
