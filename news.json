@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T13:38:01.106Z",
-  "count": 37,
+  "updated": "2026-10-27T19:00:35.460Z",
+  "count": 45,
   "items": [
     {
       "title": "Bloomberg: ЕС может ограничить импорт китайских товаров в начале 2027 года",
@@ -13,19 +13,31 @@
         "供给↓",
         "中俄贸易"
       ],
-      "titleZh": "彭博社：欧盟可能在2027年初限制中国商品进口"
+      "titleZh": "彭博社：欧盟可能在2027年初限制中国商品的进口"
     },
     {
-      "title": "Мировые цены на нефть перешли к снижению",
-      "link": "https://lenta.ru/news/2026/10/27/mirovye-tseny-na-neft-pereshli-k-snizheniyu/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 14:00:19 +0300",
+      "title": "В Эстонии закончился асфальт из-за перебоев с поставками битума",
+      "link": "https://iz.ru/2191661/2026-10-27/v-estonii-zakonchilsia-asfalt-iz-za-pereboev-s-postavkami-bituma",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 21:43:00 +0300",
+      "summary": "<p>В Эстонии возник дефицит асфальта из-за прекращения поставок битума из Швеции и Литвы. Об этом 27 октября сообщил заместитель мэра Таллина Кристьян Ярван.</p><p>«Мне приходится начать с печальных новостей. А именно: в",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "爱沙尼亚因沥青供应中断而耗尽沥青"
+    },
+    {
+      "title": "Лукашенко предложил возобновить поставки белорусских товаров по советской модели",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/27/1240571-lukashenko-predlozhil",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 27 Oct 2026 17:46:42 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "价格"
+        "需求↑",
+        "供给↓"
       ],
-      "titleZh": "世界石油价格开始下跌"
+      "titleZh": "卢卡申科提议恢复以苏联模式交付白俄罗斯货物"
     },
     {
       "title": "Wildberries запустил сервис аренды складов для маркетплейса",
@@ -37,7 +49,7 @@
         "Wildberries",
         "平台"
       ],
-      "titleZh": "Wildberry 为市场推出仓库租赁服务"
+      "titleZh": "Wildberries推出了针对市场的仓库租赁服务"
     },
     {
       "title": "Чистая прибыль банковского сектора в сентябре снизилась почти на 6%",
@@ -49,7 +61,7 @@
         "供给↓",
         "汇率"
       ],
-      "titleZh": "9月银行业净利润下降近6%"
+      "titleZh": "9月份银行业净利润下降近6%"
     },
     {
       "title": "Wildberries опроверг сообщения о срыве сезона осенних распродаж",
@@ -61,42 +73,249 @@
         "需求↑",
         "Wildberries"
       ],
-      "titleZh": "Wildberry 否认有关秋季销售季节中断的报道"
+      "titleZh": "Wildberries否认有关秋季销售季节中断的报道"
     },
     {
-      "title": "Китай импортировал из России свинины и субпродуктов на $176 млн",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/26/1240070-kitai-importiroval",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 26 Oct 2026 11:29:15 +0300",
+      "title": "Товарооборот России и Мозамбика почти удвоился, заявил Путин",
+      "link": "https://ria.ru/20261027/tovarooborot-2127393541.html",
+      "source": "RIA",
+      "pubDate": "Tue, 27 Oct 2026 21:36:06 +0300",
       "summary": "",
-      "tags": [
-        "供给↓",
-        "中俄贸易"
-      ],
-      "titleZh": "中国从俄罗斯进口价值1.76亿美元的猪肉及内脏"
-    },
-    {
-      "title": "«М.Видео» перезапустило пять пилотных магазинов с товарами маркетплейса",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/26/1239667-mvideo-perezapustila",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "平台"
-      ],
-      "titleZh": "M.Video 重新推出了五家带有市场产品的试点商店"
-    },
-    {
-      "title": "Лукашенко предложил возродить советскую практику снабжения российских регионов",
-      "link": "https://iz.ru/2191466/2026-10-27/lukashenko-predlozhil-vozrodit-sovetskuiu-praktiku-snabzheniia-rossiiskikh-regionov",
-      "source": "Izvestia",
-      "pubDate": "Tue, 27 Oct 2026 16:33:53 +0300",
-      "summary": "<p>Белоруссия может вернуться к действовавшей в СССР практике обеспечения товарами отдельных российских регионов и крупных городов. Об этом 27 октября заявил президент республики Александр Лукашенко на встрече с губернат",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "卢卡申科提议恢复苏联向俄罗斯地区供货的做法"
+      "titleZh": "普京表示，俄罗斯和莫桑比克之间的贸易几乎翻了一番"
+    },
+    {
+      "title": "Коэффициент рождаемости в ЕС в 2024 году упал до исторического минимума",
+      "link": "https://iz.ru/2191666/koeffitcient-rozhdaemosti-v-es-upal-do-istoricheskogo-minimuma-izi",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 21:29:00 +0300",
+      "summary": "<p>Коэффициент рождаемости в Евросоюзе (ЕС) в 2024 году снизился до рекордно низкого уровня с начала ведения доступной статистики — 1,34 рождения на одну женщину. Об этом говорят данные европейского статистического агент",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "2024年欧盟生育率降至历史低点"
+    },
+    {
+      "title": "Украину предупредили о сокращении помощи в пять раз",
+      "link": "https://lenta.ru/news/2026/10/27/ukrainu-predupredili-o-sokraschenii-pomoschi-v-pyat-raz/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 21:18:53 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰警告援助将减少五倍"
+    },
+    {
+      "title": "Участник популярного шоу рассказал о жизни с психическим расстройством и расплакался",
+      "link": "https://lenta.ru/news/2026/10/27/lynx/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 21:15:37 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "流行节目的参与者讲述了他患有精神疾病的生活，泪流满面"
+    },
+    {
+      "title": "В МИД Украины сообщили об осуществимых предложениях по миру с Россией",
+      "link": "https://lenta.ru/news/2026/10/27/v-mid-ukrainy-soobschili-ob-osuschestvimyh-predlozheniya-po-miru-s-rossiey/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 21:12:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰外交部报告了与俄罗斯和平的可行建议"
+    },
+    {
+      "title": "Популярный российский комик рассказал о геморрое",
+      "link": "https://lenta.ru/news/2026/10/27/populyarnyy-rossiyskiy-komik-rasskazal-o-gemorroe/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 20:49:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯流行喜剧演员谈论痔疮"
+    },
+    {
+      "title": "Названы три главных покупателя российской нефти",
+      "link": "https://lenta.ru/news/2026/10/27/nazvany-tri-glavnyh-pokupatelya-rossiyskoy-nefti/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 20:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯石油的三个主要买家被命名为"
+    },
+    {
+      "title": "Россия запретила въезд семи представителям военных заводов Великобритании",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/27/1240607-rossiya-zapretila-vezd",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 27 Oct 2026 20:29:53 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯禁止7名英国军工厂代表入境"
+    },
+    {
+      "title": "В МИД РФ назвали цели британских поставок оружия украинским «головорезам»",
+      "link": "https://iz.ru/2191648/2026-10-27/v-mid-rf-nazvali-tceli-britanskikh-postavok-oruzhiia-ukrainskim-golovorezam",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 20:22:34 +0300",
+      "summary": "<p>Массированные поставки британских ракетно-дроновых вооружений и технологий украинским «головорезам» направлены на нанесение максимального урона России. Об этом 27 октября заявили в МИД РФ.</p><p>«Очевидно, что массиро",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯外交部称英国向乌克兰提供武器的目标是“暴徒”"
+    },
+    {
+      "title": "Звезда «Фабрики» раскрыла причины развода после 17 лет брака",
+      "link": "https://lenta.ru/news/2026/10/27/zvezda-fabriki-raskryla-prichiny-razvoda-posle-17-let-braka/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 20:14:37 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "这位Fabrika明星揭示了结婚17年后离婚的原因"
+    },
+    {
+      "title": "Популярный российский комик предложил перенять у США одну особенность",
+      "link": "https://lenta.ru/news/2026/10/27/populyarnyy-rossiyskiy-komik-predlozhil-perenyat-u-ssha-odnu-osobennost/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 20:04:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位受欢迎的俄罗斯喜剧演员建议采用来自美国的一个功能"
+    },
+    {
+      "title": "Актриса Сьюзан Сент-Джеймс скончалась в возрасте 80 лет",
+      "link": "https://iz.ru/2191631/aktrisa-siuzan-sent-dzheims-skonchalas-v-vozraste-80-let-izi",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 19:38:01 +0300",
+      "summary": "<p>Американская актриса Сьюзан Сент-Джеймс, получившая широкую известность благодаря ролям в популярных сериалах и кинофильмах, скончалась в возрасте 80 лет. Об этом 27 октября сообщил журнал <a href=\"https://people.com/",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "女演员苏珊·圣詹姆斯去世，享年80岁"
+    },
+    {
+      "title": "Видео. Путин заявил о росте товарооборота РФ и Ирана на 10,4% за восемь месяцев",
+      "link": "https://iz.ru/2191625/video/video-putin-zaiavil-o-roste-tovarooborota-rf-i-irana-na-104-za-vosem-mesiatcev",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 19:32:46 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "视频：普京宣布俄罗斯和伊朗之间的贸易在八个月内增长10.4 ％"
+    },
+    {
+      "title": "Путин заявил о росте товарооборота РФ и Ирана на 10,4% за восемь месяцев",
+      "link": "https://iz.ru/2191620/2026-10-27/putin-zaiavil-o-roste-tovarooborota-rf-i-irana-na-104-za-vosem-mesiatcev",
+      "source": "Izvestia",
+      "pubDate": "Tue, 27 Oct 2026 19:26:34 +0300",
+      "summary": "<p>Российско-иранский товарооборот вырос на 10,4% за восемь месяцев текущего года. Об этом 27 октября заявил президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a>.</p> <p>«Хочу от",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "普京宣布俄罗斯和伊朗之间的贸易在八个月内增加10.4 ％"
+    },
+    {
+      "title": "Песков высказался о предложениях европейских лидеров по Украине в разговоре с Путиным",
+      "link": "https://lenta.ru/news/2026/10/27/peskov-vyskazalsya-o-predlozheniyah-evropeyskih-liderov-po-ukraine-v-razgovore-s-putinym/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 19:22:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "佩斯科夫在与普京的对话中谈到了欧洲领导人关于乌克兰的提议"
+    },
+    {
+      "title": "Reuters отозвал сообщение о планах Сербии прекратить экспорт оружия на Украину",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/27/1240577-otozval-soobschenie",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 27 Oct 2026 18:21:33 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "路透社撤回关于塞尔维亚停止向乌克兰出口武器计划的报道"
+    },
+    {
+      "title": "«АвтоВАЗ» добился рекордной выручки от продаж Lada в России",
+      "link": "https://lenta.ru/news/2026/10/27/avtovaz-dobilsya-rekordnoy-vyruchki-ot-prodazh-lada-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 18:06:05 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "AvtoVAZ从俄罗斯的LADA销售中获得创纪录的收入"
+    },
+    {
+      "title": "В России стартовали продажи Lada Granta LPG на пропан-бутане",
+      "link": "https://lenta.ru/news/2026/10/27/v-rossii-startovali-prodazhi-lada-granta-lpg-na-propan-butane/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 17:28:30 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Lada Granta LPG在丙烷丁烷上的销售已在俄罗斯开始"
+    },
+    {
+      "title": "Boeing сократил чистый убыток почти в 11 раз",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/27/1240563-boeing-sokratil",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 27 Oct 2026 17:27:23 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "波音将净亏损减少近11倍"
+    },
+    {
+      "title": "Число жертв ракетного удара ВСУ по заводу в Орле выросло",
+      "link": "https://lenta.ru/news/2026/10/27/chislo-zhertv-raketnogo-udara-vsu-po-zavodu-v-orle-vyroslo/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 17:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "APU导弹袭击Orel工厂的受害者人数增加"
+    },
+    {
+      "title": "НМТП снизил прибыль по МСФО на 10% за девять месяцев",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/27/1240545-nmtp-snizil-pribil",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 27 Oct 2026 16:43:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "NCSP在9个月内将IFRS利润降低了10%"
+    },
+    {
+      "title": "Популярная в 2000-х прическа вернулась в моду",
+      "link": "https://lenta.ru/news/2026/10/27/populyarnaya-v-2000-h-pricheska-vernulas-v-modu/",
+      "source": "Lenta",
+      "pubDate": "Tue, 27 Oct 2026 16:41:50 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在21世纪流行，发型重新流行"
     },
     {
       "title": "В аэропорту «Внуково» ввели ограничения на прием и выпуск самолетов",
@@ -107,40 +326,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "伏努科沃机场对飞机的抵达和释放实行限制"
-    },
-    {
-      "title": "В России понадеялись возобновить продажу газа Европе",
-      "link": "https://lenta.ru/news/2026/10/27/prodaem/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 16:02:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯希望恢复对欧洲的天然气销售"
-    },
-    {
-      "title": "Иммунолог оценил возможность распространения нового вида коронавируса",
-      "link": "https://lenta.ru/news/2026/10/27/immunolog-otsenil-vozmozhnost-rasprostraneniya-novogo-vida-koronavirusa/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 15:59:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "免疫学家评估了传播新型冠状病毒的可能性"
-    },
-    {
-      "title": "Экспорт ключевого игрока на мировом нефтерынке оказался под угрозой из-за атаки хуситов",
-      "link": "https://lenta.ru/news/2026/10/27/eksport-klyuchevogo-igroka-na-mirovom-nefterynke-okazalsya-pod-ugrozoy-iz-za-ataki-husitov/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 14:59:09 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "由于胡塞武装袭击，全球石油市场主要参与者的出口受到威胁"
+      "titleZh": "在“伏努科沃”机场，对飞机的接收和放行实行了限制"
     },
     {
       "title": "Новак: Россия готова продолжать поставки газа в Европу",
@@ -162,51 +348,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：中国液化天然气供应成本高于管道天然气"
-    },
-    {
-      "title": "Российскую антидроновую «Матрешку» приготовили к массовому выпуску",
-      "link": "https://lenta.ru/news/2026/10/27/rossiyskuyu-antidronovuyu-matreshku-prigotovili-k-massovomu-vypusku/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 14:29:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯反无人机“套娃”准备量产"
-    },
-    {
-      "title": "Названа причина роста цен на маркетплейсах",
-      "link": "https://lenta.ru/news/2026/10/27/rost/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 13:55:00 +0300",
-      "summary": "",
-      "tags": [
-        "平台"
-      ],
-      "titleZh": "市场价格上涨的原因已被命名"
-    },
-    {
-      "title": "В Европе выставили на продажу редкий ВАЗ-1922",
-      "link": "https://lenta.ru/news/2026/10/27/v-evrope-vystavili-na-prodazhu-redkiy-vaz-1922/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 13:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "罕见的 VAZ-1922 在欧洲出售"
-    },
-    {
-      "title": "Москвичам рассказали о темпах сокращения светового дня",
-      "link": "https://lenta.ru/news/2026/10/27/moskvicham-rasskazali-o-tempah-sokrascheniya-svetovogo-dnya/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 12:40:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "莫斯科人被告知白天时间减少的速度"
+      "titleZh": "诺瓦克： LNG供应对中国的成本高于管道天然气"
     },
     {
       "title": "Авиакомпании могут сэкономить до $580 млн из-за похудевших пассажиров",
@@ -217,40 +359,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "由于乘客体重减轻，航空公司可节省高达 5.8 亿美元"
-    },
-    {
-      "title": "В Индии подтвердили сокращение закупок российской нефти",
-      "link": "https://lenta.ru/news/2026/10/27/nothing-personal/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 12:18:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "印度确认减少购买俄罗斯石油"
-    },
-    {
-      "title": "Спрос россиян на Абхазию вырос на 65 процентов",
-      "link": "https://lenta.ru/news/2026/10/27/spros-rossiyan-na-abhaziyu-vyros-na-65-protsentov/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 11:42:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯对阿布哈兹的需求增加了65%"
-    },
-    {
-      "title": "В России стартовали продажи внедорожника 212 T10",
-      "link": "https://lenta.ru/news/2026/10/27/v-rossii-startovali-prodazhi-vnedorozhnika-212-t10/",
-      "source": "Lenta",
-      "pubDate": "Tue, 27 Oct 2026 11:14:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "212 T10 SUV 已开始在俄罗斯销售"
+      "titleZh": "由于乘客人数较少，航空公司可以节省高达5.8亿美元"
     },
     {
       "title": "Спрос на белую икру вырос почти на 20% в сравнении с прошлым годом",
@@ -261,7 +370,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "与去年相比，白鱼子酱的需求增加了近20%"
+      "titleZh": "对白鱼子酱的需求比去年增长了近20%"
     },
     {
       "title": "Задержаны более 20 человек за нелегальную миграцию и хищения на оборонзаказе",
@@ -272,7 +381,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "20余人因非法移民、盗窃国防合同被拘留"
+      "titleZh": "20多人因非法移民和盗窃而被拘留"
     },
     {
       "title": "Конгрессмен США пригрозил бизнесу тюрьмой за импорт дизеля из России",
@@ -283,7 +392,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "美国国会议员威胁从俄罗斯进口柴油的企业入狱"
+      "titleZh": "美国国会议员因从俄罗斯进口柴油而威胁企业入狱"
     },
     {
       "title": "Еврокомиссия исключила импорт российского газа даже после мира на Украине",
@@ -294,7 +403,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "即使在乌克兰和平之后，欧盟委员会也排除了进口俄罗斯天然气的可能性"
+      "titleZh": "即使在乌克兰和平之后，欧盟委员会也排除了俄罗斯天然气的进口"
     },
     {
       "title": "Экспорт сельхозтехники вырос на 9,3% с начала 2026 года",
@@ -305,7 +414,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "2026年初以来农业机械出口增长9.3%"
+      "titleZh": "农机出口自2026年初以来增长9.3%"
     },
     {
       "title": "«Студенческий список» пообещал прекратить экспорт оружия в зоны конфликтов",
@@ -327,7 +436,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "外交部：俄联邦正在考虑确保粮食安全供应的建议"
+      "titleZh": "MFA ：俄罗斯考虑提出确保粮食供应安全的建议"
     },
     {
       "title": "Зеленский: Киев почти месяц ждет от США согласия на поставку ракет для Patriot",
@@ -338,7 +447,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "泽伦斯基：基辅已经等待了近一个月美国同意向爱国者提供导弹"
+      "titleZh": "泽连斯基：基辅已经从美国等了将近一个月才同意向爱国者提供导弹"
     },
     {
       "title": "Словакия выступила против запрета ЕС на импорт российского газа",
@@ -349,7 +458,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "斯洛伐克反对欧盟禁止俄罗斯天然气进口"
+      "titleZh": "斯洛伐克反对欧盟禁止进口俄罗斯天然气"
     },
     {
       "title": "Глава «Уралхима»: доля России в импорте удобрений в Африку выросла до 20%",
@@ -360,7 +469,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "乌拉尔化工负责人：俄罗斯在非洲化肥进口中的份额已增至20%"
+      "titleZh": "URALCHEM负责人：俄罗斯在非洲化肥进口中的份额增加到20 ％"
     },
     {
       "title": "«Русолово» отчиталось о рекордных объемах производства олова в концентрате",
@@ -371,7 +480,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Rusolovo 报告精矿锡产量创历史新高"
+      "titleZh": "“Rusolovo”报告了创纪录的精矿锡产量"
     },
     {
       "title": "За III квартал производство никеля у «Норникеля» выросло на 14%",
@@ -382,7 +491,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Nornickel第三季度镍产量增长14%"
+      "titleZh": "第三季度，诺里尔斯克镍公司的镍产量增长了14%"
     },
     {
       "title": "Войска РФ ударили по складам боеприпасов и объектам производства БПЛА ВСУ",
@@ -393,29 +502,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯军队袭击了乌克兰武装部队的弹药库和无人机生产设施"
-    },
-    {
-      "title": "Продажи электрокаров в России снижаются неделя к неделе",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/26/1240103-prodazhi-elektrokarov",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 26 Oct 2026 12:18:43 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯电动汽车销量逐周下降"
-    },
-    {
-      "title": "Прибыль «Фосагро» за девять месяцев сократилась на 67%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/26/1240046-pribil-fosagro",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 26 Oct 2026 10:20:05 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Phosagro 九个月利润下降 67%"
+      "titleZh": "俄罗斯军队袭击了弹药库和无人机生产设施"
     }
   ]
 }
