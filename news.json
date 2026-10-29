@@ -1,9 +1,21 @@
 {
-  "updated": "2026-10-29T15:51:08.356Z",
-  "count": 36,
+  "updated": "2026-10-29T20:43:30.619Z",
+  "count": 37,
   "items": [
     {
-      "title": "Доля инвестиций нерезидентов в ОФЗ в сентября снизилось еще на 20 млрд рублей",
+      "title": "Президент РФ указал на лидерство России в поставках зерна на мировые рынки",
+      "link": "https://iz.ru/2193137/2026-10-29/prezident-rf-ukazal-na-liderstvo-rossii-v-postavkakh-zerna-na-mirovye-rynki",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 20:42:57 +0300",
+      "summary": "<p>Россия еще в начале 2000-х была покупателем зерновых, а теперь занимает первое место в мире по их экспорту. Об этом 29 октября заявил президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владими",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯联邦总统指出俄罗斯在向世界市场供应粮食方面的领导地位"
+    },
+    {
+      "title": "Доля инвестиций нерезидентов в ОФЗ в сентябре снизилась еще на 20 млрд рублей",
       "link": "https://www.vedomosti.ru/investments/news/2026/10/29/1241292-nerezidentov-v-ofz",
       "source": "Vedomosti",
       "pubDate": "Thu, 29 Oct 2026 18:46:04 +0300",
@@ -12,7 +24,7 @@
         "供给↓",
         "汇率"
       ],
-      "titleZh": "9月OFZ非居民投资份额再减少200亿卢布"
+      "titleZh": "9月份非居民在OFZ的投资份额又减少了200亿卢布。"
     },
     {
       "title": "Названы самые популярные причины для обмена валюты в России",
@@ -24,7 +36,7 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "在俄罗斯兑换货币最流行的原因被命名为"
+      "titleZh": "俄罗斯货币兑换最受欢迎的原因是"
     },
     {
       "title": "Автопроизводитель номер один отчитался о падении продаж и производства третий месяц подряд",
@@ -36,19 +48,7 @@
         "需求↑",
         "供给↓"
       ],
-      "titleZh": "这家排名第一的汽车制造商报告销量和产量连续第三个月下降。"
-    },
-    {
-      "title": "Расходы на доставку товаров в России выросли",
-      "link": "https://lenta.ru/news/2026/10/29/rashody-na-dostavku-tovarov-v-rossii-vyrosli/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 15:12:01 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "物流"
-      ],
-      "titleZh": "在俄罗斯运送货物的成本增加"
+      "titleZh": "这家排名第一的汽车制造商连续第三个月报告销售和产量下降"
     },
     {
       "title": "Минфин разместил два выпуска ОФЗ почти на 157 млрд рублей",
@@ -60,18 +60,194 @@
         "供给↓",
         "汇率"
       ],
-      "titleZh": "财政部发行了两期 OFZ，价值近 1570 亿卢布"
+      "titleZh": "财政部以近1570亿卢布的价格发行了两期OFZ"
     },
     {
-      "title": "На Украине экс-чиновника обвинили в закупке некачественных бронежилетов",
-      "link": "https://ria.ru/20261029/ukraina-2127895442.html",
+      "title": "В Днепропетровске начались перебои со светом",
+      "link": "https://ria.ru/20261029/dnepropetrovsk-2127955409.html",
       "source": "RIA",
-      "pubDate": "Thu, 29 Oct 2026 18:46:02 +0300",
+      "pubDate": "Thu, 29 Oct 2026 23:35:44 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "第聂伯罗彼得罗夫斯克开始停电"
+    },
+    {
+      "title": "На форуме Россия — Африка обсудили экспорт медицинских технологий",
+      "link": "https://ria.ru/20261029/forum-2127954342.html",
+      "source": "RIA",
+      "pubDate": "Thu, 29 Oct 2026 23:29:24 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在俄罗斯-非洲论坛上讨论了医疗技术出口"
+    },
+    {
+      "title": "Горсовет Одессы отклонил предложение о моратории на русскоязычный контент",
+      "link": "https://iz.ru/2193216/2026-10-29/gorsovet-odessy-otklonil-predlozhenie-o-moratorii-na-russkoiazychnyi-kontent",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 23:26:21 +0300",
+      "summary": "<p>Одесский городской совет не поддержал введение моратория на русскоязычный контент. Об этом 29 октября сообщает украинские издание «Страна.ua» в Telegram-канале.</p><p>«Одесский горсовет не поддержал введение моратория",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "敖德萨市议会拒绝了暂停俄语内容的提案"
+    },
+    {
+      "title": "Правительство предлагает отменить таможенный сбор на товары интернет-торговли",
+      "link": "https://www.vedomosti.ru/economics/news/2026/10/29/1241317-otmenit-tamozhennii-sbor",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 29 Oct 2026 23:17:20 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "乌克兰一名前官员被指控购买劣质防弹衣"
+      "titleZh": "政府提议取消电商商品关税"
+    },
+    {
+      "title": "ГД в I чтении одобрила учет продаж газа населению при расчете надбавки к НДПИ",
+      "link": "https://iz.ru/2193188/2026-10-29/gd-v-i-chtenii-odobrila-uchet-prodazh-gaza-naseleniiu-pri-raschete-nadbavki-k-ndpi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 22:17:13 +0300",
+      "summary": "<p>Госдума приняла в I чтении поправки в Налоговый кодекс, предусматривающие учет продаж газа населению через сторонних продавцов при расчете надбавки к налогу на добычу полезных ископаемых (НДПИ) для независимых произво",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "国家杜马一读批准在计算矿产开采税附加费时考虑向居民销售天然气"
+    },
+    {
+      "title": "Популярная российская блогерша рассказала о проблемах с алкоголем",
+      "link": "https://lenta.ru/news/2026/10/29/populyarnaya-rossiyskaya-blogersha-rasskazala-o-problemah-s-alkogolem/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 22:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位受欢迎的俄罗斯博主谈到了酒精问题"
+    },
+    {
+      "title": "На Украине спрогнозировали сокращение экономики впервые с 2022 года",
+      "link": "https://lenta.ru/news/2026/10/29/na-ukraine-sprognozirovali-sokraschenie-ekonomiki-vpervye-s-2022-goda/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 21:56:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰经济预计将自2022年以来首次萎缩"
+    },
+    {
+      "title": "Стало известно о готовности России продлить запрет экспорта дизтоплива",
+      "link": "https://lenta.ru/news/2026/10/29/podozhdem/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 21:04:42 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "据了解，俄罗斯准备延长柴油出口禁令"
+    },
+    {
+      "title": "Видео. Президент РФ указал на лидерство России в поставках зерна на мировые рынки",
+      "link": "https://iz.ru/2193148/video/video-prezident-rf-ukazal-na-liderstvo-rossii-v-postavkakh-zerna-na-mirovye-rynki",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 20:54:17 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "视频：俄罗斯联邦总统指出俄罗斯在向世界市场供应粮食方面的领导地位"
+    },
+    {
+      "title": "Путин допустил экспорт столичных медицинских практик за рубеж",
+      "link": "https://iz.ru/2193147/2026-10-29/putin-dopustil-eksport-stolichnykh-meditcinskikh-praktik-za-rubezh",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 20:52:18 +0300",
+      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> 29 октября заявил, что наработанный опыт московского здравоохранения можно предлагать для экспорта в другие государства.</",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京允许将首都的医疗实践出口到国外"
+    },
+    {
+      "title": "Путин указал на возможность африканской деревни торговать с РФ через маркетплейсы",
+      "link": "https://iz.ru/2193142/2026-10-29/putin-ukazal-na-vozmozhnost-afrikanskoi-derevni-torgovat-s-rf-cherez-marketpleisy",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 20:51:09 +0300",
+      "summary": "<p>Отечественные маркетплейсы работают настолько хорошо, что любой производитель даже из африканской деревушки сможет торговать с россиянами. Об этом 29 октября сообщил президент РФ <a href=\"https://iz.ru/tag/vladimir-pu",
+      "tags": [
+        "平台"
+      ],
+      "titleZh": "普京指出，非洲村庄有可能通过市场与俄罗斯联邦进行贸易"
+    },
+    {
+      "title": "Путин задал экономический вектор форума «Россия – Африка»",
+      "link": "https://iz.ru/2193138/2026-10-29/putin-zadal-ekonomicheskii-vektor-foruma-rossiia-afrika",
+      "source": "Izvestia",
+      "pubDate": "Thu, 29 Oct 2026 20:45:05 +0300",
+      "summary": "<p>Россия готова переносить некоторые производства в Африку. Об этом заявил сегодня президент РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a>. О том, что у сотрудничества нет границ, — в ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "普京设定俄非论坛经济载体"
+    },
+    {
+      "title": "Минфин сдал назад в вопросе новых сборов с товаров интернет-торговли",
+      "link": "https://lenta.ru/news/2026/10/29/poka-otlozhim/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 20:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "财政部对网上交易商品新收费问题做出让步"
+    },
+    {
+      "title": "Путин назвал товарооборот России и Африки в $27 млрд «лишь началом пути»",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/29/1241321-tovarooborot-rossii-i-afriki",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 29 Oct 2026 20:21:21 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "普京称俄罗斯与非洲之间270亿美元的贸易额“只是旅程的开始”"
+    },
+    {
+      "title": "Популярный российский блогер объяснил отказ переехать в США",
+      "link": "https://lenta.ru/news/2026/10/29/populyarnyy-rossiyskiy-bloger-ob-yasnil-otkaz-pereehat-v-ssha/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 19:22:35 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位受欢迎的俄罗斯博主解释了拒绝移居美国的原因"
+    },
+    {
+      "title": "Кислицына: мастер-планирование нужно распространить на все регионы России",
+      "link": "https://www.vedomosti.ru/realty/news/2026/10/29/1241304-master-planirovanie-vo-vseh-regionah",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 29 Oct 2026 19:22:29 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "基斯利齐纳：总体规划需要扩展到俄罗斯所有地区"
+    },
+    {
+      "title": "В России возобновились продажи кроссоверов Skoda",
+      "link": "https://lenta.ru/news/2026/10/29/v-rossii-vozobnovilis-prodazhi-krossoverov-skoda/",
+      "source": "Lenta",
+      "pubDate": "Thu, 29 Oct 2026 19:04:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "斯柯达跨界车在俄罗斯恢复销售"
     },
     {
       "title": "ЕЦБ ожидает сохранения инфляции в еврозоне значительно выше 2%",
@@ -83,50 +259,6 @@
         "OZON"
       ],
       "titleZh": "欧洲央行预计欧元区通胀率将维持在2%以上"
-    },
-    {
-      "title": "Почти 3 тыс. т цитрусовых ввезли в Красноярский край за два месяца",
-      "link": "https://iz.ru/2193026/2026-10-29/pochti-3-tys-tonn-tcitrusovykh-vvezli-v-krasnoiarskii-krai-za-dva-mesiatca",
-      "source": "Izvestia",
-      "pubDate": "Thu, 29 Oct 2026 18:26:14 +0300",
-      "summary": "<p>Почти 3 тыс. т цитрусовых ввезли в Красноярский край за последние два месяца. Всю продукцию допустили к продаже, сообщает пресс-служба регионального управления Россельхознадзора.</p><p>Речь идет о 340 партиях лимонов,",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "两个月内克拉斯诺亚尔斯克边疆区进口了近3000吨柑橘类水果"
-    },
-    {
-      "title": "В Госдуме назвали поставки оружия Украине безответственной игрой",
-      "link": "https://ria.ru/20261029/ukraina-2127891062.html",
-      "source": "RIA",
-      "pubDate": "Thu, 29 Oct 2026 18:25:57 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "国家杜马称向乌克兰提供武器是不负责任的游戏"
-    },
-    {
-      "title": "ВС РФ поразили доставлявший в порт Одессы грузы для ВСУ сухогруз",
-      "link": "https://iz.ru/2193008/2026-10-29/vs-rf-porazili-dostavliavshii-v-port-odessa-gruzy-dlia-vsu-sukhogruz",
-      "source": "Izvestia",
-      "pubDate": "Thu, 29 Oct 2026 18:06:54 +0300",
-      "summary": "<p>Российскими войсками был поражен сухогруз, перевозивший в порт Одессы военные грузы и товары двойного назначения для нужд Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ). Об этом ",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯武装部队击中了一艘为乌克兰武装部队向敖德萨港运送货物的干货船"
-    },
-    {
-      "title": "Власти Афганистана заявили о борьбе с опием на фоне роста его производства",
-      "link": "https://iz.ru/2192946/2026-10-29/vlasti-afganistana-zaiavili-o-borbe-s-opiem-na-fone-rosta-ego-proizvodstva",
-      "source": "Izvestia",
-      "pubDate": "Thu, 29 Oct 2026 17:49:41 +0300",
-      "summary": "<p>Власти Афганистана продолжают масштабную борьбу с производством опия, запрещенным в стране с 2022 года. За 2026 год силовые структуры провели более 25 тыс. антинаркотических операций, уничтожили тысячи гектаров запрещ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "阿富汗当局因鸦片产量增加而宣布打击鸦片"
     },
     {
       "title": "Популярные российские тиктокеры объявили о разводе",
@@ -162,61 +294,6 @@
       "titleZh": "俄罗斯工厂将开始组装旗舰Voyah"
     },
     {
-      "title": "Три популярных кроссовера не прошли краш-тест IIHS",
-      "link": "https://lenta.ru/news/2026/10/29/tri-populyarnyh-krossovera-ne-proshli-krash-test-iihs/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 15:40:43 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "三款热门跨界车未能通过 IIHS 碰撞测试"
-    },
-    {
-      "title": "Раскрыты наиболее распространенные причины детского храпа",
-      "link": "https://lenta.ru/news/2026/10/29/raskryty-naibolee-rasprostranennye-prichiny-detskogo-hrapa/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 15:30:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "儿童打鼾的最常见原因揭晓"
-    },
-    {
-      "title": "Российский бизнес ускорил закупки IT-услуг за рубежом",
-      "link": "https://lenta.ru/news/2026/10/29/vzlet/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯企业加速海外IT服务采购"
-    },
-    {
-      "title": "Продавцов квартир отговорили от снижения цен",
-      "link": "https://lenta.ru/news/2026/10/29/prodavtsov-kvartir-otgovorili-ot-snizheniya-tsen/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 14:57:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "公寓卖家被劝阻降价"
-    },
-    {
-      "title": "Популярную у россиян рыбу стали активно вывозить за рубеж",
-      "link": "https://lenta.ru/news/2026/10/29/rossiya-zarabotala-na-postavkah-ryby-v-yaponiyu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 14:41:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "这种深受俄罗斯人喜爱的鱼类开始积极出口到国外。"
-    },
-    {
       "title": "«Фосагро» планирует на треть увеличить поставки удобрений в Африку",
       "link": "https://www.vedomosti.ru/business/news/2026/10/29/1241162-fosagro-planiruet-uvelichit",
       "source": "Vedomosti",
@@ -225,18 +302,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Phosagro 计划将非洲化肥供应量增加三分之一"
-    },
-    {
-      "title": "В Сети распространились фейковые заявления глав ФСБ и ФАС о сделке с США",
-      "link": "https://lenta.ru/news/2026/10/29/v-seti-rasprostranilis-feykovye-zayavleniya-glav-fsb-fas-i-genshtaba-o-sdelke-s-ssha/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 13:56:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "FSB 和 FAS 负责人关于与美国达成协议的虚假声明在网上传播"
+      "titleZh": "PhosAgro计划将非洲的化肥供应量增加三分之一"
     },
     {
       "title": "Экспорт российских лекарств в Африку вырос на 28% за восемь месяцев",
@@ -258,7 +324,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "Yandex 获得了 31 个媒体门面的访问权限来销售广告"
+      "titleZh": "Yandex获得了31个媒体立面的访问权限，用于广告销售"
     },
     {
       "title": "ВСС предложил сократить проверки бизнеса за счет страхования ответственности",
@@ -291,7 +357,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "普京：俄罗斯与非洲贸易额增长一倍半"
+      "titleZh": "普京：俄非贸易额增长1.5倍"
     },
     {
       "title": "Чистая прибыль Fix Price за девять месяцев снизилась на 24,2% год к году",
@@ -302,7 +368,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "9个月固定价格净利润同比下降24.2%"
+      "titleZh": "Fix Price九个月净利润同比下降24.2%"
     },
     {
       "title": "Чистая прибыль X5 за девять месяцев снизилась на 16,5%",
@@ -335,7 +401,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯家禽养殖场鸡蛋产量增至307亿只"
+      "titleZh": "俄罗斯家禽养殖场将鸡蛋产量提高到307亿个"
     },
     {
       "title": "Эфиопия получила первые истребители Су-35 и заказала системы С-400",
@@ -347,61 +413,6 @@
         "需求↑"
       ],
       "titleZh": "埃塞俄比亚接收第一架Su-35战斗机并订购S-400系统"
-    },
-    {
-      "title": "Инфляционные ожидания населения снизились до 13,2%",
-      "link": "https://www.vedomosti.ru/finance/news/2026/10/28/1240835-inflyatsionnie-ozhidaniya",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 16:10:55 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "民众通胀预期降至13.2%"
-    },
-    {
-      "title": "Путин: РФ планирует локализовать производство лекарств и вакцин в Африке",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/28/1240818-putin-planiruet",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 14:56:38 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京：俄罗斯计划在非洲实现药品和疫苗生产本地化"
-    },
-    {
-      "title": "Поставки агропродукции из Африки в Россию составили около 4 млрд долларов в 2026",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/28/1240814-postavki-agroproduktsii",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 14:50:12 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "2026年非洲对俄罗斯农产品供应额约40亿美元"
-    },
-    {
-      "title": "РФ экспортировала в Африку 13 млн тонн агропродукции с начала года",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/28/1240809-rf-eksportirovala",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 14:34:23 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "年初以来俄罗斯联邦已向非洲出口农产品1300万吨"
-    },
-    {
-      "title": "Путин допустил рост товарооборота России и Африки выше $50 млрд",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/28/1240806-rost-tovarooborota",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 14:33:37 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京允许俄罗斯和非洲之间的贸易额增长到500亿美元以上"
     }
   ]
 }
