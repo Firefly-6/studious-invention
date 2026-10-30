@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T06:06:44.075Z",
-  "count": 30,
+  "updated": "2026-10-30T12:44:12.430Z",
+  "count": 40,
   "items": [
+    {
+      "title": "Минфин не обсуждает льготы для «Яндекса» по примеру Ozon и Wildberries",
+      "link": "https://www.vedomosti.ru/economics/news/2026/10/30/1241444-minfin-ne-lgoti",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 11:25:13 +0300",
+      "summary": "",
+      "tags": [
+        "OZON",
+        "Wildberries"
+      ],
+      "titleZh": "财政部没有效仿 Ozon 和 Wildberry 讨论 Yandex 的利益"
+    },
     {
       "title": "Доля инвестиций нерезидентов в ОФЗ в сентябре снизилась еще на 20 млрд рублей",
       "link": "https://www.vedomosti.ru/investments/news/2026/10/29/1241292-nerezidentov-v-ofz",
@@ -15,48 +27,279 @@
       "titleZh": "9月份OFZ的非居民投资份额再减少200亿卢布"
     },
     {
-      "title": "Во Владивостоке на бывшем заводе Mazda запустили производство телевизоров",
-      "link": "https://iz.ru/2193354/2026-10-30/vo-vladivostoke-na-byvshem-zavode-mazda-zapustili-proizvodstvo-televizorov",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 08:30:10 +0300",
-      "summary": "<p class=\"news-site--common-blockblock-3u\">Во Владивостоке на территории бывшего завода автомобильных двигателей Mazda запущено производство телевизоров Smart TV с объемом выпуска до 600 тыс. приборов в год. Об этом 30 о",
+      "title": "Правительство планирует продлить запрет на экспорт дизтоплива",
+      "link": "https://ria.ru/20261030/toplivo-2128130773.html",
+      "source": "RIA",
+      "pubDate": "Fri, 30 Oct 2026 15:38:31 +0300",
+      "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "在符拉迪沃斯托克，电视制作在前马自达工厂启动"
+      "titleZh": "政府计划延长柴油出口禁令"
     },
     {
-      "title": "Фармэксперт посоветовала не покупать витамины без анализа рациона",
-      "link": "https://iz.ru/2191980/2026-10-30/farmekspert-posovetovala-ne-pokupat-vitaminy-bez-analiza-ratciona",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0300",
-      "summary": "<p>Разнообразное питание позволяет получать большую часть необходимых витаминов, но утверждать, что одной еды хватит любому человеку, нельзя — всё зависит от рациона, состояния здоровья и усвоения веществ. Об этом 30 окт",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医药专家建议在没有分析你的饮食之前不要购买维生素"
-    },
-    {
-      "title": "В России заметно упал вылов популярных видов рыб",
-      "link": "https://lenta.ru/news/2026/10/30/v-rossii-zametno-upal-vylov-populyarnyh-vidov-ryb/",
+      "title": "В Киеве оценили предложение провести телефонный разговор Путина с Зеленским",
+      "link": "https://lenta.ru/news/2026/10/30/v-kieve-otsenili-predlozhenie-provesti-telefonnyy-razgovor-putina-s-zelenskim/",
       "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 07:59:44 +0300",
+      "pubDate": "Fri, 30 Oct 2026 15:37:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "基辅赞赏普京与泽伦斯基进行电话交谈的提议"
+    },
+    {
+      "title": "В Испании пять человек пострадали при взрыве на заводе боеприпасов",
+      "link": "https://ria.ru/20261030/granada-2128128462.html",
+      "source": "RIA",
+      "pubDate": "Fri, 30 Oct 2026 15:33:23 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "西班牙一家军工厂发生爆炸，造成五人受伤。"
+    },
+    {
+      "title": "Оценена вероятность снижения ключевой ставки в 2026 году",
+      "link": "https://lenta.ru/news/2026/10/30/otsenena-veroyatnost-snizheniya-klyuchevoy-stavki-v-2026-godu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 15:33:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "已评估 2026 年关键降息的可能性"
+    },
+    {
+      "title": "Российская авиакомпания запустила распродажу билетов в Турцию",
+      "link": "https://lenta.ru/news/2026/10/30/rossiyskaya-aviakompaniya-zapustila-rasprodazhu-na-bilety-v-turtsiyu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 15:14:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "在俄罗斯，受欢迎鱼类的捕获量大幅下降"
+      "titleZh": "俄罗斯航空公司已开始销售飞往土耳其的机票"
     },
     {
-      "title": "Популярный совет по стирке одежды оказался бесполезным",
-      "link": "https://lenta.ru/news/2026/10/30/stirka/",
+      "title": "На бывшем заводе Mazda в России начали собирать телевизоры",
+      "link": "https://lenta.ru/news/2026/10/30/na-byvshem-zavode-mazda-v-rossii-nachali-sobirat-televizory/",
       "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 07:33:21 +0300",
+      "pubDate": "Fri, 30 Oct 2026 14:57:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "电视开始在俄罗斯前马自达工厂组装"
+    },
+    {
+      "title": "Экспорт российской пшеницы за четыре месяца может составить 10,3 млн тонн",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/30/1241564-eksport-rossiiskoi",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 14:42:33 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯小麦出口量将在四个月内达到1030万吨"
+    },
+    {
+      "title": "Судан передал США документы о поставках оружия с Украины",
+      "link": "https://lenta.ru/news/2026/10/30/sudan-peredal-ssha-dokumenty-o-postavkah-oruzhiya-s-ukrainy/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "苏丹向美国移交有关乌克兰武器供应的文件"
+    },
+    {
+      "title": "На заводе боеприпасов в Испании прогремел мощный взрыв",
+      "link": "https://lenta.ru/news/2026/10/30/na-zavode-boepripasov-v-ispanii-progremel-moschnyy-vzryv/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 13:43:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "西班牙一家弹药厂发生强烈爆炸"
+    },
+    {
+      "title": "Эффект от удара по собирающему БПЛА большой дальности заводу на Украине оценили",
+      "link": "https://lenta.ru/news/2026/10/30/effekt-ot-udara-po-sobirayuschemu-bpla-bolshoy-dalnosti-zavodu-na-ukraine-otsenili/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 13:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "评估了乌克兰远程无人机装配厂遭受袭击的影响"
+    },
+    {
+      "title": "Врач опроверг популярное заблуждение о норме белка",
+      "link": "https://lenta.ru/news/2026/10/30/vrach-oproverg-populyarnoe-zabluzhdenie-o-norme-belka/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 13:32:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "流行的洗衣服建议其实毫无用处"
+      "titleZh": "医生驳斥了人们对蛋白质水平的普遍误解"
+    },
+    {
+      "title": "Мать расспросила дочь о расправе над дедушкой и бабушкой в российском суде",
+      "link": "https://lenta.ru/news/2026/10/30/mat-rassprosila-doch-o-rasprave-nad-dedushkoy-i-babushkoy-v-rossiyskom-sude/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 13:28:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "母亲向女儿询问祖父母在俄罗斯法庭被屠杀的情况"
+    },
+    {
+      "title": "Китайцы захватили европейский рынок гробов",
+      "link": "https://lenta.ru/news/2026/10/30/grob/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 12:50:00 +0300",
+      "summary": "",
+      "tags": [
+        "中俄贸易"
+      ],
+      "titleZh": "中国人占领了欧洲棺材市场"
+    },
+    {
+      "title": "В России взлетел спрос на один вид машин",
+      "link": "https://lenta.ru/news/2026/10/30/v-rossii-vzletel-spros-na-odin-vid-mashin/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 12:43:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯对一种汽车的需求猛增"
+    },
+    {
+      "title": "Прибыль «Полюса» за девять месяцев по РСБУ снизилась на 14%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241487-pribil-polyusa",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 12:40:59 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "根据 RAS，Polyus 九个月的利润下降了 14%"
+    },
+    {
+      "title": "Россия обсуждает создание семенного завода в Египте для экспорта в Африку",
+      "link": "https://www.vedomosti.ru/business/news/2026/10/30/1241488-rossiya-obsuzhdaet",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 12:30:38 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯正在讨论在埃及建立种子厂以出口到非洲"
+    },
+    {
+      "title": "Чистая прибыль «Ленты» в III квартале сократилась на 29,8%",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241463-pribil-lenti",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 12:10:04 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "Lenta第三季度净利润下降29.8%"
+    },
+    {
+      "title": "МГКЛ допустила технический дефолт по выпуску облигаций",
+      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241452-mgkl-dopustila-defolt",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 11:51:02 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "MGKL 在债券发行上犯了技术性违约"
+    },
+    {
+      "title": "Россиянам назвали самые востребованные профессии в автосервисах",
+      "link": "https://lenta.ru/news/2026/10/30/rossiyanam-nazvali-samye-vostrebovannye-professii-v-avtoservisah/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 11:14:09 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人评选最受欢迎的汽车服务职业"
+    },
+    {
+      "title": "Rapporteur: разобщенность ЕС затрудняет наращивание выпуска боеприпасов",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/30/1241441-es-zatrudnyaet",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 11:12:03 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "报告员：欧盟不团结导致弹药生产难以增加"
+    },
+    {
+      "title": "Названы самые популярные автобренды в России",
+      "link": "https://lenta.ru/news/2026/10/30/nazvany-samye-populyarnye-avtobrendy-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 11:07:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯最受欢迎的汽车品牌已被评选"
+    },
+    {
+      "title": "В России начались продажи семейных кроссоверов Toyota",
+      "link": "https://lenta.ru/news/2026/10/30/v-rossii-nachalis-prodazhi-semeynyh-krossoverov-toyota/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 11:03:28 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "丰田家族跨界车已开始在俄罗斯销售"
+    },
+    {
+      "title": "У популярного продукта обнаружили защитные свойства для сосудов",
+      "link": "https://lenta.ru/news/2026/10/30/u-populyarnogo-produkta-obnaruzhili-zaschitnye-svoystva-dlya-sosudov/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 11:01:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一种受欢迎的产品被发现具有血管保护特性"
+    },
+    {
+      "title": "В российском городе выставили на продажу машину Lada с японским «автоматом»",
+      "link": "https://lenta.ru/news/2026/10/30/v-rossiyskom-gorode-vystavili-na-prodazhu-mashinu-lada-s-yaponskim-avtomatom/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 10:54:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一辆配备日本自动变速箱的拉达汽车在俄罗斯一座城市出售。"
+    },
+    {
+      "title": "Армия России ударила по ракетному заводу и цехам БПЛА на Украине",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/30/1241415-udarila-po-zavodu",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 10:00:05 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄军袭击乌克兰导弹工厂和无人机车间"
     },
     {
       "title": "Турция нарастила поставки рыбы в Россию до рекорда",
@@ -70,72 +313,6 @@
       "titleZh": "土耳其对俄罗斯的鱼类供应量创历史新高"
     },
     {
-      "title": "В трех московских аэропортах ограничили прием и выпуск рейсов",
-      "link": "https://iz.ru/2193326/2026-10-30/v-trekh-moskovskikh-aeroportakh-ogranichili-priem-i-vypusk-reisov",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 06:32:08 +0300",
-      "summary": "<p>В московских аэропортах Внуково, Домодедово и Жуковский ввели временные ограничения на прием и выпуск самолетов. Об этом 30 октября сообщила пресс-служба Росавиации.</p><p>«Аэропорты Внуково. Домодедово. Жуковский (Ра",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "莫斯科三个机场限制航班进出"
-    },
-    {
-      "title": "Турция в полтора раза увеличила поставки рыбы в Россию",
-      "link": "https://iz.ru/2193320/2026-10-30/turtciia-v-poltora-raza-uvelichila-postavki-ryby-v-rossiiu",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 06:18:19 +0300",
-      "summary": "<p>В сентябре <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турция</a> поставила в Россию рыбу на рекордные $72,6 млн. Это в полтора раза больше, чем за тот же месяц прошлого года, и на 34% превышает показатель ав",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "土耳其对俄罗斯的鱼类供应量增加了一倍半"
-    },
-    {
-      "title": "Госдума одобрила расширение прогрессивной шкалы НДФЛ на доходы по вкладам",
-      "link": "https://iz.ru/2193322/2026-10-30/gosduma-odobrila-rasshirenie-progressivnoi-shkaly-ndfl-na-dokhody-po-vkladam",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 05:54:23 +0300",
-      "summary": "<p>Государственная дума приняла в I чтении проект федерального бюджета на 2027–2029 годы, документ предусматривает распространение пятиступенчатой шкалы налога на доходы физических лиц на пассивные поступления, в том чис",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "国家杜马批准扩大存款收入累进个人所得税规模"
-    },
-    {
-      "title": "Аналитик допустил серьезное снижение доллара",
-      "link": "https://lenta.ru/news/2026/10/30/analitik-dopustil-serieznoe-snizhenie-dollara/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 05:29:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "分析师承认美元严重下跌"
-    },
-    {
-      "title": "Пассажирка самолета давилась предложенной на борту едой по неожиданной причине",
-      "link": "https://lenta.ru/news/2026/10/30/passazhirka-samoleta-davilas-predlozhennoy-na-bortu-edoy-po-neozhidannoy-prichine/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 04:00:23 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "一名飞机乘客因意外原因被机上提供的食物噎住"
-    },
-    {
-      "title": "Спецпредставитель Путина заявил о беспомощности ЕС без российских энергоресурсов",
-      "link": "https://lenta.ru/news/2026/10/30/spetspredstavitel-putina-zayavil-o-bespomoschnosti-es-bez-rossiyskih-energoresursov/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 03:48:27 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京特别代表称，没有俄罗斯能源，欧盟将无能为力"
-    },
-    {
       "title": "Правительство предлагает отменить таможенный сбор на товары интернет-торговли",
       "link": "https://www.vedomosti.ru/economics/news/2026/10/29/1241317-otmenit-tamozhennii-sbor",
       "source": "Vedomosti",
@@ -145,50 +322,6 @@
         "需求↑"
       ],
       "titleZh": "政府提议取消电商商品关税"
-    },
-    {
-      "title": "Популярная российская блогерша рассказала о проблемах с алкоголем",
-      "link": "https://lenta.ru/news/2026/10/29/populyarnaya-rossiyskaya-blogersha-rasskazala-o-problemah-s-alkogolem/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 22:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位受欢迎的俄罗斯博主谈到了酒精问题"
-    },
-    {
-      "title": "На Украине спрогнозировали сокращение экономики впервые с 2022 года",
-      "link": "https://lenta.ru/news/2026/10/29/na-ukraine-sprognozirovali-sokraschenie-ekonomiki-vpervye-s-2022-goda/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 21:56:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌克兰经济预计将出现 2022 年以来首次萎缩"
-    },
-    {
-      "title": "Стало известно о готовности России продлить запрет экспорта дизтоплива",
-      "link": "https://lenta.ru/news/2026/10/29/podozhdem/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 21:04:42 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "据了解，俄罗斯准备延长柴油出口禁令"
-    },
-    {
-      "title": "Минфин сдал назад в вопросе новых сборов с товаров интернет-торговли",
-      "link": "https://lenta.ru/news/2026/10/29/poka-otlozhim/",
-      "source": "Lenta",
-      "pubDate": "Thu, 29 Oct 2026 20:23:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "财政部对网上交易商品新收费问题做出让步"
     },
     {
       "title": "Путин назвал товарооборот России и Африки в $27 млрд «лишь началом пути»",
@@ -310,28 +443,6 @@
         "供给↓"
       ],
       "titleZh": "X5九个月净利润下降16.5%"
-    },
-    {
-      "title": "«Автостат»: продажи подержанных люксовых автомобилей упали на 5%",
-      "link": "https://www.vedomosti.ru/auto/news/2026/10/28/1240947-prodazhi-poderzhannih-lyuksovih-avtomobilei",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 21:15:34 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Autostat：二手豪华车销量下降5%"
-    },
-    {
-      "title": "Российские птицефабрики нарастили выпуск яиц до 30,7 млрд штук",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/28/1240926-vipusk-yaits",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 28 Oct 2026 19:42:56 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯家禽养殖场鸡蛋产量增至307亿只"
     }
   ]
 }
