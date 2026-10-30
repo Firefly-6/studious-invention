@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-30T18:16:32.917Z",
-  "count": 34,
+  "updated": "2026-10-30T22:25:23.722Z",
+  "count": 32,
   "items": [
-    {
-      "title": "Эксперт положительно оценила индексацию стоимости платных парковок в Москве",
-      "link": "https://iz.ru/2193766/2026-10-30/ekspert-polozhitelno-otcenila-indeksatciiu-stoimosti-platnykh-parkovok-v-moskve",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 20:50:00 +0300",
-      "summary": "<p>Изменение тарифов на парковку — это эффективный инструмент управления дефицитным городским пространством, заявила председатель комиссии Мосгордумы по транспорту и развитию дорожно-транспортной инфраструктуры Сабина Цв",
-      "tags": [
-        "需求↑",
-        "价格",
-        "物流"
-      ],
-      "titleZh": "专家积极评估了莫斯科付费停车成本的指数化"
-    },
     {
       "title": "Минфин не обсуждает льготы для «Яндекса» по примеру Ozon и Wildberries",
       "link": "https://www.vedomosti.ru/economics/news/2026/10/30/1241444-minfin-ne-lgoti",
@@ -25,7 +12,7 @@
         "OZON",
         "Wildberries"
       ],
-      "titleZh": "财政部不以臭氧和野莓为例讨论Yandex的好处"
+      "titleZh": "财政部没有效仿 Ozon 和 Wildberry 讨论 Yandex 的利益"
     },
     {
       "title": "Доля инвестиций нерезидентов в ОФЗ в сентябре снизилась еще на 20 млрд рублей",
@@ -40,6 +27,94 @@
       "titleZh": "9月份非居民在OFZ的投资份额又减少了200亿卢布。"
     },
     {
+      "title": "В Киеве наблюдаются перебои с водоснабжением",
+      "link": "https://ria.ru/20261031/kiev-2128249498.html",
+      "source": "RIA",
+      "pubDate": "Sat, 31 Oct 2026 01:11:25 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "基辅供水中断"
+    },
+    {
+      "title": "Ценная информация: с кем автоконцерны будут делиться данными для ремонта",
+      "link": "https://iz.ru/2193800/kirill-sazonov/tcennaia-informatciia-s-kem-avtokontcerny-budut-delitsia-dannymi-dlia-remonta",
+      "source": "Izvestia",
+      "pubDate": "Sat, 31 Oct 2026 00:02:00 +0300",
+      "summary": "Дилеры и автосервисы обсуждают поправки в закон «О защите прав потребителей»",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "有价值的信息：汽车制造商将与谁共享维修数据？"
+    },
+    {
+      "title": "Ударить по кошелькам: как Binance покроет потери от крупнейшего криптовзлома",
+      "link": "https://iz.ru/2193832/milana-gadzhieva/kak-binance-pokroet-poteri-ot-krupneishego-kriptovzloma",
+      "source": "Izvestia",
+      "pubDate": "Sat, 31 Oct 2026 00:01:00 +0300",
+      "summary": "Хватит ли бирже денег и распространяются ли гарантии на российских клиентов",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "打击钱包：币安将如何弥补最大的加密黑客造成的损失"
+    },
+    {
+      "title": "В российском регионе запретят розничную продажу вейпов на пять лет",
+      "link": "https://lenta.ru/news/2026/10/31/v-rossiyskom-regione-zapretyat-roznichnuyu-prodazhu-veypov-na-pyat-let/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 23:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯地区五年内禁止电子烟零售"
+    },
+    {
+      "title": "Госдеп одобрил потенциальную продажу Украине ракет для ЗРК Patriot на $2,1 млрд",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/30/1241702-gosdep-odobril-prodazhu",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 22:48:45 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "美国国务院批准向乌克兰出售价值 21 亿美元的爱国者导弹"
+    },
+    {
+      "title": "США одобрили продажу Украине 500 ракет Patriot",
+      "link": "https://lenta.ru/news/2026/10/30/ssha-odobrili-prodazhu-ukraine-500-raket-patriot/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 22:17:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "美国批准向乌克兰出售500枚爱国者导弹"
+    },
+    {
+      "title": "На заводе боеприпасов в Испании произошел взрыв",
+      "link": "https://www.vedomosti.ru/politics/news/2026/10/30/1241700-na-zavode-vzriv",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 30 Oct 2026 22:14:11 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "西班牙一家弹药厂发生爆炸"
+    },
+    {
+      "title": "Врач раскрыл неочевидные симптомы нехватки витамина D",
+      "link": "https://lenta.ru/news/2026/10/30/vrach-raskryl-neochevidnye-simptomy-nehvatki-vitamina-d/",
+      "source": "Lenta",
+      "pubDate": "Fri, 30 Oct 2026 22:04:04 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "医生揭示维生素D缺乏症的明显症状"
+    },
+    {
       "title": "Индекс Nasdaq-100 упал на 3% на фоне распродажи акций технологических компаний",
       "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241674-nasdaq-100-upal",
       "source": "Vedomosti",
@@ -49,17 +124,6 @@
         "需求↑"
       ],
       "titleZh": "由于科技股遭到抛售，纳斯达克 100 指数下跌 3%。"
-    },
-    {
-      "title": "Ушаков указал на непослушание Украины Трампу по ударам по НПЗ",
-      "link": "https://iz.ru/2193874/2026-10-30/ushakov-ukazal-na-neposlushanie-ukrainy-ukazaniiam-ssha-po-udaram-po-npz",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 19:12:03 +0300",
-      "summary": "<p><a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украина</a> неоднократно игнорировала указания <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">США</a> не атаковать российские нефтеперерабатывающие заводы. Об э",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌沙科夫指出乌克兰在袭击炼油厂问题上不服从特朗普"
     },
     {
       "title": "В США оценили продажу Эфиопии российских Су-35С и С-400",
@@ -82,28 +146,6 @@
         "需求↑"
       ],
       "titleZh": "俄罗斯人说出了在出售前贷款的原因"
-    },
-    {
-      "title": "Новак рассказал о новых поставках дизеля в США в ноябре 2026 года",
-      "link": "https://iz.ru/2193836/2026-10-30/novak-rasskazal-o-novykh-postavkakh-dizelia-v-ssha-v-noiabre-2026-goda",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 18:23:23 +0300",
-      "summary": "<p>Вице-премьер России Александр Новак 30 октября в беседе с «Известиями» не исключил новых поставок дизельного топлива в <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a>.</p> <p>«Сейчас мы готовим на ноябрь меся",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "诺瓦克谈到了2026年11月向美国交付的新柴油"
-    },
-    {
-      "title": "Новак о запланированных объёмах экспорта дизеля",
-      "link": "https://iz.ru/2193838/video/novak-o-zaplanirovannykh-obemakh-eksporta-dizelia",
-      "source": "Izvestia",
-      "pubDate": "Fri, 30 Oct 2026 18:21:50 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Novak关于计划的柴油出口量"
     },
     {
       "title": "Omoda сообщила о локализации нового кроссовера на заводе в бывшей республике СССР",
@@ -136,7 +178,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：对炼油厂的袭击不会中断对俄罗斯的燃料供应"
+      "titleZh": "诺瓦克：对炼油厂的袭击不会扰乱俄罗斯的燃料供应"
     },
     {
       "title": "Перечислены готовые к переезду из России в Африку сферы производства",
@@ -169,29 +211,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯的IT犯罪数量在9个月内减少了近32%"
-    },
-    {
-      "title": "В России подтвердили продление запрета экспорта дизтоплива",
-      "link": "https://lenta.ru/news/2026/10/30/budet/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 16:18:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯确认延长柴油燃料出口禁令"
-    },
-    {
-      "title": "Новак назвал объемы экспорта российского дизеля",
-      "link": "https://lenta.ru/news/2026/10/30/novak-nazval-ob-emy-eksporta-rossiyskogo-dizelya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 16:16:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "诺瓦克公布了俄罗斯柴油出口量"
+      "titleZh": "俄罗斯 IT 犯罪数量在 9 个月内下降了近 32%"
     },
     {
       "title": "Новак: запрет на экспорт дизеля продлят до конца января",
@@ -203,28 +223,6 @@
         "供给↓"
       ],
       "titleZh": "诺瓦克：柴油出口禁令将延长至一月底"
-    },
-    {
-      "title": "В Киеве оценили предложение провести телефонный разговор Путина с Зеленским",
-      "link": "https://lenta.ru/news/2026/10/30/v-kieve-otsenili-predlozhenie-provesti-telefonnyy-razgovor-putina-s-zelenskim/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 15:37:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在基辅，他们对普京和泽连斯基进行电话交谈的建议表示赞赏"
-    },
-    {
-      "title": "Оценена вероятность снижения ключевой ставки в 2026 году",
-      "link": "https://lenta.ru/news/2026/10/30/otsenena-veroyatnost-snizheniya-klyuchevoy-stavki-v-2026-godu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 30 Oct 2026 15:33:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "已评估 2026 年关键降息的可能性"
     },
     {
       "title": "Экспорт российской пшеницы за четыре месяца может составить 10,3 млн тонн",
@@ -246,7 +244,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Polyus在RAS下九个月的利润下降了14%"
+      "titleZh": "根据 RAS，Polyus 九个月的利润下降了 14%"
     },
     {
       "title": "Россия обсуждает создание семенного завода в Египте для экспорта в Африку",
@@ -257,7 +255,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯正在讨论在埃及建立一个种子工厂，出口到非洲"
+      "titleZh": "俄罗斯正在讨论在埃及建立种子厂以出口到非洲"
     },
     {
       "title": "Чистая прибыль «Ленты» в III квартале сократилась на 29,8%",
@@ -323,7 +321,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "政府提议取消电子商务商品关税"
+      "titleZh": "政府提议取消电商商品关税"
     },
     {
       "title": "Путин назвал товарооборот России и Африки в $27 млрд «лишь началом пути»",
@@ -357,28 +355,6 @@
         "OZON"
       ],
       "titleZh": "欧洲央行预计欧元区通胀率将维持在2%以上"
-    },
-    {
-      "title": "«Фосагро» планирует на треть увеличить поставки удобрений в Африку",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/29/1241162-fosagro-planiruet-uvelichit",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 29 Oct 2026 14:09:32 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "PhosAgro计划将非洲的化肥供应量增加三分之一"
-    },
-    {
-      "title": "Экспорт российских лекарств в Африку вырос на 28% за восемь месяцев",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/29/1241151-eksport-rossiiskih-lekarstv",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 29 Oct 2026 13:53:28 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯对非洲药品出口八个月增长28%"
     }
   ]
 }
