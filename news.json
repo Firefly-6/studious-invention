@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-02T01:01:36.890Z",
-  "count": 31,
+  "updated": "2026-11-02T07:34:48.571Z",
+  "count": 35,
   "items": [
+    {
+      "title": "Правительство запретило экспорт ряда нефтехимических товаров за пределы ЕАЭС",
+      "link": "https://iz.ru/2194738/pravitelstvo-rf-vremenno-zapretilo-vyvoz-vidov-neftekhimicheskoi-produktcii-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 02 Nov 2026 09:17:15 +0300",
+      "summary": "<p>Правительство России ввело временный запрет на экспорт отдельных видов нефтехимической продукции в страны, не входящие в Евразийский экономический союз (ЕАЭС). Об этом 2 ноября сообщила пресс-служба правительства.</p>",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "政府禁止在欧亚经济联盟之外出口一些石化产品"
+    },
+    {
+      "title": "Один из крупнейших покупателей газа довел его импорт до максимума",
+      "link": "https://lenta.ru/news/2026/11/02/odin-iz-krupneyshih-pokupateley-gaza-dovel-ego-import-do-maksimuma/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 07:52:06 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "最大的天然气买家之一使其进口量达到最大值"
+    },
     {
       "title": "Bloomberg: США пытаются догнать Россию и КНР в сфере производства дешевых дронов",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/31/1241758-ssha-pitayutsya-dognat",
@@ -15,27 +39,180 @@
       "titleZh": "彭博社：美国正试图在生产廉价无人机方面赶上俄罗斯和中国"
     },
     {
-      "title": "Минфин не обсуждает льготы для «Яндекса» по примеру Ozon и Wildberries",
-      "link": "https://www.vedomosti.ru/economics/news/2026/10/30/1241444-minfin-ne-lgoti",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 11:25:13 +0300",
+      "title": "В России начали выпускать бронежилеты для двух категорий работников",
+      "link": "https://lenta.ru/news/2026/11/02/v-rossii-nachali-vypuskat-bronezhilety-dlya-dvuh-kategoriy-rabotnikov/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 10:29:37 +0300",
       "summary": "",
       "tags": [
-        "OZON",
-        "Wildberries"
+        "供给↓"
       ],
-      "titleZh": "财政部没有效仿 Ozon 和 Wildberry 讨论 Yandex 的利益"
+      "titleZh": "两类工人的防弹背心开始在俄罗斯生产"
     },
     {
-      "title": "В России вырос спрос на автомобили с пробегом",
-      "link": "https://ria.ru/20261102/avtomobil-2128519497.html",
-      "source": "RIA",
-      "pubDate": "Mon, 02 Nov 2026 03:35:15 +0300",
+      "title": "Продажи главного конкурента Tesla выросли уже шестой месяц подряд",
+      "link": "https://lenta.ru/news/2026/11/02/prodazhi-glavnogo-konkurenta-tesla-vyrosli-uzhe-shestoy-mesyats-podryad/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 10:00:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯二手车需求增加"
+      "titleZh": "特斯拉主要竞争对手的销售额连续第六个月增长"
+    },
+    {
+      "title": "Число пунктов выдачи Ozon увеличилось на 25% за год",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/02/1241554-ozon-uvelichilos",
+      "source": "Vedomosti",
+      "pubDate": "Mon, 02 Nov 2026 10:00:00 +0300",
+      "summary": "",
+      "tags": [
+        "OZON"
+      ],
+      "titleZh": "Ozon上车点数量同比增长25%"
+    },
+    {
+      "title": "Кабмин временно запретил экспорт некоторых видов нефтехимической продукции",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/02/1241922-kabmin-vremenno-zapretil",
+      "source": "Vedomosti",
+      "pubDate": "Mon, 02 Nov 2026 09:43:50 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "内阁暂时禁止某些类型的石化产品出口"
+    },
+    {
+      "title": "Россиян призвали не ждать скорого снижения ключевой ставки",
+      "link": "https://lenta.ru/news/2026/11/02/rossiyan-prizvali-ne-zhdat-skorogo-snizheniya-klyuchevoy-stavki/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 09:27:37 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "敦促俄罗斯人不要等待提前降低基准利率"
+    },
+    {
+      "title": "ВС России поразили склад вооружения и логистический центр в тылу Украины",
+      "link": "https://iz.ru/2194735/2026-11-02/vs-rossii-porazili-sklad-vooruzheniia-i-logisticheskii-tcentr-v-tylu-ukrainy",
+      "source": "Izvestia",
+      "pubDate": "Mon, 02 Nov 2026 09:01:21 +0300",
+      "summary": "<p>Вооруженные силы (ВС) РФ с помощью беспилотников поразили склад вооружения, логистический центр и производственное здание завода «Укрспецсвязь» в тыловых районах <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Укр",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯武装部队袭击了乌克兰后方的一个武器仓库和一个后勤中心"
+    },
+    {
+      "title": "Спрос на один вид машин в России резко вырос",
+      "link": "https://lenta.ru/news/2026/11/02/spros-na-odin-vid-mashin-v-rossii-rezko-vyros/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 08:47:24 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯对一种类型汽车的需求急剧增加"
+    },
+    {
+      "title": "The Times узнала о планах Британии нарастить темпы выпуска боевых кораблей",
+      "link": "https://iz.ru/2194723/2026-11-02/times-uznala-o-planakh-britanii-narastit-tempy-vypuska-boevykh-korablei",
+      "source": "Izvestia",
+      "pubDate": "Mon, 02 Nov 2026 08:15:00 +0300",
+      "summary": "<p>Великобритания рассматривает возможность наращивания темпов производства военных кораблей на фоне проблем с техническим состоянием действующего флота. Об этом 1 ноября сообщает газета <a href=\"https://www.thetimes.com",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "《泰晤士报》了解到英国计划提高军舰生产率"
+    },
+    {
+      "title": "США захотели возобновить поставки российского газа в Европу через Украину",
+      "link": "https://lenta.ru/news/2026/11/02/ssha-zahoteli-vozobnovit-postavki-rossiyskogo-gaza-v-evropu-cherez-ukrainu/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 07:26:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "美国希望通过乌克兰恢复向欧洲供应俄罗斯天然气"
+    },
+    {
+      "title": "Стало известно о нехватке артиллерии у ВСУ на одном направлении",
+      "link": "https://lenta.ru/news/2026/11/02/rossiyskiy-boets-rasskazal-o-nehvatke-artillerii-u-vsu-na-harkovskom-napravlenii/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 07:23:09 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "众所周知， APU在一个方向上缺乏火炮"
+    },
+    {
+      "title": "Большинство россиян назвали обманом популярную акцию",
+      "link": "https://lenta.ru/news/2026/11/02/bolshinstvo-rossiyan-nazvali-obmanom-populyarnuyu-aktsiyu/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 07:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "大多数俄罗斯人称民众集会为恶作剧"
+    },
+    {
+      "title": "WSJ узнала о предложении США возобновить поставки российского газа через Украину",
+      "link": "https://iz.ru/2194716/2026-11-02/wsj-uznala-o-predlozhenii-ssha-vozobnovit-postavki-rossiiskogo-gaza-cherez-ukrainu",
+      "source": "Izvestia",
+      "pubDate": "Mon, 02 Nov 2026 07:10:37 +0300",
+      "summary": "<p>Вашингтон заинтересован в скором восстановлении поставок российского газа в Европу по трубопроводам через территорию <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>. Об этом 1 ноября сообщает газета Th",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "《华尔街日报》获悉美国提议恢复俄罗斯通过乌克兰的天然气供应"
+    },
+    {
+      "title": "Ямпольская: русский язык входит в топ-10 самых востребованных в мире",
+      "link": "https://www.vedomosti.ru/society/news/2026/11/02/1241902-yampolskaya-russkii",
+      "source": "Vedomosti",
+      "pubDate": "Mon, 02 Nov 2026 07:10:36 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Yampolskaya ：俄语是世界上十大最受欢迎的语言之一"
+    },
+    {
+      "title": "Психолог назвала причины ноябрьской апатии и повышенной сонливости",
+      "link": "https://iz.ru/2193390/2026-11-02/psikholog-nazvala-prichiny-noiabrskoi-apatii-i-povyshennoi-sonlivosti",
+      "source": "Izvestia",
+      "pubDate": "Mon, 02 Nov 2026 07:00:00 +0300",
+      "summary": "<p>Сокращение светового дня, накопившаяся за год усталость и приближение зимы могут усиливать желание оставаться дома, меньше общаться и больше спать. В ноябре многие люди сталкиваются с сонливостью, апатией и тягой к сл",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "心理学家指出了11月冷漠和嗜睡增加的原因"
+    },
+    {
+      "title": "Советник президента рассказала о месте русского языка среди самых востребованных в мире",
+      "link": "https://lenta.ru/news/2026/11/02/sovetnik-prezidenta-rasskazala-o-meste-russkogo-yazyka-sredi-samyh-vostrebovannyh-v-mire/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 06:44:24 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "总统顾问谈到了俄语在世界上最受欢迎的地方"
+    },
+    {
+      "title": "Выявлена опасность популярной пищи для здоровья печени",
+      "link": "https://lenta.ru/news/2026/11/02/vyyavlena-opasnost-populyarnoy-pischi-dlya-zdorovya-pecheni/",
+      "source": "Lenta",
+      "pubDate": "Mon, 02 Nov 2026 04:00:12 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "已确定流行食品对肝脏健康的危险"
     },
     {
       "title": "Названы распространенные ошибки при подготовке к анальному сексу",
@@ -46,18 +223,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "准备肛交时常见的错误"
-    },
-    {
-      "title": "СМИ: Британия рассматривает ускорение производства военных кораблей",
-      "link": "https://ria.ru/20261102/britaniya-2128515591.html",
-      "source": "RIA",
-      "pubDate": "Mon, 02 Nov 2026 02:09:13 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "媒体：英国正在考虑加快军舰生产"
+      "titleZh": "在准备肛交时常见的错误被命名为"
     },
     {
       "title": "В России началась сокращенная рабочая неделя",
@@ -79,7 +245,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "德国采购H145M战斗直升机被曝错误"
+      "titleZh": "在德国，在购买H145M战斗直升机时发现了错误"
     },
     {
       "title": "Разработана вакцина против распространенного вида рака",
@@ -90,40 +256,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "开发出针对常见癌症的疫苗"
-    },
-    {
-      "title": "ЦБ может отложить снижение ключевой ставки до февраля 2027-го",
-      "link": "https://iz.ru/2194631/2026-11-02/tcb-mozhet-otlozhit-snizhenie-kliuchevoi-stavki-do-fevralia-2027-go",
-      "source": "Izvestia",
-      "pubDate": "Mon, 02 Nov 2026 00:30:00 +0300",
-      "summary": "<p>Банк России (ЦБ) возобновит цикл снижения ключевой ставки не раньше первого в следующем году заседания, которое пройдет в феврале 2027-го. При этом регулятор пойдет на осторожный шаг в 0,25 п.п., а вероятность смягчен",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "央行可能会将基准利率的下调推迟到2027年2月"
-    },
-    {
-      "title": "SCMP узнала о расширении поставок вооружений Китая в страны Африки",
-      "link": "https://iz.ru/2194628/2026-11-02/scmp-uznala-o-rasshirenii-postavok-vooruzhenii-kitaia-v-strany-afriki",
-      "source": "Izvestia",
-      "pubDate": "Mon, 02 Nov 2026 00:14:50 +0300",
-      "summary": "<p>Китай наращивает торговлю оружием с африканскими государствами, предлагая им не только стрелковое оружие и наземную бронетехнику, но и специализированные системы, в том числе боевые беспилотники и средства радиоэлектр",
-      "tags": [
-        "中俄贸易"
-      ],
-      "titleZh": "南华早报获悉中国扩大对非洲国家武器供应"
-    },
-    {
-      "title": "Трудовая оборона: в России начался выпуск бронежилетов для строителей и промышленников",
-      "link": "https://iz.ru/2193841/sofia-sokolovskaia/v-rossii-naladili-vypusk-bronezhiletov-dlia-grazhdanskikh-spetcialistov",
-      "source": "Izvestia",
-      "pubDate": "Mon, 02 Nov 2026 00:01:00 +0300",
-      "summary": "Предприятия смогут обеспечить защиту своих сотрудников от атак беспилотников ВСУ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "劳工防卫：俄罗斯已开始为建筑商和实业家生产防弹衣"
+      "titleZh": "开发了针对常见癌症的疫苗"
     },
     {
       "title": "Посол России назвал Копенгаген производственным тылом ВСУ",
@@ -137,39 +270,6 @@
       "titleZh": "俄罗斯大使称哥本哈根是APU的生产后方"
     },
     {
-      "title": "Китай расширил торговлю оружием с Африкой",
-      "link": "https://lenta.ru/news/2026/11/01/kitay-rasshiril-torgovlyu-oruzhiem-s-afrikoy/",
-      "source": "Lenta",
-      "pubDate": "Sun, 01 Nov 2026 18:42:00 +0300",
-      "summary": "",
-      "tags": [
-        "中俄贸易"
-      ],
-      "titleZh": "中国扩大与非洲的武器贸易"
-    },
-    {
-      "title": "В России выросли продажи зарубежного крепкого алкоголя",
-      "link": "https://lenta.ru/news/2026/11/01/v-rossii-vyrosli-prodazhi-zarubezhnogo-krepkogo-alkogolya/",
-      "source": "Lenta",
-      "pubDate": "Sun, 01 Nov 2026 18:18:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯外国烈性酒销量增加"
-    },
-    {
-      "title": "Водитель частного женского такси пропала в Дагестане после заказа от мужчины",
-      "link": "https://lenta.ru/news/2026/11/01/voditel-chastnogo-zhenskogo-taksi-propala-v-dagestane-posle-zakaza-ot-muzhchiny/",
-      "source": "Lenta",
-      "pubDate": "Sun, 01 Nov 2026 17:13:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一名私人女出租车司机在接到一名男子的命令后在达吉斯坦失踪。"
-    },
-    {
       "title": "«Белавиа» получила право покупать самолеты и запчасти напрямую у Boeing",
       "link": "https://www.vedomosti.ru/politics/news/2026/10/31/1241757-belavia-poluchila-pravo",
       "source": "Vedomosti",
@@ -178,7 +278,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "白俄罗斯获得直接从波音购买飞机和零部件的权利"
+      "titleZh": "Belavia有权直接从波音公司购买飞机和备件"
     },
     {
       "title": "Кабмин продлил запрет на экспорт дизеля производителями до 31 января 2027 года",
@@ -222,7 +322,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "由于科技股遭到抛售，纳斯达克 100 指数下跌 3%。"
+      "titleZh": "由于科技股遭遇抛售，纳斯达克100指数下跌3%"
     },
     {
       "title": "Орешкин: от ударов Украины по НПЗ пострадают поставки на внешний рынок",
@@ -233,7 +333,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "奥列什金：乌克兰对炼油厂的袭击将影响国外市场的供应"
+      "titleZh": "奥列什金：乌克兰对炼油厂的罢工将影响对外市场的供应"
     },
     {
       "title": "Новак: атаки на нефтезаводы не нарушат поставки топлива в России",
@@ -244,7 +344,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：对炼油厂的袭击不会扰乱俄罗斯的燃料供应"
+      "titleZh": "诺瓦克：对炼油厂的袭击不会中断对俄罗斯的燃料供应"
     },
     {
       "title": "Чистая прибыль ТГК-1 за девять месяцев снизилась на 2%",
@@ -255,7 +355,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "TGC-1连续九个月净利润下降2%"
+      "titleZh": "TGC-1九个月净利润下降2%"
     },
     {
       "title": "Число IT-преступлений в России сократилось почти на 32% за девять месяцев",
@@ -266,7 +366,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯 IT 犯罪数量在 9 个月内下降了近 32%"
+      "titleZh": "俄罗斯的IT犯罪数量在9个月内减少了近32%"
     },
     {
       "title": "Новак: запрет на экспорт дизеля продлят до конца января",
@@ -277,7 +377,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "诺瓦克：柴油出口禁令将延长至一月底"
+      "titleZh": "诺瓦克：柴油出口禁令将延长至1月底"
     },
     {
       "title": "Экспорт российской пшеницы за четыре месяца может составить 10,3 млн тонн",
@@ -288,62 +388,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯小麦出口量将在四个月内达到1030万吨"
-    },
-    {
-      "title": "Прибыль «Полюса» за девять месяцев по РСБУ снизилась на 14%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241487-pribil-polyusa",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 12:40:59 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "根据 RAS，Polyus 九个月的利润下降了 14%"
-    },
-    {
-      "title": "Россия обсуждает создание семенного завода в Египте для экспорта в Африку",
-      "link": "https://www.vedomosti.ru/business/news/2026/10/30/1241488-rossiya-obsuzhdaet",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 12:30:38 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯正在讨论在埃及建立种子厂以出口到非洲"
-    },
-    {
-      "title": "Чистая прибыль «Ленты» в III квартале сократилась на 29,8%",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241463-pribil-lenti",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 12:10:04 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Lenta第三季度净利润下降29.8%"
-    },
-    {
-      "title": "МГКЛ допустила технический дефолт по выпуску облигаций",
-      "link": "https://www.vedomosti.ru/investments/news/2026/10/30/1241452-mgkl-dopustila-defolt",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 11:51:02 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "MGKL在发行债券时发生技术违约"
-    },
-    {
-      "title": "Rapporteur: разобщенность ЕС затрудняет наращивание выпуска боеприпасов",
-      "link": "https://www.vedomosti.ru/politics/news/2026/10/30/1241441-es-zatrudnyaet",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 30 Oct 2026 11:12:03 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "报告员：欧盟不团结导致弹药生产难以增加"
+      "titleZh": "俄罗斯小麦出口四个月可能达到1030万吨"
     }
   ]
 }
