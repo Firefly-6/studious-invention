@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-07T14:09:47.479Z",
-  "count": 32,
+  "updated": "2026-11-07T18:45:59.161Z",
+  "count": 33,
   "items": [
+    {
+      "title": "Солдаты ВСУ массово пожаловались на нехватку воды и отсутствие логистики",
+      "link": "https://lenta.ru/news/2026/11/08/soldaty-vsu-massovo-pozhalovalis-na-nehvatku-vody-i-otsutstvie-logistiki/",
+      "source": "Lenta",
+      "pubDate": "Sat, 07 Nov 2026 21:13:33 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "物流"
+      ],
+      "titleZh": "乌克兰武装部队士兵大量抱怨缺水和缺乏后勤保障"
+    },
     {
       "title": "Самого популярного итальянца в России попытались обмануть на сотни тысяч рублей",
       "link": "https://lenta.ru/news/2026/11/07/samogo-populyarnogo-italyantsa-v-rossii-popytalis-obmanut-na-sotni-tysyach-rubley/",
@@ -27,6 +39,94 @@
       "titleZh": "10月世界粮食产品价格下跌4.5%"
     },
     {
+      "title": "В Пензенской области загорелось производственное здание",
+      "link": "https://ria.ru/20261107/zdanie-2130023614.html",
+      "source": "RIA",
+      "pubDate": "Sat, 07 Nov 2026 21:15:35 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在奔萨地区，一座工业建筑着火了"
+    },
+    {
+      "title": "В Днепропетровске более 60 тысяч потребителей остались без света",
+      "link": "https://ria.ru/20261107/dnepropetrovsk-2130023333.html",
+      "source": "RIA",
+      "pubDate": "Sat, 07 Nov 2026 21:13:43 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "在第聂伯罗彼得罗夫斯克，超过6万名消费者没有电"
+    },
+    {
+      "title": "В МВД России назвали три главных правила цифровой гигиены",
+      "link": "https://iz.ru/2197928/v-mvd-rossii-nazvali-tri-glavnykh-pravila-tcifrovoi-gigieny-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 07 Nov 2026 19:47:00 +0300",
+      "summary": "<p dir=\"ltr\">Для безопасного использования интернета необходимо ограничивать распространение личной информации, разбираться в возможностях цифровых сервисов и регулярно обновлять знания о киберугрозах. Об этом 7 ноября с",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯内政部列举了数字卫生的三个主要规则"
+    },
+    {
+      "title": "Белоусов: в 2026 году очередь на жилье для военных сократится на 20 000 человек",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/07/1243415-ochered-na-zhile",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 07 Nov 2026 19:41:58 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "别卢索夫：到2026年，军队住房排队人数将减少2万人"
+    },
+    {
+      "title": "Авиакомпания убрала из продажи места в самолетах с игровым номером Роналду",
+      "link": "https://lenta.ru/news/2026/11/07/aviakompaniya-ubrala-iz-prodazhi-mesta-v-samoletah-s-igrovym-nomerom-ronaldu/",
+      "source": "Lenta",
+      "pubDate": "Sat, 07 Nov 2026 19:04:44 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "该航空公司从销售中删除了罗纳尔多游戏编号的飞机座位"
+    },
+    {
+      "title": "Sony подала заявки на регистрацию товарных знаков PlayStation в России",
+      "link": "https://iz.ru/2197899/sony-podala-zaiavki-na-registratciiu-tovarnykh-znakov-playstation-v-rossii-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 07 Nov 2026 18:50:00 +0300",
+      "summary": "<p dir=\"ltr\">Японская компания Sony намерена закрепить за собой в России права на название и логотип игрового бренда PlayStation. Соответствующие заявки были направлены 7 ноября от имени компании «Сони интерэктив энтерте",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "索尼已在俄罗斯提交PlayStation商标申请"
+    },
+    {
+      "title": "США создали группу по противодействию поставкам оружия через границы Ирана",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/07/1243413-ssha-sozdali-gruppu",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 07 Nov 2026 18:37:31 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "美国成立了一个组织来对抗跨越伊朗边境的武器供应"
+    },
+    {
+      "title": "Поставки российского газа в Турцию многократно выросли",
+      "link": "https://lenta.ru/news/2026/11/07/postavki-rossiyskogo-gaza-v-turtsiyu-mnogokratno-vyrosli/",
+      "source": "Lenta",
+      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯对土耳其的天然气供应量增加了多倍"
+    },
+    {
       "title": "На Украине встревожились из-за предложения Трампа по переговорам",
       "link": "https://lenta.ru/news/2026/11/07/na-ukraine-vstrevozhilis-iz-za-predlozheniya-trampa-po-peregovoram/",
       "source": "Lenta",
@@ -36,28 +136,6 @@
         "供给↓"
       ],
       "titleZh": "乌克兰担心特朗普的谈判提议"
-    },
-    {
-      "title": "В Румынии товарный поезд с зерном столкнулся с двумя локомотивами",
-      "link": "https://ria.ru/20261107/rumynija-2129965888.html",
-      "source": "RIA",
-      "pubDate": "Sat, 07 Nov 2026 16:21:57 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在罗马尼亚，一列装满谷物的货运列车与两辆机车相撞"
-    },
-    {
-      "title": "Поставки российского газа в Турцию выросли почти в четыре раза в ноябре",
-      "link": "https://iz.ru/2197895/2026-11-07/postavki-rossiiskogo-gaza-v-turtciiu-vyrosli-pochti-v-chetyre-raza-v-noiabre",
-      "source": "Izvestia",
-      "pubDate": "Sat, 07 Nov 2026 16:14:56 +0300",
-      "summary": "<p>Поставки российского трубопроводного газа в <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турцию</a> за первые пять дней ноября увеличились почти в четыре раза по сравнению с аналогичными периодами сентября и о",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "11月俄罗斯对土耳其的天然气供应量几乎翻了两番"
     },
     {
       "title": "Названы признаки нехватки йода в организме",
@@ -104,17 +182,6 @@
       "titleZh": "沃尔沃在俄罗斯注册了商标"
     },
     {
-      "title": "Группа «Алиса» выступила на фестивале «Мир без наркотиков» в Санкт-Петербурге",
-      "link": "https://iz.ru/2197861/2026-11-07/gruppa-alisa-vystupila-na-festivale-mir-bez-narkotikov-v-sankt-peterburge",
-      "source": "Izvestia",
-      "pubDate": "Sat, 07 Nov 2026 15:02:21 +0300",
-      "summary": "<p>Рок-группа «Алиса» выступила на мероприятии в рамках фестиваля «Мы выбираем жизнь! Мир без наркотиков» в Санкт-Петербурге, который посвящен пропаганде здорового образа жизни и отказу от употребления наркотиков.</p> <p",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "“爱丽丝”乐队在圣彼得堡的“无毒品世界”音乐节上表演"
-    },
-    {
       "title": "В Германии обратились к Мерцу с необычным предложением по Украине",
       "link": "https://lenta.ru/news/2026/11/07/v-germanii-obratilis-k-mertsu-s-neobychnym-predlozheniem-po-ukraine/",
       "source": "Lenta",
@@ -124,17 +191,6 @@
         "供给↓"
       ],
       "titleZh": "在德国，向Merz提出了一个不寻常的乌克兰提案"
-    },
-    {
-      "title": "В Саратове открыли оперштаб после атаки беспилотников ВСУ",
-      "link": "https://iz.ru/2197847/2026-11-07/v-saratove-otkryli-opershtab-posle-ataki-bespilotnikov-vsu",
-      "source": "Izvestia",
-      "pubDate": "Sat, 07 Nov 2026 13:44:31 +0300",
-      "summary": "<p>В Саратове после атаки беспилотников Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ) на город открыт оперативный штаб на базе администрации Заводского района. Об этом 7 ноября соо",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在无人机袭击后，在萨拉托夫开设了一个行动总部"
     },
     {
       "title": "Sony подала заявку на регистрацию товарных знаков Playstation в России",
@@ -190,39 +246,6 @@
         "需求↑"
       ],
       "titleZh": "《乌克兰真理报》散布关于基辅恐怖袭击的假新闻"
-    },
-    {
-      "title": "Султан Индонезии обратился к России с предложением",
-      "link": "https://lenta.ru/news/2026/11/07/sultan-indonezii-obratilsya-k-rossii-s-predlozheniem/",
-      "source": "Lenta",
-      "pubDate": "Sat, 07 Nov 2026 07:25:02 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "印度尼西亚苏丹向俄罗斯提出建议"
-    },
-    {
-      "title": "Россиянам подсказали способ отличить дефицит витаминов от депрессии",
-      "link": "https://lenta.ru/news/2026/11/07/rossiyanam-podskazali-sposob-otlichit-defitsit-vitaminov-ot-depressii/",
-      "source": "Lenta",
-      "pubDate": "Sat, 07 Nov 2026 07:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人被要求区分维生素缺乏症和抑郁症"
-    },
-    {
-      "title": "«Дело не в политике». Министр энергетики Турции объяснил снижение закупок газа в России. Анкара выбрала нового поставщика",
-      "link": "https://lenta.ru/news/2026/11/07/long-delo-ne-v-politike-ministr-energetiki-turtsii-ob-yasnil-snizhenie-zakupok-gaza-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Sat, 07 Nov 2026 04:06:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "“这与政治无关。”土耳其能源部长解释了俄罗斯天然气采购减少的原因。安卡拉选择了新的供应商"
     },
     {
       "title": "«Циан»: официального предложения от «Т-технологий» пока не поступало",
@@ -344,17 +367,6 @@
         "供给↓"
       ],
       "titleZh": "墨西哥央行将关键利率下调至6.25%"
-    },
-    {
-      "title": "Наследники Джорджо Армани предпочли IPO продаже модного дома",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/05/1242980-nasledniki-armani-predpochli-ipo",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 05 Nov 2026 17:48:21 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Giorgio Armani的继承人更喜欢IPO而不是出售时装屋"
     }
   ]
 }
