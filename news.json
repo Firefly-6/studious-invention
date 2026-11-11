@@ -1,18 +1,42 @@
 {
-  "updated": "2026-11-11T09:55:54.588Z",
-  "count": 42,
+  "updated": "2026-11-11T17:32:40.455Z",
+  "count": 36,
   "items": [
     {
-      "title": "Маркетплейсы стали перемещать товары в Сибирь на фоне ударов БПЛА",
-      "link": "https://lenta.ru/news/2026/11/11/marketpleysy-stali-peremeschat-tovary-v-sibir-na-fone-udarov-bpla/",
+      "title": "Bloomberg узнало о запрете на китайские дроны и машины на военных базах Германии",
+      "link": "https://iz.ru/2200031/2026-11-11/bloomberg-uznalo-o-zaprete-na-kitaiskie-drony-i-mashiny-na-voennykh-bazakh-germanii",
+      "source": "Izvestia",
+      "pubDate": "Wed, 11 Nov 2026 18:24:25 +0300",
+      "summary": "<p>Немецкие военные запретили использовать беспилотники китайского производства в учебных целях, а также китайские автомобили на военных базах на территории Германии из-за опасений по поводу шпионажа. Об этом 11 ноября с",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "彭博社获悉德国军事基地禁止使用中国无人机和车辆"
+    },
+    {
+      "title": "Продажи машин марки Solaris в России резко сократились",
+      "link": "https://lenta.ru/news/2026/11/11/prodazhi-mashin-marki-solaris-v-rossii-rezko-sokratilis/",
       "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 12:25:28 +0300",
+      "pubDate": "Wed, 11 Nov 2026 18:06:00 +0300",
       "summary": "",
       "tags": [
         "需求↑",
-        "平台"
+        "供给↓"
       ],
-      "titleZh": "Маркетплейсы стали перемещать товары в Сибирь на фоне ударов БПЛА"
+      "titleZh": "索拉里斯品牌汽车在俄罗斯的销量大幅下降"
+    },
+    {
+      "title": "Зарплатные предложения для строителей и плиточников превысили 140 000 рублей",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244506-stroitelei-i-plitochnikov",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 16:43:56 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "建筑工人和瓷砖工的薪资报价超过14万卢布。"
     },
     {
       "title": "Потребители привыкли к подорожавшему шоколаду",
@@ -24,19 +48,7 @@
         "需求↑",
         "价格"
       ],
-      "titleZh": "Потребители привыкли к подорожавшему шоколаду"
-    },
-    {
-      "title": "Mazda подтвердила завершение производства популярной модели",
-      "link": "https://lenta.ru/news/2026/11/11/mazda-podtverdila-zavershenie-proizvodstva-populyarnoy-modeli/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 07:33:40 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "Mazda подтвердила завершение производства популярной модели"
+      "titleZh": "消费者已经习惯了巧克力价格上涨。"
     },
     {
       "title": "Дефицит бюджета за 10 месяцев составил 5,2 трлн рублей",
@@ -48,41 +60,271 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "Дефицит бюджета за 10 месяцев составил 5,2 трлн рублей"
+      "titleZh": "10个月的预算赤字为5.2万亿卢布"
     },
     {
-      "title": "Литий и кобальт подешевели в октябре из-за слабого спроса",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/10/1243956-litii-i-kobalt",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 10:33:24 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "价格"
-      ],
-      "titleZh": "Литий и кобальт подешевели в октябре из-за слабого спроса"
-    },
-    {
-      "title": "Италия может прекратить поставки ракет для ЗРК Украине",
-      "link": "https://ria.ru/20261111/italiya-2130843407.html",
+      "title": "Мирошник назвал Запад заказчиком конфликта на Украине",
+      "link": "https://ria.ru/20261111/miroshnik-2130976903.html",
       "source": "RIA",
-      "pubDate": "Wed, 11 Nov 2026 12:44:08 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Италия может прекратить поставки ракет для ЗРК Украине"
-    },
-    {
-      "title": "Россиян отговорили покупать квартиры из-за стыда перед окружающими",
-      "link": "https://lenta.ru/news/2026/11/11/rossiyan-otgovorili-pokupat-kvartiry-iz-za-styda-pered-okruzhayuschimi/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 12:41:34 +0300",
+      "pubDate": "Wed, 11 Nov 2026 20:23:17 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "Россиян отговорили покупать квартиры из-за стыда перед окружающими"
+      "titleZh": "米罗什尼克称西方是乌克兰冲突的幕后黑手"
+    },
+    {
+      "title": "В Китае приготовились к обвалу продаж легковых автомобилей",
+      "link": "https://lenta.ru/news/2026/11/11/ne-berut/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 20:12:47 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "中国已做好准备应对乘用车销量暴跌"
+    },
+    {
+      "title": "У популярной ягоды выявили противораковое свойство",
+      "link": "https://lenta.ru/news/2026/11/11/u-populyarnoy-yagody-vyyavili-protivorakovoe-svoystvo/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 19:47:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一种常见浆果被发现具有抗癌特性"
+    },
+    {
+      "title": "Жапаров оценил товарооборот России и Киргизии",
+      "link": "https://ria.ru/20261111/tovarooborot-2130971051.html",
+      "source": "RIA",
+      "pubDate": "Wed, 11 Nov 2026 19:46:27 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "扎帕罗夫对俄罗斯与吉尔吉斯斯坦的贸易额进行了评估"
+    },
+    {
+      "title": "Молодежной сборной России по футболу отменили авиарейс в Турцию",
+      "link": "https://iz.ru/2200105/2026-11-11/molodezhnoi-sbornoi-rossii-po-futbolu-otmenili-aviareis-v-turtciiu",
+      "source": "Izvestia",
+      "pubDate": "Wed, 11 Nov 2026 19:28:27 +0300",
+      "summary": "<p>Молодежная сборная России по футболу столкнулась с отменой авиарейса в <a href=\"https://iz.ru/tag/turtciia\" target=\"_blank\">Турцию</a>, где ей предстоит сыграть два товарищеских матча со сборной Киргизии. Об этом 11 н",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯青年足球队飞往土耳其的航班被取消"
+    },
+    {
+      "title": "Псковская область планирует присоединиться к регионам с запретом на вейпы",
+      "link": "https://iz.ru/2200085/2026-11-11/pskovskaia-oblast-planiruet-prisoedinitsia-k-regionam-s-zapretom-na-veipy",
+      "source": "Izvestia",
+      "pubDate": "Wed, 11 Nov 2026 19:09:13 +0300",
+      "summary": "<p>В Псковской области планируют ввести запрет на розничную продажу вейпов. Соответствующий законопроект подготовило региональное министерство экономического развития.</p><p>Законопроект предусматривает запрет на розничн",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "普斯科夫州计划加入禁止电子烟的地区行列"
+    },
+    {
+      "title": "Tenet Plus представил полноприводную версию популярного кроссовера",
+      "link": "https://lenta.ru/news/2026/11/11/tenet-plus-predstavil-polnoprivodnuyu-versiyu-populyarnogo-krossovera/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 19:05:28 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "腾势D9推出了热门跨界车的全轮驱动版本"
+    },
+    {
+      "title": "Добыча самой популярной в России рыбы взлетела",
+      "link": "https://lenta.ru/news/2026/11/11/selyodochka/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 18:54:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯最受欢迎的鱼类产量飙升"
+    },
+    {
+      "title": "Названа причина падения спроса на подержанные иномарки",
+      "link": "https://lenta.ru/news/2026/11/11/nazvana-prichina-padeniya-sprosa-na-poderzhannye-inomarki/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 18:53:18 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "进口二手车需求下降的原因已查明"
+    },
+    {
+      "title": "В России стартовала масштабная распродажа «11.11»",
+      "link": "https://iz.ru/2200048/v-rossii-startovala-masshtabnaia-rasprodazha-1111/ize",
+      "source": "Izvestia",
+      "pubDate": "Wed, 11 Nov 2026 18:50:58 +0300",
+      "summary": "<p>В России в среду, 11 ноября, проходит ежегодная масштабная распродажа «11.11», известная как Всемирный день шопинга, или День холостяка.</p><p>В 2026 году этот день стал центральным этапом периода скидок, в котором пр",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯“双十一”大规模促销活动拉开帷幕"
+    },
+    {
+      "title": "Названа безопасная частота употребления супов быстрого приготовления",
+      "link": "https://lenta.ru/news/2026/11/11/nazvana-bezopasnaya-chastota-upotrebleniya-supov-bystrogo-prigotovleniya/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 18:31:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "确定了安全食用速食汤的频率"
+    },
+    {
+      "title": "JAC сократил модельный ряд в России",
+      "link": "https://lenta.ru/news/2026/11/11/jac-sokratil-modelnyy-ryad-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 18:31:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "江淮汽车削减了在俄罗斯的车型阵容"
+    },
+    {
+      "title": "Суд приговорил трех бывших топ-менеджеров «Роснано» за злоупотребления",
+      "link": "https://www.vedomosti.ru/society/news/2026/11/11/1244554-sud-prigovoril-top-menedzherov",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 18:22:20 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "法院以滥用职权罪判处三名前“俄罗斯纳米技术公司”高管有罪。"
+    },
+    {
+      "title": "Госдума одобрила продажу спиртного через отделения «Почты России»",
+      "link": "https://lenta.ru/news/2026/11/11/mmpzhno/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 17:53:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "国家杜马批准通过俄罗斯邮政网点销售酒类"
+    },
+    {
+      "title": "«АвтоВАЗ» сообщил сроки старта продаж своего первого кроссовера",
+      "link": "https://lenta.ru/news/2026/11/11/avtovaz-soobschil-sroki-starta-prodazh-svoego-pervogo-krossovera/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 17:33:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "“俄罗斯汽车制造厂”宣布其首款跨界车开售日期"
+    },
+    {
+      "title": "Россия улучшила свое положение в европейском рейтинге автомобильных продаж",
+      "link": "https://lenta.ru/news/2026/11/11/rossiya-uluchshila-svoe-polozhenie-v-evropeyskom-reytinge-avtomobilnyh-prodazh/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 17:24:08 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯在欧洲汽车销量排名中的地位有所提升"
+    },
+    {
+      "title": "Каннаваро оценил сборную России перед товарищеским матчем",
+      "link": "https://lenta.ru/news/2026/11/11/kannavaro-otsenil-sbornuyu-rossii-pered-tovarischeskim-matchem/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 16:59:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "卡纳瓦罗在友谊赛前评价了俄罗斯国家队。"
+    },
+    {
+      "title": "Госдума приняла в первом чтении проект о продаже вина через сайт «Почты России»",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244481-proekt-o-prodazhe-vina",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 16:04:21 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "国家杜马一读通过了关于通过俄罗斯邮政网站销售葡萄酒的法案草案。"
+    },
+    {
+      "title": "Стало известно о серьезном сокращении населения Украины",
+      "link": "https://lenta.ru/news/2026/11/11/stalo-izvestno-o-serieznom-sokraschenii-naseleniya-ukrainy/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 15:54:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "据了解，乌克兰人口大幅减少。"
+    },
+    {
+      "title": "К продвижению российских товаров стали привлекать стримеров",
+      "link": "https://lenta.ru/news/2026/11/11/k-prodvizheniyu-rossiyskih-tovarov-stali-privlekat-strimerov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 15:36:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "主播开始被吸引来推广俄罗斯商品。"
+    },
+    {
+      "title": "Российская авиакомпания запустила распродажу билетов со скидками до 35 процентов",
+      "link": "https://lenta.ru/news/2026/11/11/rossiyskaya-aviakompaniya-zapustila-rasprodazhu-biletov-so-skidkami-do-35-protsentov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 11 Nov 2026 15:35:18 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯航空公司推出机票促销活动，折扣高达35%"
+    },
+    {
+      "title": "«Почта России» заявила о готовности к эксперименту с продажей российского вина",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244430-pochta-rossii-zayavila",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 14:43:54 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯邮政表示愿意尝试销售俄罗斯葡萄酒"
+    },
+    {
+      "title": "В Киеве полностью отключат уличное освещение из-за дефицита энергии",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/11/1244432-v-kieve-polnostyu",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 14:09:19 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "由于能源短缺，基辅将完全关闭街道照明。"
+    },
+    {
+      "title": "ЕС увеличил импорт российского СПГ на 6,7% за десять месяцев",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244413-es-uvelichil-import",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 11 Nov 2026 13:49:18 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "欧盟在十个月内将俄罗斯液化天然气的进口量增加了6.7%"
     },
     {
       "title": "Италия может приостановить поставки ракет ПВО на Украину",
@@ -93,51 +335,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Италия может приостановить поставки ракет ПВО на Украину"
-    },
-    {
-      "title": "СМИ сообщили о согласовании повестки по ИИ в ядерной сфере перед саммитом АТЭС",
-      "link": "https://iz.ru/2199760/2026-11-11/smi-soobshchili-o-soglasovanii-povestki-po-ii-v-iadernoi-sfere-pered-sammitom-ates",
-      "source": "Izvestia",
-      "pubDate": "Wed, 11 Nov 2026 12:15:34 +0300",
-      "summary": "<p>Китай, Россия и <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> планируют согласовать повестку по вопросам искусственного интеллекта (ИИ) в ядерной сфере до начала саммита Азиатско-Тихоокеанского экономическо",
-      "tags": [
-        "中俄贸易"
-      ],
-      "titleZh": "СМИ сообщили о согласовании повестки по ИИ в ядерной сфере перед саммитом АТЭС"
-    },
-    {
-      "title": "Продажи автомобилей российской марки Solaris в октябре упали на 81%",
-      "link": "https://iz.ru/2199761/2026-11-11/prodazhi-avtomobilei-rossiiskoi-marki-solaris-v-oktiabre-upali-na-81",
-      "source": "Izvestia",
-      "pubDate": "Wed, 11 Nov 2026 12:13:40 +0300",
-      "summary": "<p>В октябре в России зарегистрировали 1106 новых автомобилей Solaris — на 81% меньше, чем за тот же месяц прошлого года, когда на учет встало 5809 машин. Об этом в своем Telegram-канале 11 ноября рассказал директор анал",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Продажи автомобилей российской марки Solaris в октябре упали на 81%"
-    },
-    {
-      "title": "Евросоюз нарастил импорт российского энергоносителя",
-      "link": "https://lenta.ru/news/2026/11/11/evrosoyuz-narastil-import-rossiyskogo-energonositelya/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 12:10:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Евросоюз нарастил импорт российского энергоносителя"
-    },
-    {
-      "title": "ВС России поразили цеха производства БПЛА и робототехнических комплексов",
-      "link": "https://iz.ru/2199752/2026-11-11/vs-rossii-porazili-tcekha-proizvodstva-bpla-i-robototekhnicheskikh-kompleksov",
-      "source": "Izvestia",
-      "pubDate": "Wed, 11 Nov 2026 12:02:26 +0300",
-      "summary": "<p>Вооруженные силы России нанесли удары по украинским цехам, в которых производились беспилотные летательные аппараты и наземные робототехнические комплексы. Об этом 11 ноября сообщили в Министерстве обороны РФ.</p><p>«",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "ВС России поразили цеха производства БПЛА и робототехнических комплексов"
+      "titleZh": "意大利可能暂停向乌克兰供应防空导弹"
     },
     {
       "title": "Россияне стали покупать меньше сладостей при походе в магазин",
@@ -148,40 +346,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "Россияне стали покупать меньше сладостей при походе в магазин"
-    },
-    {
-      "title": "Предложен ответ на действия шпионской сети Польши в России",
-      "link": "https://lenta.ru/news/2026/11/11/ozvuchen-otvet-na-deystviya-shpionskoy-seti-polshi-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 11:38:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Предложен ответ на действия шпионской сети Польши в России"
-    },
-    {
-      "title": "Популярный метод лечения связали с ускоренным старением организма",
-      "link": "https://lenta.ru/news/2026/11/11/populyarnyy-metod-lecheniya-svyazali-s-uskorennym-stareniem-organizma/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 11:26:48 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Популярный метод лечения связали с ускоренным старением организма"
-    },
-    {
-      "title": "В России возникли проблемы с производством важного продукта питания",
-      "link": "https://lenta.ru/news/2026/11/11/v-rossii-voznikli-problemy-s-proizvodstvom-vazhnogo-produkta-pitaniya/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 11:25:07 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "В России возникли проблемы с производством важного продукта питания"
+      "titleZh": "俄罗斯人在逛商店时购买的糖果变少了"
     },
     {
       "title": "«Мегафон» и МТС заявили, что банки не приняли предложения по маркировке звонков",
@@ -192,62 +357,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "«Мегафон» и МТС заявили, что банки не приняли предложения по маркировке звонков"
-    },
-    {
-      "title": "Популярного комика обвинили в сексуальных домогательствах подростков",
-      "link": "https://lenta.ru/news/2026/11/11/david/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 11:08:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Популярного комика обвинили в сексуальных домогательствах подростков"
-    },
-    {
-      "title": "Российский автобренд Votour анонсировал новый кроссовер V6",
-      "link": "https://iz.ru/2199720/2026-11-11/rossiiskii-avtobrend-votour-anonsiroval-novyi-krossover-v6",
-      "source": "Izvestia",
-      "pubDate": "Wed, 11 Nov 2026 11:07:04 +0300",
-      "summary": "<p>Новый российский автомобильный бренд Votour, созданный в рамках партнерства холдинга «АГР» и компании Defetoo, представил вторую модель в своей линейке — кроссовер V6. Продажи стартуют до конца 2026 года, говорится в ",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Российский автобренд Votour анонсировал новый кроссовер V6"
-    },
-    {
-      "title": "NYT узнала о получении США $12 млрд от экспорта природных ресурсов Венесуэлы",
-      "link": "https://iz.ru/2199712/2026-11-11/nyt-uznala-o-poluchenii-ssha-12-mlrd-ot-eksporta-prirodnykh-resursov-venesuely",
-      "source": "Izvestia",
-      "pubDate": "Wed, 11 Nov 2026 10:57:57 +0300",
-      "summary": "<p>За первые девять месяцев 2026 года на счет под контролем американских властей поступило $12,26 млрд от экспорта природных ресурсов Венесуэлы. Большая часть этих средств была возвращена в страну вскоре после зачисления",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "NYT узнала о получении США $12 млрд от экспорта природных ресурсов Венесуэлы"
-    },
-    {
-      "title": "Названы самые популярные для ввоза в Россию седаны",
-      "link": "https://lenta.ru/news/2026/11/11/nazvany-samye-populyarnye-dlya-vvoza-v-rossiyu-sedany/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 10:49:53 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Названы самые популярные для ввоза в Россию седаны"
-    },
-    {
-      "title": "В России объяснили предложения США по границам ДНР",
-      "link": "https://lenta.ru/news/2026/11/10/v-rossii-ob-yasnili-predlozheniya-ssha-po-granitsam-dnr/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 10:49:09 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "В России объяснили предложения США по границам ДНР"
+      "titleZh": "“MegaFon”和MTS表示，银行未接受有关标记通话的提议"
     },
     {
       "title": "В России образовался дефицит ракет-носителей для малых спутников",
@@ -258,51 +368,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "В России образовался дефицит ракет-носителей для малых спутников"
-    },
-    {
-      "title": "Готовность россиян покупать белую икру оценили",
-      "link": "https://lenta.ru/news/2026/11/11/gotovnost-rossiyan-pokupat-beluyu-ikru-otsenili/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 10:20:40 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Готовность россиян покупать белую икру оценили"
-    },
-    {
-      "title": "Украина отклонила предложение США изменить границы ради мира. Что нового известно о переговорах в Абу-Даби?",
-      "link": "https://lenta.ru/news/2026/11/11/long-ukraina-otklonila-predlozhenie-ssha-izmenit-granitsy-radi-mira-chto-novogo-izvestno-o-peregovorah-v-abu-dabi/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Украина отклонила предложение США изменить границы ради мира. Что нового известно о переговорах в Абу-Даби?"
-    },
-    {
-      "title": "Популярные для похудения препараты привели к слепоте и параличу желудка",
-      "link": "https://lenta.ru/news/2026/11/11/populyarnye-dlya-pohudeniya-preparaty-priveli-k-slepote-i-paralichu-zheludka/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 09:56:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Популярные для похудения препараты привели к слепоте и параличу желудка"
-    },
-    {
-      "title": "Партнер России столкнулся с острым дефицитом меди",
-      "link": "https://lenta.ru/news/2026/11/11/partner-rossii-stolknulsya-s-ostrym-defitsitom-medi/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 09:00:34 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Партнер России столкнулся с острым дефицитом меди"
+      "titleZh": "俄罗斯出现小型卫星运载火箭短缺的情况"
     },
     {
       "title": "Республиканцы заблокировали попытку импичмента главе Пентагона Питу Хегсету",
@@ -313,62 +379,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Республиканцы заблокировали попытку импичмента главе Пентагона Питу Хегсету"
-    },
-    {
-      "title": "Ближневосточная страна резко увеличила импорт российского масла",
-      "link": "https://lenta.ru/news/2026/11/11/blizhnevostochnaya-strana-rezko-uvelichila-import-rossiyskogo-masla/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 08:42:59 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Ближневосточная страна резко увеличила импорт российского масла"
-    },
-    {
-      "title": "Экономист назвал способ распознать мошенников на распродажах",
-      "link": "https://lenta.ru/news/2026/11/11/ekonomist-nazval-sposob-raspoznat-moshennikov-na-rasprodazhah/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 08:39:08 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Экономист назвал способ распознать мошенников на распродажах"
-    },
-    {
-      "title": "Стал известен ответ Украины на предложение США по изменению границ",
-      "link": "https://lenta.ru/news/2026/11/11/stal-izvesten-otvet-ukrainy-na-predlozhenie-ssha-po-izmeneniyu-granits/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 08:31:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Стал известен ответ Украины на предложение США по изменению границ"
-    },
-    {
-      "title": "Страна Евросоюза снова начала покупать российский газ",
-      "link": "https://lenta.ru/news/2026/11/11/strana-evrosoyuza-snova-nachala-pokupat-rossiyskiy-gaz/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 07:27:20 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "Страна Евросоюза снова начала покупать российский газ"
-    },
-    {
-      "title": "Южноамериканская страна нарастила импорт российских дрожжей",
-      "link": "https://lenta.ru/news/2026/11/11/yuzhnoamerikanskaya-strana-narastila-import-rossiyskih-drozhzhey/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 07:13:51 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Южноамериканская страна нарастила импорт российских дрожжей"
+      "titleZh": "共和党人阻止了对国防部部长皮特·赫格塞斯的弹劾企图"
     },
     {
       "title": "Лукашенко поблагодарил Путина за поставки вооружений белорусской армии",
@@ -379,7 +390,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Лукашенко поблагодарил Путина за поставки вооружений белорусской армии"
+      "titleZh": "卢卡申科感谢普京向白俄罗斯军队供应武器"
     },
     {
       "title": "Товарооборот цифровых платформ вырос на 11% в III квартале",
@@ -390,84 +401,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "Товарооборот цифровых платформ вырос на 11% в III квартале"
-    },
-    {
-      "title": "Российский рынок акций замер после утреннего снижения",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/10/1244024-rossiiskii-rinok-aktsii",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 12:04:16 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Российский рынок акций замер после утреннего снижения"
-    },
-    {
-      "title": "Минсельхоз США выделил более $690 млн на завод стерильных мух в Техасе",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/10/1243924-minselhoz-ssha-videlil",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 07:53:15 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Минсельхоз США выделил более $690 млн на завод стерильных мух в Техасе"
-    },
-    {
-      "title": "Bloomberg: PepsiCo сократит около 1000 сотрудников",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/10/1243898-pepsico-sokratit-sotrudnikov",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 00:56:52 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Bloomberg: PepsiCo сократит около 1000 сотрудников"
-    },
-    {
-      "title": "Число погибших при взрыве на заводе в Турции выросло до 17",
-      "link": "https://www.vedomosti.ru/society/news/2026/11/09/1243891-chislo-pogibshih-viroslo",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 09 Nov 2026 23:45:52 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Число погибших при взрыве на заводе в Турции выросло до 17"
-    },
-    {
-      "title": "Состояние главы Nvidia сократилось на $7,4 млрд на фоне дела о шпионаже",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/09/1243888-sostoyanie-glavi-nvidia-sokratilos",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 09 Nov 2026 23:18:42 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Состояние главы Nvidia сократилось на $7,4 млрд на фоне дела о шпионаже"
-    },
-    {
-      "title": "Reuters: Boeing сократит 5% штата подразделения коммерческой авиации",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/09/1243885-boeing-sokratit",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 09 Nov 2026 23:04:36 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Reuters: Boeing сократит 5% штата подразделения коммерческой авиации"
-    },
-    {
-      "title": "FT: Anthropic заключила сделку на $3,4 млрд по поставке газовых генераторов",
-      "link": "https://www.vedomosti.ru/technology/news/2026/11/09/1243881-po-postavke-generatorov",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 09 Nov 2026 22:42:16 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "FT: Anthropic заключила сделку на $3,4 млрд по поставке газовых генераторов"
+      "titleZh": "第三季度，数字平台的商品交易额增长了11%。"
     }
   ]
 }
