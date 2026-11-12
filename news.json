@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-12T04:13:53.786Z",
-  "count": 32,
+  "updated": "2026-11-12T12:43:12.211Z",
+  "count": 31,
   "items": [
+    {
+      "title": "Покупатель билетов на концерт Канье Уэста отозвал иск на 800 тыс. рублей",
+      "link": "https://iz.ru/2200528/pokupatel-biletov-na-kontcert-kane-uesta-otozval-isk-na-800-tys-rublei-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 12 Nov 2026 14:58:30 +0300",
+      "summary": "<p>Мужчина, потребовавший 800 тыс. рублей компенсации за несостоявшийся концерт американского рэпера <a href=\"https://iz.ru/2150388/amerikanskii-reper-i-dizainer-kane-uest-biografiia-izi\">Канье Уэста</a>, добровольно отк",
+      "tags": [
+        "需求↑",
+        "汇率"
+      ],
+      "titleZh": "坎耶·韦斯特演唱会门票的购买者撤回了80万卢布的诉讼。"
+    },
+    {
+      "title": "Греф рассказал о продаже складов Сбера маркетплейсам",
+      "link": "https://lenta.ru/news/2026/11/12/gref-rasskazal-o-prodazhe-skladov-sbera-marketpleysam/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 12:31:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "平台"
+      ],
+      "titleZh": "格列夫谈到将Sber的仓库出售给电商平台"
+    },
+    {
+      "title": "Wildberries изменила систему хранения товаров после атак",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244736-wildberries-izmenila",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 12:18:27 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "Wildberries"
+      ],
+      "titleZh": "Wildberries 在遭遇攻击后更改了商品储存系统"
+    },
     {
       "title": "Зарплатные предложения для строителей и плиточников превысили 140 000 рублей",
       "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244506-stroitelei-i-plitochnikov",
@@ -27,126 +63,202 @@
       "titleZh": "消费者已经习惯了巧克力价格上涨。"
     },
     {
-      "title": "Дефицит бюджета за 10 месяцев составил 5,2 трлн рублей",
-      "link": "https://www.vedomosti.ru/economics/news/2026/11/10/1244181-defitsit-byudzheta",
+      "title": "Покупатель российской нефти столкнулся с самой сильной инфляцией",
+      "link": "https://lenta.ru/news/2026/11/12/pokupatel-rossiyskoy-nefti-stolknulsya-s-samoy-silnoy-inflyatsiey/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 15:31:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯石油的购买国面临最严重的通货膨胀"
+    },
+    {
+      "title": "Популярный сервис переводов восстановил работу для россиян",
+      "link": "https://lenta.ru/news/2026/11/12/populyarnyy-servis-perevodov-vosstanovil-rabotu-dlya-rossiyan/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 14:47:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "热门翻译服务恢复为俄罗斯人提供服务"
+    },
+    {
+      "title": "Ямпольская назвала традиционные ценности главным критерием для нейросетей в РФ",
+      "link": "https://iz.ru/2200527/iampolskaia-nazvala-traditcionnye-tcennosti-glavnym-kriteriem-dlia-neirosetei-v-rf-izi",
+      "source": "Izvestia",
+      "pubDate": "Thu, 12 Nov 2026 14:46:32 +0300",
+      "summary": "<p>Российская нейросеть для образования должна соответствовать традиционным духовно-нравственным ценностям. Об этом 12 ноября заявила советник президента РФ Елена Ямпольская.</p><p>«Инструмент распространения информации,",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "扬波利斯卡娅将传统价值观称为俄罗斯联邦神经网络的主要标准"
+    },
+    {
+      "title": "Оверчук сообщил о росте товарооборота России и Афганистана более чем вдвое",
+      "link": "https://iz.ru/2200508/2026-11-12/overchuk-soobshchil-o-roste-tovarooborota-rossii-i-afganistana-bolee-chem-vdvoe",
+      "source": "Izvestia",
+      "pubDate": "Thu, 12 Nov 2026 14:29:50 +0300",
+      "summary": "<p>Товарооборот между Россией и Афганистаном за первые восемь месяцев 2026 года превысил $349 млн, увеличившись более чем в два раза. Об этом 12 ноября заявил вице-премьер РФ Алексей Оверчук на переговорах с заместителем",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "奥韦尔丘克表示，俄罗斯与阿富汗的贸易额增长了一倍多。"
+    },
+    {
+      "title": "Правительство предложило доработать законопроект о продаже «красивых» госномеров",
+      "link": "https://iz.ru/2200486/pravitelstvo-predlozhilo-dorabotat-zakonoproekt-o-prodazhe-krasivykh-gosnomerov",
+      "source": "Izvestia",
+      "pubDate": "Thu, 12 Nov 2026 14:20:04 +0300",
+      "summary": "<p>Комиссия правительства по законопроектной деятельности поддержала законопроект о платном резервировании автомобильных номеров, но настояла на его доработке. Об этом 12 ноября сообщает <a href=\"https://www.kommersant.r",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "政府提议完善关于出售“靓号”车牌的法案"
+    },
+    {
+      "title": "Пассажиропоток «Аэрофлота» снизился на 5,5% в октябре",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244797-passazhiropotok-aeroflota",
       "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 18:07:47 +0300",
-      "summary": "Доходы выросли на 10,8%, а расходы – на 13,4%",
-      "tags": [
-        "需求↑",
-        "汇率"
-      ],
-      "titleZh": "10个月的预算赤字为5.2万亿卢布"
-    },
-    {
-      "title": "HR-эксперт назвала причины распространения карьерного кетфишинга",
-      "link": "https://iz.ru/2199186/2026-11-12/hr-ekspert-nazvala-prichiny-rasprostraneniia-karernogo-ketfishinga",
-      "source": "Izvestia",
-      "pubDate": "Thu, 12 Nov 2026 07:00:00 +0300",
-      "summary": "<p>На российском рынке труда набирает популярность явление, получившее название «карьерный кетфишинг». Речь идет о взаимном введении в заблуждение при трудоустройстве: соискатели преувеличивают свои профессиональные навы",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "人力资源专家列举了职业钓鱼诈骗蔓延的原因。"
-    },
-    {
-      "title": "Владельцев домашних животных предупредили о распространенной опасной привычке",
-      "link": "https://lenta.ru/news/2026/11/12/vladeltsev-domashnih-zhivotnyh-predupredili-o-rasprostranennoy-opasnoy-privychke/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 06:31:52 +0300",
+      "pubDate": "Thu, 12 Nov 2026 13:59:06 +0300",
       "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "宠物主人被警告一种常见的危险习惯"
-    },
-    {
-      "title": "Россиянам дали совет по выбору между ремонтом и продажей старого авто",
-      "link": "https://lenta.ru/news/2026/11/12/rossiyanam-dali-sovet-po-vyboru-mezhdu-remontom-i-prodazhey-starogo-avto/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 06:31:21 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人获得了关于在维修和出售旧车之间做出选择的建议。"
-    },
-    {
-      "title": "Кубинские больницы столкнулись с нехваткой антибиотиков и оборудования",
-      "link": "https://ria.ru/20261112/kuba-2131015685.html",
-      "source": "RIA",
-      "pubDate": "Thu, 12 Nov 2026 06:23:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "古巴医院面临抗生素和设备短缺问题"
-    },
-    {
-      "title": "Ученые указали на изменение работы кишечника при регулярном употреблении кофе",
-      "link": "https://iz.ru/2199828/uchenye-ukazali-na-izmenenie-raboty-kishechnika-pri-reguliarnom-upotreblenii-kofe-izi",
-      "source": "Izvestia",
-      "pubDate": "Thu, 12 Nov 2026 05:30:00 +0300",
-      "summary": "<p dir=\"ltr\">Кофе может влиять на пищеварение не только за счет стимуляции кишечника после чашки напитка. Исследователи обнаружили, что у людей, регулярно употребляющих кофе, отличаются состав кишечной микробиоты, кислот",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "科学家指出，经常喝咖啡会改变肠道功能。"
-    },
-    {
-      "title": "Axios узнал о просьбе США к РФ подготовить предложение по евробезопасности",
-      "link": "https://iz.ru/2200273/2026-11-12/axios-uznal-o-prosbe-ssha-k-rf-podgotovit-predlozhenie-po-evrobezopasnosti",
-      "source": "Izvestia",
-      "pubDate": "Thu, 12 Nov 2026 05:29:48 +0300",
-      "summary": "<p>Вашингтон обратился к <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москве</a> с просьбой разработать обновленный проект возможного соглашения о безопасности с европейскими странами. Об этом 11 ноября сообщает по",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "Axios获悉，美国已要求俄罗斯就欧洲安全问题拟定提案"
+      "titleZh": "10月份，俄罗斯“航空”公司的客流量下降了5.5%"
     },
     {
-      "title": "Мужчин предупредили о распространенной ошибке при использовании презервативов",
-      "link": "https://lenta.ru/news/2026/11/12/muzhchin-predupredili-o-rasprostranennoy-oshibke-pri-ispolzovanii-prezervativov/",
+      "title": "Ситуация на Украине вынудила BMW и Skoda пересмотреть производственные планы",
+      "link": "https://lenta.ru/news/2026/11/12/situatsiya-na-ukraine-vynudila-bmw-i-skoda-peresmotret-proizvodstvennye-plany/",
       "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 05:00:18 +0300",
+      "pubDate": "Thu, 12 Nov 2026 13:59:00 +0300",
       "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "男性被告知在使用避孕套时常犯的一个错误"
-    },
-    {
-      "title": "Роспотребнадзор рекомендовал школам вводить облегченный день в середине недели",
-      "link": "https://iz.ru/2200265/2026-11-12/rospotrebnadzor-rekomendoval-shkolam-vvodit-oblegchennyi-den-v-seredine-nedeli",
-      "source": "Izvestia",
-      "pubDate": "Thu, 12 Nov 2026 03:56:54 +0300",
-      "summary": "<p>Учащимся школ положена сокращенная нагрузка в среду или четверг для снижения риска переутомления. Это 12 ноября следует из документа Роспотребнадзора.</p><p>«Для предупреждения переутомления в течение недели обучающие",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯联邦消费者权益和公益监督局建议学校在周中安排一个轻松的学习日。"
+      "titleZh": "乌克兰局势迫使宝马和斯柯达重新考虑生产计划"
     },
     {
-      "title": "В МИД России назвали заказчика конфликта на Украине",
-      "link": "https://lenta.ru/news/2026/11/11/v-mid-rossii-nazvali-zakazchika-konflikta-na-ukraine/",
+      "title": "Найдено натуральное средство для снижения чувствительности кишечника",
+      "link": "https://lenta.ru/news/2026/11/12/naydeno-naturalnoe-sredstvo-dlya-snizheniya-chuvstvitelnosti-kishechnika/",
       "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 21:41:19 +0300",
+      "pubDate": "Thu, 12 Nov 2026 13:55:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "发现了一种降低肠道敏感性的天然疗法"
+    },
+    {
+      "title": "Военный высказался об эффекте ударов по заводу БПЛА в Киеве",
+      "link": "https://lenta.ru/news/2026/11/12/voennyy-vyskazalsya-ob-effekte-udarov-po-zavodu-bpla-v-kieve/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 13:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "军方就对基辅无人机工厂的打击效果发表了看法"
+    },
+    {
+      "title": "Греф связал возможное сокращение дивидендов с требованиями ЦБ",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/12/1244748-gref-svyazal-vozmozhnoe",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 12:52:28 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "格列夫将股息可能减少与央行的要求联系起来"
+    },
+    {
+      "title": "Популярный напиток связали с повышением активности мозга",
+      "link": "https://lenta.ru/news/2026/11/12/populyarnyy-napitok-svyazali-s-povysheniem-aktivnosti-mozga/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 12:27:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯外交部指明了乌克兰冲突的幕后主使"
+      "titleZh": "一种热门饮品与大脑活动增强有关"
     },
     {
-      "title": "Китаец купил двухкомнатную квартиру на распродаже менее чем за два доллара",
-      "link": "https://lenta.ru/news/2026/11/11/kitaets-kupil-dvuhkomnatnuyu-kvartiru-na-rasprodazhe-menee-chem-za-dva-dollara/",
+      "title": "Wildberries начал тестирование оплаты наличными в пунктах выдачи",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244734-wildberries-testirovanie",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 12:11:52 +0300",
+      "summary": "",
+      "tags": [
+        "Wildberries"
+      ],
+      "titleZh": "Wildberries开始在提货点测试现金支付功能"
+    },
+    {
+      "title": "Ким: Wildberries и власти РФ полтора месяца работали нон-стоп после атак ВСУ",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244728-rabotali-non-stop",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 11:56:39 +0300",
+      "summary": "",
+      "tags": [
+        "Wildberries"
+      ],
+      "titleZh": "基姆：Wildberries和俄罗斯当局在乌克兰武装部队袭击后不间断地工作了一个半月。"
+    },
+    {
+      "title": "В сети появилось фейковое распоряжение главы ДНР о сокращении расходов на 2027 год",
+      "link": "https://lenta.ru/news/2026/11/12/v-seti-poyavilos-feykovoe-rasporyazhenie-glavy-dnr-o-sokraschenii-rashodov-na-2027-god/",
       "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 21:40:00 +0300",
-      "summary": "]]>",
+      "pubDate": "Thu, 12 Nov 2026 11:48:06 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "网上出现了一份伪造的“顿涅茨克人民共和国”领导人关于削减2027年支出的命令。"
+    },
+    {
+      "title": "В Сбербанке спрогнозировали срок снижения ключевой ставки до однозначного уровня",
+      "link": "https://lenta.ru/news/2026/11/12/v-sberbanke-sprognozirovali-srok-snizheniya-klyuchevoy-stavki-do-odnoznachnogo-urovnya/",
+      "source": "Lenta",
+      "pubDate": "Thu, 12 Nov 2026 11:13:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯联邦储蓄银行预测了关键利率降至个位数水平的时间。"
+    },
+    {
+      "title": "Мошенники распространяют троян под видом VPN для Discord и приложения для Roblox",
+      "link": "https://www.vedomosti.ru/technology/news/2026/11/12/1244682-discord-roblox",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 10:30:05 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "一名中国人以不到两美元的价格在促销活动中买下了一套两居室公寓。"
+      "titleZh": "诈骗分子以 Discord 的 VPN 和 Roblox 应用程序的名义传播木马病毒"
+    },
+    {
+      "title": "Армия России поразила завод компонентов ракетного топлива в Киевской области",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/12/1244670-armiya-porazila",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 09:47:21 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯军队袭击了基辅州的一家火箭燃料部件厂。"
+    },
+    {
+      "title": "Кабмин окажет поддержку бизнесу, пострадавшему от атак РСЗО и ракет на WB и Ozon",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244666-kabmin-utochnil",
+      "source": "Vedomosti",
+      "pubDate": "Thu, 12 Nov 2026 09:31:16 +0300",
+      "summary": "",
+      "tags": [
+        "OZON"
+      ],
+      "titleZh": "内阁将为受火箭炮系统和导弹袭击影响的WB和Ozon企业提供支持。"
     },
     {
       "title": "Ozon: структуры Александра Чачавы утратили контроль над АО «О23»",
@@ -157,73 +269,7 @@
       "tags": [
         "OZON"
       ],
-      "titleZh": "Ozon：亚历山大·恰查瓦（Aleksandr Chachava）的实体已失去对“O23”股份公司的控制权"
-    },
-    {
-      "title": "Врач опровергла популярный миф о гипертонии",
-      "link": "https://lenta.ru/news/2026/11/11/vrach-oprovergla-populyarnyy-mif-o-gipertonii/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 21:07:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医生辟谣关于高血压的常见谬论"
-    },
-    {
-      "title": "В Китае приготовились к обвалу продаж легковых автомобилей",
-      "link": "https://lenta.ru/news/2026/11/11/ne-berut/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 20:12:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "中国已做好准备应对乘用车销量暴跌"
-    },
-    {
-      "title": "У популярной ягоды выявили противораковое свойство",
-      "link": "https://lenta.ru/news/2026/11/11/u-populyarnoy-yagody-vyyavili-protivorakovoe-svoystvo/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 19:47:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一种常见浆果被发现具有抗癌特性"
-    },
-    {
-      "title": "Tenet Plus представил полноприводную версию популярного кроссовера",
-      "link": "https://lenta.ru/news/2026/11/11/tenet-plus-predstavil-polnoprivodnuyu-versiyu-populyarnogo-krossovera/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 19:05:28 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "腾势D9推出热门跨界车全轮驱动版"
-    },
-    {
-      "title": "Добыча самой популярной в России рыбы взлетела",
-      "link": "https://lenta.ru/news/2026/11/11/selyodochka/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 18:54:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯最受欢迎的鱼类产量飙升"
-    },
-    {
-      "title": "Названа причина падения спроса на подержанные иномарки",
-      "link": "https://lenta.ru/news/2026/11/11/nazvana-prichina-padeniya-sprosa-na-poderzhannye-inomarki/",
-      "source": "Lenta",
-      "pubDate": "Wed, 11 Nov 2026 18:53:18 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "二手进口汽车需求下降的原因已查明"
+      "titleZh": "Ozon：亚历山大·恰查瓦（Alexander Chachava）的实体已失去对O23股份公司的控制权"
     },
     {
       "title": "Суд приговорил трех бывших топ-менеджеров «Роснано» за злоупотребления",
@@ -301,61 +347,6 @@
         "需求↑"
       ],
       "titleZh": "俄罗斯人在逛商店时购买的糖果变少了"
-    },
-    {
-      "title": "«Мегафон» и МТС заявили, что банки не приняли предложения по маркировке звонков",
-      "link": "https://www.vedomosti.ru/finance/news/2026/11/11/1244335-megafon-i-mts",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 11 Nov 2026 11:10:07 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "“MegaFon”和MTS表示，银行未接受有关标记通话的提议。"
-    },
-    {
-      "title": "В России образовался дефицит ракет-носителей для малых спутников",
-      "link": "https://www.vedomosti.ru/technology/news/2026/11/11/1244320-dlya-malih-sputnikov",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 11 Nov 2026 10:48:27 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯出现小型卫星运载火箭短缺的情况"
-    },
-    {
-      "title": "Республиканцы заблокировали попытку импичмента главе Пентагона Питу Хегсету",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/11/1244287-respublikantsi-zablokirovali",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 11 Nov 2026 08:57:05 +0300",
-      "summary": "Предложение не прошло юридический комитет, где республиканцы занимают большинство",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "共和党人阻止了对五角大楼负责人皮特·赫格塞斯的弹劾企图"
-    },
-    {
-      "title": "Лукашенко поблагодарил Путина за поставки вооружений белорусской армии",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/10/1244229-lukashenko-poblagodaril-putina",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 21:37:11 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "卢卡申科感谢普京向白俄罗斯军队供应武器"
-    },
-    {
-      "title": "Товарооборот цифровых платформ вырос на 11% в III квартале",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/10/1244115-tovarooborot-tsifrovih-platform",
-      "source": "Vedomosti",
-      "pubDate": "Tue, 10 Nov 2026 17:00:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "第三季度数字平台的商品交易额增长了11%"
     }
   ]
 }
