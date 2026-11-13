@@ -1,30 +1,44 @@
 {
-  "updated": "2026-11-13T01:22:19.962Z",
-  "count": 32,
+  "updated": "2026-11-13T08:12:24.879Z",
+  "count": 34,
   "items": [
     {
-      "title": "Бензин на независимых АЗС дешевеет второй месяц подряд",
-      "link": "https://iz.ru/2200898/2026-11-13/benzin-na-nezavisimykh-azs-desheveet-vtoroi-mesiatc-podriad",
+      "title": "Эксперты назвали среднюю стоимость новых электрокаров и гибридов в РФ",
+      "link": "https://iz.ru/2200638/2026-11-13/eksperty-nazvali-sredniuiu-stoimost-novykh-elektrokarov-i-gibridov-v-rf",
       "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 01:00:00 +0300",
-      "summary": "<p>В ноябре по сравнению с пиковыми значениями в сентябре 2026 года средняя цена на бензин АИ-92 на независимых АЗС в России снизилась на 19,8%, подсчитали «Известия» на основе данных компании «ОМТ Консалт». Сейчас литр ",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 +0300",
+      "summary": "<p>Средняя стоимость новых электромобилей и гибридов в России по итогам 10 месяцев текущего года снизилась на 8% и составила 6,7 млн рублей. Спрос на этот сегмент вырос на 3%, однако некоторые машины стали востребованнее",
+      "tags": [
+        "需求↑",
+        "供给↓",
+        "价格",
+        "汇率"
+      ],
+      "titleZh": "专家公布了俄罗斯境内新款电动汽车和混合动力汽车的平均价格。"
+    },
+    {
+      "title": "В России подешевел популярный фрукт",
+      "link": "https://lenta.ru/news/2026/11/13/v-rossii-podeshevel-populyarnyy-frukt/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 10:06:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "价格"
+      ],
+      "titleZh": "俄罗斯的一种热门水果价格下降了"
+    },
+    {
+      "title": "Цены на бензин в России перешли к снижению",
+      "link": "https://lenta.ru/news/2026/11/13/tseny-na-benzin-v-rossii-pereshli-k-snizheniyu/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 08:08:00 +0300",
+      "summary": "",
       "tags": [
         "供给↓",
         "价格"
       ],
-      "titleZh": "独立加油站的汽油价格连续第二个月走低"
-    },
-    {
-      "title": "Вице-премьер РФ Никитин прокомментировал законопроект о беспилотном транспорте",
-      "link": "https://iz.ru/2200889/2026-11-13/vitce-premer-rf-nikitin-prokommentiroval-zakonoproekt-o-bespilotnom-transporte",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 00:30:00 +0300",
-      "summary": "<p>Законопроект о высокоавтоматизированном транспорте призван распространить использование беспилотных авто, грузовых и пассажирских перевозок по всей России, заявил «Известиям» заместитель председателя правительства РФ ",
-      "tags": [
-        "需求↑",
-        "物流"
-      ],
-      "titleZh": "俄罗斯联邦副总理尼基京就无人驾驶交通工具法案发表评论"
+      "titleZh": "俄罗斯的汽油价格开始下降"
     },
     {
       "title": "Wildberries изменила систему хранения товаров после атак",
@@ -39,16 +53,147 @@
       "titleZh": "Wildberries 在遭遇攻击后更改了商品储存系统"
     },
     {
-      "title": "Зарплатные предложения для строителей и плиточников превысили 140 000 рублей",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/11/1244506-stroitelei-i-plitochnikov",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 11 Nov 2026 16:43:56 +0300",
+      "title": "Changan начала продажи кроссовера UNI-Z в России",
+      "link": "https://lenta.ru/news/2026/11/13/changan-nachala-prodazhi-krossovera-uni-z-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 11:04:29 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "汇率"
+        "需求↑"
       ],
-      "titleZh": "建筑工人和瓷砖工的薪资报价超过14万卢布。"
+      "titleZh": "长安开始在俄罗斯销售UNI-Z跨界车"
+    },
+    {
+      "title": "Дефицит бюджета США в октябре вырос почти в 15 раз",
+      "link": "https://www.vedomosti.ru/economics/news/2026/11/13/1245051-defitsit-byudzheta",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 13 Nov 2026 10:54:32 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "10月份美国预算赤字增长近15倍"
+    },
+    {
+      "title": "МИД России пригрозил заказчикам подрыва «Северных потоков»",
+      "link": "https://lenta.ru/news/2026/11/13/mid-rossii-prigrozil-zakazchikam-podryva-severnyh-potokov/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 10:53:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯外交部威胁“北溪”管道破坏事件的幕后主使"
+    },
+    {
+      "title": "Уехавший в Европу популярный комик насмешил поляков любовью к одному напитку",
+      "link": "https://lenta.ru/news/2026/11/13/uehavshiy-v-evropu-populyarnyy-komik-nasmeshil-polyakov-lyubovyu-k-odnomu-napitku/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 10:46:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位移居欧洲的知名喜剧演员因对一种饮料的喜爱而让波兰人捧腹大笑。"
+    },
+    {
+      "title": "Россияне стали реже покупать иномарки одной категории",
+      "link": "https://lenta.ru/news/2026/11/13/rossiyane-stali-rezhe-pokupat-inomarki-odnoy-kategorii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 10:45:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人购买同类别进口汽车的频率有所下降"
+    },
+    {
+      "title": "В Японии сообщили о планах властей выкупать устаревшее оборудование предприятий",
+      "link": "https://iz.ru/2201056/2026-11-13/v-iaponii-soobshchili-o-planakh-vlastei-vykupat-ustarevshee-oborudovanie-predpriiatii",
+      "source": "Izvestia",
+      "pubDate": "Fri, 13 Nov 2026 10:34:36 +0300",
+      "summary": "<p>Власти Японии рассматривают возможность временного перехода в государственную собственность устаревшего оборудования предприятий, выпускающих важную для экономической безопасности страны продукцию. Речь идет, в частно",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "据报道，日本政府计划回购企业的老旧设备。"
+    },
+    {
+      "title": "В списке главных покупателей российского зерна сменились лидеры",
+      "link": "https://lenta.ru/news/2026/11/13/v-spiske-glavnyh-pokupateley-rossiyskogo-zerna-smenilis-lidery/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯谷物主要买家名单上的领头羊发生了变化"
+    },
+    {
+      "title": "Нутрициолог назвала самые вредные варианты завтрака",
+      "link": "https://iz.ru/2201029/2026-11-13/nutritciolog-nazvala-samye-vrednye-varianty-zavtraka",
+      "source": "Izvestia",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 +0300",
+      "summary": "<p>Сладкие хлопья, свежая выпечка с соком, бутерброды с колбасой и сладкие йогурты могут негативно влиять на здоровье при регулярном употреблении. Об этом 13 ноября рассказала врач-дерматолог и нутрициолог «Альфа Эпохи» ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "营养师列出了最不健康的早餐选择"
+    },
+    {
+      "title": "В России вырос спрос на один платежный инструмент",
+      "link": "https://lenta.ru/news/2026/11/13/v-rossii-vyros-spros-na-odin-platezhnyy-instrument/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 09:39:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯对一种支付工具的需求有所增加。"
+    },
+    {
+      "title": "Названы главные причины снижения цен на бензин в России",
+      "link": "https://lenta.ru/news/2026/11/13/nazvany-glavnye-prichiny-snizheniya-tsen-na-benzin-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 08:48:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯汽油价格下跌的主要原因已确定"
+    },
+    {
+      "title": "Мерц сделал неожиданное предложение по переговорам с Россией",
+      "link": "https://lenta.ru/news/2026/11/13/merts-sdelal-neozhidannoe-predlozhenie-po-peregovoram-s-rossiey/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 08:44:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "默茨就与俄罗斯的谈判提出了出人意料的提议"
+    },
+    {
+      "title": "Мамочки в декрете получили сроки за предложенную на детских площадках подработку",
+      "link": "https://lenta.ru/news/2026/11/13/mamochki-v-dekrete-poluchili-sroki-za-predlozhennuyu-na-detskih-ploschadkah-podrabotku/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 08:20:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "休产假的妈妈们因在游乐场提供兼职工作而被判刑。"
+    },
+    {
+      "title": "В МИД России оценили предложенные Европой варианты урегулирования на Украине",
+      "link": "https://lenta.ru/news/2026/11/13/v-mid-rossii-otsenili-predlozhennye-evropoy-varianty-uregulirovaniya-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 06:59:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯外交部评估了欧洲提出的乌克兰问题解决方案"
     },
     {
       "title": "Склад и производственное помещение загорелись в российском регионе из-за БПЛА",
@@ -62,61 +207,6 @@
       "titleZh": "俄罗斯一地区仓库和生产车间因无人机袭击起火"
     },
     {
-      "title": "Прокуратура США отозвала сделку с российскими руферами",
-      "link": "https://iz.ru/2200977/2026-11-13/prokuratura-ssha-otozvala-sdelku-s-rossiiskimi-ruferami",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 03:18:21 +0300",
-      "summary": "<p>Прокуратура <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> отказалась от ранее предложенной сделки о признании вины с российскими руферами Иваном Биркусом (Кузнецовым) и Ангелиной Николау, забравшимися на не",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "美国检察官撤销了与俄罗斯跑酷爱好者的认罪协议。"
-    },
-    {
-      "title": "Крупнейший производитель подсолнечного масла на Украине остановил заводы",
-      "link": "https://iz.ru/2200955/2026-11-13/krupneishii-proizvoditel-podsolnechnogo-masla-na-ukraine-ostanovil-zavody",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 01:35:03 +0300",
-      "summary": "<p>Украинский агрохолдинг Kernel приостановил работу всех маслоэкстракционных заводов из-за повреждения производственных объектов и угрозы безопасности сотрудников. Об этом 12 ноября сообщил журнал Forbes.ua со ссылкой н",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌克兰最大的葵花籽油生产商停产"
-    },
-    {
-      "title": "Дефицит бюджета США в октябре увеличился до $404 млрд",
-      "link": "https://iz.ru/2200936/2026-11-13/defitcit-biudzheta-ssha-v-oktiabre-uvelichilsia-do-404-mlrd",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 01:09:27 +0300",
-      "summary": "<p>В октябре дефицит федерального бюджета <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> достиг $404,064 млрд, увеличившись примерно в 15 раз по сравнению с предыдущим месяцем. Об этом 12 ноября сообщает портал",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "10月份美国预算赤字增至4040亿美元"
-    },
-    {
-      "title": "Временные ограничения введены в аэропорту Волгограда",
-      "link": "https://iz.ru/2200942/2026-11-13/vremennye-ogranicheniia-vvedeny-v-aeroportu-volgograda",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 00:29:38 +0300",
-      "summary": "<p>В аэропорту Волгограда введены временные ограничения на прием и выпуск самолетов. Об этом 12 ноября сообщила пресс-служба Росавиации.</p><p>«Аэропорт Волгограда: введены временные ограничения на прием и выпуск воздушн",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "伏尔加格勒机场实施临时限制。"
-    },
-    {
-      "title": "Mercedes-Benz приостановила инвестиции в заводы в Германии",
-      "link": "https://iz.ru/2200916/2026-11-13/mercedes-benz-priostanovila-investitcii-v-zavody-v-germanii",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 00:28:20 +0300",
-      "summary": "<p>Компания Mercedes-Benz приостанавливает все инвестиции в свои заводы в Германии и изучает возможность их закрытия для борьбы с высокими затратами на производство автомобилей. Об этом 12 ноября сообщило агентство <a hr",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "梅赛德斯-奔驰暂停对德国工厂的投资"
-    },
-    {
       "title": "Mercedes-Benz заморозил инвестиции в производство в Германии",
       "link": "https://www.vedomosti.ru/auto/news/2026/11/12/1244981-mercedes-benz-zamorozil-investitsii",
       "source": "Vedomosti",
@@ -128,28 +218,6 @@
       "titleZh": "梅赛德斯-奔驰冻结了在德国的生产投资"
     },
     {
-      "title": "Путин напомнил Уиткоффу и Кушнеру о предложениях России по архитектуре безопасности",
-      "link": "https://lenta.ru/news/2026/11/12/putin-napomnil-uitkoffu-i-kushneru-o-predlozheniyah-rossii-po-arhitekture-bezopasnosti/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 20:45:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京向惠特科夫和库什纳重申了俄罗斯关于安全架构的提议"
-    },
-    {
-      "title": "Названо лучшее время суток для употребления фруктов",
-      "link": "https://lenta.ru/news/2026/11/12/nazvano-luchshee-vremya-sutok-dlya-upotrebleniya-fruktov/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 20:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "揭晓一天中吃水果的最佳时段"
-    },
-    {
       "title": "Афганистан заинтересован в строительстве российских заводов удобрений",
       "link": "https://www.vedomosti.ru/politics/news/2026/11/12/1244955-moskva-kabul-zainteresovani",
       "source": "Vedomosti",
@@ -158,29 +226,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "阿富汗有意建设俄罗斯化肥厂"
-    },
-    {
-      "title": "Популярная добавка оказалась способна снижать давление и воспаление",
-      "link": "https://lenta.ru/news/2026/11/12/populyarnaya-dobavka-okazalas-sposobna-snizhat-davlenie-i-vospalenie/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 20:15:01 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一种热门保健品被证实能够降低血压和炎症"
-    },
-    {
-      "title": "Сборная России одержала волевую победу над командой Узбекистана в товарищеском матче",
-      "link": "https://lenta.ru/news/2026/11/12/sbornaya-rossii-oderzhala-volevuyu-pobedu-nad-komandoy-uzbekistana-v-tovarischeskom-matche/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 20:12:02 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯国家队在友谊赛中凭借顽强的意志战胜了乌兹别克斯坦队。"
+      "titleZh": "阿富汗有意愿建设俄罗斯化肥厂"
     },
     {
       "title": "Путин поручил создать дорожную карту по локализации производства аккумуляторов",
@@ -194,28 +240,6 @@
       "titleZh": "普京指示制定电池生产本地化路线图"
     },
     {
-      "title": "Популярному российскому блогеру сделали операцию",
-      "link": "https://lenta.ru/news/2026/11/12/populyarnomu-rossiyskomu-blogeru-sdelali-operatsiyu/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 19:11:54 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位广受欢迎的俄罗斯博主接受了手术。"
-    },
-    {
-      "title": "Названы популярные у иностранных туристов регионы России",
-      "link": "https://lenta.ru/news/2026/11/12/nazvany-populyarnye-u-inostrannyh-turistov-regiony-rossii/",
-      "source": "Lenta",
-      "pubDate": "Thu, 12 Nov 2026 19:09:30 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯深受外国游客喜爱的地区名单出炉"
-    },
-    {
       "title": "«Черноголовка» рассматривает возможность продажи печенья в Афганистане",
       "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244900-chernogolovka-rassmatrivaet",
       "source": "Vedomosti",
@@ -224,7 +248,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "“切尔诺戈洛夫卡”正在考虑在阿富汗销售饼干的可能性"
+      "titleZh": "“切尔诺戈洛夫卡”正在考虑在阿富汗销售饼干的可能性。"
     },
     {
       "title": "Оверчук: товарооборот России с Афганистаном вырос более чем вдвое",
@@ -246,7 +270,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄新社：谢列梅捷沃机场批准向RWB旗下实体出售“书苑-环球”75%的股份"
+      "titleZh": "俄商业咨询网站（RBC）：谢列梅捷沃机场批准向RWB旗下实体出售“书苑-环球”75%的股份"
     },
     {
       "title": "Путин: Европа отвергает предложение Трампа о системе безопасности",
@@ -312,7 +336,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "诈骗分子伪装成 Discord 的 VPN 和 Roblox 的应用程序来传播木马病毒"
+      "titleZh": "诈骗分子以 Discord 的 VPN 和 Roblox 应用程序的名义传播木马病毒"
     },
     {
       "title": "Армия России поразила завод компонентов ракетного топлива в Киевской области",
@@ -345,7 +369,7 @@
       "tags": [
         "OZON"
       ],
-      "titleZh": "Ozon：亚历山大·恰查瓦（Aleksandr Chachava）的实体已失去对O23股份有限公司的控制权"
+      "titleZh": "Ozon：亚历山大·恰查瓦（Aleksandr Chachava）的实体已失去对O23股份公司的控制权"
     },
     {
       "title": "Суд приговорил трех бывших топ-менеджеров «Роснано» за злоупотребления",
@@ -356,7 +380,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "法院以滥用职权罪判处三名前“俄罗斯纳米技术公司”高管有罪"
+      "titleZh": "法院以滥用职权罪判处三名前“俄罗斯纳米技术公司”高管有罪。"
     }
   ]
 }
