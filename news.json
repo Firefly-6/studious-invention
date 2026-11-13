@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-13T16:18:38.785Z",
-  "count": 31,
+  "updated": "2026-11-13T22:02:18.493Z",
+  "count": 26,
   "items": [
+    {
+      "title": "«Газпром» собрал заявки на выпуск облигаций на 50 млрд рублей",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/13/1245309-obligatsii-na-50-mlrd",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 13 Nov 2026 20:14:43 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "汇率"
+      ],
+      "titleZh": "“俄罗斯天然气工业股份公司”已收到总额为500亿卢布的债券发行申请"
+    },
     {
       "title": "ЦБ снизил курс доллара до 82,15 рубля",
       "link": "https://www.vedomosti.ru/finance/news/2026/11/13/1245275-tsb-snizil-kurs",
@@ -13,18 +25,6 @@
         "汇率"
       ],
       "titleZh": "俄罗斯央行将美元汇率下调至82.15卢布"
-    },
-    {
-      "title": "МЭА понизило прогноз спроса на нефть на 2026 год до 102,3 млн баррелей в сутки",
-      "link": "https://iz.ru/2201323/mea-ponizilo-prognoz-sprosa-na-neft-na-2026-god-do-1023-mln-bs-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 17:30:41 +0300",
-      "summary": "<p>Мировой спрос на нефть в текущем году сократится на 2,7 млн баррелей в сутки и составит 102,3 млн баррелей в сутки. Такой прогноз 13 ноября содержится в <a href=\"https://www.iea.org/reports/oil-market-report-november-",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "国际能源署将2026年石油需求预测下调至每日1.023亿桶"
     },
     {
       "title": "Биржевые цены на АИ-92 за неделю снизились на 2,3%",
@@ -39,37 +39,92 @@
       "titleZh": "一周内，AI-92的交易所价格下跌了2.3%"
     },
     {
-      "title": "«Пожалуйста, никаких сюрпризов». В Евросоюзе переполох из-за переговоров с Россией. Что там думают о предложении Путина?",
-      "link": "https://lenta.ru/news/2026/11/13/long-pozhaluysta-nikakih-syurprizov-v-evrosoyuze-perepoloh-iz-za-peregovorov-s-rossiey-chto-tam-dumayut-o-predlozhenii-putina/",
+      "title": "Наступают на пятки: страны вне ОПЕК+ наращивают нефтедобычу",
+      "link": "https://iz.ru/2201414/oksana-belkina/nastupaiut-na-piatki-strany-vne-opek-narashchivaiut-neftedobychu",
+      "source": "Izvestia",
+      "pubDate": "Sat, 14 Nov 2026 00:02:00 +0300",
+      "summary": "Что происходит на рынке нефти и как могут измениться позиции российских экспортеров",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "步步紧逼：非欧佩克+国家正在增加石油产量"
+    },
+    {
+      "title": "В США заявили о дефиците запчастей для военных из-за помощи Украине",
+      "link": "https://lenta.ru/news/2026/11/14/v-ssha-zayavili-o-defitsite-zapchastey-dlya-voennyh-iz-za-pomoschi-ukraine/",
       "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 18:53:20 +0300",
+      "pubDate": "Fri, 13 Nov 2026 23:38:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "美国称，由于向乌克兰提供援助，导致军用零部件短缺。"
+    },
+    {
+      "title": "Rapporteur указал на раскол в ЕС из-за требований Мерца о финансировании Киева",
+      "link": "https://iz.ru/2201516/2026-11-13/rapporteur-ukazal-na-raskol-v-es-iz-za-trebovanii-mertca-o-finansirovanii-kieva",
+      "source": "Izvestia",
+      "pubDate": "Fri, 13 Nov 2026 23:07:26 +0300",
+      "summary": "<p>Предложение канцлера Германии Фридриха Мерца включить расходы на поддержку <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> в семилетний бюджет Евросоюза (ЕС) на 2028–2034 годы вызвало сопротивление сре",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "报告员指出，由于默茨对基辅的资助要求，欧盟内部出现了分歧。"
+    },
+    {
+      "title": "В США признали нехватку рабочей силы на Украине из-за мобилизации",
+      "link": "https://lenta.ru/news/2026/11/14/v-ssha-priznali-nehvatku-rabochey-sily-na-ukraine-iz-za-mobilizatsii/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 22:26:59 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "美国承认，由于动员令，乌克兰存在劳动力短缺问题。"
+    },
+    {
+      "title": "Европейская страна отказалась финансировать закупки оружия для Украины по линии НАТО",
+      "link": "https://lenta.ru/news/2026/11/13/evropeyskaya-strana-otkazalas-finansirovat-zakupki-oruzhiya-dlya-ukrainy-po-linii-nato/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 21:49:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一个欧洲国家拒绝通过北约渠道为乌克兰的武器采购提供资金"
+    },
+    {
+      "title": "Число погибших при взрыве на заводе в Турции выросло до 19",
+      "link": "https://www.vedomosti.ru/society/news/2026/11/13/1245313-chislo-pogibshih-viroslo",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 13 Nov 2026 21:24:09 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“请不要有任何意外。”欧盟因与俄罗斯的谈判而陷入混乱。他们对普京的提议有何看法？"
+      "titleZh": "土耳其工厂爆炸事故死亡人数升至19人"
     },
     {
-      "title": "В России число воспитанников детских домов сократилось почти в четыре раза",
-      "link": "https://iz.ru/2201383/2026-11-13/v-rossii-chislo-vospitannikov-detskikh-domov-sokratilos-pochti-v-chetyre-raza",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 18:33:02 +0300",
-      "summary": "<p>Число воспитанников детских домов в России за последние 15 лет сократилось почти в четыре раза — со 105 945 до 26 406 человек. Об этом 13 ноября сообщили в пресс-службе Минпросвещения РФ.</p><p>«За последние 15 лет в ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯孤儿院的儿童人数减少了近四倍。"
-    },
-    {
-      "title": "В Саратовской области нашли новых зараженных после употребления рыбы с червями",
-      "link": "https://iz.ru/2201328/v-saratovskoi-oblasti-nashli-novykh-zarazhennykh-posle-upotrebleniia-ryby-s-cherviami-izi",
-      "source": "Izvestia",
-      "pubDate": "Fri, 13 Nov 2026 17:29:11 +0300",
-      "summary": "<p>В Саратовской области продолжают выявлять новых пострадавших после употребления рыбы, зараженной личинками паразитов, вызывающих описторхоз. Об этом 13 ноября сообщили в региональном управлении Роспотребнадзора.</p>",
+      "title": "Популярная у россиян туристическая страна предложила новый способ оплаты покупок",
+      "link": "https://lenta.ru/news/2026/11/13/populyarnaya-u-rossiyan-turisticheskaya-strana-predlozhila-novyy-sposob-oplaty-pokupok/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 20:12:00 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "在萨拉托夫州，人们在食用含有寄生虫的鱼类后发现了新的感染病例。"
+      "titleZh": "深受俄罗斯人喜爱的旅游国家推出了新的购物支付方式"
+    },
+    {
+      "title": "«Пожалуйста, никаких сюрпризов». В Евросоюзе переполох из-за переговоров с Россией. Что там думают о предложении Путина?",
+      "link": "https://lenta.ru/news/2026/11/13/long-pozhaluysta-nikakih-syurprizov-v-evrosoyuze-perepoloh-iz-za-peregovorov-s-rossiey-chto-tam-dumayut-o-predlozhenii-putina/",
+      "source": "Lenta",
+      "pubDate": "Fri, 13 Nov 2026 18:53:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "“请不要有任何意外。”欧盟因与俄罗斯的谈判而陷入一片混乱。他们对普京的提议有何看法？"
     },
     {
       "title": "Доля нерезидентов в еврооблигациях России снизилась до 32%",
@@ -91,29 +146,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "默茨对俄罗斯的提议作出了回应"
-    },
-    {
-      "title": "Поставки немецкого пива в Россию рухнули",
-      "link": "https://lenta.ru/news/2026/11/13/piiiiiivo/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 15:57:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "德国啤酒对俄出口量暴跌"
-    },
-    {
-      "title": "Последствия снижения запасов газа в Европе оценили",
-      "link": "https://lenta.ru/news/2026/11/13/posledstviya-snizheniya-zapasov-gaza-v-evrope-otsenili/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 15:42:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "对欧洲天然气储备减少的影响进行了评估"
+      "titleZh": "默茨对俄罗斯的提议作出了回应。"
     },
     {
       "title": "ЦБ ждет появления ИИ-помощника для потребителей в 2027 году",
@@ -127,17 +160,6 @@
       "titleZh": "俄罗斯中央银行预计2027年将推出面向消费者的AI助手"
     },
     {
-      "title": "Российским маркетплейсам предложили не лезть во все тяжкие",
-      "link": "https://lenta.ru/news/2026/11/13/breaking-bad/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 14:54:00 +0300",
-      "summary": "",
-      "tags": [
-        "平台"
-      ],
-      "titleZh": "俄罗斯电商平台被建议不要过于激进"
-    },
-    {
       "title": "Продажи «Домодедово» и ЮГК стали крупнейшими сделками Росимущества",
       "link": "https://www.vedomosti.ru/business/news/2026/11/13/1245181-prodazhi-domodedovoi",
       "source": "Vedomosti",
@@ -147,72 +169,6 @@
         "需求↑"
       ],
       "titleZh": "多莫杰多沃机场和南方矿业公司的出售成为俄罗斯联邦财产管理局的最大交易。"
-    },
-    {
-      "title": "Партнер России столкнулся с резким скачком торгового дефицита",
-      "link": "https://lenta.ru/news/2026/11/13/partner-rossii-stolknulsya-s-rezkim-skachkom-torgovogo-defitsita/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 14:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯的合作伙伴面临贸易逆差的急剧增加"
-    },
-    {
-      "title": "В сети распространился фейк о забастовке дальнобойщиков в России",
-      "link": "https://lenta.ru/news/2026/11/13/v-seti-rasprostranilsya-feyk-o-zabastovke-dalnoboyschikov-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 13:58:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "有关俄罗斯卡车司机罢工的虚假消息在网上流传。"
-    },
-    {
-      "title": "Кремль обратился к Европе и США после нового предложения Путина",
-      "link": "https://lenta.ru/news/2026/11/13/kreml-obratilsya-k-evrope-i-ssha-posle-novogo-predlozheniya-putina/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 13:42:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京提出新提议后，克里姆林宫向欧洲和美国发出呼吁"
-    },
-    {
-      "title": "Врач рассказала о последствиях ежедневного употребления одного вида супа",
-      "link": "https://lenta.ru/news/2026/11/13/vrach-rasskazala-o-posledstviyah-ezhednevnogo-upotrebleniya-odnogo-vida-supa/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 13:31:46 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医生谈论了每天食用一种汤的后果。"
-    },
-    {
-      "title": "Для российских БПЛА начали выпускать «Скиф» с ИИ",
-      "link": "https://lenta.ru/news/2026/11/13/dlya-rossiyskih-bpla-nachali-vypuskat-skif-s-ii/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 13:28:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "开始为俄罗斯无人机生产搭载人工智能的“斯基夫”系统"
-    },
-    {
-      "title": "На Западе узнали о предложении России якобы разделить Молдавию",
-      "link": "https://lenta.ru/news/2026/11/13/na-zapade-uznali-o-predlozhenii-rossii-yakoby-razdelit-moldaviyu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 13 Nov 2026 13:26:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "西方获悉俄罗斯 якобы提议分裂摩尔多瓦"
     },
     {
       "title": "Экспорт нефти из России в октябре вырос до 6,82 млн баррелей в сутки",
@@ -289,7 +245,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "普京指示制定电池生产本地化路线图"
+      "titleZh": "普京下令制定电池生产本地化路线图"
     },
     {
       "title": "«Черноголовка» рассматривает возможность продажи печенья в Афганистане",
@@ -334,17 +290,6 @@
         "供给↓"
       ],
       "titleZh": "普京：欧洲拒绝了特朗普的安全体系提议"
-    },
-    {
-      "title": "Пассажиропоток «Аэрофлота» снизился на 5,5% в октябре",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/12/1244797-passazhiropotok-aeroflota",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 12 Nov 2026 13:59:06 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "10月份，俄罗斯“航空”公司的客流量下降了5.5%"
     }
   ]
 }
