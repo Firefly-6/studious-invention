@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-15T10:46:37.470Z",
-  "count": 23,
+  "updated": "2026-11-15T17:28:15.190Z",
+  "count": 27,
   "items": [
+    {
+      "title": "Любимова оценила представленный в Китае трейлер фильма «Черный шелк»",
+      "link": "https://iz.ru/2202259/2026-11-15/liubimova-otcenila-predstavlennyi-v-kitae-treiler-filma-chernyi-shelk",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 19:06:52 +0300",
+      "summary": "<p>Трейлер российско-китайского фильма «Черный шелк», в производстве которого участвует Национальная Медиа Группа, получился ярким и дорогим, а в кадре можно увидеть как российских, так и китайских звезд. Об этом 15 нояб",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "柳比莫娃对在中国上映的电影《黑丝绸》的预告片给予了高度评价"
+    },
+    {
+      "title": "Каллас анонсировала новые санкции ЕС против покупателей российской нефти",
+      "link": "https://iz.ru/2202257/kallas-poobeshchala-sanktcii-evrosoiuza-protiv-uchastnikov-perevozok-rossiiskoi-nefti-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 18:51:02 +0300",
+      "summary": "<p>Министры иностранных дел стран Евросоюза (ЕС) 16 ноября планируют утвердить новые санкционные списки против России, в которые войдут банки, покупатели нефти и компании, предположительно связанные с перевозками российс",
+      "tags": [
+        "需求↑",
+        "制裁"
+      ],
+      "titleZh": "卡拉斯宣布欧盟将对俄罗斯石油的购买方实施新制裁"
+    },
     {
       "title": "«Газпром» собрал заявки на выпуск облигаций на 50 млрд рублей",
       "link": "https://www.vedomosti.ru/investments/news/2026/11/13/1245309-obligatsii-na-50-mlrd",
@@ -39,6 +63,116 @@
       "titleZh": "一周内，AI-92的交易所价格下跌了2.3%"
     },
     {
+      "title": "Газизов направит в РПЛ предложения по расширению лиги",
+      "link": "https://lenta.ru/news/2026/11/15/gazizov-napravit-v-rpl-predlozheniya-po-rasshireniyu-ligi/",
+      "source": "Lenta",
+      "pubDate": "Sun, 15 Nov 2026 20:05:57 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "加齐佐夫将向俄超联赛提出扩大联赛规模的建议"
+    },
+    {
+      "title": "Переводчик Путина стал звездой соцсетей после встречи с представителями США",
+      "link": "https://iz.ru/2202267/perevodchik-putina-otreagiroval-na-populiarnost-v-zapadnykh-sotcsetiakh-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 19:50:35 +0300",
+      "summary": "<p>Переводчик президента России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> Алексей Садыков получил популярность среди западных пользователей социальных сетей после переговоров российс",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "普京的翻译在与美国代表会面后成为社交媒体明星"
+    },
+    {
+      "title": "Власти США проверят, не нарушала ли Nvidia экспортных ограничений",
+      "link": "https://ria.ru/20261115/nvidia-2131711367.html",
+      "source": "RIA",
+      "pubDate": "Sun, 15 Nov 2026 19:04:07 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "美国当局将调查英伟达是否违反了出口限制规定"
+    },
+    {
+      "title": "Переводчик Путина высказался о своей популярности в соцсетях",
+      "link": "https://lenta.ru/news/2026/11/15/perevodchik-putina-vyskazalsya-o-svoey-populyarnosti-v-sotssetyah/",
+      "source": "Lenta",
+      "pubDate": "Sun, 15 Nov 2026 18:11:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "普京的翻译谈到了自己在社交媒体上的受欢迎程度"
+    },
+    {
+      "title": "Гендиректор НМГ назвала уникальным событием презентацию фильма «Черный шелк» в Китае",
+      "link": "https://iz.ru/2202167/2026-11-15/gendirektor-nmg-nazvala-unikalnym-sobytiem-prezentatciiu-filma-chernyi-shelk-v-kitae",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 17:34:37 +0300",
+      "summary": "<p>Презентация фильма «Черный шелк» совместного производства России и Китая на медиасаммите стран АТЭС в Шэньчжэне стала уникальным событием. Об этом 15 ноября заявила генеральный директор Национальной Медиа Группы Светл",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "国家媒体集团（NMG）首席执行官称电影《黑丝绸》在中国上映是一次独特的盛事"
+    },
+    {
+      "title": "Хостинг-провайдер Beget сообщил о новой масштабной кибератаке",
+      "link": "https://iz.ru/2202216/khosting-provaider-beget-soobshchil-o-novoi-masshtabnoi-kiberatake-izi",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 17:13:58 +0300",
+      "summary": "<p>Хостинг-провайдер Beget 15 ноября сообщил о новой масштабной DDoS-атаке на свою инфраструктуру мощностью до 850 Гбит/с.</p><p>По данным компании, злоумышленники последовательно атакуют разные подсети, пытаясь нарушить",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "托管服务提供商Beget报告了一起新的大规模网络攻击事件。"
+    },
+    {
+      "title": "AP: НАТО сократило число встреч на высшем уровне из-за внутренних разногласий",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/15/1245465-nato-sokratilo-chislo-vstrech",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 15 Nov 2026 16:44:53 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "美联社：北约因内部分歧减少首脑会议次数"
+    },
+    {
+      "title": "Суд в Москве заблокировал сайты по продаже пеликанов",
+      "link": "https://iz.ru/2202154/2026-11-15/sud-v-moskve-zablokiroval-saity-po-prodazhe-pelikanov",
+      "source": "Izvestia",
+      "pubDate": "Sun, 15 Nov 2026 16:29:00 +0300",
+      "summary": "<p>Тверской суд <a href=\"https://iz.ru/tag/moskva\" target=\"_blank\">Москвы</a> по требованию прокуратуры заблокировал ресурсы, на которых продавались пеликаны для содержания в домашних условиях. Об этом говорится в матери",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "莫斯科法院封禁了售卖鹈鹕的网站"
+    },
+    {
+      "title": "Франция ввела временный запрет на продажу и использование пиротехники",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/15/1245454-frantsiya-vvela",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 15 Nov 2026 14:34:43 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "法国暂时禁止销售和使用烟花爆竹"
+    },
+    {
+      "title": "Продажи средств от похмелья рекордно выросли в России",
+      "link": "https://lenta.ru/news/2026/11/15/prodazhi-sredstv-ot-pohmelya-rekordno-vyrosli-v-rossii/",
+      "source": "Lenta",
+      "pubDate": "Sun, 15 Nov 2026 14:06:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯的解宿醉产品销量创下历史新高"
+    },
+    {
       "title": "Назван защищающий джентльменов от рака популярный продукт",
       "link": "https://lenta.ru/news/2026/11/15/nazvan-zaschischayuschiy-dzhentelmenov-ot-raka-populyarnyy-produkt/",
       "source": "Lenta",
@@ -47,18 +181,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "一款备受欢迎的产品被誉为男士的防癌利器"
-    },
-    {
-      "title": "В Южной Корее выпускник сдал экзамен на налогового бухгалтера с помощью ИИ",
-      "link": "https://iz.ru/2202091/2026-11-15/v-iuzhnoi-koree-vypusknik-sdal-ekzamen-na-nalogovogo-bukhgaltera-s-pomoshchiu-ii",
-      "source": "Izvestia",
-      "pubDate": "Sun, 15 Nov 2026 10:59:00 +0300",
-      "summary": "<p>Скандал с использованием генеративного искусственного интеллекта для списывания на национальном экзамене для будущих налоговых бухгалтеров поставил под вопрос надежность системы экзаменационного контроля в Южной Корее",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "在韩国，一名毕业生在人工智能的帮助下通过了税务会计师考试。"
+      "titleZh": "一款保护男士免受癌症侵害的热门产品被提名"
     },
     {
       "title": "Япония обыграла Бразилию в товарищеском матче",
@@ -70,17 +193,6 @@
         "需求↑"
       ],
       "titleZh": "日本队在友谊赛中击败巴西队"
-    },
-    {
-      "title": "В Роспотребнадзоре назвали самый надежный способ защиты от пневмонии",
-      "link": "https://iz.ru/2202086/2026-11-15/v-rospotrebnadzore-nazvali-samyi-nadezhnyi-sposob-zashchity-ot-pnevmonii",
-      "source": "Izvestia",
-      "pubDate": "Sun, 15 Nov 2026 10:12:02 +0300",
-      "summary": "<p>Вакцинация — самый эффективный способ профилактики гриппа и внебольничной пневмонии в период сезонного распространения респираторных инфекций. Об этом 15 ноября сообщили в пресс-службе Роспотребнадзора.</p>",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯联邦消费者权益和公益监督局公布了预防肺炎的最可靠方法"
     },
     {
       "title": "Названо неприятное последствие употребления сахарозаменителей",
@@ -103,50 +215,6 @@
         "供给↓"
       ],
       "titleZh": "彭博社：驻欧美军的裁减规模可能不会那么大"
-    },
-    {
-      "title": "Военкор объяснил отвержение Зеленским предложения Путина",
-      "link": "https://lenta.ru/news/2026/11/14/voenkor-ob-yasnil-otverzhenie-zelenskim-predlozheniya-putina/",
-      "source": "Lenta",
-      "pubDate": "Sat, 14 Nov 2026 22:50:04 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "战地记者解释了泽连斯基拒绝普京提议的原因"
-    },
-    {
-      "title": "Предложение Путина к Украине описали словами «шах и мат»",
-      "link": "https://lenta.ru/news/2026/11/14/predlozhenie-putina-k-ukraine-opisali-slovami-shah-i-mat/",
-      "source": "Lenta",
-      "pubDate": "Sat, 14 Nov 2026 21:43:48 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京向乌克兰提出的建议被形容为“将死”。"
-    },
-    {
-      "title": "Популярный российский рэпер попал в ДТП перед концертом",
-      "link": "https://lenta.ru/news/2026/11/14/dtp/",
-      "source": "Lenta",
-      "pubDate": "Sat, 14 Nov 2026 20:48:08 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯知名说唱歌手在演唱会前遭遇车祸"
-    },
-    {
-      "title": "ЦСКА разгромил тульский «Арсенал» в товарищеском матче",
-      "link": "https://lenta.ru/news/2026/11/14/tsska-razgromil-tulskiy-arsenal-v-tovarischeskom-matche/",
-      "source": "Lenta",
-      "pubDate": "Sat, 14 Nov 2026 18:34:31 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "中央陆军在友谊赛中大胜图拉“阿森纳”队"
     },
     {
       "title": "Шохин спрогнозировал сокращения в российских компаниях в 2027 году",
@@ -212,7 +280,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "多莫杰多沃机场和南方煤炭能源公司的出售成为俄罗斯联邦财产管理局的最大交易"
+      "titleZh": "多莫杰多沃机场和南方煤炭集团的出售成为俄罗斯联邦财产管理局的最大交易"
     },
     {
       "title": "Экспорт нефти из России в октябре вырос до 6,82 млн баррелей в сутки",
@@ -235,28 +303,6 @@
         "供给↓"
       ],
       "titleZh": "进口至俄罗斯的车龄超过30年的汽车数量超过了去年的水平。"
-    },
-    {
-      "title": "Костин призвал ЦБ продолжить сокращение числа банков в России",
-      "link": "https://www.vedomosti.ru/finance/news/2026/11/13/1245070-sokraschenie-bankov",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 11:33:36 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "科斯京呼吁俄罗斯央行继续削减俄罗斯的银行数量"
-    },
-    {
-      "title": "Дефицит бюджета США в октябре вырос почти в 15 раз",
-      "link": "https://www.vedomosti.ru/economics/news/2026/11/13/1245051-defitsit-byudzheta",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 10:54:32 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "10月份美国预算赤字增长近15倍"
     }
   ]
 }
