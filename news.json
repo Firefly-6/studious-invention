@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-16T01:36:21.009Z",
-  "count": 23,
+  "updated": "2026-11-16T08:35:00.981Z",
+  "count": 24,
   "items": [
+    {
+      "title": "Эксперт спрогнозировал падение биткоина до $58 тыс.",
+      "link": "https://iz.ru/2202479/2026-11-16/ekspert-sprognoziroval-padenie-bitkoina-do-58-tys",
+      "source": "Izvestia",
+      "pubDate": "Mon, 16 Nov 2026 11:24:08 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/bitkoin\" target=\"_blank\">Биткоин</a> на ближайшей неделе может продолжить движение в диапазоне $62–70 тыс., однако риск дальнейшего снижения сохраняется. После недавней распродажи возможен т",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "专家预测比特币将跌至5.8万美元。"
+    },
+    {
+      "title": "Турция снизила закупки одного российского энергоносителя",
+      "link": "https://lenta.ru/news/2026/11/16/turtsiya-snizila-zakupki-odnogo-rossiyskogo-energonositelya/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 07:08:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "土耳其减少了一种俄罗斯能源的采购量"
+    },
     {
       "title": "«Газпром» собрал заявки на выпуск облигаций на 50 млрд рублей",
       "link": "https://www.vedomosti.ru/investments/news/2026/11/13/1245309-obligatsii-na-50-mlrd",
@@ -27,16 +51,136 @@
       "titleZh": "俄罗斯央行将美元汇率下调至82.15卢布"
     },
     {
-      "title": "Биржевые цены на АИ-92 за неделю снизились на 2,3%",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/13/1245196-birzhevie-tseni",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 14:57:07 +0300",
+      "title": "Самбо отметило 88 лет со дня появления в СССР",
+      "link": "https://iz.ru/2202471/2026-11-16/sambo-otmetilo-88-let-so-dnia-poiavleniia-v-sssr",
+      "source": "Izvestia",
+      "pubDate": "Mon, 16 Nov 2026 11:14:31 +0300",
+      "summary": "<p>Самбо 16 ноября исполнилось 88 лет. За это время зародившийся в СССР вид единоборств получил международное распространение и сегодня развивается более чем в 140 странах, сообщили в пресс-службе Международной федерации",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "桑搏庆祝诞生于苏联88周年"
+    },
+    {
+      "title": "В Госдуме анонсировали проект об усилении ответственности за дискредитацию армии",
+      "link": "https://iz.ru/2202442/v-gosdume-anonsirovali-proekt-ob-usilenii-otvetstvennosti-za-diskreditatciiu-armii-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 16 Nov 2026 10:14:38 +0300",
+      "summary": "<p>Госдума рассмотрит законопроект об усилении ответственности по 29 статьям КоАП РФ, в том числе за дискредитацию Вооруженных сил (ВС) России и распространение экстремистских материалов. Об этом 16 ноября сообщил предсе",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "国家杜马宣布了一项旨在加大对诋毁军队行为处罚力度的法案。"
+    },
+    {
+      "title": "Популярную юмористку экстренно госпитализировали и прооперировали",
+      "link": "https://lenta.ru/news/2026/11/16/populyarnuyu-yumoristku-ekstrenno-gospitalizirovali-i-prooperirovali/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 10:06:00 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "价格"
+        "需求↑"
       ],
-      "titleZh": "一周内，AI-92的交易所价格下跌了2.3%"
+      "titleZh": "知名喜剧女演员紧急住院并接受手术"
+    },
+    {
+      "title": "В Азове после атаки БПЛА загорелись четыре производственных объекта",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/16/1245572-ataki-bpla",
+      "source": "Vedomosti",
+      "pubDate": "Mon, 16 Nov 2026 10:02:47 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "在阿佐夫，四处生产设施在无人机袭击后起火。"
+    },
+    {
+      "title": "FT узнала о предложении ЕК выдать новый кредит для Киева из бюджета ЕС",
+      "link": "https://iz.ru/2202426/2026-11-16/ft-uznala-o-predlozhenii-ek-vydat-novyi-kredit-dlia-kieva-iz-biudzheta-es",
+      "source": "Izvestia",
+      "pubDate": "Mon, 16 Nov 2026 09:23:40 +0300",
+      "summary": "<p>Еврокомиссия предложит выделить <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a> новый кредит в размере €45 млрд из общего бюджета Евросоюза (ЕС). Об этом 16 ноября сообщила британская газета <a href=\"h",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "英国《金融时报》获悉，欧盟委员会提议从欧盟预算中向基辅发放新贷款"
+    },
+    {
+      "title": "ВОЗ спрогнозировала нехватку 11 млн медработников к 2030 году",
+      "link": "https://www.vedomosti.ru/society/news/2026/11/16/1245558-voz-sprognozirovala-nehvatku",
+      "source": "Vedomosti",
+      "pubDate": "Mon, 16 Nov 2026 09:20:08 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "世界卫生组织预测，到2030年将短缺1100万名医护人员。"
+    },
+    {
+      "title": "Партнер России по ЕАЭС запретил импорт одного продукта питания",
+      "link": "https://lenta.ru/news/2026/11/16/partner-rossii-po-eaes-zapretil-import-odnogo-produkta-pitaniya/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 09:15:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯的欧亚经济联盟伙伴国禁止进口一种食品"
+    },
+    {
+      "title": "Правила возвратов на маркетплейсах изменятся",
+      "link": "https://lenta.ru/news/2026/11/16/pravila-vozvratov-na-marketpleysah-izmenyatsya/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 08:44:00 +0300",
+      "summary": "",
+      "tags": [
+        "平台"
+      ],
+      "titleZh": "电商平台的退货规则将发生变化"
+    },
+    {
+      "title": "США резко сократили финансовую помощь закавказской стране",
+      "link": "https://lenta.ru/news/2026/11/16/ssha-rezko-sokratili-finansovuyu-pomosch-zakavkazskoy-strane/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 07:47:17 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "美国大幅削减对该外高加索国家的财政援助"
+    },
+    {
+      "title": "Азиатская страна довела до максимума импорт российского газа",
+      "link": "https://lenta.ru/news/2026/11/16/aziatskaya-strana-dovela-do-maksimuma-import-rossiyskogo-gaza/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 07:22:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "一个亚洲国家将俄罗斯天然气的进口量提升至最高水平"
+    },
+    {
+      "title": "Готовность России и Китая принять предложение Трампа по ядерному оружию оценили",
+      "link": "https://lenta.ru/news/2026/11/16/gotov/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 06:05:31 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯和中国愿意接受特朗普的核武器提议"
+    },
+    {
+      "title": "В России объяснили сокращение западной военной помощи Украине",
+      "link": "https://lenta.ru/news/2026/11/16/v-rossii-ob-yasnili-sokraschenie-zapadnoy-voennoy-pomoschi-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Mon, 16 Nov 2026 04:32:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯解释了西方对乌克兰军事援助减少的原因"
     },
     {
       "title": "Назван доступный препарат для снижения риска повторного инсульта",
@@ -48,83 +192,6 @@
         "供给↓"
       ],
       "titleZh": "一种可降低中风复发风险的廉价药物被公布"
-    },
-    {
-      "title": "Франция ввела временный запрет на продажу и использование пиротехники",
-      "link": "https://iz.ru/2202363/2026-11-16/frantciia-vvela-vremennyi-zapret-na-prodazhu-i-ispolzovanie-pirotekhniki",
-      "source": "Izvestia",
-      "pubDate": "Mon, 16 Nov 2026 03:32:43 +0300",
-      "summary": "<p>Во Франции ввели временный запрет на продажу фейерверков и пиротехнических изделий до 27 ноября. Соответствующий декрет 15 ноября опубликован в официальном бюллетене Французской Республики (<a href=\"https://www.legifr",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "法国暂时禁止销售和使用烟花爆竹"
-    },
-    {
-      "title": "Работницы Onlyfans рассказали о самых странных предложениях клиентов",
-      "link": "https://lenta.ru/news/2026/11/16/rabotnitsy-onlyfans-rasskazali-o-samyh-strannyh-predlozheniyah-klientov/",
-      "source": "Lenta",
-      "pubDate": "Mon, 16 Nov 2026 03:00:34 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Onlyfans从业者讲述客户提出的最奇怪要求"
-    },
-    {
-      "title": "Популярная телезвезда снялась обнаженной в ванне ради рекламы",
-      "link": "https://lenta.ru/news/2026/11/16/populyarnaya-telezvezda-snyalas-obnazhennoy-v-vanne-radi-reklamy/",
-      "source": "Lenta",
-      "pubDate": "Mon, 16 Nov 2026 01:00:27 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "知名电视明星为广告拍摄裸体泡澡照"
-    },
-    {
-      "title": "Трамп хочет обсудить с Путиным и Си сокращение ядерных арсеналов. Чего добиваются США и почему это не интересно России и Китаю?",
-      "link": "https://lenta.ru/news/2026/11/16/long-nuc/",
-      "source": "Lenta",
-      "pubDate": "Mon, 16 Nov 2026 00:01:37 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "特朗普希望与普京和习近平讨论削减核武库的问题。美国想要达到什么目的？为什么俄罗斯和中国对此不感兴趣？"
-    },
-    {
-      "title": "«Зенит» разгромил «Трабзонспор» в товарищеском матче",
-      "link": "https://lenta.ru/news/2026/11/15/zenit-razgromil-trabzonspor-v-tovarischeskom-matche/",
-      "source": "Lenta",
-      "pubDate": "Sun, 15 Nov 2026 20:38:47 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "泽尼特队在友谊赛中大胜特拉布宗体育队"
-    },
-    {
-      "title": "Газизов направит в РПЛ предложения по расширению лиги",
-      "link": "https://lenta.ru/news/2026/11/15/gazizov-napravit-v-rpl-predlozheniya-po-rasshireniyu-ligi/",
-      "source": "Lenta",
-      "pubDate": "Sun, 15 Nov 2026 20:05:57 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "加齐佐夫将向俄超联赛提出扩大联赛规模的建议"
-    },
-    {
-      "title": "Переводчик Путина высказался о своей популярности в соцсетях",
-      "link": "https://lenta.ru/news/2026/11/15/perevodchik-putina-vyskazalsya-o-svoey-populyarnosti-v-sotssetyah/",
-      "source": "Lenta",
-      "pubDate": "Sun, 15 Nov 2026 18:11:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京的翻译谈到了自己在社交媒体上的受欢迎程度"
     },
     {
       "title": "AP: НАТО сократило число встреч на высшем уровне из-за внутренних разногласий",
@@ -147,28 +214,6 @@
         "需求↑"
       ],
       "titleZh": "法国暂时禁止销售和使用烟花爆竹"
-    },
-    {
-      "title": "Продажи средств от похмелья рекордно выросли в России",
-      "link": "https://lenta.ru/news/2026/11/15/prodazhi-sredstv-ot-pohmelya-rekordno-vyrosli-v-rossii/",
-      "source": "Lenta",
-      "pubDate": "Sun, 15 Nov 2026 14:06:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯解酒药品的销售额创下历史新高"
-    },
-    {
-      "title": "Назван защищающий джентльменов от рака популярный продукт",
-      "link": "https://lenta.ru/news/2026/11/15/nazvan-zaschischayuschiy-dzhentelmenov-ot-raka-populyarnyy-produkt/",
-      "source": "Lenta",
-      "pubDate": "Sun, 15 Nov 2026 13:31:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一款备受青睐的产品被誉为男士的抗癌卫士"
     },
     {
       "title": "Bloomberg: войска США в Европе могут сократить не так масштабно",
@@ -224,39 +269,6 @@
         "供给↓"
       ],
       "titleZh": "非居民在俄罗斯欧元债券中的占比降至32%"
-    },
-    {
-      "title": "ЦБ ждет появления ИИ-помощника для потребителей в 2027 году",
-      "link": "https://www.vedomosti.ru/finance/news/2026/11/13/1245206-ii-pomoschnika",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 15:20:08 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯中央银行预计2027年将推出面向消费者的AI助手"
-    },
-    {
-      "title": "Продажи «Домодедово» и ЮГК стали крупнейшими сделками Росимущества",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/13/1245181-prodazhi-domodedovoi",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 14:15:02 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "多莫杰多沃机场和南方煤炭集团的出售成为联邦财产管理局的最大交易"
-    },
-    {
-      "title": "Экспорт нефти из России в октябре вырос до 6,82 млн баррелей в сутки",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/13/1245116-eksport-nefti",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 13 Nov 2026 12:36:47 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "10月份俄罗斯石油出口量增至每日682万桶"
     }
   ]
 }
