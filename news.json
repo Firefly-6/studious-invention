@@ -1,30 +1,90 @@
 {
-  "updated": "2026-11-18T01:46:02.314Z",
-  "count": 31,
+  "updated": "2026-11-18T09:13:43.411Z",
+  "count": 32,
   "items": [
     {
-      "title": "Пять тысяч рублей с продажи найденного обернулись для россиянина девятью годами колонии",
-      "link": "https://lenta.ru/news/2026/11/17/pyat-tysyach-rubley-s-prodazhi-naydennogo-obernulis-rossiyaninu-devyatyu-godami-kolonii/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 18:40:00 +0300",
-      "summary": "",
+      "title": "В США призвали ужесточить экспорт чипов в Китай после скандала с Nvidia",
+      "link": "https://iz.ru/2203845/v-ssha-prizvali-uzhestochit-eksport-chipov-v-kitai-posle-skandala-s-nvidia-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 11:59:38 +0300",
+      "summary": "<p dir=\"ltr\">Американские сенаторы-республиканцы выступили за ужесточение ограничений на экспорт передовых полупроводников в Китай после скандала вокруг компании Nvidia. Об этом 18 ноября сообщила газета <a href=\"https:/",
       "tags": [
-        "需求↑",
-        "汇率"
+        "供给↓",
+        "中俄贸易"
       ],
-      "titleZh": "因出售捡到的物品赚取五千卢布，俄罗斯人被判处九年劳改。"
+      "titleZh": "在美国，在发生英伟达丑闻后，有人呼吁收紧对中国的芯片出口。"
     },
     {
-      "title": "Стало известно о новых проблемах с поставками товаров в Россию из-за рубежа",
-      "link": "https://lenta.ru/news/2026/11/17/problem/",
+      "title": "Армия России нанесла удары по военным аэродромам ВСУ",
+      "link": "https://iz.ru/2203840/armiia-rossii-nanesli-udary-po-voennym-aerodromam-vsu-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 11:56:50 +0300",
+      "summary": "<p>Российские войска поразили военные аэродромы, объекты энергетической и транспортной инфраструктуры, используемые в интересах Вооруженных сил Украины (ВСУ), а также места производства и хранения беспилотников и наземны",
+      "tags": [
+        "供给↓",
+        "物流"
+      ],
+      "titleZh": "俄罗斯军队对乌克兰武装部队的军用机场发动了袭击。"
+    },
+    {
+      "title": "Поставки российских товаров в постсоветскую страну установили рекорд",
+      "link": "https://lenta.ru/news/2026/11/18/postavki-rossiyskih-tovarov-v-postsovestskuyu-stranu-ustanovili-rekord/",
       "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 18:32:00 +0300",
+      "pubDate": "Wed, 18 Nov 2026 11:56:17 +0300",
       "summary": "",
       "tags": [
         "需求↑",
         "供给↓"
       ],
-      "titleZh": "据了解，从国外向俄罗斯供应商品出现了新的问题。"
+      "titleZh": "俄罗斯商品对独联体国家的出口创下历史新高"
+    },
+    {
+      "title": "WSJ узнала о проблемах Пентагона с поставками материала для ракет Patriot",
+      "link": "https://iz.ru/2203837/wsj-uznala-o-problemakh-pentagona-s-postavkami-materiala-dlia-raket-patriot-izic",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 11:53:35 +0300",
+      "summary": "<p>Пентагон столкнулся с нехваткой специальной вискозы, необходимой для изготовления ракет-перехватчиков Patriot. Из-за ограниченных поставок материала американские компании не могут быстро нарастить выпуск вооружений. О",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "《华尔街日报》获悉五角大楼在供应“爱国者”导弹材料方面存在问题"
+    },
+    {
+      "title": "Путин и Си Цзиньпин раскритиковали санкции на саммите АТЭС. Что пишут СМИ",
+      "link": "https://iz.ru/2203825/2026-11-18/putin-i-si-tczinpin-raskritikovali-sanktcii-na-sammite-ates-chto-pishut-smi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 11:40:10 +0300",
+      "summary": "<p dir=\"ltr\">Президент России Владимир Путин и председатель КНР Си Цзиньпин выступили на саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС) в Шэньчжэне. Они раскритиковали торговые барьеры и западные са",
+      "tags": [
+        "中俄贸易",
+        "制裁"
+      ],
+      "titleZh": "普京和习近平在亚太经合组织峰会上批评制裁。媒体怎么说？"
+    },
+    {
+      "title": "Для производства Patriot Пентагону стало не хватать популярного в легпроме материала",
+      "link": "https://lenta.ru/news/2026/11/18/dlya-proizvodstva-patriot-pentagonu-stalo-ne-hvatat-populyarnogo-v-legprome-materiala/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 11:22:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "供给↓"
+      ],
+      "titleZh": "五角大楼在生产“爱国者”导弹时，开始缺少一种在轻工业中很受欢迎的材料。"
+    },
+    {
+      "title": "Российско-китайский товарооборот достиг $244 млрд",
+      "link": "https://www.vedomosti.ru/economics/news/2026/11/18/1412818-rossiisko-kitaiskii-tovarooborot",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 18 Nov 2026 10:09:12 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑",
+        "中俄贸易"
+      ],
+      "titleZh": "中俄双边贸易额达2440亿美元"
     },
     {
       "title": "США продлили Венгрии исключение из санкций на закупку российской нефти",
@@ -39,92 +99,158 @@
       "titleZh": "美国延长了匈牙利在购买俄罗斯石油方面的制裁豁免期"
     },
     {
-      "title": "В России с 1 декабря вводится технологический сбор на электронику",
-      "link": "https://iz.ru/2193459/2026-11-18/v-rossii-s-1-dekabria-vvoditsia-tekhnologicheskii-sbor-na-elektroniku",
-      "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 04:30:00 +0300",
-      "summary": "<p>С 1 декабря 2026 года в России начнут взимать технологический сбор за отдельные виды электроники. Новый неналоговый платеж затронет импортеров и производителей смартфонов, ноутбуков и ряда телефонных аппаратов. Размер",
+      "title": "Япония увеличила импорт СПГ из России до максимума за полгода",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/18/1412892-uvelichila-import",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 18 Nov 2026 12:09:57 +0300",
+      "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "自12月1日起，俄罗斯将对电子产品征收技术费。"
+      "titleZh": "日本从俄罗斯进口的液化天然气在半年内增至最高水平"
     },
     {
-      "title": "Эксперт рассказал о реализации краба с мышьяком на экспорт",
-      "link": "https://iz.ru/2203441/2026-11-18/ekspert-rasskazal-o-realizatcii-kraba-s-myshiakom-na-eksport",
-      "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 02:15:00 +0300",
-      "summary": "<p>Мышьяк нередко обнаруживают в выловленном крабе, но это органическая разновидность данного соединения, которая не представляет опасности для здоровья и не является поводом для запрета на реализацию за рубежом, рассказ",
+      "title": "Россия развернет производство антенного комплекса сопровождения БПЛА",
+      "link": "https://lenta.ru/news/2026/11/18/rossiya-razvernet-proizvodstvo-antennogo-kompleksa-soprovozhdeniya-bpla/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 12:04:07 +0300",
+      "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "专家谈论含砷螃蟹的出口情况"
+      "titleZh": "俄罗斯将部署用于无人机跟踪的天线系统生产"
     },
     {
-      "title": "Рютте подсчитал расходы НАТО на оружие для Украины по программе PURL",
-      "link": "https://iz.ru/2203665/2026-11-18/riutte-podschital-raskhody-nato-na-oruzhie-dlia-ukrainy-po-programme-purl",
-      "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 01:16:09 +0300",
-      "summary": "<p>Страны — участницы Североатлантического альянса (НАТО) уже направили <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> более $10 млрд на поставки вооружений для Киева по списку приоритетных требований <a href=\"",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "吕特计算了北约根据PURL计划为乌克兰提供武器的费用。"
-    },
-    {
-      "title": "В посольстве РФ рассказали о перспективах диалога с новыми властями Сербии по газу",
-      "link": "https://iz.ru/2203636/2026-11-18/v-posolstve-rf-rasskazali-o-perspektivakh-dialoga-s-novymi-vlastiami-serbii-po-gazu",
-      "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 01:05:00 +0300",
-      "summary": "<p>Конкретные вопросы двустороннего взаимодействия между РФ и Сербией, включая поставки российского газа, будут обсуждаться после формирования органов власти в Сербии, заявили «Известиям» в посольстве России в Белграде.<",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯大使馆谈及与塞尔维亚新政府就天然气问题开展对话的前景"
-    },
-    {
-      "title": "Ритейлер «Связь.ON» сменил учредителей",
-      "link": "https://iz.ru/2203630/2026-11-18/riteiler-sviazon-smenil-uchreditelei",
-      "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 00:50:00 +0300",
-      "summary": "<p>О смене собственников ритейлера электроники «Связь.ON» «Известиям» рассказали три источника на рынке. В компании подтвердили сделку, но отказались раскрыть ее сумму и имя нового владельца.</p>",
+      "title": "Сборные Чили и Колумбии сыграли вничью в товарищеском матче",
+      "link": "https://lenta.ru/news/2026/11/18/sbornye-chili-i-kolumbii-sygrali-vnichyu-v-tovarischeskom-matche/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 11:20:00 +0300",
+      "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "“Svyaz.ON”零售商更换了创始股东。"
+      "titleZh": "智利队和哥伦比亚队在友谊赛中战平"
     },
     {
-      "title": "Путин прибыл в Шэньчжэнь",
-      "link": "https://iz.ru/2203659/2026-11-18/putin-pribyl-v-shenchzhen",
+      "title": "Собянин рассказал о популярности сервиса «Моя семья»",
+      "link": "https://iz.ru/2203808/2026-11-18/sobianin-rasskazal-o-populiarnosti-servisa-moia-semia",
       "source": "Izvestia",
-      "pubDate": "Wed, 18 Nov 2026 00:48:32 +0300",
-      "summary": "<p>Президент России <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a> 17 ноября прибыл в Китай для участия в саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС). В ходе визита",
+      "pubDate": "Wed, 18 Nov 2026 10:57:10 +0300",
+      "summary": "<p>За шесть лет онлайн-сервисом «Моя семья», который помогает москвичам искать информацию о своих предках, воспользовались более 20 млн раз. Об этом рассказал мэр Сергей Собянин в мессенджере <a href=\"https://max.ru/moss",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "索比亚宁谈到“我的家人”服务的人气"
+    },
+    {
+      "title": "ФАС: в Корсакове на Сахалине тарифы на тепло снизили почти на 50%",
+      "link": "https://www.vedomosti.ru/economics/news/2026/11/18/1412825-fas-v-korsakove",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 18 Nov 2026 10:19:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "联邦反垄断局：萨哈林州科尔萨科夫市的供暖价格下调近50%"
+    },
+    {
+      "title": "МВД предупредило о мошенничестве с розыгрышами от известных брендов",
+      "link": "https://iz.ru/2203790/2026-11-18/mvd-predupredilo-o-moshennichestve-s-rozygryshami-ot-izvestnykh-brendov-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 10:16:21 +0300",
+      "summary": "<p dir=\"ltr\">Мошенники начали массово распространять фишинговые ссылки на поддельные розыгрыши призов, выдавая их за юбилейные акции известных брендов. Об этом 18 ноября сообщили в Управлении по организации борьбы с прот",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "内政部警告称，知名品牌存在抽奖欺诈行为。"
+    },
+    {
+      "title": "Саммит АТЭС объединил большую политику и российско-китайское кино",
+      "link": "https://iz.ru/2203785/2026-11-18/sammit-ates-obedinil-bolshuiu-politiku-i-rossiisko-kitaiskoe-kino",
+      "source": "Izvestia",
+      "pubDate": "Wed, 18 Nov 2026 10:08:38 +0300",
+      "summary": "<p>Выступление президента РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимира Путина</a> на деловом саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС) приковало к себе внимание всей ",
       "tags": [
         "中俄贸易"
       ],
-      "titleZh": "普京抵达深圳"
+      "titleZh": "亚太经合组织峰会融合了大国政治与中俄电影"
     },
     {
-      "title": "Спецпредставитель Путина обратился к Европе с предложением по Украине",
-      "link": "https://lenta.ru/news/2026/11/18/spetspredstavitel-putina-obratilsya-k-evrope-s-predlozheniem-po-ukraine/",
+      "title": "Аргентина разгромила Коста-Рику в товарищеском матче",
+      "link": "https://lenta.ru/news/2026/11/18/argentina-razgromila-kosta-riku-v-tovarischeskom-matche/",
       "source": "Lenta",
-      "pubDate": "Wed, 18 Nov 2026 00:14:18 +0300",
+      "pubDate": "Wed, 18 Nov 2026 10:04:04 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "阿根廷在友谊赛中大胜哥斯达黎加"
+    },
+    {
+      "title": "На одну компанию пришлось 85 процентов экспорта российской военной продукции",
+      "link": "https://lenta.ru/news/2026/11/18/na-odnu-kompaniyu-prishlos-85-protsentov-eksporta-rossiyskoy-voennoy-produktsii/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 09:31:00 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "普京的特别代表向欧洲提出了关于乌克兰的建议"
+      "titleZh": "一家公司占俄罗斯军用产品出口的85%"
     },
     {
-      "title": "В России жестко высказались о планах Британии по поставкам ракет Украине",
-      "link": "https://lenta.ru/news/2026/11/17/v-rossii-zhestko-vyskazalis-o-planah-britanii-po-postavkam-raket-ukraine/",
+      "title": "Разработчик двигателей для SJ-100 решил сократить сотни человек",
+      "link": "https://lenta.ru/news/2026/11/18/sokratit/",
       "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 23:53:00 +0300",
+      "pubDate": "Wed, 18 Nov 2026 08:37:00 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯严厉批评英国向乌克兰供应导弹的计划"
+      "titleZh": "SSJ-100发动机的开发商决定裁减数百名员工。"
+    },
+    {
+      "title": "Популярные приложения Windows похоронят",
+      "link": "https://lenta.ru/news/2026/11/18/windows-apps/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 07:45:42 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "热门的Windows应用程序将被淘汰"
+    },
+    {
+      "title": "Путин: уровень жизни в странах ЕС снижается унизительно для еврозоны",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/18/1412782-putin-uroven",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 18 Nov 2026 07:08:05 +0300",
+      "summary": "",
+      "tags": [
+        "OZON"
+      ],
+      "titleZh": "普京：欧盟国家的生活水平正在下降，这对欧元区来说是耻辱"
+    },
+    {
+      "title": "Россиян предупредили о повышающем риск рака популярном напитке",
+      "link": "https://lenta.ru/news/2026/11/18/rossiyan-predupredili-o-povyshayuschem-risk-raka-populyarnom-napitke/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 06:41:26 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯人被警告称，一种热门饮品会增加患癌风险"
+    },
+    {
+      "title": "Французский автогигант собрался расширить штат рабочих и сократить офисных сотрудников",
+      "link": "https://lenta.ru/news/2026/11/18/frantsuzskiy-avtogigant-sobralsya-rasshirit-shtat-rabochih-i-sokratit-ofisnyh-sotrudnikov/",
+      "source": "Lenta",
+      "pubDate": "Wed, 18 Nov 2026 05:31:49 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "法国汽车巨头计划增加工人人数并裁减办公室员工"
     },
     {
       "title": "Сборная России по футболу обыграла Венесуэлу в товарищеском матче",
@@ -138,83 +264,6 @@
       "titleZh": "俄罗斯足球队在友谊赛中击败委内瑞拉队"
     },
     {
-      "title": "Узбекистан обыграл Саудовскую Аравию в товарищеском матче",
-      "link": "https://lenta.ru/news/2026/11/17/uzbekistan-obygral-saudovskuyu-araviyu-v-tovarischeskom-matche/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 21:24:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "乌兹别克斯坦在友谊赛中击败沙特阿拉伯"
-    },
-    {
-      "title": "Уехавший в Европу популярный комик раскрыл результаты генетического теста",
-      "link": "https://lenta.ru/news/2026/11/17/uehavshiy-v-evropu-populyarnyy-komik-raskryl-rezultaty-geneticheskogo-testa/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 21:19:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "移居欧洲的知名喜剧演员公布了基因检测结果。"
-    },
-    {
-      "title": "Нежелание москвичей покупать квартиры объяснили",
-      "link": "https://lenta.ru/news/2026/11/17/nezhelanie-moskvichey-pokupat-kvartiry-ob-yasnili/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 21:02:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "莫斯科人不愿意购买公寓的原因得到了解释"
-    },
-    {
-      "title": "Популярная российская блогерша участвовала в реалити-шоу с гниющей раной",
-      "link": "https://lenta.ru/news/2026/11/17/populyarnaya-rossiyskaya-blogersha-uchastvovala-v-realiti-shou-s-gniyuschey-ranoy/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 20:14:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位俄罗斯知名博主带着正在溃烂的伤口参加真人秀节目。"
-    },
-    {
-      "title": "Распространенные симптомы назвали признаками болезни Альцгеймера",
-      "link": "https://lenta.ru/news/2026/11/17/rasprostranennye-simptomy-nazvali-priznakami-bolezni-altsgeymera/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 19:40:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "常见的症状被认为是阿尔茨海默病的征兆。"
-    },
-    {
-      "title": "Худрук Театра на Трубной ответил Меньшикову на предложение закрыть вузы",
-      "link": "https://lenta.ru/news/2026/11/17/hudruk-teatra-na-trubnoy-otvetil-menshikovu-na-predlozhenie-zakryt-vuzy/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 19:33:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "特鲁布纳亚剧院艺术总监回应缅希科夫关于关闭高校的提议"
-    },
-    {
-      "title": "Покупателям новостроек назвали признаки будущих неудобств в квартире",
-      "link": "https://lenta.ru/news/2026/11/17/pokupatelyam-novostroek-nazvali-priznaki-buduschih-neudobstv-v-kvartire/",
-      "source": "Lenta",
-      "pubDate": "Tue, 17 Nov 2026 19:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "新房买家列出了公寓未来不便之处的迹象。"
-    },
-    {
       "title": "Трамп рассказал о строительстве более 20 заводов по производству «Томагавков»",
       "link": "https://www.vedomosti.ru/politics/news/2026/11/17/1412692-tramp-rasskazal",
       "source": "Vedomosti",
@@ -223,7 +272,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "特朗普谈到要建造20多家“战斧”导弹生产厂"
+      "titleZh": "特朗普谈到要建造20多座“战斧”导弹生产厂"
     },
     {
       "title": "Силуанов спрогнозировал рекордный товарооборот России и Китая в 2026 году",
@@ -289,7 +338,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "拉夫罗夫：北约打着安全不可分割的幌子，将军事资源引入亚太地区"
+      "titleZh": "拉夫罗夫：北约打着安全不可分割的旗号，将军事资源引入亚太地区"
     },
     {
       "title": "Развожаев: атака на Крымский мост не повлияет на поставки продуктов и топлива",
@@ -312,39 +361,6 @@
         "需求↑"
       ],
       "titleZh": "自年初以来，起泡酒的销量增长了4.6%。"
-    },
-    {
-      "title": "За 10 месяцев сети РЖД экспортировали 155,3 млн т угля",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/16/1264705-rzhd-eksportirovali",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 16 Nov 2026 17:55:55 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "10个月内，俄罗斯铁路网络出口了1.553亿吨煤炭。"
-    },
-    {
-      "title": "Мантуров ожидает возвращения несырьевого экспорта к рекорду в $200 млрд",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/16/1257856-manturov-ozhidaet",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 16 Nov 2026 16:53:38 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "曼图罗夫预计非资源类出口将恢复至2000亿美元的历史最高水平"
-    },
-    {
-      "title": "Минпросвещения назвало недопустимым сокращение произведений русских классиков",
-      "link": "https://www.vedomosti.ru/society/news/2026/11/16/1253511-sokraschenie-russkih-klassikov",
-      "source": "Vedomosti",
-      "pubDate": "Mon, 16 Nov 2026 15:44:07 +0300",
-      "summary": "«Зимний вечер» Пушкина войдет в учебники 5 класса в полном объеме",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯联邦教育部认为删减俄罗斯经典作品是不可接受的"
     }
   ]
 }
