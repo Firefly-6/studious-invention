@@ -1,40 +1,262 @@
 {
-  "updated": "2026-11-20T04:00:45.225Z",
-  "count": 16,
+  "updated": "2026-11-20T12:41:42.139Z",
+  "count": 30,
   "items": [
     {
-      "title": "Глава «АвтоВАЗа» рассказал о начале продаж и стоимости Lada Azimut",
-      "link": "https://lenta.ru/news/2026/11/19/glava-avtovaza-vyskazalsya-o-nachale-prodazh-i-stoimosti-lada-azimut/",
-      "source": "Lenta",
-      "pubDate": "Thu, 19 Nov 2026 19:44:00 +0300",
+      "title": "Цены на золото снизились на 3% за день",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413718-tseni-na-zoloto",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 13:06:26 +0300",
       "summary": "",
       "tags": [
-        "需求↑",
+        "供给↓",
         "价格"
       ],
-      "titleZh": "“俄罗汽车”公司总裁谈到了拉达·阿齐穆特（Lada Azimut）的上市时间和价格。"
+      "titleZh": "黄金价格一天内下跌3%"
     },
     {
-      "title": "Пользу популярного способа экономии на отоплении оценили",
-      "link": "https://lenta.ru/news/2026/11/20/heating-efficiency/",
+      "title": "Китай втрое увеличил импорт российского вина в октябре",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/20/1413644-kitai-uvelichil-import",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 11:28:45 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "10月份，中国对俄罗斯葡萄酒的进口量增加了两倍。"
+    },
+    {
+      "title": "Поставки китайского пива в Россию взлетели",
+      "link": "https://lenta.ru/news/2026/11/20/postavki-kitayskogo-piva-v-rossiyu-vzleteli/",
       "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 04:17:19 +0300",
+      "pubDate": "Fri, 20 Nov 2026 10:44:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "中国啤酒对俄出口激增"
+    },
+    {
+      "title": "Ликеро-водочный завод «Кристалл» допустил техдефолты по двум сериям облигаций",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413786-likero-vodochnii-zavod",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 15:21:18 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "“水晶”烈酒酿造厂在两批债券上出现技术性违约"
+    },
+    {
+      "title": "В Германии построят завод по выпуску ударных дронов для Украины",
+      "link": "https://lenta.ru/news/2026/11/20/sotrudnichestvo/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 14:53:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "德国将为乌克兰建造一家生产攻击型无人机的工厂"
+    },
+    {
+      "title": "Страна БРИКС нарастила импорт российских рыбы и морепродуктов",
+      "link": "https://lenta.ru/news/2026/11/20/strana-briks-narastila-import-rossiyskih-ryby-i-moreproduktov/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 14:47:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "金砖国家增加了俄罗斯鱼类和海鲜的进口"
+    },
+    {
+      "title": "Блогер Ката Аматиста умерла в 25 лет после борьбы с раком",
+      "link": "https://iz.ru/2205482/2026-11-20/bloger-kata-amatista-umerla-v-25-let-posle-borby-s-rakom",
+      "source": "Izvestia",
+      "pubDate": "Fri, 20 Nov 2026 14:39:20 +0300",
+      "summary": "<p>Популярная 25-летняя блогер Ката Аматиста (настоящая фамилия — Фернандез) скончалась после трех лет борьбы с раком. Об этом 18 ноября сообщает портал <a href=\"https://www.dexerto.com/tiktok/tiktok-star-cata-amatista-d",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "博主卡塔·阿马蒂斯塔（Kata Amatišta）在与癌症抗争后去世，年仅25岁。"
+    },
+    {
+      "title": "Продажи Marvel's Wolverine резко упали в октябре",
+      "link": "https://lenta.ru/news/2026/11/20/wolverine/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 14:34:19 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "人们对这种流行的节约供暖方式的益处给予了肯定。"
+      "titleZh": "《漫威金刚狼》的销量在 10 月份大幅下滑"
     },
     {
-      "title": "Франция столкнулась с нехваткой боеприпасов из-за помощи Украине",
-      "link": "https://lenta.ru/news/2026/11/20/frantsiya-stolknulas-s-nehvatkoy-boepripasov-iz-za-pomoschi-ukraine/",
+      "title": "Завершился первый день «Культура. Медиа. Цифра»",
+      "link": "https://iz.ru/2205481/2026-11-20/zavershilsia-pervyi-den-kultura-media-tcifra",
+      "source": "Izvestia",
+      "pubDate": "Fri, 20 Nov 2026 14:33:42 +0300",
+      "summary": "<p>19 ноября на кинозаводе «Москино» прошел первый день «Культура. Медиа. Цифра». Режиссер Люк Бессон рассказал, как начать снимать кино без большого бюджета, врач и автор бестселлера о долголетии «Жить дольше» Питер Атт",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "“文化。媒体。数字”活动的第一天结束了。"
+    },
+    {
+      "title": "Китай утроил закупки вина в России",
+      "link": "https://lenta.ru/news/2026/11/20/prodaem/",
       "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 02:59:06 +0300",
+      "pubDate": "Fri, 20 Nov 2026 14:18:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "法国因援助乌克兰而面临弹药短缺"
+      "titleZh": "中国从俄罗斯的葡萄酒进口量增加了两倍"
+    },
+    {
+      "title": "В МИД страны ЕС ответили на одно предложение Путина",
+      "link": "https://lenta.ru/news/2026/11/20/v-mid-strany-es-otvetili-na-odno-predlozhenie-putina/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 13:53:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "欧盟国家外交部对普京的一项提议作出了回应。"
+    },
+    {
+      "title": "В России стали покупать больше китайского винограда",
+      "link": "https://lenta.ru/news/2026/11/20/rossiyane-stali-pokupat-bolshe-kitayskogo-vinograda/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 13:07:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯开始购买更多的中国葡萄"
+    },
+    {
+      "title": "А7 реализует размещение облигаций за счет только одного выпуска",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413702-a7-realizuet-obligatsii",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 12:36:11 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "A7仅通过一次发行来实现债券的配售。"
+    },
+    {
+      "title": "На Украине вынужденно снизили мощность генерации АЭС",
+      "link": "https://lenta.ru/news/2026/11/20/na-ukraine-vynuzhdenno-snizili-moschnost-generatsii-aes/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 12:21:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰被迫降低核电站的发电量"
+    },
+    {
+      "title": "Российский рынок акций продолжает уверенное снижение",
+      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413685-rossiiskii-rinok-aktsii",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 12:02:06 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯股市持续稳步下跌"
+    },
+    {
+      "title": "В России начались продажи семейного кроссовера Hyundai",
+      "link": "https://lenta.ru/news/2026/11/20/v-rossii-nachalis-prodazhi-semeynogo-krossovera-hyundai/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 11:34:54 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "现代汽车的家用跨界车开始在俄罗斯销售"
+    },
+    {
+      "title": "В Госдуме высказались о предложении Европы по энергетическому перемирию на Украине",
+      "link": "https://lenta.ru/news/2026/11/20/v-gosdume-vyskazalis-o-predlozhenii-evropy-po-energeticheskomu-peremiriyu-na-ukraine/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 11:08:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯国家杜马就欧洲提出的乌克兰能源停火建议发表意见"
+    },
+    {
+      "title": "Снижение посещаемости игорной зоны на Алтае объяснили",
+      "link": "https://lenta.ru/news/2026/11/20/snizhenie-poseschaemosti-igornoy-zony-na-altae-ob-yasnili/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 11:02:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "阿尔泰赌博区游客人数减少的原因得到解释"
+    },
+    {
+      "title": "Поставки пива из Китая выросли на 36% за 10 месяцев",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/20/1413625-postavki-piva",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 10:52:18 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "10个月内，来自中国的啤酒供应量增长了36%"
+    },
+    {
+      "title": "Россия ударила по производящему ракеты «Фламинго» и беспилотники авиазаводу",
+      "link": "https://lenta.ru/news/2026/11/20/rossiya-udarila-po-proizvodyaschemu-rakety-flamingo-i-bespilotniki/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 10:25:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯袭击了生产“火烈鸟”导弹和无人机的航空工厂"
+    },
+    {
+      "title": "Необычный продукт оказался помощником в снижении уровня сахара в крови",
+      "link": "https://lenta.ru/news/2026/11/20/neobychnyy-produkt-okazalsya-pomoschnikom-v-snizhenii-urovnya-sahara-v-krovi/",
+      "source": "Lenta",
+      "pubDate": "Fri, 20 Nov 2026 10:23:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "一种不寻常的产品被证明有助于降低血糖水平。"
+    },
+    {
+      "title": "«Ozon банк» столкнулся со сбоями в работе",
+      "link": "https://www.vedomosti.ru/finance/news/2026/11/20/1413596-ozon-bank",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 09:58:50 +0300",
+      "summary": "",
+      "tags": [
+        "OZON"
+      ],
+      "titleZh": "“Ozon银行”出现运营故障"
+    },
+    {
+      "title": "Мишустин: число проверок бизнеса сократилось в шесть раз с 2019 года",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/20/1413590-proverok-biznesa",
+      "source": "Vedomosti",
+      "pubDate": "Fri, 20 Nov 2026 09:37:13 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "米舒斯京：自2019年以来，对企业的检查次数减少了六倍"
     },
     {
       "title": "Трамп в разговоре с европейцами скептически отнесся к поставкам оружия Украине",
@@ -46,28 +268,6 @@
         "供给↓"
       ],
       "titleZh": "特朗普在与欧洲人交谈时对向乌克兰供应武器持怀疑态度"
-    },
-    {
-      "title": "Мерц сделал предложение насчет переговоров по Украине",
-      "link": "https://lenta.ru/news/2026/11/19/merts-sdelal-predlozhenie-naschet-peregovorov-po-ukraine/",
-      "source": "Lenta",
-      "pubDate": "Thu, 19 Nov 2026 21:20:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "默茨就乌克兰问题谈判提出建议"
-    },
-    {
-      "title": "Популярный метод ремонта жилья связали с убытками и переплатами",
-      "link": "https://lenta.ru/news/2026/11/19/populyarnyy-metod-remonta-zhilya-svyazali-s-ubytkami-i-pereplatami/",
-      "source": "Lenta",
-      "pubDate": "Thu, 19 Nov 2026 19:54:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一种流行的房屋翻修方式与损失和多付费用有关。"
     },
     {
       "title": "США снова продлили лицензию для продажи зарубежных активов «Лукойла»",
@@ -89,7 +289,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "10月份香槟销量同比增长64%"
+      "titleZh": "10月份香槟酒销售额同比增长64%"
     },
     {
       "title": "Доля портов Балтики в экспорте российской пшеницы превысила 60%",
@@ -100,7 +300,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "波罗的海港口在俄罗斯小麦出口中所占份额超过60%"
+      "titleZh": "波罗的海港口在俄罗斯小麦出口中的占比超过60%"
     },
     {
       "title": "Советник главы Крыма исключил дефицит топлива на полуострове",
@@ -111,7 +311,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "克里米亚领导人顾问排除半岛出现燃料短缺的可能性"
+      "titleZh": "克里米亚领导人顾问否认半岛存在燃料短缺问题"
     },
     {
       "title": "Россия, Китай и США договорились вести диалог по снижению ядерных рисков",
@@ -122,7 +322,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯、中国和美国商定就降低核风险开展对话"
+      "titleZh": "俄罗斯、中国和美国商定就降低核风险问题开展对话"
     },
     {
       "title": "Ямпольская объяснила сокращение произведений классиков в учебниках литературы",
@@ -134,50 +334,6 @@
         "供给↓"
       ],
       "titleZh": "扬波利斯卡娅解释了文学教科书中经典作品篇幅缩减的原因"
-    },
-    {
-      "title": "Segezha Group сократила чистый убыток на 30,6% за девять месяцев",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/19/1413219-segezha-group",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 19 Nov 2026 10:50:32 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "Segezha Group前九个月净亏损减少30.6%"
-    },
-    {
-      "title": "Трамп: США не стремятся зарабатывать на поставках оружия Украине",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/19/1413211-tramp-ssha-ne-stremyatsya",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 19 Nov 2026 10:45:17 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "特朗普：美国不谋求从向乌克兰供应武器中获利"
-    },
-    {
-      "title": "Спрос на игровые консоли в России вырос на 76% перед выходом GTA VI",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/19/1413042-spros-na-igrovie-konsoli",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 19 Nov 2026 08:30:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "《GTA VI》发布前，俄罗斯对游戏机的需求增长了 76%"
-    },
-    {
-      "title": "Путин сообщил о росте товарооборота России и Таиланда на 37,4%",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/18/1413110-o-roste-tovarooborota",
-      "source": "Vedomosti",
-      "pubDate": "Wed, 18 Nov 2026 20:57:49 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京宣布俄罗斯与泰国的贸易额增长了37.4%"
     }
   ]
 }
