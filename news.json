@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T08:49:49.456Z",
-  "count": 37,
+  "updated": "2026-11-21T16:28:21.669Z",
+  "count": 30,
   "items": [
     {
       "title": "Зеленский заявил о нехватке систем Patriot из-за сокращений поставок из США",
@@ -15,42 +15,6 @@
       "titleZh": "泽连斯基表示，由于美国供应量减少，爱国者导弹系统存在短缺。"
     },
     {
-      "title": "На Украине потребление газа сократилось почти в четыре раза за 35 лет",
-      "link": "https://iz.ru/2205935/na-ukraine-potreblenie-gaza-sokratilos-pochti-v-chetyre-raza-za-35-let-izi",
-      "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 09:40:00 +0300",
-      "summary": "<p>Объем использования природного газа на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a> снизился почти в четыре раза по сравнению с показателями начала 1990-х годов на фоне сокращения промышленного прои",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "35年来，乌克兰的天然气消费量减少了近四倍。"
-    },
-    {
-      "title": "Женщина заказала расправу над любовницей мужа за 1,1 миллиона рублей",
-      "link": "https://lenta.ru/news/2026/11/20/zhenschina-zakazala-raspravu-nad-lyubovnitsey-muzha-za-1-1-milliona-rubley/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 21:05:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "汇率"
-      ],
-      "titleZh": "一名妇女以110万卢布下令屠杀其丈夫的情妇"
-    },
-    {
-      "title": "В России впервые за полгода снизились продажи одного типа машин",
-      "link": "https://lenta.ru/news/2026/11/20/v-rossii-vpervye-za-polgoda-snizilis-prodazhi-odnogo-tipa-mashin/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 19:31:30 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑",
-        "供给↓"
-      ],
-      "titleZh": "在俄罗斯，一种汽车的销量六个月来首次出现下降"
-    },
-    {
       "title": "Цена акций Ozon на Мосбирже упала на 5%",
       "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413858-tsena-aktsii-ozon",
       "source": "Vedomosti",
@@ -60,7 +24,7 @@
         "OZON",
         "价格"
       ],
-      "titleZh": "莫斯科交易所 Ozon 股票价格下跌 5%"
+      "titleZh": "Ozon 在莫斯科交易所的股价下跌了 5%"
     },
     {
       "title": "Продажи нового вида страхования жизни за три месяца составили 18,9 млрд рублей",
@@ -72,7 +36,7 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "新型人寿保险三个月销售额达189亿卢布"
+      "titleZh": "新型人寿保险在三个月内的销售额为189亿卢布。"
     },
     {
       "title": "Цены на золото снизились на 3% за день",
@@ -84,7 +48,7 @@
         "供给↓",
         "价格"
       ],
-      "titleZh": "金价当日下跌3%"
+      "titleZh": "黄金价格一天内下跌3%"
     },
     {
       "title": "Китай втрое увеличил импорт российского вина в октябре",
@@ -96,62 +60,128 @@
         "供给↓",
         "中俄贸易"
       ],
-      "titleZh": "10月份中国进口俄罗斯葡萄酒增加两倍"
+      "titleZh": "10月份，中国对俄罗斯葡萄酒的进口量增加了两倍。"
     },
     {
-      "title": "ВОЗ предупреждает о риске распространения опасной «супербактерии» в Европе",
-      "link": "https://iz.ru/2206017/voz-preduprezhdaet-o-riske-rasprostraneniia-opasnoi-superbakterii-v-evrope-izi",
+      "title": "В ЕС сообщили о планах сократить расходы на науку и защиту граждан",
+      "link": "https://iz.ru/2206125/2026-11-21/v-es-soobshchili-o-planakh-sokratit-raskhody-na-nauku-i-zashchitu-grazhdan",
       "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 11:41:36 +0300",
-      "summary": "<p>Риск дальнейшего распространения в Европе устойчивой к антибиотикам бактерии Klebsiella pneumoniae является реальным. Об этом 21 ноября сообщили во Всемирной организации здравоохранения (ВОЗ).</p>",
+      "pubDate": "Sat, 21 Nov 2026 18:41:44 +0300",
+      "summary": "<p>Евросоюз (ЕС) планирует уменьшить финансирование научных исследований, образовательных программ и защиты граждан в рамках бюджета на 2028–2034 годы, сохранив при этом предусмотренные для <a href=\"https://iz.ru/tag/ukr",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "欧盟宣布计划削减科学和公民保护方面的支出"
+    },
+    {
+      "title": "В Стамбуле задержали предполагаемого покупателя 3 тыс. кг кокаина",
+      "link": "https://iz.ru/2206110/2026-11-21/v-stambule-zaderzhali-predpolagaemogo-pokupatelia-3-tys-kg-kokaina",
+      "source": "Izvestia",
+      "pubDate": "Sat, 21 Nov 2026 18:41:00 +0300",
+      "summary": "<p>В Стамбуле задержали Нусрета Скрижеля, которого подозревают в организации поставок кокаина из Южной Америки в Европу и считают предполагаемым покупателем 3 тыс. кг наркотика. Об этом 21 ноября сообщила газета <a href=",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "世卫组织警告危险的“超级细菌”在欧洲传播的风险"
+      "titleZh": "涉嫌购买3000公斤可卡因的买家在伊斯坦布尔被拘留"
     },
     {
-      "title": "Мурашко сообщил о снижении числа повторных инфарктов у россиян",
-      "link": "https://ria.ru/20261121/rossija-2133109000.html",
-      "source": "RIA",
-      "pubDate": "Sat, 21 Nov 2026 11:39:27 +0300",
+      "title": "Роспотребнадзор запросил у Казахстана информацию о «валящем с ног вирусе»",
+      "link": "https://iz.ru/2206123/2026-11-21/rospotrebnadzor-zaprosil-u-kazakhstana-informatciiu-o-valiashchem-s-nog-viruse",
+      "source": "Izvestia",
+      "pubDate": "Sat, 21 Nov 2026 18:31:08 +0300",
+      "summary": "<p>Роспотребнадзор направил запрос в минздрав Казахстана для получения официальных сведений об эпидемиологической обстановке на фоне сообщений о распространении неизвестного вируса. Об этом 21 ноября сообщила пресс-служб",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯联邦消费者权益和公益监督局向哈萨克斯坦索取有关“使人瘫倒的病毒”的信息"
+    },
+    {
+      "title": "Десятки тысяч пенсионеров в стране Европы подали в суд из-за сокращения выплат",
+      "link": "https://lenta.ru/news/2026/11/21/desyatki-tysyach-pensionerov-v-rumynii-podali-v-sud-iz-za-sokrascheniya-vyplat/",
+      "source": "Lenta",
+      "pubDate": "Sat, 21 Nov 2026 18:16:00 +0300",
       "summary": "",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "穆拉什科报告称，俄罗斯人心脏病反复发作的次数有所减少"
+      "titleZh": "欧洲某国数万名退休人员因养老金削减而提起诉讼"
     },
     {
-      "title": "Регионы России начали массово принимать законы о запрете электронных сигарет",
-      "link": "https://iz.ru/2206012/video/regiony-rossii-nachali-massovo-prinimat-zakony-o-zaprete-elektronnykh-sigaret",
+      "title": "В Германии 49% опрошенных выступили за сокращение или прекращение помощи Киеву",
+      "link": "https://iz.ru/2206098/2026-11-21/v-germanii-49-oproshennykh-vystupili-za-sokrashchenie-ili-prekrashchenie-pomoshchi-kievu",
       "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 11:30:23 +0300",
-      "summary": "<p>В 32 регионах России приняли законы о полном запрете розничной продажи вейпов. Ограничения начнут действовать с 1 марта 2027 года, сообщает <a href=\"https://iz.ru/live\" target=\"_blank\">телеканал «Известия»</a>.</p><p>",
+      "pubDate": "Sat, 21 Nov 2026 17:17:00 +0300",
+      "summary": "<p>Почти половина жителей Германии — 49% — выступает за сокращение или полный отказ от финансовой, военной и гуманитарной помощи <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a>. Об этом 21 ноября сообщила",
       "tags": [
-        "需求↑"
+        "供给↓"
       ],
-      "titleZh": "俄罗斯各地区开始集体通过禁止电子烟的法律"
+      "titleZh": "在德国，49%的受访者赞成减少或停止对基辅的援助。"
     },
     {
-      "title": "Стартовые продажи GTA VI за первый день установили абсолютный мировой рекорд",
-      "link": "https://iz.ru/2206014/video/startovye-prodazhi-gta-vi-za-pervyi-den-ustanovili-absoliutnyi-mirovoi-rekord",
-      "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 11:29:31 +0300",
-      "summary": "<p>Продажи GTA VI в первый день достигли $3,79 млрд. Сумма стала рекордом для всей развлекательной индустрии, передает <a href=\"https://iz.ru/live\" target=\"_blank\">телеканал «Известия»</a>.</p><p>Компания Take-Two Intera",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "GTA VI 首日开售创下绝对世界纪录"
-    },
-    {
-      "title": "Врач опроверг популярные мифы об алкоголе",
-      "link": "https://ria.ru/20261121/alkogol-2133106673.html",
-      "source": "RIA",
-      "pubDate": "Sat, 21 Nov 2026 11:24:09 +0300",
+      "title": "В России допустили блокировку еще одного популярного иностранного сервиса",
+      "link": "https://lenta.ru/news/2026/11/21/v-rossii-dopustili-blokirovku-esche-odnogo-populyarnogo-inostrannogo-servisa/",
+      "source": "Lenta",
+      "pubDate": "Sat, 21 Nov 2026 16:54:00 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "医生驳斥了有关酒精的流行神话"
+      "titleZh": "俄罗斯允许封锁另一家热门的外国服务提供商"
+    },
+    {
+      "title": "Аналитик предупредил о мошеннической схеме с копированием дизайна сайтов",
+      "link": "https://iz.ru/2206079/analitik-predupredil-o-kopiruiushchikh-dizain-ofitcialnykh-saitov-moshennikakh-izi",
+      "source": "Izvestia",
+      "pubDate": "Sat, 21 Nov 2026 16:45:00 +0300",
+      "summary": "<p>Мошенники копируют дизайн официальных сайтов и создают поддельные страницы, на которых предлагают товары с большими скидками или выгодные инвестиции. Об этом 21 ноября рассказал доцент Финансового университета при пра",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "分析师警告称，存在一种通过复制网站设计实施的欺诈骗局。"
+    },
+    {
+      "title": "RWB: смена гендиректора не влияет на операционную деятельность Wildberries",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/21/1413983-smena-gendirektora-wildberries",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 21 Nov 2026 15:22:48 +0300",
+      "summary": "",
+      "tags": [
+        "Wildberries"
+      ],
+      "titleZh": "RWB：首席执行官的变更不会影响Wildberries的运营活动"
+    },
+    {
+      "title": "Во всех районах Киева начались перебои с водоснабжением",
+      "link": "https://lenta.ru/news/2026/11/21/vo-vseh-rayonah-kieva-nachalis-pereboi-s-vodosnabzheniem/",
+      "source": "Lenta",
+      "pubDate": "Sat, 21 Nov 2026 13:43:00 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "基辅所有地区开始出现供水中断。"
+    },
+    {
+      "title": "Татьяна Ким покинула пост гендиректора Wildberries",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/21/1413974-kim-gendirektorom",
+      "source": "Vedomosti",
+      "pubDate": "Sat, 21 Nov 2026 13:19:25 +0300",
+      "summary": "",
+      "tags": [
+        "Wildberries"
+      ],
+      "titleZh": "塔季阿娜·金（Tatiana Kim）卸任Wildberries首席执行官一职"
+    },
+    {
+      "title": "Оценена привычка россиян заранее покупать продукты к Новому году ради экономии",
+      "link": "https://lenta.ru/news/2026/11/21/otsenena-privychka-rossiyan-zaranee-pokupat-produkty-k-novomu-godu-radi-ekonomii/",
+      "source": "Lenta",
+      "pubDate": "Sat, 21 Nov 2026 12:51:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "对俄罗斯人为了省钱而提前购买新年食品的习惯进行了评估"
     },
     {
       "title": "Популярное детское молоко оказалось опасным",
@@ -162,29 +192,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "流行的婴儿奶粉被证明是危险的"
-    },
-    {
-      "title": "В пяти районах Киева начались перебои с водоснабжением",
-      "link": "https://ria.ru/20261121/kiev-2133105965.html",
-      "source": "RIA",
-      "pubDate": "Sat, 21 Nov 2026 11:13:59 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "基辅五个地区开始供水中断"
-    },
-    {
-      "title": "Профессор назвал опасные для кошек и собак комнатные растения",
-      "link": "https://iz.ru/2205970/professor-nazval-opasnye-dlia-koshek-i-sobak-komnatnye-rasteniia-izi",
-      "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 10:55:00 +0300",
-      "summary": "<p>Популярные комнатные растения, такие как алоэ, фикусы и гортензии, смертельно опасны для домашних питомцев. Об этом 21 ноября заявил доктор биологических наук, профессор кафедры ветеринарно-санитарной экспертизы и био",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "教授列出了对猫和狗危险的室内植物"
+      "titleZh": "一款热门儿童牛奶被发现存在危险。"
     },
     {
       "title": "Назван самый популярный город Золотого кольца на Новый год",
@@ -195,29 +203,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "金环新年最受欢迎城市已被评为"
-    },
-    {
-      "title": "ВОЗ оценила риск распространения устойчивой к лекарствам супербактерии в ЕС",
-      "link": "https://ria.ru/20261121/superbakteriya-2133103186.html",
-      "source": "RIA",
-      "pubDate": "Sat, 21 Nov 2026 10:42:16 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "世卫组织评估了耐药超级细菌在欧盟传播的风险"
-    },
-    {
-      "title": "Россияне стали отказываться от покупок из-за сложностей со связью с продавцами",
-      "link": "https://iz.ru/2204603/2026-11-21/rossiiane-stali-otkazyvatsia-ot-pokupok-iz-za-slozhnostei-so-sviaziu-s-prodavtcami",
-      "source": "Izvestia",
-      "pubDate": "Sat, 21 Nov 2026 08:00:00 +0300",
-      "summary": "<p>Необходимость звонить продавцу, скачивать приложение или проходить регистрацию заставляла более половины россиян (51%) отказываться от обращения в компанию, даже если товар или услуга их заинтересовали. Об этом свидет",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "由于与卖家联系存在困难，俄罗斯人开始放弃购物。"
+      "titleZh": "金环最受欢迎的跨年城市揭晓"
     },
     {
       "title": "В Нидерландах захотели закрыть завод производителя дронов для ВСУ",
@@ -228,7 +214,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "在荷兰，他们想关闭乌克兰武装部队无人机制造商的工厂"
+      "titleZh": "荷兰希望关闭一家为乌克兰武装部队生产无人机的工厂"
     },
     {
       "title": "Врач рассказал о самых распространенных мифах об алкоголе",
@@ -239,7 +225,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "医生讲述了有关酒精的最常见的误解"
+      "titleZh": "医生谈论了关于酒精的最常见误区"
     },
     {
       "title": "Ревность, опоздания и рекорды. Чем запомнились первые сутки продаж GTA VI?",
@@ -250,7 +236,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "嫉妒、迟到和记录。您还记得《GTA VI》首日发售的情景吗？"
+      "titleZh": "嫉妒、迟到和纪录。《GTA VI》首日销售有哪些令人难忘之处？"
     },
     {
       "title": "Продажи GTA VI достигли $3,79 млрд",
@@ -264,50 +250,6 @@
       "titleZh": "《GTA VI》的销售额已达 37.9 亿美元"
     },
     {
-      "title": "Объявлено о рекордной выручке за первые сутки продаж GTA VI",
-      "link": "https://lenta.ru/news/2026/11/20/ob-yavleno-o-rekordnoy-vyruchke-za-pervye-sutki-prodazh-gta-vi/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 23:52:48 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "GTA VI 首日销售收入创纪录"
-    },
-    {
-      "title": "Золоту предрекли снижение до 3200 долларов за тройскую унцию",
-      "link": "https://lenta.ru/news/2026/11/20/zolotu-predrekli-snizhenie-do-3200-dollarov-za-troyskuyu-untsiyu/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 20:58:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "预计金价将跌至每金衡盎司 3,200 美元"
-    },
-    {
-      "title": "Развеян популярный миф о главных факторах долголетия",
-      "link": "https://lenta.ru/news/2026/11/20/razveyan-populyarnyy-mif-o-glavnyh-faktorah-dolgoletiya/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 19:37:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "关于长寿主要因素的流行神话已被消除"
-    },
-    {
-      "title": "Tesla анонсировала полностью автономную версию популярного кроссовера",
-      "link": "https://lenta.ru/news/2026/11/20/tesla-anonsirovala-polnostyu-avtonomnuyu-versiyu-populyarnogo-krossovera/",
-      "source": "Lenta",
-      "pubDate": "Fri, 20 Nov 2026 19:06:39 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "特斯拉宣布推出流行跨界车的全自动版本"
-    },
-    {
       "title": "ЕС выделил 1 млрд евро на закупки оружия Киеву из Еврофонда мира",
       "link": "https://www.vedomosti.ru/politics/news/2026/11/20/1413902-1-mlrd-evro",
       "source": "Vedomosti",
@@ -316,7 +258,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "欧盟从欧洲基金拨款10亿欧元用于向基辅购买武器"
+      "titleZh": "欧盟从欧洲和平基金中拨款10亿欧元用于向基辅采购武器"
     },
     {
       "title": "В Севастополе возобновят продажу билетов на автобусы через Крымский мост",
@@ -327,7 +269,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "在塞瓦斯托波尔，克里米亚大桥上的巴士车票将恢复销售"
+      "titleZh": "塞瓦斯托波尔将恢复通过克里米亚大桥的巴士车票销售"
     },
     {
       "title": "Ликеро-водочный завод «Кристалл» допустил техдефолты по двум сериям облигаций",
@@ -338,7 +280,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "克里斯塔尔酒厂对两个系列的债券犯了技术性违约"
+      "titleZh": "“水晶”酿酒厂在两批债券上出现技术性违约"
     },
     {
       "title": "А7 реализует размещение облигаций за счет только одного выпуска",
@@ -349,7 +291,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "A7仅通过一次发行方式实现债券配售"
+      "titleZh": "A7仅通过一次发行来实现债券的配售。"
     },
     {
       "title": "Российский рынок акций продолжает уверенное снижение",
@@ -360,7 +302,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "俄罗斯股市继续稳步下跌"
+      "titleZh": "俄罗斯股市持续稳步下跌"
     },
     {
       "title": "Поставки пива из Китая выросли на 36% за 10 месяцев",
@@ -371,7 +313,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "来自中国的啤酒供应量在10个月内增加了36%"
+      "titleZh": "10个月内，来自中国的啤酒供应量增长了36%"
     },
     {
       "title": "«Ozon банк» столкнулся со сбоями в работе",
@@ -382,7 +324,7 @@
       "tags": [
         "OZON"
       ],
-      "titleZh": "Ozon 银行遭遇运营中断"
+      "titleZh": "“Ozon 银行”出现运营故障"
     },
     {
       "title": "Мишустин: число проверок бизнеса сократилось в шесть раз с 2019 года",
@@ -393,29 +335,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "米舒斯京：2019年以来企业检查数量减少六倍"
-    },
-    {
-      "title": "Трамп в разговоре с европейцами скептически отнесся к поставкам оружия Украине",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/19/1413531-tramp-skepticheski-otnessya",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 19 Nov 2026 21:23:54 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "特朗普在与欧洲人交谈时对向乌克兰供应武器持怀疑态度"
-    },
-    {
-      "title": "США снова продлили лицензию для продажи зарубежных активов «Лукойла»",
-      "link": "https://www.vedomosti.ru/politics/news/2026/11/19/1413497-ssha-prodlili-litsenziyu",
-      "source": "Vedomosti",
-      "pubDate": "Thu, 19 Nov 2026 18:36:02 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "美国再次延长卢克石油公司海外资产出售许可"
+      "titleZh": "米舒斯京：自2019年以来，对企业的检查次数减少了六倍"
     }
   ]
 }
