@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-22T08:52:13.217Z",
-  "count": 36,
+  "updated": "2026-11-22T16:44:16.287Z",
+  "count": 26,
   "items": [
     {
-      "title": "Варламов раскрыл цены на пиццу и мороженое на популярном европейскому курорте",
+      "title": "Варламов раскрыл цены на пиццу и мороженое на популярном европейском курорте",
       "link": "https://lenta.ru/news/2026/11/22/varlamov-raskryl-tseny-na-pitstsu-i-morozhenoe-na-populyarnom-evropeyskomu-kurorte/",
       "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 09:34:21 +0300",
+      "pubDate": "Sun, 22 Nov 2026 09:34:00 +0300",
       "summary": "",
       "tags": [
         "需求↑",
         "价格"
       ],
-      "titleZh": "瓦尔拉莫夫揭示了热门欧洲度假胜地的披萨和冰淇淋价格。"
+      "titleZh": "瓦尔拉莫夫披露了热门欧洲度假胜地的披萨和冰淇淋价格。"
     },
     {
       "title": "Никитин: около 50% транспорта будет беспилотным в России к 2050 году",
@@ -60,31 +60,95 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "新型人寿保险在三个月内的销售额达到189亿卢布。"
+      "titleZh": "新型人寿保险在三个月内的销售额为189亿卢布。"
     },
     {
-      "title": "Цены на золото снизились на 3% за день",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413718-tseni-na-zoloto",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 20 Nov 2026 13:06:26 +0300",
-      "summary": "",
+      "title": "Россияне за девять месяцев скупили почти 2 млн кофемашин",
+      "link": "https://iz.ru/2206464/video/rossiiane-za-deviat-mesiatcev-skupili-pochti-2-mln-kofemashin",
+      "source": "Izvestia",
+      "pubDate": "Sun, 22 Nov 2026 18:58:00 +0300",
+      "summary": "<p>В России рекордно вырос спрос на кофемашины. Продажи аппаратов для приготовления бодрящего напитка поднялись на 11%, это рекорд, сообщает <a href=\"https://iz.ru/live\" target=\"_blank\">телеканал «Известия»</a>. Всего за",
       "tags": [
-        "供给↓",
-        "价格"
+        "需求↑"
       ],
-      "titleZh": "黄金价格一天内下跌3%"
+      "titleZh": "俄罗斯人在九个月内购买了近200万台咖啡机"
     },
     {
-      "title": "Китай втрое увеличил импорт российского вина в октябре",
-      "link": "https://www.vedomosti.ru/business/news/2026/11/20/1413644-kitai-uvelichil-import",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 20 Nov 2026 11:28:45 +0300",
+      "title": "Daily Mail сообщила о высоком уровне наркопотребления в элитных полках Британии",
+      "link": "https://iz.ru/2206461/2026-11-22/daily-mail-soobshchila-o-vysokom-urovne-narkopotrebleniia-v-elitnykh-polkakh-britanii",
+      "source": "Izvestia",
+      "pubDate": "Sun, 22 Nov 2026 18:38:35 +0300",
+      "summary": "<p>Солдаты элитных гвардейских полков имеют один из худших показателей употребления наркотиков в британской армии. Об этом 22 ноября сообщает <a href=\"https://www.dailymail.com/news/article-16311693/Trooping-Colour-soldi",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "《每日邮报》报道称，英国精英团体内吸毒现象严重。"
+    },
+    {
+      "title": "Популярный стример раскрыла единственное желание на Новый год",
+      "link": "https://lenta.ru/news/2026/11/22/populyarnyy-strimer-raskryla-edinstvennoe-zhelanie-na-novyy-god/",
+      "source": "Lenta",
+      "pubDate": "Sun, 22 Nov 2026 18:34:00 +0300",
       "summary": "",
       "tags": [
-        "供给↓",
-        "中俄贸易"
+        "需求↑"
       ],
-      "titleZh": "10月份，中国对俄罗斯葡萄酒的进口量增加了两倍。"
+      "titleZh": "知名主播透露了她对新年的唯一愿望"
+    },
+    {
+      "title": "Состояние сооснователя Oracle Эллисона сократилось на $40 млрд за три месяца",
+      "link": "https://www.vedomosti.ru/business/news/2026/11/22/1414085-sostoyanie-ellisona-sokratilos",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 22 Nov 2026 17:03:35 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "甲骨文联合创始人埃里森的财富在三个月内缩水400亿美元"
+    },
+    {
+      "title": "Решетников назвал плавучие АЭС России потенциальным хитом мирового энергорынка",
+      "link": "https://iz.ru/2206388/reshetnikov-nazval-plavuchie-aes-potentcialnym-khitom-mirovogo-energorynka",
+      "source": "Izvestia",
+      "pubDate": "Sun, 22 Nov 2026 15:20:49 +0300",
+      "summary": "<p>Российские плавучие атомные электростанции могут стать востребованными на мировом энергетическом рынке и обеспечить электричеством прибрежные государства с дефицитом энергии. Об этом 22 ноября заявил министр экономиче",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "列谢特尼科夫称俄罗斯的浮动核电站可能是全球能源市场的热门产品"
+    },
+    {
+      "title": "Названа самая распространенная схема обмана российских детей в Roblox",
+      "link": "https://lenta.ru/news/2026/11/22/nazvana-samaya-rasprostranennaya-shema-obmana-rossiyskih-detey-v-roblox/",
+      "source": "Lenta",
+      "pubDate": "Sun, 22 Nov 2026 13:46:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "Roblox上最常见的欺骗俄罗斯儿童的骗局被曝光"
+    },
+    {
+      "title": "Блогерша зашла в русский магазин в Китае и нашла там «суровые товары боевого народа»",
+      "link": "https://lenta.ru/news/2026/11/22/blogersha-zashla-v-russkiy-magazin-v-kitae-i-nashla-tam-surovye-tovary-boevogo-naroda/",
+      "source": "Lenta",
+      "pubDate": "Sun, 22 Nov 2026 12:30:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "一位博主走进中国的一家俄罗斯商店，在那里发现了“战斗民族的硬核商品”。"
+    },
+    {
+      "title": "Население Украины может сократиться до 25,5 млн человек к 2030 году",
+      "link": "https://www.vedomosti.ru/society/news/2026/11/22/1414048-naselenie-ukraini-mozhet",
+      "source": "Vedomosti",
+      "pubDate": "Sun, 22 Nov 2026 12:16:30 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "到2030年，乌克兰人口可能降至2550万人。"
     },
     {
       "title": "Решетников назвал «мировым хитом» создание плавучих АЭС",
@@ -95,84 +159,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "列舍特尼科夫称浮动核电站的建造是一项“全球热门项目”"
-    },
-    {
-      "title": "Аналитики спрогнозировали дальнейшее снижение цен на нефть в декабре",
-      "link": "https://ria.ru/20261122/neft-2133222927.html",
-      "source": "RIA",
-      "pubDate": "Sun, 22 Nov 2026 10:30:56 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "分析师预测12月份油价将进一步下跌"
-    },
-    {
-      "title": "Зимний дефицит газа обойдется Украине в $800 млн",
-      "link": "https://iz.ru/2206283/ukraine-ne-khvataet-800-mln-kub-m-gaza-na-otopitelnyj-sezon-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 10:06:00 +0300",
-      "summary": "<p>Нехватка природного газа для успешного прохождения отопительного сезона на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a> составляет около 800 млн куб. м. Для закупки недостающего объема стране потреб",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "冬季天然气短缺将使乌克兰损失8亿美元"
-    },
-    {
-      "title": "Армия РФ «Геранями» поразила центр обработки данных «МКМ Телеком» и НПЗ Украины",
-      "link": "https://iz.ru/2206306/2026-11-22/armiia-rf-geraniami-porazila-tcentr-obrabotki-dannykh-mkm-telekom-i-npz-ukrainy",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 09:15:00 +0300",
-      "summary": "<p>Российские бойцы с помощью беспилотников «Герань» нанесли удары по электроподстанциям, нефтеперерабатывающим заводам и центру обработки данных (ЦОД) «МКМ Телеком» на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\"",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯军队使用“天竺葵”无人机袭击了乌克兰的“MKM电信”数据处理中心和炼油厂。"
-    },
-    {
-      "title": "Предсказано сокращение населения Украины до 26,2 млн человек к 2030 году",
-      "link": "https://iz.ru/2206300/predskazano-sokrashchenie-naseleniia-ukrainy-do-262-mln-chelovek-k-2030-godu-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 08:57:00 +0300",
-      "summary": "<p>Численность населения <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> к 2030 году может уменьшиться до 26,2 млн человек. Об этом 22 ноября сообщил заместитель директора Института демографии Национально",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "据预测，到2030年，乌克兰人口将降至2620万人。"
-    },
-    {
-      "title": "Три человека погибли при пожаре на кондитерской фабрике в Индонезии",
-      "link": "https://iz.ru/2206297/tri-cheloveka-pogibli-pri-pozhare-na-konditerskoi-fabrike-v-indonezii-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 08:44:00 +0300",
-      "summary": "<p>Три сотрудника кондитерской фабрики погибли в результате пожара в промышленном районе Чиканде в Индонезии. Об этом 22 ноября сообщил портал <a href=\"https://news.rthk.hk/rthk/en/component/k2/1878759-20261122.htm\">RTHK",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "印度尼西亚一家糖果厂发生火灾，造成3人死亡"
-    },
-    {
-      "title": "МВД сообщило о риске перехвата мошенниками контроля над банковскими приложениями",
-      "link": "https://iz.ru/2206299/mvd-soobshchilo-o-riske-perekhvata-moshennikami-kontrolia-nad-bankovskimi-prilozheniiami-izi",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 08:35:23 +0300",
-      "summary": "<p>Мошенники могут получать доступ к банковским сервисам россиян с помощью вредоносных приложений, которые распространяют под видом полезных программ. Об этом 22 ноября сообщили в МВД России.</p>",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "内政部通报了诈骗分子劫持银行应用程序的风险"
-    },
-    {
-      "title": "Врач предупредила об опасности употребления обжигающего кофе на морозе",
-      "link": "https://iz.ru/2205349/2026-11-22/vrach-predupredila-ob-opasnosti-upotrebleniia-obzhigaiushchego-kofe-na-moroze",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 08:30:00 +0300",
-      "summary": "<p>Употребление слишком горячего кофе на морозе может вызвать раздражение и термическое повреждение слизистой оболочки горла. Об этом 22 ноября «Известиям» рассказала врач-оториноларинголог клиники «К+31 Запад» Екатерина",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医生警告在寒冷天气饮用烫咖啡的危险性"
+      "titleZh": "列谢特尼科夫将建造浮动核电站称为“全球热门项目”"
     },
     {
       "title": "После пожара на кондитерской фабрике в Индонезии нашли тела трех погибших",
@@ -183,18 +170,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "印度尼西亚一家糖果厂发生火灾后，发现了三具遇难者的尸体。"
-    },
-    {
-      "title": "Эксперт назвал главные причины снижения тестостерона у молодых мужчин",
-      "link": "https://iz.ru/2205312/2026-11-22/ekspert-nazval-glavnye-prichiny-snizheniia-testosterona-u-molodykh-muzhchin",
-      "source": "Izvestia",
-      "pubDate": "Sun, 22 Nov 2026 07:00:00 +0300",
-      "summary": "<p>Снижение уровня тестостерона перестало быть исключительно возрастной проблемой: с гормональными нарушениями всё чаще сталкиваются мужчины 25–35 лет. Среди основных факторов — лишний вес, недостаток сна, хронический ст",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "专家指出了年轻男性睾酮水平下降的主要原因"
+      "titleZh": "印度尼西亚一家糖果厂发生火灾后，发现了三具遇难者的遗体。"
     },
     {
       "title": "Раскрыты причины сокращения числа наемников в ВСУ",
@@ -227,7 +203,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯人被警告称，以某种方式饮用饮料会导致牙齿快速脱落。"
+      "titleZh": "俄罗斯人被警告，以某种方式饮用饮料会导致牙齿快速脱落。"
     },
     {
       "title": "Названы пять упражнений для снижения тревожности",
@@ -252,72 +228,6 @@
       "titleZh": "乌克兰人口下降的速度被形容为“前景不容乐观”。"
     },
     {
-      "title": "Россиян предупредили о риске инфаркта и инсульта от популярного напитка",
-      "link": "https://lenta.ru/news/2026/11/22/rossiyan-predupredili-o-riske-infarkta-i-insulta-ot-populyarnogo-napitka/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 05:32:52 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯人被警告称，一种热门饮品可能导致心脏病发作和中风的风险。"
-    },
-    {
-      "title": "В России высказались за полный запрет продажи вейпов",
-      "link": "https://lenta.ru/news/2026/11/22/v-rossii-vyskazalis-za-polnyy-zapret-prodazhi-veypov/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 02:03:33 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯有人呼吁全面禁止销售电子烟"
-    },
-    {
-      "title": "Россия договорилась с одной страной о поставках комплектующих для ТЭК",
-      "link": "https://lenta.ru/news/2026/11/22/rossiya-dogovorilas-s-odnoy-stranoy-o-postavkah-komplektuyuschih-dlya-tek/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 02:00:20 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯已与一个国家就供应燃料和能源综合体零部件达成协议"
-    },
-    {
-      "title": "Спрос на один товар взлетел после скандала с Хуангом",
-      "link": "https://lenta.ru/news/2026/11/22/spros-na-odin-tovar-vzletel-posle-skandala-s-huangom/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 01:55:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在黄某丑闻爆发后，一种商品的需求量飙升。"
-    },
-    {
-      "title": "Онищенко сделал заявление о распространении супербактерии",
-      "link": "https://lenta.ru/news/2026/11/21/onischenko-sdelal-zayavlenie-pro-rasprostranenie-superbakterii/",
-      "source": "Lenta",
-      "pubDate": "Sat, 21 Nov 2026 23:16:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "奥尼先科就超级细菌的传播发表声明"
-    },
-    {
-      "title": "Украина столкнется с трудностями в производстве дронов для ВСУ",
-      "link": "https://lenta.ru/news/2026/11/21/ukraina-stolknetsya-s-trudnostyami-v-proizvodstve-dronov-dlya-vsu/",
-      "source": "Lenta",
-      "pubDate": "Sat, 21 Nov 2026 22:53:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌克兰在为乌克兰武装部队生产无人机方面将面临困难"
-    },
-    {
       "title": "RWB: смена гендиректора не влияет на операционную деятельность Wildberries",
       "link": "https://www.vedomosti.ru/business/news/2026/11/21/1413983-smena-gendirektora-wildberries",
       "source": "Vedomosti",
@@ -337,7 +247,7 @@
       "tags": [
         "Wildberries"
       ],
-      "titleZh": "塔季阿娜·金（Tatiana Kim）辞去Wildberries首席执行官一职"
+      "titleZh": "塔季扬娜·金（Tatyana Kim）辞去Wildberries首席执行官一职"
     },
     {
       "title": "Продажи GTA VI достигли $3,79 млрд",
@@ -359,7 +269,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "欧盟从欧洲和平基金中拨款10亿欧元用于向基辅采购武器"
+      "titleZh": "欧盟从欧洲和平基金中拨出10亿欧元用于向基辅采购武器"
     },
     {
       "title": "В Севастополе возобновят продажу билетов на автобусы через Крымский мост",
@@ -381,29 +291,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“水晶”烈酒厂在两批债券上出现技术性违约"
-    },
-    {
-      "title": "А7 реализует размещение облигаций за счет только одного выпуска",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413702-a7-realizuet-obligatsii",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 20 Nov 2026 12:36:11 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "A7仅通过一次发行来实现债券的配售。"
-    },
-    {
-      "title": "Российский рынок акций продолжает уверенное снижение",
-      "link": "https://www.vedomosti.ru/investments/news/2026/11/20/1413685-rossiiskii-rinok-aktsii",
-      "source": "Vedomosti",
-      "pubDate": "Fri, 20 Nov 2026 12:02:06 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "俄罗斯股市持续稳步下跌"
+      "titleZh": "“水晶”伏特加酒厂在两批债券上出现技术性违约"
     }
   ]
 }
