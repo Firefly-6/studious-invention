@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-22T22:04:53.535Z",
-  "count": 18,
+  "updated": "2026-11-23T02:34:02.072Z",
+  "count": 23,
   "items": [
+    {
+      "title": "Стоимость нефти Brent опустилась ниже $90 за баррель",
+      "link": "https://iz.ru/2206595/2026-11-23/stoimost-nefti-brent-opustilas-nizhe-90-za-barrel",
+      "source": "Izvestia",
+      "pubDate": "Mon, 23 Nov 2026 04:47:08 +0300",
+      "summary": "<p>На мировых рынках зафиксировано снижение стоимости нефти марки Brent более чем на 3%. Это следует из данных торгов — до $89,6 за баррель. Об этом 23 ноября свидетельствуют данные международной финансовой платформы <a ",
+      "tags": [
+        "供给↓",
+        "价格"
+      ],
+      "titleZh": "布伦特原油价格跌破每桶90美元"
+    },
+    {
+      "title": "Бессент потребовал от Nvidia отчитаться о возможной утечке технологий в КНР",
+      "link": "https://iz.ru/2206558/2026-11-23/bessent-potreboval-nvidia-otchitatsia-o-vozmozhnoi-utechke-tekhnologii-v-knr",
+      "source": "Izvestia",
+      "pubDate": "Mon, 23 Nov 2026 01:25:46 +0300",
+      "summary": "<p>От компании Nvidia требуют официальных объяснений по вопросу соблюдения экспортных ограничений на поставки чипов в Китай. Об этом 22 ноября заявил глава минфина <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a>",
+      "tags": [
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "贝森特要求英伟达就可能向中国泄露技术的情况作出说明"
+    },
     {
       "title": "Администрация США проверит возможные поставки чипов Nvidia в Китай",
       "link": "https://lenta.ru/news/2026/11/22/administratsiya-ssha-proverit-vozmozhnye-postavki-chipov-nvidia-v-kitay/",
@@ -60,7 +84,62 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "新型人寿保险在三个月内的销售额为189亿卢布。"
+      "titleZh": "新型人寿保险在三个月内的销售额达到189亿卢布。"
+    },
+    {
+      "title": "Продажи GTA VI побили исторический рекорд. Кто выиграл и кто проиграл от ее выхода",
+      "link": "https://iz.ru/2206487/2026-11-23/prodazhi-gta-vi-pobili-istoricheskii-rekord-kto-vyigral-i-kto-proigral-ot-ee-vykhoda",
+      "source": "Izvestia",
+      "pubDate": "Mon, 23 Nov 2026 05:00:00 +0300",
+      "summary": "<p>Краткое содержание:</p><p>— В первый день релиза, 19 ноября, мировые продажи GTA VI с учетом предзаказов (32,5 млн копий) достигли $3,79 млрд. Это почти в пять раз выше стартового результата GTA V и абсолютный рекорд ",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "《GTA VI》的销量打破了历史纪录。谁因其发布而受益，谁因其发布而受损？"
+    },
+    {
+      "title": "В МВД предупредили о мошеннической схеме с ИИ-приложениями по обработке фото",
+      "link": "https://iz.ru/2206592/v-mvd-predupredili-o-moshennicheskoi-skheme-s-prilozheniiami-po-obrabotke-foto-s-ii-izi",
+      "source": "Izvestia",
+      "pubDate": "Mon, 23 Nov 2026 04:52:00 +0300",
+      "summary": "<p>В России мошенники распространяют через социальные сети рекламу приложения для обработки фотографий с помощью искусственного интеллекта (ИИ), после установки которого злоумышленники получают удаленный доступ к смартфо",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "内政部警告称，存在利用人工智能应用程序处理照片的欺诈骗局。"
+    },
+    {
+      "title": "В Литве заявили о серьезных проблемах на одной из старейших советских фабрик",
+      "link": "https://lenta.ru/news/2026/11/23/v-litve-zayavili-o-serieznyh-problemah-na-odnoy-iz-stareyshih-sovetskih-fabrik/",
+      "source": "Lenta",
+      "pubDate": "Mon, 23 Nov 2026 03:36:39 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "立陶宛称，一家历史最悠久的苏联工厂存在严重问题。"
+    },
+    {
+      "title": "Самолеты Саддама Хусейна выставили на продажу",
+      "link": "https://lenta.ru/news/2026/11/23/samolety-saddama-huseyna-vystavili-na-prodazhu/",
+      "source": "Lenta",
+      "pubDate": "Mon, 23 Nov 2026 01:59:26 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "萨达姆·侯赛因的飞机被挂牌出售"
+    },
+    {
+      "title": "Дефицит рабочих на стройках предложили закрыть налоговыми льготами",
+      "link": "https://iz.ru/2206538/2026-11-23/defitcit-rabochikh-na-stroikakh-predlozhili-zakryt-nalogovymi-lgotami",
+      "source": "Izvestia",
+      "pubDate": "Mon, 23 Nov 2026 00:30:00 +0300",
+      "summary": "<p>Строительным компаниям предложили снижать налоги за подготовку каменщиков, сварщиков, бетонщиков и других рабочих. Торгово-промышленная палата (ТПП) попросила расширить льготы для бизнеса, который оснащает колледжи, о",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "有人提议通过税收优惠来解决建筑工地工人短缺的问题。"
     },
     {
       "title": "Популярный стример раскрыла единственное желание на Новый год",
@@ -85,28 +164,6 @@
       "titleZh": "甲骨文联合创始人埃里森的财富在三个月内缩水400亿美元"
     },
     {
-      "title": "Названа самая распространенная схема обмана российских детей в Roblox",
-      "link": "https://lenta.ru/news/2026/11/22/nazvana-samaya-rasprostranennaya-shema-obmana-rossiyskih-detey-v-roblox/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 13:46:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "揭露在 Roblox 上欺骗俄罗斯儿童的最常见骗局"
-    },
-    {
-      "title": "Блогерша зашла в русский магазин в Китае и нашла там «суровые товары боевого народа»",
-      "link": "https://lenta.ru/news/2026/11/22/blogersha-zashla-v-russkiy-magazin-v-kitae-i-nashla-tam-surovye-tovary-boevogo-naroda/",
-      "source": "Lenta",
-      "pubDate": "Sun, 22 Nov 2026 12:30:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位博主走进中国的一家俄罗斯商店，在那里发现了“战斗民族的硬核商品”。"
-    },
-    {
       "title": "Население Украины может сократиться до 25,5 млн человек к 2030 году",
       "link": "https://www.vedomosti.ru/society/news/2026/11/22/1414048-naselenie-ukraini-mozhet",
       "source": "Vedomosti",
@@ -115,7 +172,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "到2030年，乌克兰人口可能降至2550万人。"
+      "titleZh": "到2030年，乌克兰人口可能降至2550万人"
     },
     {
       "title": "Решетников назвал «мировым хитом» создание плавучих АЭС",
@@ -159,7 +216,7 @@
       "tags": [
         "Wildberries"
       ],
-      "titleZh": "塔季扬娜·金（Tatyana Kim）辞去Wildberries首席执行官一职"
+      "titleZh": "塔季扬娜·金（Tatiana Kim）卸任Wildberries首席执行官一职"
     },
     {
       "title": "Продажи GTA VI достигли $3,79 млрд",
@@ -203,7 +260,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“水晶”烈酒厂在两批债券上出现技术性违约"
+      "titleZh": "“水晶”烈酒厂在两批债券上出现技术性违约。"
     }
   ]
 }
