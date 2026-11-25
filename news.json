@@ -1,28 +1,186 @@
 {
-  "updated": "2026-11-24T18:00:19.564Z",
-  "count": 29,
+  "updated": "2026-11-25T01:59:16.828Z",
+  "count": 33,
   "items": [
     {
-      "title": "Путин рекомендовал ЦБ подготовить предложения по концессионным облигациям",
-      "link": "https://ria.ru/20261124/putin-2133713862.html",
-      "source": "RIA",
-      "pubDate": "Tue, 24 Nov 2026 20:54:32 +0300",
-      "summary": "",
+      "title": "Reuters сообщило об увеличении поставок российской нефти в Китай и Индию",
+      "link": "https://iz.ru/2207790/2026-11-25/reuters-soobshchilo-ob-uvelichenii-postavok-rossiiskoi-nefti-v-kitai-i-indiiu",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 02:14:42 +0300",
+      "summary": "<p>Китай и Индия близки к установлению исторических рекордов по объемам закупки российской нефти. С января по середину ноября 2026 года совокупные морские поставки в эти страны достигли около 3,4 млн баррелей в сутки. Об",
+      "tags": [
+        "需求↑",
+        "供给↓",
+        "中俄贸易"
+      ],
+      "titleZh": "路透社报道称，俄罗斯对中国和印度的石油供应量有所增加"
+    },
+    {
+      "title": "Маркетплейсы стали уходить от системы складов",
+      "link": "https://iz.ru/2207758/2026-11-25/marketpleisy-stali-ukhodit-ot-sistemy-skladov",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 01:00:00 +0300",
+      "summary": "<p>Wildberries начал подключать крупные сети магазинов одежды к программе Click&Collect, которая позволяет заказывать товары на маркетплейсе и забирать их непосредственно в торговых точках продавцов. В ноябре участниками",
+      "tags": [
+        "需求↑",
+        "Wildberries",
+        "平台"
+      ],
+      "titleZh": "电商平台开始放弃仓库系统。"
+    },
+    {
+      "title": "Ученые раскрыли процесс изменения работы кишечника из-за дефицита цинка",
+      "link": "https://iz.ru/2207356/uchenye-raskryli-protcess-izmeneniia-raboty-kishechnika-iz-za-defitcita-tcinka-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 04:30:00 +0300",
+      "summary": "<p dir=\"ltr\">Цинк участвует в работе иммунной системы и поддержании нормального состояния тканей, в том числе кишечника. Однако его недостаток может влиять не только на организм, но и на сообщества микроорганизмов, котор",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "科学家揭示了锌缺乏导致肠道功能改变的过程"
+    },
+    {
+      "title": "Последний рабочий день 2026 года не будут сокращать на один час",
+      "link": "https://iz.ru/2207812/2026-11-25/poslednii-rabochii-den-2026-goda-ne-budut-sokrashchat-na-odin-chas",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 04:23:38 +0300",
+      "summary": "<p>Рабочий день 30 декабря 2026 года не будет сокращенным, поскольку 31 декабря не считается праздничным днем. Об этом 25 ноября напомнил доцент Финансового университета при правительстве России Игорь Балынин.</p><p>Как ",
       "tags": [
         "供给↓"
       ],
-      "titleZh": "普京建议央行就特许经营债券提出建议"
+      "titleZh": "2026年的最后一个工作日不会缩短一小时。"
     },
     {
-      "title": "Путин поручил принять меры для обеспечения спроса на энергию в ДФО",
-      "link": "https://ria.ru/20261124/putin-2133712855.html",
-      "source": "RIA",
-      "pubDate": "Tue, 24 Nov 2026 20:50:24 +0300",
+      "title": "Британия предупредила свои компании, поставляющие продукцию ВСУ, о риске атак",
+      "link": "https://iz.ru/2207811/2026-11-25/britaniia-predupredila-svoi-kompanii-postavliaiushchie-produktciiu-vsu-o-riske-atak",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 04:06:22 +0300",
+      "summary": "<p>Власти Великобритании предупредили национальные компании, обеспечивающие поставки продукции для нужд Вооруженных сил <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> (ВСУ), о рисках совершения атак. Об ",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "英国警告向乌克兰武装部队供应产品的本国公司，称其面临袭击风险"
+    },
+    {
+      "title": "Россиянам назвали защищающее от инфарктов и инсультов популярное блюдо",
+      "link": "https://lenta.ru/news/2026/11/25/rolly/",
+      "source": "Lenta",
+      "pubDate": "Wed, 25 Nov 2026 04:01:43 +0300",
       "summary": "",
       "tags": [
         "需求↑"
       ],
-      "titleZh": "普京指示采取措施，以满足远东联邦区的能源需求"
+      "titleZh": "俄罗斯人将一道受欢迎的菜肴称为预防心脏病发作和中风的菜肴"
+    },
+    {
+      "title": "Великобритания построит на своей территории заводы для украинских БПЛА",
+      "link": "https://iz.ru/2207801/2026-11-25/velikobritaniia-postroit-na-svoei-territorii-zavody-dlia-ukrainskikh-bpla",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 03:28:05 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украина</a> сможет открыть на территории Великобритании предприятия по производству ударных беспилотников. Об этом сказано 24 ноября в пресс-релизе на <a href=\"https",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "英国将在其境内为乌克兰无人机建造工厂"
+    },
+    {
+      "title": "Сексолог опровергла популярный миф об оргазме",
+      "link": "https://lenta.ru/news/2026/11/25/seksolog-oprovergla-populyarnyy-mif-ob-orgazme/",
+      "source": "Lenta",
+      "pubDate": "Wed, 25 Nov 2026 03:05:20 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "性学家驳斥了关于性高潮的流行谬论"
+    },
+    {
+      "title": "Украина подписала с одной страной соглашение о производстве ударных БПЛА",
+      "link": "https://lenta.ru/news/2026/11/25/ukr/",
+      "source": "Lenta",
+      "pubDate": "Wed, 25 Nov 2026 02:43:59 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰与一个国家签署了生产攻击型无人机的协议"
+    },
+    {
+      "title": "Украина до сих пор не получила разрешение США на выпуск ракет для Patriot",
+      "link": "https://iz.ru/2207792/ukraina-ne-poluchila-razreshenie-ssha-na-vypusk-raket-dlia-patriot-izi",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 02:42:52 +0300",
+      "summary": "<p><a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украина</a> до сих пор не получила от <a href=\"https://iz.ru/tag/ssha\" target=\"_blank\">США</a> лицензию на производство ракет для зенитных ракетных комплексов Patrio",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "乌克兰仍未获得美国批准生产“爱国者”导弹"
+    },
+    {
+      "title": "Посол РФ заявил об отсутствии предложений от Австрии по украинскому урегулированию",
+      "link": "https://iz.ru/2207776/2026-11-25/posol-rf-zaiavil-ob-otsutstvii-predlozhenii-ot-avstrii-po-ukrainskomu-uregulirovaniiu",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 00:50:00 +0300",
+      "summary": "<p>Российская дипмиссия не получала от Австрии предложений по урегулированию конфликта на <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украине</a>. Об этом «Известиям» заявил посол РФ в Вене Андрей Грозов.</p>",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯大使表示，奥地利未就乌克兰问题解决方案提出任何建议"
+    },
+    {
+      "title": "Зеленский грубо отказался от предложения Лукашенко вместе полететь в Москву",
+      "link": "https://iz.ru/2207775/2026-11-25/zelenskii-grubo-otkazalsia-ot-predlozheniia-lukashenko-vmeste-poletet-v-moskvu",
+      "source": "Izvestia",
+      "pubDate": "Wed, 25 Nov 2026 00:42:22 +0300",
+      "summary": "<p>Президент <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a> <a href=\"https://iz.ru/tag/vladimir-zelenskii\" target=\"_blank\">Владимир Зеленский</a> отказался от предложения президента Белоруссии Александра",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "泽连斯基粗暴拒绝了卢卡申科关于一同飞往莫斯科的提议"
+    },
+    {
+      "title": "Зеленский отказался от предложения Лукашенко вместе приехать в Москву",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/25/1415022-zelenskii-otkazalsya",
+      "source": "Vedomosti",
+      "pubDate": "Wed, 25 Nov 2026 00:33:50 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "泽连斯基拒绝了卢卡申科关于一同前往莫斯科的提议"
+    },
+    {
+      "title": "Багдад заявил о потере $303 млрд на поставках нефти из Иракского Курдистана",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/24/1415019-bagdad-o-potere-mlrd",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 24 Nov 2026 23:38:29 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "巴格达宣布在从伊拉克库尔德斯坦供应石油方面损失了3030亿美元"
+    },
+    {
+      "title": "Популярная российская блогерша попала в больницу с угрозой преждевременных родов",
+      "link": "https://lenta.ru/news/2026/11/24/populyarnaya-rossiyskaya-blogersha-popala-v-bolnitsu-s-ugrozoy-prezhdevremennyh-rodov/",
+      "source": "Lenta",
+      "pubDate": "Tue, 24 Nov 2026 23:19:00 +0300",
+      "summary": "",
+      "tags": [
+        "需求↑"
+      ],
+      "titleZh": "俄罗斯知名博主因面临早产风险而住院"
+    },
+    {
+      "title": "Посольство РФ отвергло подготовку атак на оборонные заводы Великобритании",
+      "link": "https://www.vedomosti.ru/politics/news/2026/11/24/1415016-posolstvo-otverglo-podgotovku",
+      "source": "Vedomosti",
+      "pubDate": "Tue, 24 Nov 2026 23:07:28 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "俄罗斯大使馆否认策划袭击英国国防工厂"
     },
     {
       "title": "Россиянам назвали способ не платить налог с продажи квартиры",
@@ -33,7 +191,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯人找到了不缴纳房屋销售税的方法"
+      "titleZh": "俄罗斯人找到了不缴纳公寓销售税的方法"
     },
     {
       "title": "Названы популярные ошибки при украшении квартиры к Новому году",
@@ -66,7 +224,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "俄罗斯女性用“猥琐的导游”来形容一个热门的海滩国家"
+      "titleZh": "俄罗斯女性用“猥琐的导游”来形容一个热门的海滩国家。"
     },
     {
       "title": "«УАЗ» начал выпуск обновленных «Патриот», «Пикап» и «Профи»⁠",
@@ -77,29 +235,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“Uaz”开始生产升级版的“爱国者”、“皮卡”和“Profi”。"
-    },
-    {
-      "title": "Путин о поставках российского топлива на внешние рынки",
-      "link": "https://iz.ru/2207636/video/putin-o-postavkakh-rossiiskogo-topliva-na-vneshnie-rynki",
-      "source": "Izvestia",
-      "pubDate": "Tue, 24 Nov 2026 18:59:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京谈俄罗斯燃料对外供应"
-    },
-    {
-      "title": "Путин предупредил Европу о последствиях ограничений на поставки топлива из РФ",
-      "link": "https://iz.ru/2207627/2026-11-24/putin-predupredil-evropu-o-posledstviiakh-ogranichenii-na-postavki-topliva-iz-rf",
-      "source": "Izvestia",
-      "pubDate": "Tue, 24 Nov 2026 18:53:12 +0300",
-      "summary": "<p>Попытки ограничить поставки российских энергоносителей на внешние рынки приведут к серьезным последствиям прежде всего для европейских стран. Об этом 24 ноября заявил президент России <a href=\"https://iz.ru/tag/vladim",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "普京警告欧洲，限制俄罗斯燃料供应将产生后果"
+      "titleZh": "“UAZ”开始生产升级版的“爱国者”、“皮卡”和“Profi”。"
     },
     {
       "title": "Путин сделал заявление после атак ВСУ на российские нефтеперерабатывающие заводы",
@@ -132,7 +268,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "中国组装的丰田跨界车已在俄罗斯开始销售"
+      "titleZh": "中国组装的丰田跨界车开始在俄罗斯销售"
     },
     {
       "title": "Нарядам цвета алкоголя предрекли популярность зимой",
@@ -154,40 +290,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "朔尔茨的政党就乌克兰问题提出一项不同寻常的提议"
-    },
-    {
-      "title": "В Европе заявили о готовности к скорому запрету на импорт российского газа",
-      "link": "https://lenta.ru/news/2026/11/24/v-evrope-zayavili-o-gotovnosti-k-skoromu-zapretu-na-import-rossiyskogo-gaza/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 17:15:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "欧洲宣布已做好准备，即将禁止进口俄罗斯天然气"
-    },
-    {
-      "title": "Адвоката популярных в России блогеров лишили статуса",
-      "link": "https://lenta.ru/news/2026/11/24/advokata-populyarnyh-v-rossii-blogerov-lishili-statusa/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 16:51:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "在俄罗斯广受欢迎的博主的律师被剥夺了律师资格"
-    },
-    {
-      "title": "Развеян миф о некоторых популярных ЗОЖ-продуктах",
-      "link": "https://lenta.ru/news/2026/11/24/razveyan-mif-o-nekotoryh-populyarnyh-zozh-produktah/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 16:32:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一些热门健康生活方式产品的神话被打破了。"
+      "titleZh": "朔尔茨的政党就乌克兰问题提出了不同寻常的建议"
     },
     {
       "title": "WSJ: Пентагон хочет наладить выпуск дронов на заводах Ford и General Motors",
@@ -201,61 +304,6 @@
       "titleZh": "《华尔街日报》：五角大楼希望在福特和通用汽车的工厂生产无人机"
     },
     {
-      "title": "Китайский техногигант потерял миллиарды из-за слабых автопродаж",
-      "link": "https://lenta.ru/news/2026/11/24/kitayskiy-tehnologicheskiy-gigant-poteryal-milliardy-iz-za-slabyh-avtoprodazh/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 16:09:37 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "中国科技巨头因汽车销量低迷而损失数十亿美元"
-    },
-    {
-      "title": "Поставки импортных легковушек в Россию выросли",
-      "link": "https://lenta.ru/news/2026/11/24/postavki-importnyh-legkovushek-v-rossiyu-vyrosli/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 15:54:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "进口轿车对俄罗斯的供应量有所增加"
-    },
-    {
-      "title": "Закупку Великобританией поддельной взрывчатки для Украины высмеяли на Западе",
-      "link": "https://lenta.ru/news/2026/11/24/zakupku-velikobritaniey-poddelnoy-vzryvchatki-dlya-ukrainy-vysmeyali-na-zapade/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 15:53:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "英国为乌克兰购买假爆炸物一事在西方遭到嘲笑"
-    },
-    {
-      "title": "Силуанов высказался о дефиците российского бюджета",
-      "link": "https://lenta.ru/news/2026/11/24/siluanov-vyskazalsya-o-defitsite-rossiyskogo-byudzheta/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 15:53:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "西卢阿诺夫谈论俄罗斯预算赤字问题"
-    },
-    {
-      "title": "Пентагон начал активно привлекать автокомпании к производству дронов",
-      "link": "https://lenta.ru/news/2026/11/24/pentagon-nachal-aktivno-privlekat-avtokompanii-k-proizvodstvu-dronov/",
-      "source": "Lenta",
-      "pubDate": "Tue, 24 Nov 2026 15:38:35 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "五角大楼开始积极吸引汽车公司参与无人机生产"
-    },
-    {
       "title": "«Циан» получил от «Т-технологий» предложение по выкупу 100% акций",
       "link": "https://www.vedomosti.ru/investments/news/2026/11/24/1414773-tsian-poluchil",
       "source": "Vedomosti",
@@ -264,7 +312,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“齐安”收到“T-技术”关于收购其100%股份的要约"
+      "titleZh": "“Cyan”收到“T-Technologies”收购其100%股份的要约。"
     },
     {
       "title": "«Атомэнергопром» разместил первый выпуск облигаций технологического суверенитета",
@@ -275,7 +323,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "“原子能电力”公司发行了首批技术主权债券"
+      "titleZh": "“原子能电力公司”发行了首批技术主权债券"
     },
     {
       "title": "Мировое производство стали в октябре сократилось на 1,1% до 142,4 млн тонн",
@@ -319,7 +367,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "彭博社：乌克兰农业生产者因资金短缺面临破产风险"
+      "titleZh": "彭博社：乌克兰农民因资金短缺面临破产风险"
     }
   ]
 }
