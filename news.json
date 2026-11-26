@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T20:17:57.269Z",
-  "count": 42,
+  "updated": "2026-11-26T02:54:28.570Z",
+  "count": 23,
   "items": [
     {
       "title": "Минфин разместил ОФЗ на 20,57 млрд рублей при спросе в 44 млрд",
@@ -12,7 +12,29 @@
         "需求↑",
         "汇率"
       ],
-      "titleZh": "在需求为440亿卢布的情况下，财政部发行了价值205.7亿卢布的联邦贷款债券。"
+      "titleZh": "财政部发行了价值205.7亿卢布的联邦贷款债券，而需求量为440亿卢布。"
+    },
+    {
+      "title": "Пожар на складе мебельной фабрики в Электроуглях локализовали",
+      "link": "https://ria.ru/20261126/pozhar-2134014580.html",
+      "source": "RIA",
+      "pubDate": "Thu, 26 Nov 2026 05:35:36 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "埃列克特罗乌格利家具厂仓库的火灾已被控制。"
+    },
+    {
+      "title": "Площадь пожара на фабрике в Электроуглях достигла 1,6 тысяч \"квадратов\"",
+      "link": "https://ria.ru/20261126/pozhar-2134013821.html",
+      "source": "RIA",
+      "pubDate": "Thu, 26 Nov 2026 05:23:08 +0300",
+      "summary": "",
+      "tags": [
+        "供给↓"
+      ],
+      "titleZh": "埃列克特罗乌格利工厂火灾面积达1600平方米"
     },
     {
       "title": "Путин: товарооборот между Россией и Казахстаном приблизился к $30 млрд",
@@ -23,205 +45,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "普京：俄罗斯与哈萨克斯坦的贸易额接近300亿美元"
-    },
-    {
-      "title": "США одобрили продажу Украине услуг по обслуживанию F-16",
-      "link": "https://ria.ru/20261125/ssha-2133990657.html",
-      "source": "RIA",
-      "pubDate": "Wed, 25 Nov 2026 22:34:53 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "美国批准向乌克兰出售F-16维护服务"
-    },
-    {
-      "title": "Производитель премиального алкоголя Rémy Cointreau сократит до 15% сотрудников",
-      "link": "https://iz.ru/2208329/2026-11-25/proizvoditel-premialnogo-alkogolia-remy-cointreau-sokratit-do-15-sotrudnikov",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 22:29:00 +0300",
-      "summary": "<p dir=\"ltr\">Французский производитель элитных алкогольных напитков Rémy Cointreau намерен сократить от 12 до 15% персонала в рамках программы повышения рентабельности бизнеса. Об этом 25 ноября сообщила газета <a href=\"",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "高端烈酒生产商人头马君度（Rémy Cointreau）将裁员最多15%"
-    },
-    {
-      "title": "Путин отметил темпы роста товарооборота между Россией и Казахстаном",
-      "link": "https://ria.ru/20261125/putin-2133989523.html",
-      "source": "RIA",
-      "pubDate": "Wed, 25 Nov 2026 22:28:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京指出俄哈贸易额增长速度"
-    },
-    {
-      "title": "Путин сообщил об увеличении товарооборота России и Казахстана до почти $30 млрд",
-      "link": "https://iz.ru/2208368/2026-11-25/putin-soobshchil-ob-uvelichenii-tovarooborota-rossii-i-kazakhstana-do-pochti-30-mlrd",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 22:14:17 +0300",
-      "summary": "<p>Товарооборот России и Казахстана растет, подбирается к $30 млрд. Об этом 25 ноября заявил президент РФ <a href=\"https://iz.ru/tag/vladimir-putin\" target=\"_blank\">Владимир Путин</a>.</p> <p>«Товарооборот у нас растет и",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "普京宣布俄罗斯与哈萨克斯坦的贸易额将增至近300亿美元"
-    },
-    {
-      "title": "Стало известно о сокращении экспорта норвежского газа в Европу",
-      "link": "https://lenta.ru/news/2026/11/25/stalo-izvestno-o-sokraschenii-eksporta-norvezhskogo-gaza-v-evropu/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 22:10:00 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "据悉，挪威对欧洲的天然气出口量有所减少。"
-    },
-    {
-      "title": "Аналитик предупредил о сокращении экспорта норвежского газа в Европу на 11%",
-      "link": "https://iz.ru/2208335/2026-11-25/analitik-predupredil-o-sokrashchenii-eksporta-norvezhskogo-gaza-v-evropu-na-11",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 21:13:45 +0300",
-      "summary": "<p>Объем поставок газа из Норвегии в Европу сократился на 11% на фоне приостановки работы пяти месторождений. Об этом 25 ноября сообщил швейцарский аналитик Джек Пранделли на своей странице в соцсети X (бывш. Twitter).</",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "分析师警告称，挪威对欧洲的天然气出口将减少11%"
-    },
-    {
-      "title": "В Польше заявили о несогласии НАТО с предложением уничтожать ракеты над Украиной",
-      "link": "https://iz.ru/2208257/2026-11-25/v-polshe-zaiavili-o-nesoglasii-nato-s-predlozheniem-unichtozhat-rakety-nad-ukrainoi",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 20:49:21 +0300",
-      "summary": "<p>Члены Североатлантического альянса (НАТО) категорически против того, чтобы сбивать ракеты над территорией <a href=\"https://iz.ru/tag/ukraina\" target=\"_blank\">Украины</a>. Об этом заявил 25 ноября заместитель министра ",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "波兰称北约不同意在乌克兰上空摧毁导弹的提议"
-    },
-    {
-      "title": "Новые правила приема олимпиадников в вузы не затронут участников ВсОШ",
-      "link": "https://iz.ru/2208316/2026-11-25/novye-pravila-priema-olimpiadnikov-v-vuzy-ne-zatronut-uchastnikov-vsosh",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 20:35:02 +0300",
-      "summary": "<p>Изменения в порядке поступления в высшие учебные заведения победителей и призеров школьных олимпиад не распространятся на Всероссийскую олимпиаду школьников (ВсОШ). Об этом 25 ноября сообщили в Минпросвещения России.<",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "奥林匹克竞赛获奖者进入高校的新招生规则不会影响全俄中学生奥林匹克竞赛的参赛者。"
-    },
-    {
-      "title": "Врач раскрыла правду о популярном народном методе сохранения здоровья глаз",
-      "link": "https://lenta.ru/news/2026/11/25/vrach-raskryla-pravdu-o-populyarnom-narodnom-metode-sohraneniya-zdorovya-glaz/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 20:31:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "医生揭示了关于一种流行民间护眼方法的真相"
-    },
-    {
-      "title": "МакSим объяснила популярность звезд нулевых",
-      "link": "https://lenta.ru/news/2026/11/25/maksim-ob-yasnila-populyarnost-zvezd-nulevyh/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 20:27:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "马克西姆解释了21世纪头十年明星的受欢迎程度"
-    },
-    {
-      "title": "В МИД РФ отметили высокие темпы роста товарооборота и инвестиций с ОАЭ",
-      "link": "https://iz.ru/2208310/2026-11-25/v-mid-rf-otmetili-vysokie-tempy-rosta-tovarooborota-i-investitcii-s-oae",
-      "source": "Izvestia",
-      "pubDate": "Wed, 25 Nov 2026 20:22:24 +0300",
-      "summary": "<p>Россия и Объединенные Арабские Эмираты (ОАЭ) наращивают экономическое сотрудничество, а товарооборот между странами продолжает расти высокими темпами. Об этом 25 ноября заявил заместитель министра иностранных дел РФ Г",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯联邦外交部指出，与阿联酋的贸易额和投资额增长迅猛。"
-    },
-    {
-      "title": "Популярной российской блогерше удалили крупную опухоль",
-      "link": "https://lenta.ru/news/2026/11/25/populyarnoy-rossiyskoy-blogershe-udalili-krupnuyu-opuhol/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 20:19:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一位俄罗斯知名博主切除了一个大肿瘤。"
-    },
-    {
-      "title": "Популярная привычка оказалась связана с мгновенным нарушением работы сосудов",
-      "link": "https://lenta.ru/news/2026/11/25/populyarnaya-privychka-okazalas-svyazana-s-mgnovennym-narusheniem-raboty-sosudov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 19:07:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一种常见习惯被发现与血管功能的即时受损有关"
-    },
-    {
-      "title": "В России выставили на продажу кроссовер Nissan с маленьким пробегом",
-      "link": "https://lenta.ru/news/2026/11/25/v-rossii-prodayut-krossover-nissan-x-trail-2020-goda-s-malenkim-probegom/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 18:42:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "一辆里程数较少的日产跨界车在俄罗斯上市销售"
-    },
-    {
-      "title": "В России продлили запрет на вылов популярной рыбы",
-      "link": "https://lenta.ru/news/2026/11/25/v-rossii-prodlili-zapret-na-vylov-populyarnoy-ryby/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 18:37:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "俄罗斯延长了对热门鱼类的禁捕令"
-    },
-    {
-      "title": "Опровергнут популярный миф о мышцах и жире",
-      "link": "https://lenta.ru/news/2026/11/25/oprovergnut-populyarnyy-mif-o-myshtsah-i-zhire/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 18:36:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "关于肌肉和脂肪的流行谬论被推翻"
-    },
-    {
-      "title": "BYD начала переговоры о покупке европейского завода",
-      "link": "https://lenta.ru/news/2026/11/25/byd-nachala-peregovory-o-pokupke-evropeyskogo-zavoda/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 18:10:36 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "比亚迪已开始就收购欧洲工厂事宜进行谈判"
-    },
-    {
-      "title": "Названы самые популярные города «Золотого кольца» на Новый год",
-      "link": "https://lenta.ru/news/2026/11/25/nazvany-samye-populyarnye-goroda-zolotogo-koltsa-na-novyy-god/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 17:56:31 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "“金环”最受欢迎的城市在新年之际被公布"
+      "titleZh": "普京：俄罗斯与哈萨克斯坦之间的贸易额接近300亿美元"
     },
     {
       "title": "Хуснуллин: в России перенесли сроки 75% новых строек по госзаказу",
@@ -232,7 +56,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "胡斯努林：俄罗斯75%的政府招标新建设项目工期被推迟"
+      "titleZh": "胡斯努林：在俄罗斯，75%的政府招标新建筑项目的工期被推迟"
     },
     {
       "title": "Петербургская биржа запустила первый в России бенчмарк товарного рынка",
@@ -243,18 +67,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "圣彼得堡交易所推出了俄罗斯首个商品市场基准"
-    },
-    {
-      "title": "Автолюбителей предупредили о набирающей популярность схеме мошенников",
-      "link": "https://lenta.ru/news/2026/11/25/avtolyubiteley-predupredili-o-nabirayuschey-populyarnost-sheme-moshennikov/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 17:30:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "车主被警告要警惕日益猖獗的诈骗伎俩"
+      "titleZh": "圣彼得堡交易所推出了俄罗斯首个大宗商品市场基准"
     },
     {
       "title": "Пассажиропоток российских авиакомпаний в октябре снизился на 10,5% год к году",
@@ -268,17 +81,6 @@
       "titleZh": "10月份，俄罗斯航空公司的客运量同比下降10.5%"
     },
     {
-      "title": "BMW в Китае открыла продажи удлиненного кроссовера",
-      "link": "https://lenta.ru/news/2026/11/25/bmw-v-kitae-otkryla-prodazhi-udlinennogo-krossovera/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 17:05:00 +0300",
-      "summary": "",
-      "tags": [
-        "需求↑"
-      ],
-      "titleZh": "宝马在中国推出加长版跨界车"
-    },
-    {
       "title": "Лут: экспорт зерна по итогам сезона должен превысить 40 млн тонн",
       "link": "https://www.vedomosti.ru/business/news/2026/11/25/1415297-eksport-zerna",
       "source": "Vedomosti",
@@ -288,17 +90,6 @@
         "供给↓"
       ],
       "titleZh": "卢特：本季度的粮食出口量应超过4000万吨"
-    },
-    {
-      "title": "Ушаков напомнил европейцам об одном предложении Путина",
-      "link": "https://lenta.ru/news/2026/11/25/ushakov-napomnil-evropeytsam-ob-odnom-predlozhenii-putina/",
-      "source": "Lenta",
-      "pubDate": "Wed, 25 Nov 2026 16:42:52 +0300",
-      "summary": "",
-      "tags": [
-        "供给↓"
-      ],
-      "titleZh": "乌沙科夫提醒欧洲人注意普京的一项提议"
     },
     {
       "title": "Новак: Минэнерго предложило продлить запрет на экспорт авиакеросина",
@@ -375,7 +166,7 @@
       "tags": [
         "OZON"
       ],
-      "titleZh": "“Ozon制药”的净利润在九个月内增长了52%"
+      "titleZh": "“Ozon制药”净利润在九个月内增长了52%"
     },
     {
       "title": "Собчак удалит интервью с Хилми и Синяком",
@@ -408,7 +199,7 @@
       "tags": [
         "需求↑"
       ],
-      "titleZh": "财政部将加强对弥补预算赤字的借款的监管"
+      "titleZh": "财政部将加强对弥补预算赤字贷款的监管"
     },
     {
       "title": "Импорт подержанных автомобилей в Россию за 10 месяцев снизился на 4%",
@@ -452,7 +243,7 @@
       "tags": [
         "供给↓"
       ],
-      "titleZh": "巴格达宣布在伊拉克库尔德斯坦的石油供应方面损失了3030亿美元。"
+      "titleZh": "巴格达宣布在从伊拉克库尔德斯坦供应石油方面损失了3030亿美元"
     },
     {
       "title": "Посольство РФ отвергло подготовку атак на оборонные заводы Великобритании",
